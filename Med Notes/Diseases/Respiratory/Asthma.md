@@ -11,6 +11,7 @@
 
 > [!Important]
 - Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after albuterol** ^89389e
+- If not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease]]
 
 ## Pathophysiology
 
@@ -67,12 +68,18 @@ Acute asthma attack:
 
 # Management
 ## Treatments
-### Acute treatment
-#### *Pharmacological treatment:*
-1. Beta-antagonists
-	1. Can be separated
-
-### Long term
+### *Pharmacological treatment:*
+1. [[Beta-antagonist]]
+	1. Short-acting [[Beta-antagonist]] (SABA): [[Albuterol]]
+	2. Long-acting [[Beta-antagonist]] (LABA): [[Salmeterol]], [[Formoterol]]
+		1. Used with inhaler over long period of time for daily use
+	3. Rarely have side effects, can cause tremor and palpitations
+2. Corticosteroids
+	1. Can be given inhaled, oral, or IV
+	2. Often cause thrush, which can be prevented by rinsing and spaces (less likely to get to mucosoul membrane)
+3. Eicosanoids
+	1. [[Montelukast]]: Blocks leukotrienes effect. Useful in aspirin-sensitive asthma
+	2. [[Zileuton]]: Blocks lipoxygenase from converting arachidonic acid to leukotrienes
 
 ---
 
