@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md"
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md"
               }
             }
           },
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,21 +167,31 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "7a455459f51344e6",
+  "active": "90d00a448ffcc15d",
   "lastOpenFiles": [
-    "Templates/Disease.md",
-    "Med Notes/Diseases/Respiratory/Asthma.md",
-    "Templates/Tutorials.md",
-    "Med Notes/Diseases/Cardio/Heart Failure.md",
-    "Med Notes/Pharmacology/Albuterol.md",
-    "Med Notes/Pharmacology/Allopurinal.md",
-    "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
-    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
-    "- Todo -/Cardivascular.md",
-    "Med Notes/Diseases/Respiratory/Chronic pulmonary disease.md",
+    "Pasted image 20230507161803.png",
+    "Pasted image 20230507161541.png",
+    "Pasted image 20230507161219.png",
+    "Chronic Pulmonary Disease (COPD).md",
+    "Chronic Pulmonary Disease (COPD)^.md",
     "Pasted image 20230507125701.png",
-    "Med Notes/Diseases/Cardio/test.md",
+    "Templates/Tutorials.md",
+    "Templates/Disease.md",
+    "Med Notes/Pharmacology/Allopurinal.md",
+    "Med Notes/Pharmacology/Albuterol.md",
+    "Med Notes/Diseases/Pseudogout.md",
+    "Med Notes/Diseases/Gout.md",
+    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
+    "COPD is defined by FEV1/FVC ratio <0.70.md",
+    "COPD is defined by FEV1",
+    "Med Notes/Diseases/Cardio/Heart Failure.md",
+    "Med Notes/Diseases/Respiratory/Asthma.md",
+    "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
+    "Unsorted/2023-04-20.md",
     "Med Notes/Diseases/Cardio",
+    "UQ/Short Cases/Patient 2.md",
+    "UQ/Short Cases/Patient 1.md",
+    "- Todo -/Cardivascular.md",
     "Med Notes/Diseases/Angina.md",
     "- Todo -/Respiratory.md",
     "Med Notes/Diseases/Cardiac/Ischemia.md",
@@ -191,15 +201,8 @@
     "Med Notes/Diseases/Respiratory/test2.md",
     "Med Notes/Diseases/Respiratory/disease 2.md",
     "Med Notes/Diseases/Respiratory/Disease.md",
-    "Med Notes/Diseases/Respiratory/Test.md",
-    "Med Notes/Diseases/Respiratory/TEst.md",
-    "- Todo -/Renal & Hypertension.md",
-    "UQ/Tutorials/Clincial Reasoning - Diabetes-Ahkam’s MacBook Air.md",
+    "Med Notes/Diseases/Respiratory/Untitled.md",
     "Med Notes/Diseases/Respiratory",
-    "- Todo -/Rheumatology.md",
-    "- Todo -/Infectious Disease.md",
-    "- Todo -/Haematology & Oncology.md",
-    "- Todo -/Geriatric medicine.md",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
     "Meta/Attachments",
@@ -207,7 +210,6 @@
     "Pasted image 20230504155224.png",
     "Templates",
     "Med Notes/Diseases",
-    "Med Notes/Pharmacology",
     "Pasted image 20230504135936.png",
     "Unsorted/Untitled 1.canvas",
     "Unsorted/Untitled.canvas"
