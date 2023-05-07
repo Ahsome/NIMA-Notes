@@ -46,7 +46,7 @@ Acute asthma attack:
 
 | Additional Findings         | Result    | Explanation |
 | ---------------- | --------- | ----------- |
-| Pulsus paradoxes | Fall >= 10mmHg with inspiration | Due to broncho-constriction of vessels <br>Also called decreased I/E ratio<br>Inspiration time less than expiration            |
+| Pulsus paradoxes | Fall >= 10mmHg with inspiration | Most non-cardiac cause of pulsus paradoxus |
 
 ## Investigations
 | Key Tests                 | Result                                                                             |
@@ -68,6 +68,9 @@ Acute asthma attack:
 # Management
 ## Treatments
 ### Acute treatment
+#### *Pharmacological treatment:*
+1. Beta-antagonists
+	1. Can be separated
 
 ### Long term
 
