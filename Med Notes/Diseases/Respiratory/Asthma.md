@@ -34,18 +34,16 @@ Can trigger [[Asthma]] in patients with [[Aspirin Exarcerbated Respiratory Disea
 Acute asthma attack:
 1. Have ***episodic*** symptoms
 2. Dysnea
-3. ***Wheezing***
+3. ***High-pitched wheezing***
 4. Cough
 5. Chest tightness
 6. Decrease in peak flow from baseline
 
-### *Risk factors*
-1. Young age: It is possible with adults, but common in young age
-2. **Allergens** - A Type I hypersensitivity reaction
-3. Stress
-4. Exercise
-5. **Aspirin** - See [[Asthma#*Aspirin-sensitive asthma*:]]
-6. Family history of allergic reactions
+### *Risk factors*:
+Risk factors depends on whether its allergic asthma or non-allergic asthma:
+| Allergic asthma | Non-allergic asthma |
+| --------------- | ------------------- |
+| - **Allergy**<br>- Environmental allergens, such as pollen/domestic animals<br>- Allergy due to workplace (e.g. flour dust) <br>- Family history of allergens               |     - Viral causes<br>- Physical exertion<br>- Aspirin, See [[Asthma#*Aspirin-sensitive asthma*:]] <br>GORD, often concurrent with asthma               |
 
 ### *Questions to ask*
 >*"Do you notice any shortness of breath?"*
