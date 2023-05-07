@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "academic-pdf-export"
+  ]
 }
