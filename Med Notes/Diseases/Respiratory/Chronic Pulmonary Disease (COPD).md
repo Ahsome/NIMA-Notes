@@ -81,15 +81,15 @@ Acute management of acute decompensated COPD
 	- Roxithromycin and ceftriaxone can also be trialled if these aren’t working.
 
 ### *Long term*
-Non-pharmacological:
-- Smoking cessation. CONSIDER USE OF NICOTINE REPLACEMENT
+#### Non-pharmacological:
+- Smoking cessation. **CONSIDER USE OF NICOTINE REPLACEMENT**
 - Incentive spirometry
 - Pulmonary rehabilitation – improves QoL
 - Exercise
 - Avoidance of inhaled particulates
 - Vaccination against respiratory infections (influenza, pneumococcus)
 
-Pharmacological treatment:
+#### Pharmacological treatment:
 ![[Pasted image 20230507161541.png]]
 - Short acting bronchodilators (SABA and SAMA) – important for symptomatic relief and improving function and QOL. They are used as rescue medications. Salbutamol and ipratropium have similar efficacy. If neither have sufficient effect on the patient, then a combination of salbutamol and ipratropium can be used.
 	- Salbutamol (SABA) 
@@ -113,7 +113,8 @@ Pharmacological treatment:
 	- Symptomatic relief – especially in lung cancer patients o Improves mortality – only if used for >18 hours a day
 	- Prevention of cor pulmonale and polycythaemia
 
-#GOLD GOLD Crtieria for COPD
+## Criteria
+#GOLD GOLD Crtieria for COPD:
 ![[Pasted image 20230507161803.png]]
 
 
