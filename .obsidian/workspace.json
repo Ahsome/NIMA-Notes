@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Templates/Disease.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Templates/Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Templates/Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md"
+                "file": "Templates/Disease.md"
               }
             }
           },
@@ -169,27 +169,23 @@
   },
   "active": "7a455459f51344e6",
   "lastOpenFiles": [
-    "Unsorted/2023-04-20.md",
     "Med Notes/Diseases/Cardio/Heart Failure.md",
+    "Templates/Disease.md",
+    "Templates/Tutorials.md",
     "Med Notes/Diseases/Cardio",
-    "UQ/Short Cases/Patient 2.md",
-    "UQ/Short Cases/Patient 1.md",
-    "Med Notes/Diseases/Gout.md",
-    "- Todo -/Cardivascular.md",
     "Med Notes/Diseases/Respiratory/Asthma.md",
     "Med Notes/Diseases/Angina.md",
     "- Todo -/Respiratory.md",
+    "- Todo -/Cardivascular.md",
     "Med Notes/Diseases/Cardiac/Ischemia.md",
     "Med Notes/Diseases/Cardiac",
     "Med Notes/Diseases/Respiratory/Untitled 1.md",
     "Med Notes/Diseases/Cardiac",
     "Med Notes/Diseases/Respiratory/test2.md",
-    "Templates/Disease.md",
     "Med Notes/Diseases/Respiratory/disease 2.md",
     "Med Notes/Diseases/Respiratory/Disease.md",
     "Med Notes/Diseases/Respiratory/Untitled.md",
     "Med Notes/Diseases/Respiratory/Test.md",
-    "Templates/Tutorials.md",
     "Med Notes/Diseases/Respiratory/TEst.md",
     "- Todo -/Renal & Hypertension.md",
     "UQ/Tutorials/Clincial Reasoning - Diabetes-Ahkam’s MacBook Air.md",
@@ -199,6 +195,10 @@
     "- Todo -/Haematology & Oncology.md",
     "- Todo -/Geriatric medicine.md",
     "- Todo -/Neurology.md",
+    "- Todo -/Endocrinology.md",
+    "- Todo -/Gastroenterology.md",
+    "- Todo -/History and Examinations.md",
+    "UQ/Tutorials/Clincial Reasoning - Diabetes.md",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
     "Meta/Attachments",
