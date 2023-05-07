@@ -30,7 +30,6 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 
 # History
 ## Signs
-### *Symptoms*
 - Dyspnoea – exertional dyspnoea is very likely. It is important to ascertain their exercise tolerance, how long they can walk before feeling SOB. o SOBOE
 	- Can be differentiated from CCF, since no orthopnoea or PND.  
 	- Tripod posture, accessory respiratory muscle usage, cyanosis can all be physical signs of dyspnoea.
