@@ -22,7 +22,7 @@
 | ----------------- | --------------------------- |
 | WBC               | - <50, 000 WCC<br><=75% polymorphs              |
 |                   |          |
-| Joint aspirations | Bifringe crystals, negative. Also called monosidum urate crystals<br>If positive, see [[Med Notes/Diseases/Pseudogout]]                            |
+| Joint aspirations | Bifringe crystals, negative. Also called monosidum urate crystals<br>If positive, see [[Pseudogout]]                            |
 
 # Management
 ## Treatments

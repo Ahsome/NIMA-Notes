@@ -11,12 +11,13 @@
 
 > [!Important]
 - Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after albuterol** ^89389e
-- If not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease (COPD)]]
+- If bronchial obstruction not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease (COPD)]] ^467c50
 - Try to do a CXR to rule out if pneumonia/infection
 - If PaCO2 is increased during acute asthma attack, patient is having a respiratory attack
 - Empiric antibiotics are **not recommended** during an acute attack. Unlike [[Chronic Pulmonary Disease (COPD)]], where you always give empiric antibiotics, regardless of CXR ^b567d6
 - Corticosteroids will cause increased immature WBC (left-shift) for acute exacerbation, *do not assume* increased WBC means infection ^78a83e
 - For patients with Aspirin-sensitive asthma, treatment is Leukotriene receptor antagonist such as [[Montelukast]], see [[Asthma#^39e8fe]] ^0b1e3f
+- The following are ***NOT USEFUL*** in an acute asthma attack: LABAs, Leukotriene pathway modifiers, theophylline, mast-cell stabilizers, biological agents ^ebffb9
 
 ## Pathophysiology
 ### *Aspirin-sensitive asthma*:
@@ -54,9 +55,10 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 >*"Do you take aspirin?"*  - See [[Asthma#*Aspirin-sensitive asthma*:]]
 
 ## Examination findings
-| Key Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Expiratory phase | Increased | Due to broncho-constriction of vessels <br>Also called decreased I/E ratio<br>Inspiration time less than expiration            |
+| Key Findings     | Result    | Explanation                                                                                                         |
+| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
+| Expiratory phase | Increased | Due to broncho-constriction of vessels <br>Also called decreased I/E ratio<br>Inspiration time less than expiration |
+| Lung percussion  | Hyper-ressonance          |                                                                                                                     |
 
 | Additional Findings         | Result    | Explanation |
 | ---------------- | --------- | ----------- |
@@ -65,27 +67,31 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 ## Investigations
 | Key Tests                 | Result                                                                                                                                                          |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Peak flow meter           | Reduced peak flow                                                                                                                                               |
-| Spirometry                | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]]                                                                              |
-| CXR                       | Rule out pneumonia/infection for acute exarcebation                                                                                                                                                                |
+| [[Peak Flow Meter]]           | Reduced peak flow expiratory rate                                                                                                                                               |
+| [[Spirometry]]                | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]]                                                                              |
+| [[CXR]]                       | Rule out pneumonia/infection for acute exarcebation                                                                                                                                                                |
 | [[Methacoline challenge]] | Causes bronchoconstriction<br><=20mcg dose needed for FEV1 reduction by 20%<br>People without asthma can handle high methacoline levels, asthma patients cannot |
+
+> [!Important]
+![[Asthma#^89389e]]
+
+>[!Important]
+![[Asthma#^467c50]]
 
 | Additional Tests | Result                |
 | ---------------- | --------------------- |
 | FBC              | Increased eosinophils |
-| IgE levels       | Increased                      |
-
-> [!Important]
-![[Asthma#^89389e]]
+| IgE levels       | Increased             |
+| Skin allergy test (Skin prick)                 |                       |
 
 ---
 
 # Management
 ## Treatments
 ### *Possible drugs:*
-1. [[Beta-antagonist]]
-	1. Short-acting [[Beta-antagonist]] (SABA): [[Albuterol]]
-	2. Long-acting [[Beta-antagonist]] (LABA): [[Salmeterol]], [[Formoterol]]
+1. [[Beta-agonist]]
+	1. Short-acting [[Beta-agonist]] (SABA): [[Albuterol]]
+	2. Long-acting [[Beta-agonist]] (LABA): [[Salmeterol]], [[Formoterol]]
 		1. Used with inhaler over long period of time for daily use
 	3. Rarely have side effects, can cause tremor and palpitations
 2. [[Corticosteroids]]
@@ -97,6 +103,10 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 4. [[Omalizumab]]: 
 	1. IgG monoclonal antibody that inhibits IgE binding to IgE receptor on mast cells and basophills, prevents degranulation
 	2. Given by subcutaneous injection
+	3. Useful in severe cases of asthma
+5. [[IL-5 antibodies]]:
+	1. Include [[mepolizumab]], [[resliziumab]], [[benralizumab]]
+	2. Used for refractory severe eosinophilic asthma
 6. [[Cromolyn]]:
 	1. Inhibits mast cell degranulation, blocks release of histamine and leukotrienes
 7. [[Theyophylline]]:
@@ -104,6 +114,9 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 	2. Acts as a bronchodilator
 
 ![[Pasted image 20230507142209.png]]
+
+>[!Danger]
+>![[Asthma#^ebffb9]]
 
 ### *Acute Asthma*
 #### *Management*:
@@ -118,6 +131,9 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 5. ABG for normal or increased PaCO2. If so, intubate
 	1. PaCO2 should be low in asthma patients since hyperventilation. If increased, onto respiratory muscle weakness. Very abnomal
 
+>[!Danger]
+>![[Asthma#^ebffb9]]
+
 >[!Important]
 ![[Asthma#^b567d6]]
 
@@ -125,8 +141,15 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 ![[Asthma#^78a83e]]
 
 ### *Long-term Asthma*
+Long term management centers around combination of education, follow-up, and preventative treatment as well as avoiding triggers
+
 1. Calculate the **Asthma Severity**: ![[Asthma#^6df757]]
 2. Check the relevant chronic therapy result:![[Pasted image 20230507144241.png]]
+3. Follow up in 2-6 weeks. If there is a good response in >3 consecutive months, consider **stepping down**
+4. If inadequare response, check for:
+	1. Treatment adherence and technique
+	2. Manage cormobidities
+	3. Consider advancing to next step
 
 ## Criteria
 ### *Asthma Severity*
@@ -147,5 +170,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 ---
 
 # Extra
+## Relevant notes:
+1. [[Comparison between Spiromotry and PFM]]
 ## References:
 1. *Boads and Beyond - STEP 2:* Pulmonary > Respiratory Diseases > Asthma

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md"
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md"
               }
             }
           },
@@ -168,7 +168,17 @@
   },
   "active": "e10f777a68d6f629",
   "lastOpenFiles": [
+    "Med Notes/Pharmacology/Beta-agonist.md",
     "Med Notes/Diseases/Respiratory/Asthma.md",
+    "Med Notes/Investigations/CXR.md",
+    "Med Notes/Investigations/Peak Flow Meter.md",
+    "Med Notes/Investigations/Spirometry.md",
+    "Med Notes/Diseases/Unorganised/Gout.md",
+    "Med Notes/Investigations/Comparisons/Comparison between Spiromotry and PFM.md",
+    "Med Notes/Diseases/Unorganised",
+    "Med Notes/Investigations/Comparisons",
+    "Med Notes/Investigations",
+    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
     "Med Notes/Approaches/Approach to a patient cough.md",
     "Pasted image 20230507150341.png",
     "Asthma.pdf",
@@ -177,10 +187,8 @@
     "Pasted image 20230507144241.png",
     "Pasted image 20230507144239.png",
     "Magnesium sulfate.md",
-    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
     "Pasted image 20230507142209.png",
     "Montelukast.md",
-    "Med Notes/Pharmacology/Beta-antagonist.md",
     "Short-acting beta-antagonist.md",
     "Med Notes/Diseases/Cardio/Heart Failure.md",
     "Templates/Disease.md",
@@ -199,17 +207,10 @@
     "Med Notes/Diseases/Respiratory/Untitled 1.md",
     "Med Notes/Diseases/Cardiac",
     "Med Notes/Diseases/Respiratory/test2.md",
-    "Med Notes/Diseases/Respiratory/disease 2.md",
-    "Med Notes/Diseases/Respiratory/Disease.md",
-    "Med Notes/Diseases/Respiratory/Test.md",
-    "Med Notes/Diseases/Respiratory/TEst.md",
     "Med Notes/Diseases/Respiratory",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
-    "Meta/Attachments",
-    "Meta",
     "Pasted image 20230504155224.png",
-    "Templates",
     "Pasted image 20230504135936.png",
     "Unsorted/Untitled 1.canvas",
     "Unsorted/Untitled.canvas"
