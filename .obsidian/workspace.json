@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md"
+                "file": "Med Notes/Diseases/Respiratory/Asthma.md"
               }
             }
           },
@@ -146,12 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,16 +169,18 @@
   },
   "active": "7a455459f51344e6",
   "lastOpenFiles": [
+    "Templates/Disease.md",
     "Med Notes/Diseases/Respiratory/Asthma.md",
+    "Templates/Tutorials.md",
     "Med Notes/Diseases/Cardio/Heart Failure.md",
+    "Med Notes/Pharmacology/Albuterol.md",
+    "Med Notes/Pharmacology/Allopurinal.md",
     "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
     "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
     "- Todo -/Cardivascular.md",
     "Med Notes/Diseases/Respiratory/Chronic pulmonary disease.md",
     "Pasted image 20230507125701.png",
     "Med Notes/Diseases/Cardio/test.md",
-    "Templates/Disease.md",
-    "Templates/Tutorials.md",
     "Med Notes/Diseases/Cardio",
     "Med Notes/Diseases/Angina.md",
     "- Todo -/Respiratory.md",
@@ -198,8 +200,6 @@
     "- Todo -/Infectious Disease.md",
     "- Todo -/Haematology & Oncology.md",
     "- Todo -/Geriatric medicine.md",
-    "- Todo -/Neurology.md",
-    "- Todo -/Endocrinology.md",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
     "Meta/Attachments",

@@ -22,11 +22,21 @@ title = await tp.system.prompt("Title");
 ## Signs
 ### *Symptoms*
 
+### *Risk factors* 
+
 ### *Questions to ask*
 
-## Risk factors 
-
 ## Examination findings
+| Key Findings | Result   | Explanation |
+| ------------ | -------- | ----------- |
+| Test 1       | Result 1 | Exp. 1      | 
+
+
+| Additional Findings | Result   | Explanation |
+| ------------------- | -------- | ----------- |
+| Test 1              | Result 1 | Exp. 1            |
+
+
 
 ## Investigations
 | Key Tests | Result |

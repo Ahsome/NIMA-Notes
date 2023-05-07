@@ -7,7 +7,7 @@
 
 # Information
  
-Chronic Pulmonary Disease is a...
+*Chronic Pulmonary Disease* is a...
 
 ## Pathophysiology
 

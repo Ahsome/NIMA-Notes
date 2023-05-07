@@ -6,42 +6,54 @@
 ---
 
 # Information
-*Asthma* is obstructive lung disease characterised by **reversible broncoconstriction**, usually triggered by a **Type I allergic stimulus**. It is most common in **children**, and is associated with other **atopic** conditions (e.g. *Rhinitis*, *Eczema*)
+*Asthma* is obstructive lung disease characterised by ***episodic*** **reversible broncoconstriction**, usually triggered by a **Type I allergic stimulus**. This differentiaties it from [[Chronic Pulmonary Disease]], which symptoms are normally not reversible. It is most common in **children**, and is associated with other **atopic** conditions (e.g. *Rhinitis*, *Eczema*)
 
-## Pathophysiology
 
 > [!Important]
-- Key diagnosis involves FEV1 improvment of 12% **after albuterol**
+- Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after albuterol** ^89389e
 
-^f964d9
+## Pathophysiology
 
 --- 
 # History
 ## Signs
 ### *Symptoms*
 Acute asthma attack:
-1. Dysnea
-2. **Wheezing**
-3. Cough
-4. Chest tightness
-5. Decrease in peak flow from baseline
+1. Have ***episodic*** symptoms
+2. Dysnea
+3. ***Wheezing***
+4. Cough
+5. Chest tightness
+6. Decrease in peak flow from baseline
+
+### *Risk factors*
+1. Young age: It is possible with adults, but common in young age
+2. Allergens - A Type I hypersensitivity reaction
+3. Stress
+4. Exercise
+5. Aspirin
+6. Family history of allergic reactions
 
 ### *Questions to ask*
 >*"Do you notice any shortness of breath?"*
 >*"Do you notice any wheezing? Any cough?"*
-
-## Risk factors
-1. Allergens
-2. Stress
-3. Exercise
-4. Aspirin
+>*"Any history of allergies? Family history of allergies?"*
 
 ## Examination findings
+| Key Findings         | Result    | Explanation |
+| ---------------- | --------- | ----------- |
+| Expiratory phase | Increased | Due to broncho-constriction of vessels <br>Also called decreased I/E ratio<br>Inspiration time less than expiration            |
+
+| Additional Findings         | Result    | Explanation |
+| ---------------- | --------- | ----------- |
+| Pulsus paradoxes | Fall >= 10mmHg with inspiration | Due to broncho-constriction of vessels <br>Also called decreased I/E ratio<br>Inspiration time less than expiration            |
+
 ## Investigations
-| Key Tests                  | Result                                                                         |
-| --------------------- | ------------------------------------------------------------------------------ |
-| Spirometry            | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after albuterol |
-| [[Methacoline challenge]] | <=20mcg dose needed for FEV1 reduction by 20%                                                                              |
+| Key Tests                 | Result                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------- |
+| Peak flow meter           | Reduced peak flow                                                                                   |
+| Spirometry                | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]] |
+| [[Methacoline challenge]] | Causes bronchoconstriction<br><=20mcg dose needed for FEV1 reduction by 20%<br>People without asthma can handle high methacoline levels, asthma patients cannot                                      |
 
 | Additional Tests | Result                |
 | ---------------- | --------------------- |
@@ -49,7 +61,7 @@ Acute asthma attack:
 | IgE levels       | Increased                      |
 
 > [!Important]
-![[Asthma#^f964d9]]
+![[Asthma#^89389e]]
 
 ---
 
@@ -62,6 +74,7 @@ Acute asthma attack:
 ---
 
 # Complications
+1. Status asthmaticus: Persisent asthma symptoms that cannot be managed, and can lead to **death**
 
 ---
 

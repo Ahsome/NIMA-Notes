@@ -6,8 +6,7 @@
 ---
 
 # Information
- 
-Decompensated heart failure (chronic) can be divided into two types:
+*Decompensated heart failure* (chronic) can be divided into two types:
 
 **1. *Heart failure preserved ejection fraction (HFpEF)* –** LV EF > 50%
 - Diastolic dysfunction 
