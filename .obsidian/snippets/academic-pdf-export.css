@@ -23,7 +23,7 @@ Auth: Nicklas Vraa
         --code-normal: black !important;
     }
     p {
-        font-family: "Latin Modern Roman" !important;
+        font-family: "Latin Modern Roman", "lmroman10-regular" !important;
         font-size: 10pt !important;
         text-align: justify !important;
         line-height: 1.2 !important;

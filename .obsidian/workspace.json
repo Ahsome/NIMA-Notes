@@ -11,12 +11,8 @@
             "id": "7a455459f51344e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,6 +161,27 @@
   },
   "active": "90d00a448ffcc15d",
   "lastOpenFiles": [
+    "Short-acting beta-antagonist.md",
+    "Pasted image 20230507150341.png",
+    "Pasted image 20230507144241.png",
+    "Pasted image 20230507144239.png",
+    "Pasted image 20230507142209.png",
+    "Montelukast.md",
+    "Med Notes/Pharmacology/Beta-agonist.md",
+    "Med Notes/Investigations/Comparisons/Comparison between Spiromotry and PFM.md",
+    "Med Notes/Investigations/Spirometry.md",
+    "Med Notes/Investigations/Peak Flow Meter.md",
+    "Med Notes/Investigations/Comparisons",
+    "Med Notes/Investigations/CXR.md",
+    "Med Notes/Investigations",
+    "Med Notes/Diseases/Unorganised/Pseudogout.md",
+    "Med Notes/Diseases/Unorganised/Gout.md",
+    "Med Notes/Diseases/Unorganised",
+    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+    "Med Notes/Approaches/Approach to a patient cough.md",
+    "Med Notes/Approaches",
+    "Magnesium sulfate.md",
+    "Asthma.pdf",
     "Pasted image 20230507161803.png",
     "Pasted image 20230507161541.png",
     "Pasted image 20230507161219.png",
@@ -189,28 +202,11 @@
     "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
     "Unsorted/2023-04-20.md",
     "Med Notes/Diseases/Cardio",
-    "UQ/Short Cases/Patient 2.md",
-    "UQ/Short Cases/Patient 1.md",
-    "- Todo -/Cardivascular.md",
-    "Med Notes/Diseases/Angina.md",
-    "- Todo -/Respiratory.md",
-    "Med Notes/Diseases/Cardiac/Ischemia.md",
     "Med Notes/Diseases/Cardiac",
-    "Med Notes/Diseases/Respiratory/Untitled 1.md",
     "Med Notes/Diseases/Cardiac",
-    "Med Notes/Diseases/Respiratory/test2.md",
-    "Med Notes/Diseases/Respiratory/disease 2.md",
-    "Med Notes/Diseases/Respiratory/Disease.md",
-    "Med Notes/Diseases/Respiratory/Untitled.md",
     "Med Notes/Diseases/Respiratory",
-    "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
-    "Meta/Attachments",
-    "Meta",
     "Pasted image 20230504155224.png",
-    "Templates",
-    "Med Notes/Diseases",
-    "Pasted image 20230504135936.png",
     "Unsorted/Untitled 1.canvas",
     "Unsorted/Untitled.canvas"
   ]
