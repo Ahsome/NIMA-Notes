@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md",
+                "file": "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Cardio/Heart Failure.md"
+                "file": "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "7a455459f51344e6",
   "lastOpenFiles": [
-    "Unsorted/2023-04-20.md",
     "Med Notes/Diseases/Cardio/Heart Failure.md",
+    "Med Notes/Diseases/Cardio/Atrial Fibrillation (AF).md",
+    "Pasted image 20230507125701.png",
+    "Unsorted/2023-04-20.md",
     "Med Notes/Diseases/Cardio",
     "UQ/Short Cases/Patient 2.md",
     "UQ/Short Cases/Patient 1.md",
@@ -198,7 +200,6 @@
     "- Todo -/Infectious Disease.md",
     "- Todo -/Haematology & Oncology.md",
     "- Todo -/Geriatric medicine.md",
-    "- Todo -/Neurology.md",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",
     "Meta/Attachments",
