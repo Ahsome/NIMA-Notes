@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c6df6f751abab8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da60338dcf16e991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronic-Pulmonary-Disease-COPD.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md"
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md"
               }
             }
           },
@@ -168,8 +186,10 @@
   },
   "active": "e10f777a68d6f629",
   "lastOpenFiles": [
-    "Med Notes/Pharmacology/Beta-agonist.md",
+    "Chronic-Pulmonary-Disease-COPD.md",
+    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
     "Med Notes/Diseases/Respiratory/Asthma.md",
+    "Med Notes/Pharmacology/Beta-agonist.md",
     "Med Notes/Investigations/CXR.md",
     "Med Notes/Investigations/Peak Flow Meter.md",
     "Med Notes/Investigations/Spirometry.md",
@@ -178,7 +198,6 @@
     "Med Notes/Diseases/Unorganised",
     "Med Notes/Investigations/Comparisons",
     "Med Notes/Investigations",
-    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
     "Med Notes/Approaches/Approach to a patient cough.md",
     "Pasted image 20230507150341.png",
     "Asthma.pdf",
@@ -206,7 +225,6 @@
     "Med Notes/Diseases/Cardiac",
     "Med Notes/Diseases/Respiratory/Untitled 1.md",
     "Med Notes/Diseases/Cardiac",
-    "Med Notes/Diseases/Respiratory/test2.md",
     "Med Notes/Diseases/Respiratory",
     "- Todo -",
     "Meta/Attachments/Pasted image 20230504200227.png",

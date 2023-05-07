@@ -10,8 +10,7 @@
 *Chronic Pulmonary Disease* is an obstructive conditions where emphysema and chronic bronchitis (productive cough for more than 3 months for 2 consecutive years) are the most common conditions.
 
 ## Pathophysiology
->[!Important]
->![[Chronic Pulmonary Disease (COPD)#^f2cca6]]
+>Acute respiratory failure (type 2) with acidosis, hypercapnia and hypoxaemia can be a worst case scenario presentation.
 
 Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 - Most commonly, a LRTI is the aetiology of the precipitation. This is commonly bacterial causes of pneumonia
@@ -22,11 +21,15 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 	- Pseudamonas aeruginosa
 - Pollution, PE, SMOKING continuation, constitute the other 30% of all exacerbations.
 
-
 > [!Important]
-- Acute respiratory failure (type 2) with acidosis, hypercapnia and hypoxaemia can be a worst case scenario presentation. ^f2cca6
-- COPD is defined by FEV1/FVC ratio <0.70 ^fc0233
+<<<<<<< HEAD:Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease.md
+- Acute respiratory failure (type 2) with acidosis, hypercapnia and hypoxaemia can be a worst case scenario presentation.
+- COPD is defined by FEV1/FVC ratio <0.70
 - Oxygen dependence, administration of CPAP/BiPAP, cachexia, functional decompensation, comorbidities (esp heart failure) and respiratory failure (type 2) are all indicators for poor prognosis in COPD.
+=======
+- FEV1/FEVC ratio needs to be <70% for diagnosis ^dbd02d
+- 
+>>>>>>> c9346fc477a30eb57c1706115b84b46549995946:Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md
 
 # History
 ## Signs
@@ -38,6 +41,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 - Recurrent URTI
 -   Wheeze – polyphonic wheeze on auscultation. Sounds like wind.
 
+![[Pasted image 20230507161219.png]]
 ## Risk factors 
 - a1-antitrypsin deficiency – an important aetiology of COPD.
 - Extensive smoking history 
@@ -59,8 +63,9 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 	- Decreased pO2 with or without hypercapnia
 - D dimer and CTPA – if there is reasonable suspicion of a DVT and PE.
 - BNP, TTE etc – if there is reasonable suspicion that heart failure is the cause of worsening dyspnoea
+
 >[!Important]
->![[Chronic Pulmonary Disease (COPD)#^fc0233]]
+>![[Chronic Pulmonary Disease (COPD)#^dbd02d]]
 
 ---
 
@@ -116,8 +121,6 @@ Pharmacological treatment:
 
 #GOLD GOLD Crtieria for COPD
 ![[Pasted image 20230507161803.png]]
-
-
 ---
 
 # Complications
