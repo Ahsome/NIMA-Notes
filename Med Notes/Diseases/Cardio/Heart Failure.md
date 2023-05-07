@@ -23,7 +23,7 @@ Most heart failure has an aeitiology behind the acute presentation, and needs to
 
 ## Pathophysiology
 Aeitiology 
--   Arrhythmia - AF!
+-   Arrhythmia - [[Atrial Fibrillation (AF)]]!
 -   Fluid overload - non-compliance with diuretics, drinking too much,etc.
 -   Infection - fevers? malaise? cough? pneumonia?
 -   **Ischaemic heart disease (post MI) –** 40%
@@ -68,6 +68,8 @@ More questions
 
 ![[Pasted image 20230507125701.png]]
 
+---
+
 ## Examination findings
 
 ## Investigations
@@ -106,13 +108,13 @@ More questions
 
 
 ### *Management of heart failure*
-Non-pharmacologic management
+#### Non-pharmacologic management
 -   Low salt diet – to prevent fluid retention
 -   Fluid restriction – 1.5L for congestion
 -   Daily weight measurements – if there is a large increase in weight, such as 2kg over a few days, this indicates that there is a significant retention.
 -   Smoking cessation
 
-Pharmacological treatment
+#### Pharmacological treatment
 -   ACEi (pril) – vital initial treatment for all HFrEF patients. Start low dose, then up- titrate. THEN, add on b blocker.  
 	- ARB (sartan) – used if ACEi are not tolerated.  
 	- SE – cough, hypotension, hyperkalaemia  
@@ -129,7 +131,7 @@ Pharmacological treatment
 -   Digoxin (last line) – positive inotrope and is the last line therapy in end stage heart failure patients. Improves cardiac output.  
 	- Renal excretion – careful dosing in CKD.
 
-Devices
+#### Devices
 • ICD or pacemaker – the major cause of sudden death in CCF patients is that of a spontaneous ventricular arrhythmia. Hence ICD will shock them out of this rhythm. This improves prognosis.
 
 

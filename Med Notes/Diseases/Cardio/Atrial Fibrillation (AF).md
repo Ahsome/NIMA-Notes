@@ -17,7 +17,7 @@ CLINICAL PRESENTATION
 -   Acute presentation – palpitations, tachycardia, SOB
 	- Pre-syncope, reduced exercise tolerance  
 	- ?chest pain  
-	- Exacerbation of heart failure Sx (AF as precipitating factor)
+	- Exacerbation of [[heart failure]] Sx (AF as precipitating factor)
 -   Ischaemic stroke – upon investigation for an ischaemic stroke (thromboembolic), AF may often be the underlying aetiology.
 
 
@@ -55,4 +55,4 @@ Valvular AF – AF with a mitral valve lesion, especially stenosis. These MUST b
 
 # Extra
 ## References:
-1. Uptodate
+1. UpToDate
