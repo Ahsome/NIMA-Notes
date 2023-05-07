@@ -43,7 +43,7 @@ Acute asthma attack:
 Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | Allergic asthma | Non-allergic asthma |
 | --------------- | ------------------- |
-| - **Allergy**<br>- Environmental allergens, such as pollen/domestic animals<br>- Allergy due to workplace (e.g. flour dust) <br>- Family history of allergens               |     - Viral causes<br>- Physical exertion<br>- Aspirin, See [[Asthma#*Aspirin-sensitive asthma*:]] <br>GORD, often concurrent with asthma               |
+| - **Allergy**<br>- Environmental allergens, such as pollen/domestic animals<br>- Allergy due to workplace (e.g. flour dust) <br>- Family history of allergens               |     - Viral causes<br>- Physical exertion<br>- Aspirin, See [[Asthma#*Aspirin-sensitive asthma*:]] <br>- [[GORD]], often concurrent with asthma               |
 
 ### *Questions to ask*
 >*"Do you notice any shortness of breath?"*
@@ -51,7 +51,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 >*"Any history of allergies? Family history of allergies?"*
 >*"Is this consistent, or does it come in attacks/episodes?"*
 >*"Does it come when you're stressed, such as exercise?"*
->*"Do you take aspirin?"
+>*"Do you take aspirin?"*  - See [[Asthma#*Aspirin-sensitive asthma*:]]
 
 ## Examination findings
 | Key Findings         | Result    | Explanation |

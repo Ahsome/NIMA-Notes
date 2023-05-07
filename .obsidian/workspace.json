@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md",
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Med Notes/Diseases/Respiratory/Asthma.md"
+                "file": "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "e10f777a68d6f629",
   "lastOpenFiles": [
+    "Med Notes/Diseases/Respiratory/Asthma.md",
     "Med Notes/Approaches/Approach to a patient cough.md",
     "Pasted image 20230507150341.png",
-    "Med Notes/Diseases/Respiratory/Asthma.md",
     "Asthma.pdf",
     "- Todo -/Respiratory.md",
     "Med Notes/Approaches",
