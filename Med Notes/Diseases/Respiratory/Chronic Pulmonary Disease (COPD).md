@@ -12,7 +12,8 @@
 ## Pathophysiology
 
 > [!Important]
-- Important point
+- FEV1/FEVC ratio needs to be <70% for diagnosis ^dbd02d
+- 
 
 # History
 ## Signs
@@ -32,6 +33,9 @@
 | Additional Tests | Result |
 | ---------------- | ------ |
 | Test 1           | Result       |
+
+>[!Important]
+>![[Chronic Pulmonary Disease (COPD)#^dbd02d]]
 
 ---
 
