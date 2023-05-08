@@ -14,13 +14,11 @@
 - First line investigation is *always* **CXR**. This is to differentiate with [[Bronchitis]], which has similar symptoms but does not need Abx ^484c71
 - Patinets can be treated outpatient, in hospital, and in ICU. Steps on choosing the right decision are in [[Pneumonia#*Hospitalisation choice*:]]
 - Patients treated outpatient require [[Pneumonia#*Low-severity treatment*]]. Patients hospitalised require [[Pneumonia#*Medium-severity treatment*]]. Patients in ICU require [[Pneumonia#*High-severity treatment*]]^efd571
-- Repeat CXR should *only* be done 4-6 weeks, since it takes that long for resolution. Repeat 4-6 weeks if >50yo for malignanct ^02ef4d
+- Repeat CXR should *only* be done 4-6 weeks, since it takes that long for resolution. Repeat 4-6 weeks if >50yo for malignancy ^02ef4d
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):
-
 ^3f21f8
-
 Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. It is also called *Lobar Pneumonia*, as it normally only affects the lobes. The following are the common bacterial causes:
 | Typical     | Atypical   |
 | ----------- | ---------- |

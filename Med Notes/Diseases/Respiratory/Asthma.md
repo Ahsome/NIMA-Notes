@@ -54,6 +54,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 >*"Does it come when you're stressed, such as exercise?"*
 >*"Do you take aspirin?"*  - See [[Asthma#*Aspirin-sensitive asthma*:]]
 
+---
 ## Examination findings
 | Key Findings     | Result    | Explanation                                                                                                         |
 | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -64,6 +65,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | ---------------- | --------- | ----------- |
 | Pulsus paradoxes | Fall >= 10mmHg with inspiration | Most non-cardiac cause of pulsus paradoxus |
 
+---
 ## Investigations
 | Key Tests                 | Result                                                                                                                                                          |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -85,10 +87,9 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | Skin allergy test (Skin prick)                 |                       |
 
 ---
-
 # Management
 ## Treatments
-### *Possible drugs:*
+### *Drug summary*:
 1. [[Beta-agonist]]
 	1. Short-acting [[Beta-agonist]] (SABA): [[Albuterol]]
 	2. Long-acting [[Beta-agonist]] (LABA): [[Salmeterol]], [[Formoterol]]
