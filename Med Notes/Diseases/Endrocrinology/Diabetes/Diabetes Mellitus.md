@@ -127,6 +127,8 @@ Lifestyle modifications that can be recommended include:
 1. Improve dietary intake
 2. Physical activity, >150 minutes a week
 
+##### Scre
+
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
 Example for Asthma:
