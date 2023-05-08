@@ -7,13 +7,12 @@
 
 # Information
  
-PE is a... 
 
 > [!Important]
 - Important to ask about a preceding DVT - leg pain/swelling
 
 ## Pathophysiology
-### *Variant (if applicable)*:
+![[Pasted image 20230508132101.png]]
 
 --- 
 # History
