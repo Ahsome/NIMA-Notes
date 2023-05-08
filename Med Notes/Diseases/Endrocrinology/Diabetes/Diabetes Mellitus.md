@@ -154,6 +154,26 @@ Lifestyle modifications that can be recommended include:
 There is **no commonly accepted** method for screening for [[Diabetes Mellitus#Type I DM]]
 
 ---
+#### *Type 2 DM management*
+[[Diabetes Mellitus#Type II DM]] involves maintaining a **healthy weight** and **exercise**. In some patients, this can be done *prior* to medical therapy, wit a 3-6 month trial.
+
+If not, oral drugs such as **metformin** are used, escalating to insulin if:
+1. Cannot achieve target A1c, even after addditional agents to metform
+2. Severely elavated initial A1c (>9.5%)
+
+Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This leads to:
+1. Long-term remission
+2. Reduced risk of diabetes complications
+
+##### Lifestyle
+Lifestyle modifications that can be recommended include:
+1. Improve dietary intake
+2. Physical activity, >150 minutes a week
+
+##### Screening
+There is **no commonly accepted** method for screening for [[Diabetes Mellitus#Type I DM]]
+
+---
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
