@@ -200,7 +200,9 @@ Follow up management should include secondary CXR after **4-6 weeks**. There sho
 ---
 
 # Complications
-1. Complications of disease
+1. A major complication of [[Pneumonia#*Aspiration pneumonia*:]] is a [[Lung Abscess]]. This will show as a contained, fluid-filled space in lungs with a "Air fluid level".
+	1. It is predominantly by anaerobes, sometimes [[S. Aureus]] or [[Klebsiella]]
+	2. 
 
 ---
 
