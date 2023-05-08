@@ -14,8 +14,12 @@
 
 ## Pathophysiology
 ### *Type I DM*:
+Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insuli
 
 ### *Type II DM*:
+
+### *Gestational DM*:
+Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
 --- 
 # History
@@ -64,7 +68,7 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 For patients who are asymptomatic, the follwoing tests are performed::
 | Key Tests                                           | Result | Explanation                                                      |
 | --------------------------------------------------- | ------ | ---------------------------------------------------------------- |
-| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin. |
+| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin.<br><br>Commonly used in Gestational Diabetes, as fasting glucose and A1c not reliable due to expected insulin resistance in pregnancy |
 | Hemoglobin A1c                                      | - <5.7% (Normal)<br>- 5.7%-6.4% (Prediabetes)<br>- >6.5% (Diabetes)  | Reflects fraction of hemoglobin glycated over **past three months**                                                                 |
 | Fasting blood glucose level  ([[Glossary#^43c2a7\|NBM]] 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
 
