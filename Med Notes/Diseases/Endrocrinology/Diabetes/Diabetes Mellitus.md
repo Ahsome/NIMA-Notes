@@ -7,7 +7,7 @@
 
 # Information
  
-**Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called [[Diabetes Mellitus#*Type I DM*:]], or a *lack of response to insulin*, called [[Diabetes Mellitus#*Type II DM*:]]. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
+**Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called [[Diabetes Mellitus#Type I DM]], or a *lack of response to insulin*, called [[Diabetes Mellitus#Type II DM]]. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
 
 > [!Important]
 - [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution, peaking at 4-6yo and 10-14yo
@@ -15,13 +15,16 @@
 
 ## Pathophysiology
 ### Type I DM
-Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insulin. It has a multifactorial etiology (See [[Diabetes Mellitus#*Risk factors*:]])
+Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insulin. It has a multifactorial etiology (See [[Diabetes Mellitus#Risk factors:]])
 
 It commonly affects **children**, and has a bimodial distribution:
 1. First peak: 4-6 years
 2. Second peak: 10-14 yeas
 
 ### Type II DM
+Type II DM is a complex disorder of **insulin resistance**. This leads to hyperlgycemia. Initially, the pancreas responds with increasing insulin levels, but eventually fails. See [[Diabetes Mellitus#*Risk factors:]]
+
+It commonly affects **adults**, but rates in children have been rising
 
 ### *Gestational DM*
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
@@ -126,11 +129,12 @@ A typical regiment includes:
 | Isophane | Intermediate | 18hr     |  |
 2. Basal: Rapid-acting insulin subcut, up-to 15 minutes before food. It provides 60% of total daily insulin
 	1. Can substitute for short-acting, up-to 30 minutes before food.
-
 | Drug     | Speed        | Duration |
 | -------- | ------------ | -------- |
 | Gluisine | Rapid-acting | 3-5hr    |
-| Lispro   | Rapid-acting | 3-4.         |
+| Lispro   | Rapid-acting | 3-4.75hr |
+| Aspart   | Rapid-acting | 3-5hr    |
+| Neutral  | Short-acting | 6.5hr         |
 
 ##### Lifestyle
 Lifestyle modifications that can be recommended include:
