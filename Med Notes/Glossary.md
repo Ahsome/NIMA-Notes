@@ -1,7 +1,7 @@
 ```toc
 ```
 # Common abbreviates
-NBM: Nill by mouth
+NBM: Nill by mouth ^43c2a7
 
 # Tests
 OGTT: Oral glucose tolerance test, commonly used in diabetes investigations for asymptomatic patients ^089fdb
