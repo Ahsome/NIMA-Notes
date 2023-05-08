@@ -11,7 +11,9 @@
 
 > [!Important]
 - It is important to know the typical and atypical causes of community acquired pneumonia. See [[Pneumonia#^bb83b6]]
-- First line investigation is *always* **CXR**. This is to differentiate with [[Bronchitis]], which has similar symptoms but does not need Abx ^efd571
+- First line investigation is *always* **CXR**. This is to differentiate with [[Bronchitis]], which has similar symptoms but does not need Abx ^484c71
+- Patinets can be treated outpatient, in hospital, and in ICU. Steps on choosing the right decision are in [[Pneumonia#*Hospitalisation choice*:]]
+- Patients treated outpatient require [[Pneumonia#*Low-severity treatment*]]. Patients hospitalised require [[Pneumonia#*Medium-severity treatment*]]. Patients in ICU require [[Pneumonia#*High-severity treatment*]]^efd571
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):
@@ -80,7 +82,7 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 |           | Interstitiall infiltrate (Atypical CAP)                                 |                                                                                                                                                      |
 
 >[!Important]
->![[Pneumonia#^efd571]]
+>![[Pneumonia#^484c71]]
 
 | Additional Tests | Result                           | Explanation                                                                                                     |
 | ---------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
@@ -91,22 +93,68 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 
 # Management
 ## Treatments
-### *Possible drugs:*
-#### *Community Acquired Pneumonia*
-Drugs have to cover *S. pneumo, H. flu, atypicals*
-
-### *Acute issue*
+### *Acute management*
 #### *Hospitalisation choice*:
-Most patients can have CAP treated as outpatients. However, there are two main ways:
+Most patients can have CAP treated as outpatients. If so, treatment should follow low severity (see [[Pneumonia#*Low-severity treatment*]]) However, there are two main ways they should be hospitalised:
 1. If the patient is Hypoxemic, **always hospitalise**
 2. If their CRB-65 score is >= 1. See [[Pneumonia#*CURB65*]] for calculation and mortality
 	1. If blood results are possible, use CURB-65. See [[Pneumonia#*CURB65*]]
 
-It's possible to use the SMART-COP score to identify if the patient needs ICU care in hospital See [[Pneumonia#*SMART-COP*:]] for calculation
+Hospitalised patients should be treated with medium-severity treatment. See [[Pneumonia#*Medium-severity treatment*]] 
 
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
+It's possible to use the SMART-COP score to identify if the patient needs ICU care in hospital See [[Pneumonia#*SMART-COP*:]] for calculation. These patients need [[Pneumonia#*High-severity treatment*]]
+
+#### *Low-severity treatment*:
+##### Monotherapy:
+Treatment should occur over 5-7 days. If not improving, consider escalating to combination therapy (See [[Pneumonia#Combination therapy]]) and admission to hospital
+
+For typical community acquired pneumonia
+| Drug           | Dose          | Reasoning                                                |
+| -------------- | ------------- | -------------------------------------------------------- |
+| Amoxicillin    | 1g PO q8h     | Low severity, covers rise of *S.pneumo*                  |
+
+For patients with suspected atypical community acquired pneumonia **OR** allergic to penicillin (choose one):
+| Drug           | Dose          | Reasoning                                |     |     |
+| -------------- | ------------- | -------------------------------------------------------- | --- | --- |
+| Doxycyline     | 100mg PO q12h | Covers atypical pathogens                                |     |     |
+| Clarithromycin | 500mg PO q12h | Use if allergic to doxycycline |     |     |
+
+##### Combination therapy
+For typical community acquired pneumonia
+| Drug        | Dose       | Reasoning                               |
+| ----------- | ---------- | --------------------------------------- |
+| Amoxicillin | 1g PO q8h  | Low severity, covers rise of *S.pneumo* |
+| Doxycycline | 100mg q12h | Covers atypical                                        |
+
+If midly-moderately allergic to penicillin:
+| Drug       | Dose          | Reasoning                      |     |     |
+| ---------- | ------------- | ------------------------------ | --- | --- |
+| Doxycyline | 100mg PO q12h | Covers atypical pathogens      |     |     |
+| Cefuroxime | 500mg PO q12h | Use if allergic to doxycycline |     |     |
+
+If severe allergy to penicillin:
+| Drug         | Dose        | Reasoning                               |
+| ------------ | ----------- | --------------------------------------- |
+| Moxifloxacin | 400mg PO OD |  |
+
+If midly allergic to Doxycycline
+| Drug           | Dose          | Reasoning                      |     |     |
+| -------------- | ------------- | ------------------------------ | --- | --- |
+| Clarithromycin | 500mg PO w12h |                                |     |     |
+| Cefuroxime     | 500mg PO q12h |  |     |     |
+
+#### *Medium-severity treatment*
+For moderate severity CAP, use a two-drug regime:
+![[Pasted image 20230508144225.png]]
+
+#### *High-severity treatment*
+For high severity CAP, use a two-drug regime:
+![[Pasted image 20230508144326.png]]
+
+If the patient has *S. Aureus*, consider treatment of it knwoing the increased prevelance of MRSA:
+![[Pasted image 20230508144515.png]]
+
+Stop therapy with vancomycin if testing identifies a patient does not have *S.Aurueus*
 
 ## Criteria
 ### *CRB-65*:
