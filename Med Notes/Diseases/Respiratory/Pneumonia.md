@@ -38,7 +38,17 @@ This describes when pneumonia recurs quickly after being previously treated. The
 1. If consolidation is on **different lung regions**, it is likely from Immunodeficiency (see [[HIV]], [[Cystic Fibrosis]])
 2. If consolidation is in the **same lung region**, it can be an airway obstruction (e.g. *malignancy*) or [[Bronchiectasis]]
 	1. The next best scan is a CT scan, to rule out malignancy
-3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration** of stomach acid and microorganisms
+3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration** of stomach acid and microorganisms. See [[Pneumonia#Aspiration Pneumonia]]
+
+### *Aspiration pneumonia*:
+This is pneumonia due to aspiration of bacteria (commonly [[Klebsiella]] or [[S. Aureus]]), normally from gastric contents. It has a slow-onset of symptoms over days, which can help differentiate between it and [[Pneumonitis]], which has an acute onset after witness aspiration
+
+|                     | Pneumonitis                                | Pneumonia                                                      |
+| ------------------- | ------------------------------------------ | -------------------------------------------------------------- |
+| Genera Pathogenesis | Irritation from aspiration of gastric acid | Aspiration of bacteria                                         |
+| Clinical features   | Acute onset dyspnea and hypoxemia          | SLow onset of pneumonia in patient with spiration risk factors |
+| Diagnosis           | Clinical                                   | X-Ray                                                           |
+| Treatment           | Suctioning, oxygen                         | Antibiotics                                                               |
 
 --- 
 # History
