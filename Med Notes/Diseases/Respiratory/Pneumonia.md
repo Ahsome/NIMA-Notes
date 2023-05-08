@@ -14,6 +14,7 @@
 - First line investigation is *always* **CXR**. This is to differentiate with [[Bronchitis]], which has similar symptoms but does not need Abx ^484c71
 - Patinets can be treated outpatient, in hospital, and in ICU. Steps on choosing the right decision are in [[Pneumonia#*Hospitalisation choice*:]]
 - Patients treated outpatient require [[Pneumonia#*Low-severity treatment*]]. Patients hospitalised require [[Pneumonia#*Medium-severity treatment*]]. Patients in ICU require [[Pneumonia#*High-severity treatment*]]^efd571
+- Repeat CXR should *only* be done 4-6 weeks, since it takes that long for resolution. Repeat 4-6 weeks if >50yo for malignanct ^02ef4d
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):
@@ -154,6 +155,13 @@ If the patient has *S. Aureus*, consider treatment of it knwoing the increased p
 ![[Pasted image 20230508144515.png]]
 
 Stop therapy with vancomycin if testing identifies a patient does not have *S.Aurueus*
+
+### *Follow-up management*
+Follow up management should include secondary CXR after **4-6 weeks**. There should also be one 6-12 weeks later for patients >50yo. This is due to the fact that pneumonia in these patients can occur because of a malignancy. This can be hidden by the lobar pneumonia, but can be present after resolution
+
+>[!Important]
+>![[Pneumonia#^02ef4d]]
+
 
 ## Criteria
 ### *CRB-65*:
