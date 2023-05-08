@@ -20,19 +20,19 @@
 ### *Community acquired pneumonia* (CAP):
 ^3f21f8
 Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. It is also called *Lobar Pneumonia*, as it normally only affects the lobes. The following are the common bacterial causes:
-| Typical     | Atypical   |
-| ----------- | ---------- |
-| S.Pneumonia | Mycoplasma |
-| H.Influenza | Chlamydia  |
-| S.Aureus    | Legionella (atypicals)           |
+| Typical     | Atypical               |
+| ----------- | ---------------------- |
+| S.Pneumonia | Mycoplasma             |
+| H.Influenza | Chlamydia              | 
+| S.Aureus    | Legionella (atypicals) |
 
 ^bb83b6
 
 ### *Nosomcomial pneumonia* (including HAP):
 These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*) or *Staph Aureus*
-| Hospital-Acquired               | Ventilator-Acquired |
-| ------------------------------- | ------------------- |
-| Onset > 72hr of hospitalization | Onset >48hr after ventilation                    |
+| Hospital-Acquired               | Ventilator-Acquired           | 
+| ------------------------------- | ----------------------------- |
+| Onset > 72hr of hospitalization | Onset >48hr after ventilation |
 
 ### *Recurrent pneumonia*:
 This describes when pneumonia recurs quickly after being previously treated. The likely cause can be found on CXR:
