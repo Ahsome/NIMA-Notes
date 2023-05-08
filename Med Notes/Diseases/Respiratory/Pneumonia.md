@@ -32,12 +32,13 @@ These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*
 ## Signs
 ### *Symptoms*
 #### Community Acquired Pneumonia
-| Typical              | Atypical               |
-| -------------------- | ---------------------- |
-| Fever                |                        |
-| Cough                |                        |
-| Dyspnea              |  |
-| Pleuritic chest pain |                        |
+| Typical              | Atypical                      |
+| -------------------- | ----------------------------- |
+| Fever                | Fever (milder)                |
+| Cough                | Cough (milder)                |
+| Dyspnea              | Dyspnea (milder)              |
+| Pleuritic chest pain | Pleuritic chest pain (milder) |
+|                      | Respiratory distress (rare)                              |
 
 ### *Risk factors*:
 Risk factors include:
@@ -73,42 +74,50 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 ---
 
 ## Investigations
-| Key Tests | Result                                       | Explanation   |
-| --------- | -------------------------------------------- | ------------- |
+| Key Tests | Result                           | Explanation                                                                                                                                          |
+| --------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CXR       | Lobe consolidation (Typical CAP) | - Diagnoses whether its Pneumonia<br>- Helps exclude [[Bronchitis]], which has similar symptoms but does not need abx<br>- Commonly Right Upper lobe |
+|           | Interstitiall infiltrate (Atypical CAP)                                 |                                                                                                                                                      |
 
 >[!Important]
 >![[Pneumonia#^efd571]]
 
-| Additional Tests | Result                   | Explanation   |
-| ---------------- | ------------------------ | ------------- |
-| Sputum culture   | Test for bacterial cause | Not needed since Abx used are broad spectrum and cover most causes. See [[Pneumonia#^bb83b6]] for common causes |
+| Additional Tests | Result                           | Explanation                                                                                                     |
+| ---------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Sputum culture   | Test for bacterial cause         | Not needed since Abx used are broad spectrum and cover most causes. See [[Pneumonia#^bb83b6]] for common causes |
+| Calcitonin       | Increased in bacterial lower RTI | Serum biomaker, sometimes used for diagnosis or guide therapy                                                                                                                |
 
 ---
 
 # Management
 ## Treatments
 ### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
-
+#### *Community Acquired Pneumonia*
+Drugs have to cover *S. pneumo, H. flu, atypicals*
 
 ### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
+#### *Hospitalisation choice*:
+Most patients can have CAP treated as outpatients. However, there are two main ways:
+1. If the patient is Hypoxemic, **always hospitalise**
+2. If their CRB-65 score is >= 1. See [[Pneumonia#*CURB65*]] for calculation and mortality
+	1. If blood results are possible, use CURB-65. See [[Pneumonia#*CURB65*]]
+
+It's possible to use the SMART-COP score to identify if the patient needs ICU care in hospital See [[Pneumonia#*SMART-COP*:]] for calculation
 
 ### *Long-term issue*
 Steps for manaing long-term:
 1. Step 1
 
 ## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for Asthma:
-![[Asthma#^6df757]]
+### *CRB-65*:
+![[Pasted image 20230508140833.png]]
 
+### *CURB-65*
+![[Pasted image 20230508140913.png]]
 ^6df757
+
+### *SMART-COP*:
+![[Pasted image 20230508141050.png]]
 
 ---
 
