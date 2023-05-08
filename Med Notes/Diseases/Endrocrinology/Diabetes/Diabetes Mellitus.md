@@ -63,13 +63,14 @@ Risk factors include:
 ---
 
 ## Examination findings
-| Key Findings     | Result    | Explanation                                                                                                         |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| Finding 1 | Result 1 | Explanation 1    |                                                                                                                     |
+| Key Findings         | Result                                     | Explanation   |     |
+| -------------------- | ------------------------------------------ | ------------- | --- |
+| Acanthosis Nigricans | Hyperpigmented plaques in neck and axillae | Associated with insulin resistance, especially in [[Diabetes Mellitus#Type II DM]]<br><br>Can rarely be caused by malignancy (e.g. [[gastric adeonarcinoma]]) |     |
 
 | Additional Findings         | Result    | Explanation |
 | ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
+| Finding 1 | Result 1 | Explanation 1==
+
 
 ---
 
@@ -123,6 +124,7 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 	1. The reason is you want to ***avoid hypoglycemia***, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
 
 #### *Type 1 DM management*
+##### Summary:
 [[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient cannot produce. This is commonly done in three main ways:
 1. Bolus-Basal: Where you have a *basal* insulin level that maintains throughout the day, and a *bolus* level that occurs before a meal. See [[Diabetes Mellitus#Bolus-Basal]] for specifics of treatment
 2. [[Glossary#^ce5892|CSII]] (Continuous subcutaneous insulin infusion): It uses an external battery-driven pump, containing an insulin reservoir to deliver rapid-acting insulin at a basal rate via a subcutaneous cannula, and the user initiates delivery of bolus doses immediately before meals
@@ -155,6 +157,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 
 ---
 #### *Type 2 DM management*
+##### Summary:
 [[Diabetes Mellitus#Type II DM]] involves maintaining a **healthy weight** and **exercise**. In some patients, this can be done *prior* to medical therapy, wit a 3-6 month trial.
 
 If not, oral drugs such as **metformin** are used, escalating to insulin if:
@@ -177,7 +180,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for Asthma:
+Example for [[Asthma]]:
 ![[Asthma#^6df757]]
 
 ^6df757

@@ -26,7 +26,7 @@
 >![[Chronic Pulmonary Disease (COPD)#^f2cca6]]
 
 Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
-- Most commonly, a LRTI is the aetiology of the precipitation. This is commonly bacterial causes of pneumonia
+- Most commonly, a LRTI is the aetiology of the precipitation. This is commonly bacterial causes of [[pneumonia]]
 	- Strep. pneumoniae  
 	- Haemophilus influenzae 
 	- Moraxela catarrhalis
@@ -38,7 +38,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 > [!Important]
 - Acute respiratory failure (type 2) with acidosis, hypercapnia and hypoxaemia can be a worst case scenario presentation. ^f2cca6
 - COPD is defined by FEV1/FVC ratio <0.70 ^fc0233
-- Oxygen dependence, administration of CPAP/BiPAP, cachexia, functional decompensation, comorbidities (esp heart failure) and respiratory failure (type 2) are all indicators for poor prognosis in COPD.
+- Oxygen dependence, administration of CPAP/BiPAP, cachexia, functional decompensation, comorbidities (esp [[heart failure]]) and respiratory failure (type 2) are all indicators for poor prognosis in COPD.
 
 # History
 ## Signs
@@ -56,7 +56,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 ## Examination findings
 
 ## Investigations
--   CXR – pneumonia? Pneumothorax? Pleural effusion? Pulmonary oedema?
+-   CXR – [[pneumonia]]? Pneumothorax? Pleural effusion? Pulmonary oedema?
 	- Hyperinflation – flattened diaphragms, blunting of costophrenic angles, more than 6 anterior/10 posterior ribs, black lung fields.
 - ECG - cor pulmonale (right axis deviation)
 - Spirometry – the obstructive pattern.
@@ -69,7 +69,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 - ABG – assess for evidence of respiratory failure, respiratory acidosis etc.
 	- Decreased pO2 with or without hypercapnia
 - D dimer and CTPA – if there is reasonable suspicion of a DVT and PE.
-- BNP, TTE etc – if there is reasonable suspicion that heart failure is the cause of worsening dyspnoea
+- BNP, TTE etc – if there is reasonable suspicion that [[heart failure]] is the cause of worsening dyspnoea
 >[!Important]
 >![[Chronic Pulmonary Disease (COPD)#^fc0233]]
 

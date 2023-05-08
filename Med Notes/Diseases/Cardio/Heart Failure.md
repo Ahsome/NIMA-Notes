@@ -24,7 +24,7 @@ Most heart failure has an aeitiology behind the acute presentation, and needs to
 Aeitiology 
 -   Arrhythmia - [[Atrial Fibrillation (AF)]]!
 -   Fluid overload - non-compliance with diuretics, drinking too much,etc.
--   Infection - fevers? malaise? cough? pneumonia?
+-   Infection - fevers? malaise? cough? [[pneumonia]]?
 -   **Ischaemic heart disease (post MI) –** 40%
 -   **Dilated cardiomyopathy (often alcohol related) –** 32%
 -   **Primary valvular heart disease –** 12%

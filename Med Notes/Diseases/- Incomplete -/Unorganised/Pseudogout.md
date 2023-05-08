@@ -70,7 +70,7 @@ Steps for manaing long-term:
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for Asthma:
+Example for [[Asthma]]:
 ![[Asthma#^6df757]]
 
 ^6df757

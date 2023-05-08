@@ -23,7 +23,7 @@ To help cure the patient themself of an infectious disease, but no undue danger 
 10. Optimal **duration** of Rx and any **resistance** development?
 
 ##### Urgent "probably" infections
-- Focal infection (pneumonia etc.)
+- Focal infection ([[pneumonia]] etc.)
 - Septicaemic patients
 - Febrile, leukopaenics
 - ? Acute endocarditis

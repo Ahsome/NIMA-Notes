@@ -138,7 +138,7 @@ Lifestyle education - smoking cessation
 
 1.  kk
 
-### 5. Pneumonia? hospitalised patient
+### 5. [[Pneumonia]]? hospitalised patient
 
 1.  kk
 

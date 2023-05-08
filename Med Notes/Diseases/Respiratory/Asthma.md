@@ -12,7 +12,7 @@
 > [!Important]
 - Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after albuterol** ^89389e
 - If bronchial obstruction not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease (COPD)]] ^467c50
-- Try to do a CXR to rule out if pneumonia/infection
+- Try to do a CXR to rule out if [[pneumonia]]/infection
 - If PaCO2 is increased during acute asthma attack, patient is having a respiratory attack
 - Empiric antibiotics are **not recommended** during an acute attack. Unlike [[Chronic Pulmonary Disease (COPD)]], where you always give empiric antibiotics, regardless of CXR ^b567d6
 - Corticosteroids will cause increased immature WBC (left-shift) for acute exacerbation, *do not assume* increased WBC means infection ^78a83e
@@ -71,7 +71,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Peak Flow Meter]]           | Reduced peak flow expiratory rate                                                                                                                                               |
 | [[Spirometry]]                | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]]                                                                              |
-| [[CXR]]                       | Rule out pneumonia/infection for acute exarcebation                                                                                                                                                                |
+| [[CXR]]                       | Rule out [[pneumonia]]/infection for acute exarcebation                                                                                                                                                                |
 | [[Methacoline challenge]] | Causes bronchoconstriction<br><=20mcg dose needed for FEV1 reduction by 20%<br>People without asthma can handle high methacoline levels, asthma patients cannot |
 
 > [!Important]
