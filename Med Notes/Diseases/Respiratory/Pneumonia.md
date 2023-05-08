@@ -44,14 +44,13 @@ This describes when pneumonia recurs quickly after being previously treated. The
 # History
 ## Signs
 ### *Symptoms*
-#### Community Acquired Pneumonia
-| Typical              | Atypical                      |
-| -------------------- | ----------------------------- |
-| Fever                | Fever (milder)                |
-| Cough                | Cough (milder)                |
-| Dyspnea              | Dyspnea (milder)              |
-| Pleuritic chest pain | Pleuritic chest pain (milder) |
-|                      | Respiratory distress (rare)                              |
+| Typical CAP          | Atypical CAP                  | Aspiration Pneumonia |
+| -------------------- | ----------------------------- | -------------------- |
+| Fever                | Fever (milder)                | Foul-smelling sputum                     |
+| Cough                | Cough (milder)                |                      |
+| Dyspnea              | Dyspnea (milder)              |                      |
+| Pleuritic chest pain | Pleuritic chest pain (milder) |                      |
+|                      | Respiratory distress (rare)   |                      |
 
 ### *Risk factors*:
 Risk factors include:
@@ -59,12 +58,13 @@ Risk factors include:
 | --------- | ---------------------------------- |
 |           | Reduced consicousness (anasthesia) |
 |           | Seizures                           |
-	|            |                                    |
+|           | Heavy alcohol use                  |
+|           | Dysphagia from neuromuscular weakness                                   |
 
 ### *Questions to ask*
 >*"Do you notice any fever? Cough?"*
 >*"Do you have pain when you breath in?"
->*"Any history of ???"* See - [[Link to relavent article]]
+>*"*Any recent history of surgery with anaesthetics? Drink recently? Any seizures?"* See aspiration pneumonia risk factors - [[Pneumonia#*Risk factors*:]]
 
 ---
 
