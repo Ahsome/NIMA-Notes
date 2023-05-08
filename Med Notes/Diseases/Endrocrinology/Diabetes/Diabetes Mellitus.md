@@ -10,7 +10,7 @@
 **Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called Type I DM, or a *lack of response to insulin*, called Type II DM. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
 
 > [!Important]
-- Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Str]]
+- Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 
 ## Pathophysiology
 ### *Variant (if applicable)*:
@@ -63,13 +63,15 @@ For patients who are asymptomatic, the follwoing tests are performed::
 | Key Tests                                           | Result | Explanation                                                      |
 | --------------------------------------------------- | ------ | ---------------------------------------------------------------- |
 | 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin. |
-| Hemoglobin A1c                                      | >6.5%  |                                                                  |
-| Fasting blood glucose level                         | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
+| Hemoglobin A1c                                      | - <5.7% (Normal)<br>- 5.7%-6.4% (Prediabetes)<br>- >6.5% (Diabetes)  | Reflects fraction of hemoglobin glycated over **past three months**                                                                 |
+| Fasting blood glucose level  (nbm 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
 
+>[!Important]
+>![[Diabetes Mellitus#^b59224]]
 ---
 
 # Management
