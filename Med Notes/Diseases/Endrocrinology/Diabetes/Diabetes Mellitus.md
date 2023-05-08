@@ -11,6 +11,7 @@
 
 > [!Important]
 - [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution, peaking at 4-6yo and 10-14yo
+- [[Diabetes Mellitus#Type II DM]] commonly affects adult
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 
 ## Pathophysiology
@@ -22,7 +23,7 @@ It commonly affects **children**, and has a bimodial distribution:
 2. Second peak: 10-14 yeas
 
 ### Type II DM
-Type II DM is a complex disorder of **insulin resistance**. This leads to hyperlgycemia. Initially, the pancreas responds with increasing insulin levels, but eventually fails. See [[Diabetes Mellitus#*Risk factors:]]
+Type II DM is a complex disorder of **insulin resistance**. This leads to hyperlgycemia. Initially, the pancreas responds with increasing insulin levels, but eventually fails. Family history has a strong effect, with Type II DM having a higher genetic component than Type I DM (See [[Diabetes Mellitus#Risk factors]])
 
 It commonly affects **adults**, but rates in children have been rising
 
@@ -33,24 +34,25 @@ Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glos
 # History
 ## Signs
 ### *Symptoms*
-| Symptom    | Reasoning                     |
-| ---------- | ----------------------------- |
-| Polyuria   | Osmotic diuresis from glucose entering urine |
-| Polydipsia | Thirst to replace lost fluids                              |
+| Symptom              | Reasoning                                    |
+| -------------------- | -------------------------------------------- |
+| Polyuria             | Osmotic diuresis from glucose entering urine |
+| Polydipsia           | Thirst to replace lost fluids                |
+| Sudden hyperglycemia | Common sign in [[Diabetes Mellitus#Type I DM]]                                             |
 
 ### *Risk factors*:
 Risk factors include:
-| Type 1     | Type 2 | Gestational |
-| ---------- | ------ | ----------- |
-| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo   |        | Pregnancy   |
-| Envionment |        |             |
-| **Family history** (Major)           |        |             |
+| Type 1                                                                                     | Type 2                                                                                             | Gestational |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------- |
+| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pregnancy   |
+| Envionment                                                                                 | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk |             |
+| **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                |             |
+	| Smoking                                                                                           |                                                                                                    |             |
 
 ### *Questions to ask*
 >*"Do you notice any increase in your urine output?"*
 >*"Have you been feeling thristy more often?"
 >"*Do you have a family history of diabetes?*"
->*"Any history of ???"* See - [[Link to relavent article]]
 
 ---
 
@@ -100,6 +102,7 @@ For patients who are asymptomatic, the follwoing tests are performed::
 2. Drug/Drug class 2
 	1. Info on drug 2
 
+---
 
 ### *Acute issue*
 See  [[Diabetes Mellitus#Complications]] for information regarding [[Diabetes Mellitus#*Diabetic Ketoacidosis*:]]
@@ -143,6 +146,8 @@ Lifestyle modifications that can be recommended include:
 
 ##### Screening
 There is **no commonly accepted** method for screening for [[Diabetes Mellitus#Type I DM]]
+
+---
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
