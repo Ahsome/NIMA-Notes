@@ -10,8 +10,8 @@
 **Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called [[Diabetes Mellitus#Type I DM]], or a *lack of response to insulin*, called [[Diabetes Mellitus#Type II DM]]. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
 
 > [!Important]
-- [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution, peaking at 4-6yo and 10-14yo
-- [[Diabetes Mellitus#Type II DM]] commonly affects adult
+- [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution in **children**, peaking at 4-6yo and 10-14yo ^a5d260
+- [[Diabetes Mellitus#Type II DM]] commonly affects adults with insidous onset. It is more dependant on **family history** and **obesity** ^6386e4
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 
 ## Pathophysiology
@@ -40,19 +40,25 @@ Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glos
 | Polydipsia           | Thirst to replace lost fluids                |
 | Sudden hyperglycemia | Common sign in [[Diabetes Mellitus#Type I DM]]                                             |
 
+>[!Important]
+>![[Diabetes Mellitus#^a5d260]]
+>![[Diabetes Mellitus#^6386e4]]
+
 ### *Risk factors*:
 Risk factors include:
 | Type 1                                                                                     | Type 2                                                                                             | Gestational |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------- |
 | Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pregnancy   |
-| Envionment                                                                                 | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk |             |
+| Environment                                                                                 | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk |             |
 | **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                |             |
 	| Smoking                                                                                           |                                                                                                    |             |
 
 ### *Questions to ask*
 >*"Do you notice any increase in your urine output?"*
 >*"Have you been feeling thristy more often?"
->"*Do you have a family history of diabetes?*"
+>"*Do you have a family history of diabetes? First relatives?*"
+>"*Did you have this as a child?*"
+>*"Is there any chance you could be pregnant?"*
 
 ---
 
@@ -86,9 +92,9 @@ For patients who are asymptomatic, the follwoing tests are performed::
 | Hemoglobin A1c                                      | - <5.7% (Normal)<br>- 5.7%-6.4% (Prediabetes)<br>- >6.5% (Diabetes)  | Reflects fraction of hemoglobin glycated over **past three months**                                                                 |
 | Fasting blood glucose level  ([[Glossary#^43c2a7\|NBM]] 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+| Additional Tests                     | Result    | Explanation   |
+| ------------------------------------ | --------- | ------------- |
+| Islet-specific pancreatic antibodies | Increased | Can identify some cases of [[Diabetes Mellitus#Type I DM]], but not reliable|
 
 >[!Important]
 >![[Diabetes Mellitus#^b59224]]
