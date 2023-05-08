@@ -10,7 +10,7 @@
 Bronchitis is a... 
 
 > [!Important]
-- Important point
+- It does **not need** antibiotics as it is a viral disease. This differentiates it from [[Pneumonia]] ^3d01be
 
 ## Pathophysiology
 ### *Variant (if applicable)*:
@@ -40,42 +40,22 @@ Risk factors include:
 | ------------ | ------ | ------------- | --- |
 | CXR          | Normal | This helps differentiates it with [[Pneumonia]], which will show either lobar consolidation or interstitial infiltrates depending on if it is typical or atypical |     |
 
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Findings | Result | Explanation                                                                                                                                                       |     |
+| ------------ | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| CXR          | Normal | This helps differentiates it with [[Pneumonia]], which will show either lobar consolidation or interstitial infiltrates depending on if it is typical or atypical |     |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
 # Management
 ## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
+Bronchitis requires **supportive treatent** and it is **self-limited**
 
-
-### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
-
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
+>[!Important]
+>![[Bronchitis#^3d01be]]
 
 ## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for Asthma:
-![[Asthma#^6df757]]
-
 ^6df757
 
 ---
