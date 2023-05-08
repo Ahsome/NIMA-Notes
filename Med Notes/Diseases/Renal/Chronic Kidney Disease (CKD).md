@@ -35,11 +35,15 @@ Chronic Kidney Disease (CKD) is a chronic decline in kidney function, usually de
 - Nephritic - haematuria, proteinuria < 3.5g, HTN, post-strep, Goodpastruees (anti GBM) or IgA nephritis
 - Nephrotic - proteinuria > 3.5g, oaedema, hypercoagulability, diffuse glomerulosclerosi, SLE, hepatitis, HIV, diabetes
 - Most common cause of CKD = diabetes, then glomeruonephritis, then HTN
+- AKI can cause metabolic acidosis - check ABG for lactate and bicarb, pH
 - Remember the triple whammy of kidney drugs (NSAIDs, ACEi, diuretics)
-- Remember drug allterations if patient has CKD exxacerbation - some drugs don't work as well/are not cleared properly
+- Remember drug alterations if patient has CKD exxacerbation - some drugs don't work as well/are not cleared properly
+	- Metformin, sulfonylureas, ACEi/ARBs, b-blockers, digoxin, NOACs/DOACs, opioids, penicillin/cephalosporin/gentamycin, antivirals
+- Key complications - cardiorenal issues (HTN), volume overload, normocytic anaemia of chronic disease (low EPO), renal osteodystrophy (secondary and tertiary hyperparathyroidism, and low vitamin D - calcitriol)
+- Dialysis for eGFR < 10ml/min/1.73m^2
 
 ## Pathophysiology
-Most commonly diabetic nephropathy, gllomerulonephritis, or HTN 
+Most commonly diabetic nephropathy, glomerulonephritis, or HTN 
 - Diabetes – 33%
 -   Glomerulonephritis – 24%
 -   HTN – 14%
@@ -89,26 +93,23 @@ As patients in CKD stage 1 to 3 (eGFR > 30) typically are asymptomatic for the m
 	- Hydronephrosis
 
 
-### *Risk factors*:
-Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
-
 ### *Questions to ask*
->*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
+*Are you peeing at night?*
+*Is there blood in your urine?
+Any increase in weight? (could be fluid overload)
+Any fatigue or loss of appetite?
+Any itching of the skin (pruritis)
+Uraemia - Any n/v? Any confusion or loss of sensation (encephalopathy and neuropathy)?*
+*Have you been told what your kidney issues are?*
+*When was the last time you checked GFR, and hat was the number?
+What was the level of protein in your urine? Do you know the number?
+Do you know your UCR?
+What medications are you on currently? - check for triple whammy
+Do you have heart failure / heart complications?
+Any recent weight loss? Dehydration? Diarrhoea/vomitting?
+Any BPH/bladder cancer or low urine output?*
 
-## Examination findings
-| Key Findings                     | Result    | Explanation                    |     |
-| -------------------------------- | --------- | ------------------------------ | --- |
-| Albuminuria                      | 30mg/24hr | Kidneys not filtering properly |     |
-| Albumin : creatinine ratio (ACR) | 30mg/g    |                                |     |
-| Microscopic haematuria         |      RBC casts     |                                |     |
 
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
 ## Investigations
 Always check the following:
 - Serum urea, creatinine, eGFR
@@ -129,48 +130,76 @@ Always check the following:
 | Albumin : creatinine ratio (ACR) | 30mg/g    |                                |     |
 | Microscopic haematuria         |      RBC casts     |                                                                                                                                                            |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
 ---
 
 # Management
 ## Drug alterations in patients with CKD exacerbations
-- **==Metformin==** – not to be used in eGFR < 30mL/min (Stage 4 and 5). Will cause lactic acidosis. As eGFR drop from >90 to >30, the dose of metformin needs to be reduced.
-- Sulfonylureas – another drug that accumulates. It will cause HYPOs. 
-- Cease ACEi or ARB in AKI on CKD – in the acute setting of acute on CKD, temporarily cease ACEi/ARB to maintain renal glomerular perfusion and allow eGFR to recover.
-- NOACs/DOACs – these are renally excreted. With advanced CKD, NOACs will accumulate and cause catastrophic bleeding. There isn’t a reliable monitoring system for NOACs...
-- Beta blockers – most of these, like atenolol and bisoprolol are renally excreted. Accumulation will cause bradycardia.
-- Digoxin – another renally cleared drug. Its normal MOA is to prevent arrhythmias (AF) by blocking the AV node, so in CKD, this will accumulate and further suppress heart rate. Patients will be bradycardic and in severe cases, have heart block. DIGITOXICITY...
-- Opioids – after accumulation, will cause respiratory depression.
-- Antibiotic doses need to be adjusted – penicillins, cephalosporins, aminoglycosides (gentamycin), as these can have nephrotoxic properties.
-- Antivirals typically have nephrotoxic properties too.
+- **==Metformin==** – not to be used in eGFR < 30mL/min (Stage 4 and 5). Will cause ***lactic acidosis***. As eGFR drop from >90 to >30, the dose of metformin needs to be reduced.
+- **==Sulfonylureas==** – another drug that accumulates. It will cause HYPOs. 
+- Cease **==ACEi or ARB in AKI==** on CKD – in the acute setting of acute on CKD, temporarily cease ACEi/ARB to maintain renal glomerular perfusion and allow eGFR to recover.
+- **==NOACs/DOACs==** – these are renally excreted. With advanced CKD, NOACs will accumulate and cause catastrophic bleeding. There isn’t a reliable monitoring system for NOACs...
+- **==Beta blockers==** – most of these, like atenolol and bisoprolol are renally excreted. Accumulation will cause bradycardia.
+- **==Digoxin==** – another renally cleared drug. Its normal MOA is to prevent arrhythmias (AF) by blocking the AV node, so in CKD, this will accumulate and further suppress heart rate. Patients will be bradycardic and in severe cases, have heart block. DIGITOXICITY...
+- **==Opioids==** – after accumulation, will cause respiratory depression.
+- Antibiotic doses need to be adjusted – **==penicillins, cephalosporins, aminoglycosides (gentamycin)==**, as these can have nephrotoxic properties.
+- **==Antivirals==** typically have nephrotoxic properties too.
 
 Triple whammy - Beware the combined use of ACEi and ARBs together, as well as in conjunction with frusemide and NSAIDs.
 
 ## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
+CKD patients are inherently higher risk of dying of cardiovascular disease. This is potentially due to persistent risk factors such as hypertension (secondary to renal disease) and metabolic syndrome.
+
+### *Principles of CKD management*:
+-   Fluid intake and diet management
+-   Anaemia (EPO deficiency)
+-   Acidosis
+-   Calcium and bones (osteodystrophy)
+-   Cardiovascular risk reduction
+-   Consideration of dialysis (have the chat early)
+-   Consideration of transplant
 
 
-### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
+### *Reducing the rate of CKD progression:*
+It is thought that the **glomerular hypertrophy** and **intraglomerular hypertension** SECONDARY to the hyperfiltration phenomenon is one of the major contributing factors to CKD progression by causing glomerulosclerosis.
+-   Blood pressure control – major focus of treatment. Blood pressure goals are different in diabetics and non-diabetics. CKD with proteinuria vs CKD without CKD are also distinctions for BP goals.
+	- **==Generally – 125 to 130/<80 mmHg==**
+	- ACEi or ARB (not both)
+-   Glycaemic control – especially if diabetic nephropathy is the cause of CKD.
+	- **==HbA1C – 7% (pre-dialysis), 8% (on dialysis)==**
+	- ==Renal diet – sodium, potassium and protein restriction.==
+-   **Smoking cessation?**
 
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
 
-## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
+### *Management of CKD complications:*
+- CARDIOVASCULAR RISK
+	- Hypertension – found in about 80% of CKD patients, whether it caused or was caused by the renal dysfunction. It must be put under control to prevent the progression of proteinuric CKD. Increases CVS risk profile. Most CKD patients actually die of MI or strokes due to increased risk.
+		- ACEi or ARB
+		- **Frusemide – good for oedematous patients** with HTN
+	- Hyperlipidaemia–statins!
+-   Volume overload – can cause pulmonary and peripheral oedema 
+	- Frusemide
+	- Fluid and salt restriction
+-   Anaemia – LOSS OF EPO! **Anaemia of chronic disease, normochromic normocytic anaemia**.
+	- **==EPO injections?==**  
+	- Blood transfusions?
+-   Mineral and bone density disorders (renal osteodystrophy) – hyperphosphatemia occurs because of a failure to filter and sets off a cascade that leads to renal osteodystrophy. Hyperphosphatasemia will result in the precipitation of serum calcium, causing hypocalcaemia. PTH (secondary and eventually tertiary hyperparathyroid) compensates by increasing bone resorption.
+	- Furthermore, decreased in vitamin D (calcitriol) production will also result in reduced calcium absorption, further causing hypocalcaemia. This further propagates the secondary parathyroidism and propagates bone resorption.
+	- Hyperphosphatemia – initial change that is thought to cause renal osteodystrophy.
+	- Treatment – use **==denosumab. DO NOT USE BISPHOSPHONATES==**, they are renally cleared and also slow bone turnover, which is already happening... slowing it further will only propagate brittle bones.
+	- **==Calcium supplementation==**  
+	- **==Low phosphate diet + phosphate chelators==** 
+	- **==Parathyroidectomy==**
 
-^6df757
+**Dialysis – when eGFR < 10mL/minute. Otherwise AEIOU**
+-   A – acidaemia
+-   E – electrolyte disturbances (hyperkalemia)
+-   I – intoxication (ie: methanol, lithium...)
+-   O – overload of volume
+-   U – uraemia (pericarditis... encephalopathy)
+
+**Kidney Transplant** 
+- Usually resevred for patients <55yr
+- Requires post-transplant immunosuppression
 
 ---
 
@@ -185,7 +214,7 @@ Example for [[Asthma]]:
 6.  Sexual dysfunction 
 	- Erectile dysfunction 
 	- Anovulation 
-7. Abnormal calcium  and phosphate (hyperparathyroidism)
+7. Abnormal calcium  and phosphate (hyperparathyroidism) - DENOSUMAB, not bisphosphonates
 	- Untreated hyperparathyroidism leads to renal osteodystrophy
 	- Osteitis fibrosa cystica (bone cysts)
 	- 
@@ -193,7 +222,5 @@ Example for [[Asthma]]:
 ---
 
 # Extra
-## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...
