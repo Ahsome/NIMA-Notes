@@ -17,7 +17,7 @@
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):
-Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. The following are the common bacterial causes:
+Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. It is also called *Lobar Pneumonia*, as it normally only affects the lobes. The following are the common bacterial causes:
 | Typical     | Atypical   |
 | ----------- | ---------- |
 | S.Pneumonia | Mycoplasma |
