@@ -29,13 +29,16 @@ Pneumonia acquired outside hospital, or within 72 hours of admission into the ho
 
 ### *Nosomcomial pneumonia* (including HAP):
 These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*) or *Staph Aureus*
+| Hospital-Acquired               | Ventilator-Acquired |
+| ------------------------------- | ------------------- |
+| Onset > 72hr of hospitalization | Onset >48hr after ventilation                    |
 
 ### *Recurrent pneumonia*:
 This describes when pneumonia recurs quickly after being previously treated. The likely cause can be found on CXR:
 1. If consolidation is on **different lung regions**, it is likely from Immunodeficiency (see [[HIV]], [[Cystic Fibrosis]])
 2. If consolidation is in the **same lung region**, it can be an airway obstruction (e.g. *malignancy*) or [[Bronchiectasis]]
 	1. The next best scan is a CT scan, to rule out malignancy
-3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration**
+3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration** of stomach acid and microorganisms
 
 --- 
 # History
@@ -52,9 +55,11 @@ This describes when pneumonia recurs quickly after being previously treated. The
 
 ### *Risk factors*:
 Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
+| Pneumonia | Aspiration Pneumonia               |
+| --------- | ---------------------------------- |
+|           | Reduced consicousness (anasthesia) |
+|           | Seizures                           |
+	|            |                                    |
 
 ### *Questions to ask*
 >*"Do you notice any fever? Cough?"*
@@ -87,7 +92,7 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 | --------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | CXR       | Lobe consolidation (Typical CAP)        | - Diagnoses whether its Pneumonia<br>- Helps exclude [[Bronchitis]], which has similar symptoms but does not need abx<br>- Commonly Right Upper lobe |
 |           | Interstitiall infiltrate (Atypical CAP) |                                                                                                                                                      |
-| CT          |                                         |                                                                                                                                                      |
+| CT scan   | Potential malignancy                    | - Helps identify cause of recurrant pneumonia caused by malignancy. See [[Pneumonia#*Recurrent pneumonia*:]] <br> - Used when recurrent pneumonia, CXR shows consoldiation in same lung region                                                                                                                                                    |
 
 >[!Important]
 >![[Pneumonia#^484c71]]
