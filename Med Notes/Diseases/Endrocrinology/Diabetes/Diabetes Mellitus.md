@@ -53,6 +53,18 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
 
+### *Asymptomatic*:
+For patients who are asymptomatic, the follwoing tests are performed::
+| Key Tests                                           | Result      | Explanation                                                      |
+| --------------------------------------------------- | ----------- | ---------------------------------------------------------------- |
+| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] | >= 200mg/dl | Increased glucose levels due to not being controlled by insulin. |
+| Hemoglobin A1c                                      | >6.5%        |                                                                  |
+| Fasting blood glucose level                                                    |             |                                                                  |
+
+| Additional Tests               |  Result   | Explanation                |
+| ------------------------------ | --- | --------------------- |
+| Test 1                            |  Result 1   | Explanation 1 |
+
 ---
 
 # Management

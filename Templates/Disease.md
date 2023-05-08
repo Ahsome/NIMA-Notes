@@ -36,6 +36,8 @@ Risk factors include:
 >*"Do you notice any ???"*
 >*"Any history of ???"* See - [[Link to relavent article]]
 
+---
+
 ## Examination findings
 | Key Findings     | Result    | Explanation                                                                                                         |
 | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -44,6 +46,9 @@ Risk factors include:
 | Additional Findings         | Result    | Explanation |
 | ---------------- | --------- | ----------- |
 | Finding 1 | Result 1 | Explanation 1
+
+---
+
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
