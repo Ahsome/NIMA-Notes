@@ -120,7 +120,7 @@ More questions
 	- Contraindications – renal artery stenosis, pregnancy and angio-oedema
 -  b blockers (olol) (cardioselective) – first line Tx, which decreases cardiac workload
 	- Bisoprolol, carvedilol, metoprolol succinate, nebivolol  
-	- BUT, in acute decompensation, take them off currently because it’s a negative inotrope.
+	- ==BUT, in acute decompensation, take them off currently because it’s a negative inotrope==.
 -   Aldosterone antagonist (one) (NYHA >/= 2) (EF < 35% and still symptomatic)
 	- Spironolactone – RALES trial showed reduction in mortality, rate of hospitalisation and reduction of HF symptoms  
 	- Eplerenone – EPHESUS and EMPHASIS trial showed reduction in all cause and CVS mortality in HF patients 

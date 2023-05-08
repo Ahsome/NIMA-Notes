@@ -26,7 +26,7 @@ Pneumonia acquired outside hospital, or within 72 hours of admission into the ho
 
 ^bb83b6
 
-### *Nosomcomial pneumonia*:
+### *Nosomcomial pneumonia* (including HAP):
 These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*) or *Staph Aureus*
 
 --- 
