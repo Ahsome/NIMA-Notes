@@ -19,23 +19,26 @@ Bronchitis is a...
 # History
 ## Signs
 ### *Symptoms*
-Symptoms include:
-1. Symptom 1
+Signs of bronchitis include:
+- Fever
+- Cough > 5 days
+- Dyspnea
+- Pleuritic chest pain
+- Blood-tinged sputum
 
 ### *Risk factors*:
 Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
+- Often follows previous URI
 
 ### *Questions to ask*
->*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
+>*"Do you notice any cough, fever?"*
+>*"Has the cough been longer than five days"*
+>*"Did you recently have a sore throat? Nasal congestion?"*
 
 ## Examination findings
-| Key Findings     | Result    | Explanation                                                                                                         |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| Finding 1 | Result 1 | Explanation 1    |                                                                                                                     |
+| Key Findings | Result | Explanation   |     |
+| ------------ | ------ | ------------- | --- |
+| CXR          | Normal | This helps differentiates it with [[Pneumonia]], which will show either lobar consolidation or interstitial infiltrates depending on if it is typical or atypical |     |
 
 | Additional Findings         | Result    | Explanation |
 | ---------------- | --------- | ----------- |
