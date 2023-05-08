@@ -119,15 +119,26 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 ##### Bolus-Basal
 A typical regiment includes:
 1. Bolus: Long-acting insulin subcutaneously, OD/BD. It provides 40% of total daily insulin
+| Drug     | Speed        | Duration |
+| -------- | ------------ | -------- |
+| Detemir  | Long-acting  | 16-24hr  |
+| Glargine | Long-acting- | 24-36hr  |
+| Isophane | Intermediate | 18hr     |  |
 2. Basal: Rapid-acting insulin subcut, up-to 15 minutes before food. It provides 60% of total daily insulin
 	1. Can substitute for short-acting, up-to 30 minutes before food.
+
+| Drug     | Speed        | Duration |
+| -------- | ------------ | -------- |
+| Gluisine | Rapid-acting | 3-5hr    |
+| Lispro   | Rapid-acting | 3-4.         |
 
 ##### Lifestyle
 Lifestyle modifications that can be recommended include:
 1. Improve dietary intake
 2. Physical activity, >150 minutes a week
 
-##### Scre
+##### Screening
+There is **no commonly accepted** method for screening for [[Diabetes Mellitus#Type I DM]]
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
