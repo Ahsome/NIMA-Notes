@@ -101,6 +101,8 @@ For patients who are asymptomatic, the follwoing tests are performed::
 ### *Acute issue*
 See  [[Diabetes Mellitus#Complications]] for information regarding [[Diabetes Mellitus#*Diabetic Ketoacidosis*:]]
 
+---
+
 ### *Long-term management*:
 #### *Treatment goals:*
 Treatment goals target lowering of HbA1c, as that exemplifies better control of blood sugar:
@@ -110,9 +112,20 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 
 #### *Type 1 DM management*
 [[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient cannot produce. This is commonly done in three main ways:
-1. Bolus-Basal: Where you have a *basal* insulin level that maintains throughout the day, and a *bolus* level that occurs before a meal
+1. Bolus-Basal: Where you have a *basal* insulin level that maintains throughout the day, and a *bolus* level that occurs before a meal. See [[Diabetes Mellitus#Bolus-Basal]] for specifics of treatment
 2. [[Glossary#^ce5892|CSII]] (Continuous subcutaneous insulin infusion): It uses an external battery-driven pump, containing an insulin reservoir to deliver rapid-acting insulin at a basal rate via a subcutaneous cannula, and the user initiates delivery of bolus doses immediately before meals
 3. Mixed insulin: A mixture of rapid- or short-acting and intermediate-acting insulin is usually given twice daily
+
+##### Bolus-Basal
+A typical regiment includes:
+1. Bolus: Long-acting insulin subcutaneously, OD/BD. It provides 40% of total daily insulin
+2. Basal: Rapid-acting insulin subcut, up-to 15 minutes before food. It provides 60% of total daily insulin
+	1. Can substitute for short-acting, up-to 30 minutes before food.
+
+##### Lifestyle
+Lifestyle modifications that can be recommended include:
+1. Improve dietary intake
+2. Physical activity, >150 minutes a week
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
