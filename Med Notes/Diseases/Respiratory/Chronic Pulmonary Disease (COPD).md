@@ -9,6 +9,18 @@
  
 *Chronic Pulmonary Disease* is an obstructive conditions where emphysema and chronic bronchitis (productive cough for more than 3 months for 2 consecutive years) are the most common conditions.
 
+**Chronic Bronchitis – Blue Bloater**
+- Cyanosis/hypoxemia from shunting (blue)
+- Hypoxemia → pulmonary vasoconstriction
+- Edema from right heart failure 
+
+**Emphysema – Pink Puffer**
+- Loss of alveoli 
+- Loss of surface area for O2 absorption (dead space) 
+- Hyperventilation to compensate (puffer) 
+- Initially this maintains O2 level (pink)
+
+
 ## Pathophysiology
 >[!Important]
 >![[Chronic Pulmonary Disease (COPD)#^f2cca6]]
