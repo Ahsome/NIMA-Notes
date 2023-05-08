@@ -54,10 +54,15 @@ Risk factors include:
 	| Smoking                                                                                           |                                                                                                    |             |
 
 ### *Questions to ask*
+#### Type II:
 >*"Do you notice any increase in your urine output?"*
 >*"Have you been feeling thristy more often?"
 >"*Do you have a family history of diabetes? First relatives?*"
+
+#### Type I:
 >"*Did you have this as a child?*"
+
+#### Gestational:
 >*"Is there any chance you could be pregnant?"*
 
 ---
@@ -66,11 +71,6 @@ Risk factors include:
 | Key Findings         | Result                                     | Explanation   |     |
 | -------------------- | ------------------------------------------ | ------------- | --- |
 | Acanthosis Nigricans | Hyperpigmented plaques in neck and axillae | Associated with insulin resistance, especially in [[Diabetes Mellitus#Type II DM]]<br><br>Can rarely be caused by malignancy (e.g. [[gastric adeonarcinoma]]) |     |
-
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1==
-
 
 ---
 

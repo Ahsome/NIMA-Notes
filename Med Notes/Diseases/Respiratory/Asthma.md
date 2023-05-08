@@ -10,7 +10,7 @@
 
 
 > [!Important]
-- Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after albuterol** ^89389e
+- Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after [[albuterol]]** ^89389e
 - If bronchial obstruction not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease (COPD)]] ^467c50
 - Try to do a CXR to rule out if [[pneumonia]]/infection
 - If PaCO2 is increased during acute asthma attack, patient is having a respiratory attack

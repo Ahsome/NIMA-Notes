@@ -195,7 +195,7 @@ NOT a sign:
 
 # Extra
 ## Textbooks
-1. Davidson's chapter 21, check for [[diabetes mellitus]] signs
+1. Davidson's chapter 21, check for [[Diabetes Mellitus]] signs
 
 ## Sources
 1. Type 2 Diabetes management program, https://www.diabetessociety.com.au/20200908%20T2D%20Management%20Algorithm%2003092020.pdf

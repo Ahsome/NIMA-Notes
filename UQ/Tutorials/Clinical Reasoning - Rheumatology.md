@@ -163,7 +163,7 @@ You look for when serum uric acid level <0.36mmok/L in gout and <0.3 mmol/L in t
 ## Questions:
 
 ### Question 1:
-*Which of the following is not an indication of starting urate lowering therapy (allopurinal)?*
+*Which of the following is not an indication of starting urate lowering therapy ([[allopurinal]])?*
 1. 2 to 3 glout flare ups per year
 2. Glout flare alogn with CKD
 3. Gout along with uric acid nephrolithiasis
