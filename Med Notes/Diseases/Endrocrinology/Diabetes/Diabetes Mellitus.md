@@ -111,7 +111,7 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 #### *Type 1 DM management*
 [[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient cannot produce. This is commonly done in three main ways:
 1. Bolus-Basal: Where you have a *basal* insulin level that maintains throughout the day, and a *bolus* level that occurs before a meal
-2. CSII (Continuous subcutaneous insulin infusion): 
+2. CSII (Continuous subcutaneous insulin infusion): Continuous subcutaneous insulin infusion (CSII) uses an external battery-driven pump, containing an insulin reservoir. The pump continuously delivers rapid-acting insulin at a basal rate via a subcutaneous cannula, and the user initiates delivery of bolus doses immediately before meals
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
