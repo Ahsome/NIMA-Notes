@@ -58,11 +58,10 @@ Risk factors include:
 ## Examination findings
 | Key Findings  | Result                                                                                                              | Explanation |     |
 | ------------- | ------------------------------------------------------------------------------------------------------------------- | ----------- | --- |
-| Consolidation | - Bronchial breath sounds<br>- Dullness to percussion<br>- Increased vocal resonance/fremitus<br>- Egophony present |             |     |
-|               |                                                                                                                     |             |     |
+| Consolidation | - Bronchial breath sounds<br>- Dullness to percussion<br>- Increased vocal resonance/fremitus<br>- Egophony present |             |     |                                                                                                  |             |     |
 
 You can differentiate this with [[Pleural Effusion]], which has similar findings:
-| Pneumonia/Consolidation | Effusion                       |
+| Pneumonia or Consolidation | Effusion                       |
 | ----------------------- | ------------------------------ |
 | Bronchial breath sounds | Decreased/absent breath sounds |
 | Dullness to percussion  | Dullness to percussion         |
