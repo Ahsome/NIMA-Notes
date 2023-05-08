@@ -10,7 +10,7 @@
 Bronchitis is a... 
 
 > [!Important]
-- It does **not need** antibiotics as it is a viral disease. This differentiates it from [[Pneumonia]] ^3d01be
+- Management **not need** antibiotics as it is a viral disease. This differentiates it from [[Pneumonia]] ^3d01be
 
 ## Pathophysiology
 ### *Variant (if applicable)*:

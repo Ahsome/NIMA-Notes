@@ -7,7 +7,7 @@
 
 # Information
  
-*Pneumonia* is lung inflammation caused by bacterial or viral infection, in which air sacs fill with pus and may become solid
+*Pneumonia* is lung inflammation caused by bacterial infection, in which air sacs fill with pus and may become solid
 
 > [!Important]
 - It is important to know the typical and atypical causes of community acquired pneumonia. See [[Pneumonia#^bb83b6]]
@@ -18,6 +18,9 @@
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):
+
+^3f21f8
+
 Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. It is also called *Lobar Pneumonia*, as it normally only affects the lobes. The following are the common bacterial causes:
 | Typical     | Atypical   |
 | ----------- | ---------- |
@@ -56,7 +59,7 @@ This is pneumonia due to aspiration of bacteria (commonly [[Klebsiella]] or [[S.
 ### *Symptoms*
 | Typical CAP          | Atypical CAP                  | Aspiration Pneumonia |
 | -------------------- | ----------------------------- | -------------------- |
-| Fever                | Fever (milder)                | Foul-smelling sputum                     |
+| Fever                | Fever (milder)                | Foul-smelling sputum (due to aspiration of gastric content)                     |
 | Cough                | Cough (milder)                |                      |
 | Dyspnea              | Dyspnea (milder)              |                      |
 | Pleuritic chest pain | Pleuritic chest pain (milder) |                      |
@@ -74,7 +77,8 @@ Risk factors include:
 ### *Questions to ask*
 >*"Do you notice any fever? Cough?"*
 >*"Do you have pain when you breath in?"
->*"*Any recent history of surgery with anaesthetics? Drink recently? Any seizures?"* See aspiration pneumonia risk factors - [[Pneumonia#*Risk factors*:]]
+>*"*Any recent history of surgery with anaesthetics? Drink recently? Any seizures?"* See [[Pneumonia#*Risk factors*:]] of Aspiration Pneumonia 
+>*"Was the flem a very foul smell?"* See [[Pneumonia#*Symptoms*]] of Aspiration Pneumonia
 
 ---
 
@@ -91,10 +95,6 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 | Increased fremitus      | Decreased fremitus             |
 | Egophony present        | Egophony present                               |
 
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
-
 ---
 
 ## Investigations
@@ -109,7 +109,7 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 
 | Additional Tests | Result                           | Explanation                                                                                                     |
 | ---------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Sputum culture   | Test for bacterial cause         | Not needed since Abx used are broad spectrum and cover most causes. See [[Pneumonia#^bb83b6]] for common causes |
+| Sputum culture   | Test for bacterial cause         | Not needed since Abx used are broad spectrum and cover most causes. See [[Pneumonia#*Community acquired pneumonia* (CAP):]] for common causes |
 | Calcitonin       | Increased in bacterial lower RTI | Serum biomaker, sometimes used for diagnosis or guide therapy                                                                                                                |
 
 ---
