@@ -7,7 +7,7 @@
 
 # Information
  
-**Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called Type I DM, or a *lack of response to insulin*, called Type II DM. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness
+**Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called Type I DM, or a *lack of response to insulin*, called Type II DM. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
 
 > [!Important]
 - Important point
@@ -19,8 +19,10 @@
 # History
 ## Signs
 ### *Symptoms*
-Symptoms include:
-1. Symptom 1
+| Symptom    | Reasoning                     |
+| ---------- | ----------------------------- |
+| Polyuria   | Osmotic diuresis from glucose entering urine |
+| Polydipsia | Thirst to replace lost fluids                              |
 
 ### *Risk factors*:
 Risk factors include:
@@ -41,9 +43,11 @@ Risk factors include:
 | ---------------- | --------- | ----------- |
 | Finding 1 | Result 1 | Explanation 1
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+### *Symptomatic*:
+For patients with symptoms (polyuria, polydispia, DKA), the following test are performed:
+| Key Tests | Result      | Explanation   |
+| --------- | ----------- | ------------- |
+| Glucose   | >= 200mg/dl | Increased glucose levels due to not being controlled by insulin. |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
