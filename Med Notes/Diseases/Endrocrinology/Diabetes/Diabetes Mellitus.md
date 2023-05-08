@@ -69,9 +69,9 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 | --------- | ----------- | ------------- |
 | Glucose   | >= 200mg/dl | Increased glucose levels due to not being controlled by insulin. |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+| Additional Tests | Result           | Explanation   |
+| ---------------- | ---------------- | ------------- |
+| Urine dipstick   | Glucose in urine | Due to excretion from polydipsia |
 
 ### *Asymptomatic*:
 For patients who are asymptomatic, the follwoing tests are performed::
@@ -99,16 +99,16 @@ For patients who are asymptomatic, the follwoing tests are performed::
 
 
 ### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
+See  [[Diabetes Mellitus#Complications]] for information regarding [[Diabetes Mellitus#*Diabetic Ketoacidosis*:]]
 
 ### *Long-term management*:
 #### *Treatment goals:*
 Treatment goals target lowering of HbA1c, as that exemplifies better control of blood sugar:
-1. Type I DM target <7.0%
-2. Type II DM target <7.0% for average adult, <8.0% for older patients
+1. [[Diabetes Mellitus#*Type I DM*]] target <7.0%
+2. [[Diabetes Mellitus#*Type II DM*]] target <7.0% for average adult, <8.0% for older patients
 	1. The reason is you want to avoid hypoglycemia, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
 
+#### *Type 1 DM management*
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
@@ -120,7 +120,7 @@ Example for Asthma:
 ---
 
 # Complications
-1. Complications of disease
+## *Diabetic Ketoacidosis*:
 
 ---
 
