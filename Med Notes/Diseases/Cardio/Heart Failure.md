@@ -8,12 +8,12 @@
 # Information
 *Decompensated heart failure* (chronic) can be divided into two types:
 
-**1. *Heart failure preserved ejection fraction (HFpEF)* –** LV EF > 50%
+**1. *Heart failure preserved ejection fraction (HFpEF)* –** ==LV EF > 50%==
 - Diastolic dysfunction 
 - Clinically, a patient displays signs and symptoms of RHS heart failure, but on echo, have a normal ejection fraction. 
 - **Potentially**, the pathology resides in the mitral valve, left atrium, pulmonary vasculature or right ventricle?
 
-**2. *Heart failure reduced ejection fraction (HFrEF)* –** LV EF < 50%
+**2. *Heart failure reduced ejection fraction (HFrEF)* –** ==LV EF < 50%==
 - Systolic dysfunction
 - Usually has gradually dilating left ventricle chamber and has pumping defects.
 
