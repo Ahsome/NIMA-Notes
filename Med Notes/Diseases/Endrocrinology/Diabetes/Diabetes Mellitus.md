@@ -10,15 +10,20 @@
 **Diabetes Mellitus** is a chronic disorder of **elevated blood glucose** levels. It can be either caused by a *lack of insulin*, also called [[Diabetes Mellitus#*Type I DM*:]], or a *lack of response to insulin*, called [[Diabetes Mellitus#*Type II DM*:]]. It has many known **long-term complications**, from vascular, kidney, neuropathic, and blindness. It is often called the *"Silent Killer"*, due to a lack of symptoms until complications
 
 > [!Important]
+- [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution, peaking at 4-6yo and 10-14yo
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 
 ## Pathophysiology
-### *Type I DM*:
-Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insuli
+### *Type I DM*
+Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insulin. It has a multifactorial etiology (See [[Diabetes Mellitus#*Risk factors*:]])
 
-### *Type II DM*:
+It commonly affects **children**, and has a bimodial distribution:
+1. First peak: 4-6 years
+2. Second peak: 10-14 yeas
 
-### *Gestational DM*:
+### *Type II DM*
+
+### *Gestational DM*
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
 --- 
@@ -32,12 +37,16 @@ Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glos
 
 ### *Risk factors*:
 Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
+| Type 1     | Type 2 | Gestational |
+| ---------- | ------ | ----------- |
+| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo   |        | Pregnancy   |
+| Envionment |        |             |
+| **Family history** (Major)           |        |             |
 
 ### *Questions to ask*
->*"Do you notice any ???"*
+>*"Do you notice any increase in your urine output?"*
+>*"Have you been feeling thristy more often?"
+>"*Do you have a family history of diabetes?*"
 >*"Any history of ???"* See - [[Link to relavent article]]
 
 ---
@@ -68,7 +77,7 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 For patients who are asymptomatic, the follwoing tests are performed::
 | Key Tests                                           | Result | Explanation                                                      |
 | --------------------------------------------------- | ------ | ---------------------------------------------------------------- |
-| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin.<br><br>Commonly used in Gestational Diabetes, as fasting glucose and A1c not reliable due to expected insulin resistance in pregnancy |
+| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin.<br><br>Commonly used in [[Diabetes Mellitus#*Gestational DM*:]], as fasting glucose and A1c not reliable due to expected insulin resistance in pregnancy |
 | Hemoglobin A1c                                      | - <5.7% (Normal)<br>- 5.7%-6.4% (Prediabetes)<br>- >6.5% (Diabetes)  | Reflects fraction of hemoglobin glycated over **past three months**                                                                 |
 | Fasting blood glucose level  ([[Glossary#^43c2a7\|NBM]] 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
 
