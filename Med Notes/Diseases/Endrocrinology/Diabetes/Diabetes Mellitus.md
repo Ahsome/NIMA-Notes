@@ -109,6 +109,7 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 	1. The reason is you want to avoid hypoglycemia, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
 
 #### *Type 1 DM management*
+[[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient 
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*

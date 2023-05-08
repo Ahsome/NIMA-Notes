@@ -8,5 +8,6 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "- Meta -/Attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "showLineNumber": false
 }

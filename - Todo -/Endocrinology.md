@@ -8,7 +8,7 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Diabetes mellitus
+- [ ] [[Diabetes mellitus]]
 - [ ] Hyperthyroidism & Hypothyroidism
 - [ ] Osteoporosis
 
