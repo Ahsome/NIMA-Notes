@@ -14,14 +14,14 @@
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 
 ## Pathophysiology
-### *Type I DM*
+### Type I DM
 Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insulin. It has a multifactorial etiology (See [[Diabetes Mellitus#*Risk factors*:]])
 
 It commonly affects **children**, and has a bimodial distribution:
 1. First peak: 4-6 years
 2. Second peak: 10-14 yeas
 
-### *Type II DM*
+### Type II DM
 
 ### *Gestational DM*
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
@@ -104,14 +104,15 @@ See  [[Diabetes Mellitus#Complications]] for information regarding [[Diabetes Me
 ### *Long-term management*:
 #### *Treatment goals:*
 Treatment goals target lowering of HbA1c, as that exemplifies better control of blood sugar:
-1. [[Diabetes Mellitus#*Type I DM*]] target <7.0%
-2. [[Diabetes Mellitus#*Type II DM*]] target <7.0% for average adult, <8.0% for older patients
+1. [[Diabetes Mellitus#Type I DM]] target <7.0%
+2. [[Diabetes Mellitus#Type II DM]] target <7.0% for average adult, <8.0% for older patients
 	1. The reason is you want to ***avoid hypoglycemia***, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
 
 #### *Type 1 DM management*
 [[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient cannot produce. This is commonly done in three main ways:
 1. Bolus-Basal: Where you have a *basal* insulin level that maintains throughout the day, and a *bolus* level that occurs before a meal
-2. CSII (Continuous subcutaneous insulin infusion): Continuous subcutaneous insulin infusion (CSII) uses an external battery-driven pump, containing an insulin reservoir. The pump continuously delivers rapid-acting insulin at a basal rate via a subcutaneous cannula, and the user initiates delivery of bolus doses immediately before meals
+2. [[Glossary#^ce5892|CSII]] (Continuous subcutaneous insulin infusion): It uses an external battery-driven pump, containing an insulin reservoir to deliver rapid-acting insulin at a basal rate via a subcutaneous cannula, and the user initiates delivery of bolus doses immediately before meals
+3. Mixed insulin: A mixture of rapid- or short-acting and intermediate-acting insulin is usually given twice daily
 
 ## Criteria
 ### *Insert test severity or score (e.g. Chad-Vacs)*
