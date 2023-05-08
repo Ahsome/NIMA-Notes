@@ -74,10 +74,8 @@ Acquired risk:
 	- Right bundle branch block – extreme right heart strain 
 	- S1Q3T3
 
-
-
 **WELLS SCORE (pre-test probability):**
-![[Pasted image 20230508114241.png]]
+![[Pulmonary Embolus (PE)#^5959fa]]
 
 ---
 
@@ -118,15 +116,19 @@ Haemodynamically stable PE treatment:
 
 Haemodynamically unstable PE (MASSIVE PE) treatment:
 - Thrombolysis – use alteplase or tenectaplase, which are recombinant tissue plasminogen activators.
-- ![[Pasted image 20230508131456.png]]
+- ![[Pasted image 20230508131456.png]] ^2cf6f2
 -   Embolectomy – indicated in patients who are contraindicated for thrombolysis or those in which thrombolysis was unsuccessful.
 	- Catheter directed methods  
 	- Surgical embolectomy – usually only done in large hospitals with experienced staff. High mortality, especially in the elderly.
 - Anticoagulation – if patient is successfully thrombolysed and becomes haemodynamically stable again.
 
 
-
+## Criteria
+### Well-Score (Probability):
+![[Pasted image 20230508114241.png]]
 ---
+
+^5959fa
 
 # Complications
 1. Death
