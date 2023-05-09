@@ -13,7 +13,7 @@
 - [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution in **children**, peaking at 4-6yo and 10-14yo ^a5d260
 - [[Diabetes Mellitus#Type II DM]] commonly affects adults with insidous onset. It is more dependant on **family history** and **obesity** ^6386e4
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
-- Calculating eGFR and Alb/Cr ratio from urine dipstick (See [[Diabetes Mellitus#Investigations]]) is critical for identifying [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. See [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] for how to calculate risk of [[Chronic Kidney Disease]]
+- Calculating eGFR and Alb/Cr ratio from urine dipstick (See [[Diabetes Mellitus#Investigations]]) is critical for identifying [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. See [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] for how to calculate risk of [[Chronic Kidney Disease]] ^65f830
 
 ## Pathophysiology
 ### Type I DM
@@ -111,6 +111,8 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 | Albumin/Creatine Ration<br>- Urine dipstick | Male<br>- <2.5 Normal<br>- 2.5-2.5 Microalbumin<br>- 25+ Macroalbumin<br><br>Female<br>- 3.5 Normal<br>- 3.5-35 Microalbumin<br>- 35+ Macroalbumin | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Do in conjunction with eGFR |
 | eGFR                                        | Normal to reduced                                                                                                                                  | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Do in conjunction with Alb/Cr ratio.                                                                                                  |
 
+>[!Important]
+>![[Diabetes Mellitus#^65f830]]
 
 | Additional Tests | Result           | Explanation                      |
 | ---------------- | ---------------- | -------------------------------- |
@@ -138,10 +140,40 @@ For patients who are asymptomatic, the follwoing tests are performed::
 # Management
 ## Treatments
 ### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
+1. [[Metformin]] (first line)
+2. [[SGLT-2]] inhibitors
+	1. Empaglyphosen
+	2. Dapaglyphosen
+	3. Have cardio/renal protective effect
+	4. Reduce morbidity
+	5. Tell you will pee a lot
+3. Sulpha
+	1. Glicozine
+	2. Gliperimide
+	3. Associated with weight gain
+4. DPP4
+	1. Linagiptan
+	2. Saxsagiptane
+		1. Causes HF
+5. Acarbose
+	1. Helps reduce absorption of fluid, you poo it out
+6. Glitazones:
+	1. Rozaglitazone
+	2. Piglitazone
+	3. Not used because increased [[Heart Failure]]
+7. GLP1 inhibitors
+	1. Semaglatide
+		1. Ozempic - Brand name
+	2. Liraglatide
+	3. Massive reduction of HbA1c
+	4. Reduces weight loss and apetite
+8. Insulin
+	1. Basal insulin
+	2. Bolus insuline
+	3. Mixed insuline
+		1. Short acting
+		2. Intermediate
+		3. Long acting
 
 ---
 
@@ -215,10 +247,8 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 ---
 
 ## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
-
+### Risk of Chronic Kiney Disease:
+![[Pasted image 20230509235933.png]]
 ^6df757
 
 ---
@@ -227,7 +257,7 @@ Example for [[Asthma]]:
 ## Complication of *Disease*:
 1. Microvascular
 	1. Retinopothy
-	2. Neprophothy ^cae015
+	2. Neprophothy: Important to identify the risk of [[Chronic Kidney Disease]]. This can be calculated:![[Pasted image 20230509235933.png]] ^cae015
 	3. Neuropothy
 2. Macrovascular
 	1. IHD
