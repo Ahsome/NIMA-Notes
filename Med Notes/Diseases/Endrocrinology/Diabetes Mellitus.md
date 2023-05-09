@@ -210,14 +210,28 @@ Example for [[Asthma]]:
 ---
 
 # Complications:
+## Complication of *Disease*:
+1. Microvascular
+	1. Retinopothy
+	2. Neprophothy
+	3. Neuropothy
+2. Macrovascular
+	1. IHD
+	2. Stroke/CVD
+	3. PVD
+		1. Ulcers on legs?
+		2. Blocks in your legs?
+		3. Claudication/pain quicly when using legs?
+3. Autonomic
+	1. Postural hypotension
+	2. Gastropoeresis (low motility)
+	3. Erectile dysfunction
 
-| Microvascular | Macrovascular       | Autonomic            |
-| ------------- | ------------------- | -------------------- |
-| Diabetic Retinopothy   | IHD                 | Postural hypotension |
-| Diabetic Nepropathy    | Stroke/CVD          | Gastropoeresis       |
-| Diabetic Neuropathy    | PVD (Ulcers/Blocks) | Erectile dysfunction                     |
-
-
+## Complication of *Treatment*
+1. Hypoglycemia
+2. Hyperglycemia
+	1. DKA
+	2. HHSe4
 
 ---
 
