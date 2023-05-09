@@ -7,6 +7,6 @@
 ---
 # Clinical scenarions
 ## Information:
-1. You get to prep about a case beforehand
+1. You get to prep about a case beforehand, 5 minutes reading time
 2. 15 minutes of questions will be asked
 	1. Questions are set, so you can prep. Check Blackboard
