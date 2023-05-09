@@ -39,11 +39,12 @@ It commonly affects **children**
 # History
 ## Signs
 ### *Symptoms*
-| Symptom              | Reasoning                                    |
-| -------------------- | -------------------------------------------- |
-| Polyuria             | Osmotic diuresis from glucose entering urine |
-| Polydipsia           | Thirst to replace lost fluids                |
-| Sudden hyperglycemia | Common sign in [[Diabetes Mellitus#Type I DM]]                                             |
+| Symptom              | Reasoning                                      |
+| -------------------- | ---------------------------------------------- |
+| Polyuria             | Osmotic diuresis from glucose entering urine   |
+| Polydipsia           | Thirst to replace lost fluids                  |
+| Sudden hyperglycemia | Common sign in [[Diabetes Mellitus#Type I DM]] |
+| Blurry visuals       | Due to [[Diabetes Mellitus#Diabetic Neuropathy]]                                               |
 
 >[!Important]
 >![[Diabetes Mellitus#^a5d260]]
@@ -59,15 +60,20 @@ Risk factors include:
 	| Smoking                                                                                           |                                                                                                    |             |
 
 ### *Questions to ask*
-#### Type II:
+#### Monitoring:
+See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when assessing current management of Diabetes
+
+
+#### Diagnosis:
+##### Type II:
 >*"Do you notice any increase in your urine output?"*
 >*"Have you been feeling thristy more often?"
 >"*Do you have a family history of diabetes? First relatives?*"
 
-#### Type I:
+##### Type I:
 >"*Did you have this as a child?*"
 
-#### Gestational:
+##### Gestational:
 >*"Is there any chance you could be pregnant?"*
 
 ---
@@ -127,6 +133,8 @@ Treatment goals target lowering of HbA1c, as that exemplifies better control of 
 1. [[Diabetes Mellitus#Type I DM]] target <7.0%
 2. [[Diabetes Mellitus#Type II DM]] target <7.0% for average adult, <8.0% for older patients
 	1. The reason is you want to ***avoid hypoglycemia***, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
+
+#### *Monitoring*
 
 #### *Type 1 DM management*
 ##### Summary:
@@ -193,7 +201,9 @@ Example for [[Asthma]]:
 ---
 
 # Complications
-## *Diabetic Ketoacidosis*:
+## Diabetic Ketoacidosis:
+
+## Diabetic Neuropathy
 
 ---
 
