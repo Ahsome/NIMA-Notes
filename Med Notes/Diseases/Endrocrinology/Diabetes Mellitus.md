@@ -104,10 +104,11 @@ See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when ass
 ## Investigations
 ### *Symptomatic*:
 For patients with symptoms (polyuria, polydispia, DKA), the following test are performed:
-| Key Tests      | Result                 | Explanation                                                      |
-| -------------- | ---------------------- | ---------------------------------------------------------------- |
-| Glucose        | >= 200mg/dl            | Increased glucose levels due to not being controlled by insulin. |
-| Urine dipstick | Albumin/Creatine ratio | Can help identify [[Diabetes Mellitus^]]                                                                 |
+| Key Tests                                   | Result                 | Explanation                                                                                                                                                  |
+| ------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Glucose                                     | >= 200mg/dl            | Increased glucose levels due to not being controlled by insulin.                                                                                             |
+| Albumin/Creatine Ration<br>- Urine dipstick | Male<br>- <2.5 Normal<br>- 2.5-2.5 Microalbumin<br>- 25+ Macroalbumin<br><br>Female<br>- 3.5 Normal<br>- 3.5-35 Microalbumin<br>- 35+ Macroalbumin | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] |
+|                                             |                        |                                                                                                                                                              |
 
 | Additional Tests | Result           | Explanation                      |
 | ---------------- | ---------------- | -------------------------------- |
@@ -224,7 +225,7 @@ Example for [[Asthma]]:
 ## Complication of *Disease*:
 1. Microvascular
 	1. Retinopothy
-	2. Neprophothy
+	2. Neprophothy ^cae015
 	3. Neuropothy
 2. Macrovascular
 	1. IHD
