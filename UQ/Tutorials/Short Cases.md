@@ -14,6 +14,8 @@
 
 ## Case 1:
 1. Order CT PA after Troponin comes back first
+2. Positive troponin levels: Concerning for NSTEMI or STEMI. No ECG so cannot choose either. Not likely to be unstable angina
+3. "*10 times the upper limit of normal*"
 
 # Long case:
 ## Information:
