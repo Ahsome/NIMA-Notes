@@ -63,13 +63,13 @@ Risk factors include:
 #### Monitoring:
 See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when assessing current management of Diabetes
 
-| Current Presentation                                                          | Monitoring |
-| ----------------------------------------------------------------------------- | ---------- |
-| What type of diabetes?                                                        |      HbA1C levels      |
-| Date of diagnosis?                                                            |            |
-| Risk factors?                                                                 |            |
-| Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] |            |
-| Oral vs Insulin vs Non-Insulin Injectibles?                                   |            |                                                                              |            |
+| Current Presentation                                                          | Monitoring                                 |     |     |
+| ----------------------------------------------------------------------------- | ------------------------------------------ | --- | --- |
+| What type of diabetes?                                                        | HbA1C levels                               |     |     |
+| Date of diagnosis?                                                            | If not, constant/flash glucose monitoring? |     |     |
+| Risk factors?                                                                 | Self monitoring<br>- Fasting<br>- Pre-lunch<br>- Pre-dinner                                           |     |     |
+| Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] |                                            |     |     |
+| Oral vs Insulin vs Non-Insulin Injectibles?                                   |                                            |     |     |
 
 #### Diagnosis:
 ##### Type II:
