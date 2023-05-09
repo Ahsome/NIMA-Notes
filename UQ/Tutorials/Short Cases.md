@@ -24,6 +24,9 @@
 2. Positive troponin levels: Concerning for NSTEMI or STEMI. No ECG so cannot choose either. Not likely to be unstable angina
 3. "*10 times the upper limit of normal*"
 
+## Case 2:
+1. Gastro can cause DKA
+
 # Long case:
 ## Information:
 1. Look at investigations as Bed Side, Bloods, and Imaging
