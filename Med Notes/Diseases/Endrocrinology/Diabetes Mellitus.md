@@ -88,22 +88,33 @@ See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when ass
 ---
 
 ## Examination findings
-| Key Findings         | Result                                     | Explanation   |     |
-| -------------------- | ------------------------------------------ | ------------- | --- |
-| Acanthosis Nigricans | Hyperpigmented plaques in neck and axillae | Associated with insulin resistance, especially in [[Diabetes Mellitus#Type II DM]]<br><br>Can rarely be caused by malignancy (e.g. [[gastric adeonarcinoma]]) |     |
+| Key Findings          | Result                                     | Explanation                                                                                                                                                   |     |
+| --------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Acanthosis Nigricans  | Hyperpigmented plaques in neck and axillae | Associated with insulin resistance, especially in [[Diabetes Mellitus#Type II DM]]<br><br>Can rarely be caused by malignancy (e.g. [[gastric adeonarcinoma]]) |     |
+| Peripheral Neuropathy | Reduced sensation to monofilament bilaterally                                           |                                                                                                                                                               |     |
+
+| Additional Findings | Result           | Explanation |
+| ------------------- | ---------------- | ----------- |
+| Arthritis           | Severe Arthritis |             |
+| Joint inflammation  | Prayer sign      |             |
+| Bruising            | Increased in stomach                 |             |
 
 ---
 
 ## Investigations
 ### *Symptomatic*:
 For patients with symptoms (polyuria, polydispia, DKA), the following test are performed:
-| Key Tests | Result      | Explanation   |
-| --------- | ----------- | ------------- |
-| Glucose   | >= 200mg/dl | Increased glucose levels due to not being controlled by insulin. |
+| Key Tests      | Result                 | Explanation                                                      |
+| -------------- | ---------------------- | ---------------------------------------------------------------- |
+| Glucose        | >= 200mg/dl            | Increased glucose levels due to not being controlled by insulin. |
+| Urine dipstick | Albumin/Creatine ratio | Can help identify [[Diabetes Mellitus^]]                                                                 |
 
-| Additional Tests | Result           | Explanation   |
-| ---------------- | ---------------- | ------------- |
+| Additional Tests | Result           | Explanation                      |
+| ---------------- | ---------------- | -------------------------------- |
 | Urine dipstick   | Glucose in urine | Due to excretion from polydipsia |
+| eGFR             |                  |                                  |
+| LFT              |                  |                                  |
+| Fasting LFT                 |                  |                                  |
 
 ### *Asymptomatic*:
 For patients who are asymptomatic, the follwoing tests are performed::
