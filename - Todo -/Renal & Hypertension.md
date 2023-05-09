@@ -9,7 +9,7 @@
 ### *Expected knowledge*
 #### Know in depth
 - [ ] Acute kidney injury
-- [ ] Chronic kidney disease
+- [x] Chronic kidney disease
 - [ ] Urinary tract infection
 - [ ] Hyperkalaemia and hypokalaemia
 

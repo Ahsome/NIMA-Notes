@@ -8,9 +8,11 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] [[Diabetes Mellitus]]
+- [x] [[Diabetes Mellitus]]
+	- [ ] DKA / HSS
 - [ ] Hyperthyroidism & Hypothyroidism
 - [ ] Osteoporosis
+- [ ] Obesity / Cushing's disease
 
 #### Know principles
 - [ ] Hyponatraemia 

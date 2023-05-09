@@ -180,7 +180,7 @@ It is thought that the **glomerular hypertrophy** and **intraglomerular hyperten
 	- Frusemide
 	- Fluid and salt restriction
 -   Anaemia – LOSS OF EPO! **Anaemia of chronic disease, normochromic normocytic anaemia**.
-	- **==EPO injections?==**  
+	- **==EPO injections?==**  recombinant human EPO, but you need iron for a good response, so make sure iron levels are also good!
 	- Blood transfusions?
 -   Mineral and bone density disorders (renal osteodystrophy) – hyperphosphatemia occurs because of a failure to filter and sets off a cascade that leads to renal osteodystrophy. Hyperphosphatasemia will result in the precipitation of serum calcium, causing hypocalcaemia. PTH (secondary and eventually tertiary hyperparathyroid) compensates by increasing bone resorption.
 	- Furthermore, decreased in vitamin D (calcitriol) production will also result in reduced calcium absorption, further causing hypocalcaemia. This further propagates the secondary parathyroidism and propagates bone resorption.
@@ -217,7 +217,6 @@ It is thought that the **glomerular hypertrophy** and **intraglomerular hyperten
 7. Abnormal calcium  and phosphate (hyperparathyroidism) - DENOSUMAB, not bisphosphonates
 	- Untreated hyperparathyroidism leads to renal osteodystrophy
 	- Osteitis fibrosa cystica (bone cysts)
-	- 
 
 ---
 

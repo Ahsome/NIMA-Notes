@@ -8,7 +8,7 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Anaemia
+- [x] Anaemia
 - [ ] Common malignancies (breast, lung, colorectal & melanoma)
 
 #### Know principles

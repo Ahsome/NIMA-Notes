@@ -10,7 +10,7 @@
 #### Know in depth
 - [ ] Sepsis & septic shock
 - [ ] Bacterial meningitis
-- [ ] [[Pneumonia]] and other respiratory tract infections
+- [x] [[Pneumonia]] and other respiratory tract infections
 - [ ] Urinary tract infections
 - [ ] Skin and soft tissue infections (e.g. cellulitis)
 - [ ] Diabetic foot infections
