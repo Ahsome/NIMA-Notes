@@ -105,7 +105,7 @@ Uraemia - Any n/v? Any confusion or loss of sensation (encephalopathy and neurop
 What was the level of protein in your urine? Do you know the number?
 Do you know your UCR?
 What medications are you on currently? - check for triple whammy
-Do you have heart failure / heart complications?
+Do you have [[heart failure]] / heart complications?
 Any recent weight loss? Dehydration? Diarrhoea/vomitting?
 Any BPH/bladder cancer or low urine output?*
 

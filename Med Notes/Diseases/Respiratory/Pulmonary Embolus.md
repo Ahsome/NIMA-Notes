@@ -32,21 +32,15 @@ Symptoms include:
 
 ### *Risk factors*:
 Risk factors include:
-Inherited risk:
--   Factor V Leiden
--   Protein C/S deficiency
--   Antiphospholipid syndrome
--   Prothrombin gene mutation
-
-Acquired risk:
--   Recent surgery
--   Pregnancy and giving birth
--   Immobilisation (recent plane travel)
--   Recent initiation of hormone replacement therapy
--   Smoking
--   Active cancer
--   Obesity
-
+| Acquired risk                                    | Inherited risk            |
+| ------------------------------------------------ | ------------------------- |
+| Recent surgery                                   | Factor V Leiden           |
+| Pregnancy/Birth                                  | Protein C/S deficiency    |
+| Immobalisation (recent plane travel)             | Antiphospholid syndrome   |
+| Recent initiation of hormone replacement therapy | Prothrombin gene mutation |
+| Smoking                                          |                           |
+| Active cancer                                    |                           |
+| Obseity                                                 |                           |
 
 ## Examination findings
 -   Tachypnoea
@@ -118,7 +112,7 @@ Initial ED management:
 Haemodynamically stable PE treatment:
 -   Empirical anticoagulation – according to the HAS-BLED score, low bleeding risk patients will need anticoagulation to prevent extension of the clot.  
 	- Enoxaparin/clexane (LMWH) used initially. NOACs can also be used.
-	- NOACs or warfarin is used as a more long-term agent. Warfarin is better in renal failure patients.
+	- NOACs or warfarin is used as a more long-term agent. Warfarin is better in renal failure patients and those with antiphospholipid syndrome
 -   IVC filter – is indicated in patients who have anticoagulation contraindicated
 -   No thrombolysis
 
