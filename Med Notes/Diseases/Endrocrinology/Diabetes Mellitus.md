@@ -185,12 +185,11 @@ See  [[Diabetes Mellitus#Complications]] for information regarding [[Diabetes Me
 ### *Long-term management*:
 #### *Treatment goals:*
 Treatment goals target lowering of HbA1c, as that exemplifies better control of blood sugar:
-1. [[Diabetes Mellitus#Type I DM]] target <7.0%
-2. [[Diabetes Mellitus#Type II DM]] target <7.0% for average adult, <8.0% for older patients
+1. [[Diabetes Mellitus#Type I DM]] target <7.0%, between 5% to 10%
+2. [[Diabetes Mellitus#Type II DM]] target <7.0% for average adult, <8.0% for older patients, between 5% to 10%
 	1. The reason is you want to ***avoid hypoglycemia***, which causes more acute issues. Chronic issues of hyperglycemia is less important with limited life expectancy
 
-#### *Monitoring*
-
+#### Monitoring
 #### *Type 1 DM management*
 ##### Summary:
 [[Diabetes Mellitus#*Type I DM*]] involves the use of insulin to recover what the patient cannot produce. This is commonly done in three main ways:

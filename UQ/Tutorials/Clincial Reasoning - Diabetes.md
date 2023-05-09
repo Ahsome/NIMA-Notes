@@ -111,83 +111,83 @@ NOT~~ a ~~sign:
 4. Alcohol
 5. Dietician
 
-### Examinations:
-#### Hands:
-1. Severe arhtritis
-2. Joint inflammation
-	1. Prayer sign
-3. Check blood pressure
-4. Acanthosis nigricans
-	1. Insulin resistance, so T2 not T1
+### ~~Examinations~~:
+#### ~~Hands~~:
+~~1. Severe arhtritis~~
+~~2. Joint inflammation~~
+	~~1. Prayer sign~~
+~~3. Check blood pressure~~
+~~4. Acanthosis nigricans~~
+	~~1. Insulin resistance, so T2 not T1~~
 
-#### Body:
-1. Easy bruising of tummy
-2. Large person with big belly (cushings)
-3. Rashes
+#### ~~Body:
+1~~. ~~Easy bruising of tummy
+2~~. ~~Large person with big belly (cushings)
+3~~. ~~Rashes
 
-#### Feet:
-1. Peripheral neuropothy
-	1. Reduced sensation to monofilament bilaterally
+#~~#~~#~~# ~~Feet:
+1~~. ~~Peripheral neuropothy
+	1~~. ~~Reduced sensation to monofilament bilaterally
 
-### Investigations:
-#### To conduct:
-1. HbA1c
-2. Antibodies if **young**
-3. eGFR + Urine albmin creatinine ratio
-| Gender | Non  | Microalbumin  | Macroalbumin |
-| ------ | ---- | ------ | ----- |
-| Male   | <2.5 | 2.5-25 | 25    |
-| Female | <3.5 | 3.5-35 | 35      |
-5. LFTs
-6. Fasting lipid profile
+#~~#~~#~~ ~~Investigations:
+##~~## ~~To conduct:
+1~~. ~~HbA1c
+2~~. ~~Antibodies if **young**
+3~~. ~~eGFR + Urine albmin creatinine ratio
+| ~~Gender~~ | Non  | Microalbumin  | Macroalbumin |
+|~~ --~~---- | ---- | ------ | ----- |
+| Male~~   ~~| <2.5 | 2.5-25 | 25    |
+| ~~Female~~ | <3.5 | 3.5-35 | 35      |
+5~~. ~~LFTs
+6~~. ~~Fasting lipid profile~~
 
 
-### Management:
-#### What to do Drugs
-1. Metformin (first line)
-2. SGLT-2 inhibitors
-	1. Empaglyphosen
-	2. Dapaglyphosen
-	3. Have cardio/renal protective effect
-	4. Reduce morbidity
-	5. Tell you will pee a lot
-3. Sulpha
-	1. Glicozine
-	2. Gliperimide
-	3. Associated with weight gain
-4. DPP4
-	1. Linagiptan
-	2. Saxsagiptane
-		1. Causes HF
-5. Acarbose
-	1. Helps reduce absorption of fluid, you poo it out
-6. Glitazones:
-	1. Rozaglitazone
-	2. Piglitazone
-	3. Not used because increased [[heart failure]]
-7. GLP1 inhibitors
-	1. Semaglatide
-		1. Ozempic - Brand name
-	2. Liraglatide
-	3. Massive reduction of HbA1c
-	4. Reduces weight loss and apetite
-8. Insulin
-	1. Basal insulin
-	2. Bolus insuline
-	3. Mixed insuline
-		1. Short acting
-		2. Intermediate
-		3. Long acting
-9. Lifestyle
-	1. Diet
-	2. Exercise
-	3. No smoking
+### ~~Management~~:
+#### ~~What to do Drugs~~
+~~1. Metformin (first line~~)
+~~2. SGLT-2 inhibitors~~
+	~~1. Empaglyphosen~~
+	~~2. Dapaglyphosen~~
+	~~3. Have cardio/renal protective effect~~
+	~~4. Reduce morbidity~~
+	~~5. Tell you will pee a lot~~
+~~3. Sulpha~~
+	~~1. Glicozine~~
+	~~2. Gliperimide~~
+	~~3. Associated with weight gain~~
+~~4. DPP4~~
+	~~1. Linagiptan~~
+	~~2. Saxsagiptane~~
+		~~1. Causes HF~~
+~~5. Acarbose~~
+	~~1. Helps reduce absorption of fluid, you poo it out~~
+~~6. Glitazones~~:
+	~~1. Rozaglitazone~~
+	~~2. Piglitazone~~
+	~~3. Not used because increased [[heart failure]]~~
+~~7. GLP1 inhibitors~~
+	~~1. Semaglatide~~
+		~~1. Ozempic - Brand name~~
+	~~2. Liraglatide~~
+	~~3. Massive reduction of HbA1c~~
+	~~4. Reduces weight loss and apetite~~
+~~8. Insulin~~
+	~~1. Basal insulin~~
+	~~2. Bolus insuline~~
+	~~3. Mixed insuline~~
+		~~1. Short acting~~
+		~~2. Intermediate~~
+		~~3. Long acting~~
+~~9. Lifestyle~~
+	~~1. Diet~~
+	~~2. Exercise~~
+	~~3. No smoking~~
 10. Build screening
 
 ![[Pasted image 20230504155224.png]]
-#### Targets?
-1. Gluose control aiming for 7 to 7.5%
-2. Guidelines say 5 to 10
+#### ~~Targets~~?
+~~1. Gluose control aiming for 7 to 7.5~~%
+~~2. Guidelines say 5 to 10~~
 3. Blood pressure targets
 	1. More strict if albuminuria
 	2. Use ACEi/ARB as first line
