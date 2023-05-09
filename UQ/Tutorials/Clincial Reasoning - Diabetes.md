@@ -53,20 +53,20 @@ NOT a sign:
 5. How are they managed?
 	1. Orals vs Insulin vs Non-Insulin injectibles
 #### Monotrate
-1. HbA1C?
-2. If not, constant glucose monitor?
-	1. Or Flash glucose monitor?
-3. Self monitored blood glucose readings
-	1. Fasting
-	2. Pre-lunch
-	3. Pre-dinner
-4. Diet?
-	1. Lunch
-	2. Dinner
-5. RMEMBER:
-	1. HbA1c over 6.5%
-	2. Fasting over 7%
-	3. OGTT (2h plasma glucose) 11.1mmol/L
+~~1. HbA1C?
+2. I~~f not, constant glucose monitor?
+	1. ~~Or Flash glucose monitor?
+3. ~~Self monitored blood glucose readings
+	1. ~~Fasting
+	2. ~~Pre-lunch
+	3. ~~Pre-dinner
+4. ~~Diet?
+	1. ~~Lunch
+	2. ~~Dinner
+5. ~~RMEMBER:
+	1. ~~HbA1c over 6.5%
+	2. ~~Fasting over 7%
+	3. ~~OGTT (2h plasma glucose) 11.1mmol/L
 
 #### Complications of disease
 1. Microvascular

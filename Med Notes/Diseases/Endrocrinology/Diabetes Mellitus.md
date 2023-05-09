@@ -63,13 +63,14 @@ Risk factors include:
 #### Monitoring:
 See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when assessing current management of Diabetes
 
-| Current Presentation                                                          | Monitoring                                 |     |     |
-| ----------------------------------------------------------------------------- | ------------------------------------------ | --- | --- |
-| What type of diabetes?                                                        | HbA1C levels                               |     |     |
-| Date of diagnosis?                                                            | If not, constant/flash glucose monitoring? |     |     |
-| Risk factors?                                                                 | Self monitoring<br>- Fasting<br>- Pre-lunch<br>- Pre-dinner                                           |     |     |
-| Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] |                                            |     |     |
-| Oral vs Insulin vs Non-Insulin Injectibles?                                   |                                            |     |     |
+| Current Presentation                                                          | Monitoring                                                  |     |     |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------- | --- | --- |
+| What type of diabetes?                                                        | HbA1C levels                                                |     |     |
+| Date of diagnosis?                                                            | If not, constant/flash glucose monitoring?                  |     |     |
+| Risk factors?                                                                 | Self monitoring<br>- Fasting<br>- Pre-lunch<br>- Pre-dinner |     |     |
+| Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] | Diet? For lunch and dinner                                  |     |     |
+| Oral vs Insulin vs Non-Insulin Injectibles?                                   |                                                             |     |     |
+
 
 #### Diagnosis:
 ##### Type II:
@@ -107,9 +108,9 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 For patients who are asymptomatic, the follwoing tests are performed::
 | Key Tests                                           | Result | Explanation                                                      |
 | --------------------------------------------------- | ------ | ---------------------------------------------------------------- |
-| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >200mg/dL    | Increased glucose levels due to not being controlled by insulin.<br><br>Commonly used in [[Diabetes Mellitus#*Gestational DM*:]], as fasting glucose and A1c not reliable due to expected insulin resistance in pregnancy |
+| 2hr Plasma Glucose + 75g [[Glossary#^089fdb\|OGTT]] |    >11.1mmol/L    | Increased glucose levels due to not being controlled by insulin.<br><br>Commonly used in [[Diabetes Mellitus#*Gestational DM*:]], as fasting glucose and A1c not reliable due to expected insulin resistance in pregnancy |
 | Hemoglobin A1c                                      | - <5.7% (Normal)<br>- 5.7%-6.4% (Prediabetes)<br>- >6.5% (Diabetes)  | Reflects fraction of hemoglobin glycated over **past three months**                                                                 |
-| Fasting blood glucose level  ([[Glossary#^43c2a7\|NBM]] 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)       |                                                                  |
+| Fasting blood glucose level  ([[Glossary#^43c2a7\|NBM]] 8hr)                       | - <100mg/dl (Normal)<br>- 100-120mg/dl (Prediabetes)<br>- 126+ mg/dl (Diabetes)<br>Over 7%???       |                                                                  |
 
 | Additional Tests                     | Result    | Explanation   |
 | ------------------------------------ | --------- | ------------- |
