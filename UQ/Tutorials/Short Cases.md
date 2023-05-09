@@ -11,6 +11,13 @@
 2. 15 minutes of questions will be asked
 	1. Questions are set, so you can prep. Check Blackboard
 3. They will give normal CXR sometimes
+4. Initial management:
+	1. Admit to patient
+	2. Anticoag
+5. Long-term:
+	1. Cardiac: Lifestyle, pharmacological and non-pharmacological
+		1. Mention beta blockers, statins
+	2. Diabetic: HbA1c, optimise metformin, insulin checkup
 
 ## Case 1:
 1. Order CT PA after Troponin comes back first
