@@ -1,6 +1,6 @@
 ---
 cssclass: dashboard
-banner: "![[home.jpg]]"
+banner: "![[pine-watt-2Hzmz15wGik-unsplash.jpg]]"
 banner_x: 0.5
 banner_y: 0
 ---

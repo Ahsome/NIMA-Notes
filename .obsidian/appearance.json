@@ -4,6 +4,6 @@
     "dashboard",
     "dashboard-readline"
   ],
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 14
 }
