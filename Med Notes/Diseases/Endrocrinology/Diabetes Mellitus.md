@@ -30,6 +30,11 @@ It commonly affects **adults**, but rates in children have been rising
 ### Gestational DM
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
+### Mature Onset Diabetes of the Young (MODY)
+MODY is a rare form of diabetes due to >3 **changes in genes** disruting insulin production. While [[Diabetes Mellitus#Type I:]] and [[Diabetes Mellitus#Type II DM]] have multifactorial aetiologies, MODY comes from a single change in gene.
+
+It commonly affects **children**
+
 --- 
 # History
 ## Signs
