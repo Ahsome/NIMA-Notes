@@ -63,7 +63,6 @@ Risk factors include:
 #### Monitoring:
 See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when assessing current management of Diabetes
 
-a
 | Current Presentation                                                          | Monitoring                                                  |     |     |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------- | --- | --- |
 | What type of diabetes?                                                        | HbA1C levels                                                |     |     |
@@ -71,7 +70,6 @@ a
 | Risk factors?                                                                 | Self monitoring<br>- Fasting<br>- Pre-lunch<br>- Pre-dinner |     |     |
 | Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] | Diet? For lunch and dinner                                  |     |     |
 | Oral vs Insulin vs Non-Insulin Injectibles?                                   |                                                             |     |     |
-
 
 #### Diagnosis:
 ##### Type II:
@@ -210,9 +208,8 @@ Example for [[Asthma]]:
 ---
 
 # Complications
-## Diabetic Ketoacidosis:
-
-## Diabetic Neuropathy
+1. Diabetic Ketoacidosis
+2. DIabetic Retino
 
 ---
 

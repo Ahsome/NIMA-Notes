@@ -16,42 +16,42 @@
 |                   | LADA               | Type 2            |
 |                   | Type 2             |             |
 
-#### Specific disease:
-MODY:
-1. Less than 25
-2. >3 genes with informaiton
-3. Treat with sulfa
+#### ~~Specific disease~~:
+~~MODY~~:
+~~1. Less than 25~~
+~~2. >3 genes with informaiton~~
+~~3. Treat with sulfa~~
 
-LADA:
-1. Above 25, did not have Type 1 as kid
+~~LADA:
+1~~. ~~Above 25, did not have Type 1 as kid
 
-### Signs of diabetes
-1. Visual blurring
-3. Pokydipsia
-4. Nocturia
-5. Fatigue
+#~~#~~#~~ ~~Signs of diabetes
+1~~. ~~Visual blurring
+3~~. ~~Pokydipsia
+4~~. ~~Nocturia
+5~~. ~~Fatigue
 
-NOT a sign:
-1. Diarrohea
+NOT~~ a ~~sign:
+1. ~~Diarrohea~~
 
-### History
-#### Presentations:
-1. What type of diabetes?
-2. Date of diagnosis?
-3. Risk factors?
-	1. Autoimmune conditions, helps with T1DM
-	2. CVD risk factors from family
-	3. Intergenerational diabetes, likely to have young diabetes
-4. Investigations?
-	1. HbA1c?
-	2. Oral glucose tolerance test
-	3. Insulin antibodies?
-		1. GIZ of Type 1
-			1. GAD
-			2. IA2
-			3. Zn8 transporter
-5. How are they managed?
-	1. Orals vs Insulin vs Non-Insulin injectibles
+##~~# ~~History~~
+#### ~~Presentations~~:
+~~1. What type of diabetes~~?
+~~2. Date of diagnosis~~?
+~~3. Risk factors~~?
+	~~1. Autoimmune conditions, helps with T1DM~~
+	~~2. CVD risk factors from family~~
+	~~3. Intergenerational diabetes, likely to have young diabetes~~
+~~4. Investigations~~?
+	~~1. HbA1c~~?
+	~~2. Oral glucose tolerance test~~
+	~~3. Insulin antibodies~~?
+		~~1. GIZ of Type 1~~
+			~~1. GAD~~
+			~~2. IA2~~
+			~~3. Zn8 transporter~~
+~~5. How are they managed~~?
+	~~1. Orals vs Insulin vs Non-Insulin injectibles~~
 #### Monotrate
 ~~1. HbA1C?
 2. I~~f not, constant glucose monitor?
