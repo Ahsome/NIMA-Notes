@@ -13,6 +13,7 @@
 - [[Diabetes Mellitus#*Type I DM*]] has a bimodal distribution in **children**, peaking at 4-6yo and 10-14yo ^a5d260
 - [[Diabetes Mellitus#Type II DM]] commonly affects adults with insidous onset. It is more dependant on **family history** and **obesity** ^6386e4
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
+- Calculating eGFR and Alb/Cr ratio from urine dipstick (See [[Diabetes Mellitus#Investigations]]) is critical for identifying [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. See [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] for how to calculate risk of [[Chronic Kidney Disease]]
 
 ## Pathophysiology
 ### Type I DM
@@ -104,11 +105,12 @@ See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when ass
 ## Investigations
 ### *Symptomatic*:
 For patients with symptoms (polyuria, polydispia, DKA), the following test are performed:
-| Key Tests                                   | Result                 | Explanation                                                                                                                                                  |
-| ------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Glucose                                     | >= 200mg/dl            | Increased glucose levels due to not being controlled by insulin.                                                                                             |
-| Albumin/Creatine Ration<br>- Urine dipstick | Male<br>- <2.5 Normal<br>- 2.5-2.5 Microalbumin<br>- 25+ Macroalbumin<br><br>Female<br>- 3.5 Normal<br>- 3.5-35 Microalbumin<br>- 35+ Macroalbumin | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] |
-|                                             |                        |                                                                                                                                                              |
+| Key Tests                                   | Result                                                                                                                                             | Explanation                                                                                       |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Glucose                                     | >= 200mg/dl                                                                                                                                        | Increased glucose levels due to not being controlled by insulin.                                  |
+| Albumin/Creatine Ration<br>- Urine dipstick | Male<br>- <2.5 Normal<br>- 2.5-2.5 Microalbumin<br>- 25+ Macroalbumin<br><br>Female<br>- 3.5 Normal<br>- 3.5-35 Microalbumin<br>- 35+ Macroalbumin | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Do in conjunction with eGFR |
+| eGFR                                        | Normal to reduced                                                                                                                                  | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Do in conjunction with Alb/Cr ratio.                                                                                                  |
+
 
 | Additional Tests | Result           | Explanation                      |
 | ---------------- | ---------------- | -------------------------------- |
