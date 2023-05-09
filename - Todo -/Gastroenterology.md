@@ -10,7 +10,7 @@
 #### Know in depth
 - [ ] Cirrhosis and chronic liver disease (including common causes)
 - [ ] Jaundice and cholestasis
-- [ ] Upper and lower GI bleedin
+- [ ] Upper and lower GI bleeding
 
 #### Know principles
 - [ ] Inflammatory bowel disease

@@ -27,7 +27,7 @@ Type II DM is a complex disorder of **insulin resistance**. This leads to hyperl
 
 It commonly affects **adults**, but rates in children have been rising
 
-### *Gestational DM*
+### Gestational DM
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
 --- 

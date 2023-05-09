@@ -9,10 +9,10 @@
 ### *Expected knowledge*:
 #### Know in depth
 - [ ] ACS and angina
-- [ ] [[Heart failure]]
+- [x] [[Heart failure]]
 - [ ] Valvular heart disease
 - [ ] Arrhythmia
-- [ ] Venous thromboembolism and pulmonary embolism
+- [x] Venous thromboembolism and pulmonary embolism
 
 #### Know principles
 - [ ] Infective endocarditis
