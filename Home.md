@@ -2,7 +2,7 @@
 cssclass: dashboard
 banner: "![[pine-watt-2Hzmz15wGik-unsplash.jpg]]"
 banner_x: 0.5
-banner_y: 0
+banner_y: 0.548
 ---
 
 # Family

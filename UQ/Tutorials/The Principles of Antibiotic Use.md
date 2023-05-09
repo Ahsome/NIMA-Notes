@@ -8,7 +8,7 @@
 To help cure the patient themself of an infectious disease, but no undue danger to:
 - Patient
 - Environment
-- Pocket
+- Pocket [[Home]]
 
 10 Principles of Antibiotic
 1. Is an antibiotic **indicated**
