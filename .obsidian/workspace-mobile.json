@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "eb53b3a6771a0bb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c7aee14f96b4c09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edf986e57100745c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft notes/2023-05-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79c15acc2544c320",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "85d6e13ce9dddbf2",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "56b5798ad01fc230",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "179d1c65849e1f18",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "afe44d946fd54c9b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7a6e3332164bc44e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4cf864aeccf168bc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Draft notes/2023-05-09.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "498e9c39392dbfc4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Draft notes/2023-05-09.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a94577e7e6b39745",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Draft notes/2023-05-09.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "edf986e57100745c",
+  "lastOpenFiles": [
+    "Draft notes/2023-05-08.md",
+    "Draft notes/2023-05-09.md",
+    "Med Notes/Diseases/Respiratory/Chronic Pulmonary Disease (COPD).md",
+    "Draft notes",
+    "Untitled.md"
+  ]
+}
