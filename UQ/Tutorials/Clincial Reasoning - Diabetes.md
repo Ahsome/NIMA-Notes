@@ -126,8 +126,8 @@ NOT~~ a ~~sign:
 3~~. ~~Rashes
 
 #~~#~~#~~# ~~Feet:
-1~~. ~~Peripheral neuropothy
-	1~~. ~~Reduced sensation to monofilament bilaterally
+~~1~~. ~~Peripheral neuropothy~~
+	~~1~~. ~~Reduced sensation to monofilament bilaterally~~
 
 #~~#~~#~~ ~~Investigations:
 ##~~## ~~To conduct:
