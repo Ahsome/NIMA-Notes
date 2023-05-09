@@ -63,6 +63,7 @@ Risk factors include:
 #### Monitoring:
 See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when assessing current management of Diabetes
 
+a
 | Current Presentation                                                          | Monitoring                                                  |     |     |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------- | --- | --- |
 | What type of diabetes?                                                        | HbA1C levels                                                |     |     |
