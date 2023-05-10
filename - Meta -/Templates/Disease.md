@@ -68,6 +68,6 @@ title = await tp.system.prompt("Title");
 
 # Extra
 ## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
+1. 
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...

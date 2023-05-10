@@ -10,5 +10,10 @@ CSII: Continuous subcutaneous insulin infusion (CSII) uses an external battery-d
 
 Ambulatory Blood Pressure Monitor: Used to measure blood pressure while mobile, when clinic blood pressure may not represent average BP ^dd845f
 
+## *Incomplete:*
+Arthroscopic drainage:??? ^8bf549
+
+Arthrotomy:??? ^c75edf
+
 # Endocrinology
 Stress hyperglycemia: Increased levels of glucose due to the effect of cortisol and adrenaline, normally due to a stressor or illness ^8fbeef

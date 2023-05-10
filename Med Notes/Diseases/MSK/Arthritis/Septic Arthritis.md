@@ -63,7 +63,12 @@ Symptoms are **acute**, and **monoarthritic**:
 
 # Management
 ## Initial management
-Initial management involves b
+Initial management involves **blood cultures** and **synovial fluid analysis**. These should be done *before* antibiotics are involved. Synovial fluid analysis should show WBC cound > 50,000 -> 150,000. It should also be gram stained and cultured
+
+Afterwards, treatment:
+1. **Joint drainage** should be conducted
+	1. In easy joints, utilise seriel aspiration, similar to management of an [[Abscess]]
+	2. If hard joint, utilise [[Glossary#^8bf549|Arthroscopic drainage]] or [[Glossary#^c75edf|Arthrotomy]]
 
 ## Drug overview
 
