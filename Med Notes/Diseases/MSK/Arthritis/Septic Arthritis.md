@@ -17,9 +17,16 @@ It is usually mono-bacterial. Causes include:
 3. Neisseria gonorrhoeae in sexually active patients
 4. Gram-negative rods
 
+## Prosthetic joint:
+Prosthetic joint can cause [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] with different microbiology:
+1. Early onset (<3 months after surgery): [[Staph. Aureus]], gram-negative rods
+2. Delayed onset (3 to 12 months): **Coagulase-negative staphlyococci** or enteroccoci
+3. Late onset (>12 months): [[Staph. Aureus]], ram-negative bacilli, streptococci
+
 > [!Important]
 - Symptoms occur **acutely**, and primarily are monoarthritic, specifically the **knee**. This differentiates it from [[Osteoarhritis]] and [[Rheumatoid Arthritis]] ^1c8b1c
 - Blood cultures and synovial fluid analysis should occur *before* antibiotics are given
+- Microbiology differns when infection of a [[#Prosthetic joint:]]. If delayed onset from surgery (3-12 months), likely **Coagulase-negative staphylococci** ^2cfd83
 
 --- 
 # History
@@ -40,10 +47,15 @@ Symptoms are **acute**, and **monoarthritic**:
 	3. [[Med Notes/DIseases/MSK/Arthritis/Gout]]
 2. IV drug use, can introduce bacteria
 3. Immunosuppression including diabetes
+4. **Prosthetic joint**
+
+>[!Important]
+>![[#^2cfd83]]
 
 ### Questions to ask
 >*"Do you notice any previous joint disease?"*
 >*"Do you take any illicit drugs?"*
+>*"Is it a prosthetic joint?"*
 
 ---
 
