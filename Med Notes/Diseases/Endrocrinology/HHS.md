@@ -58,16 +58,10 @@ Risk factors include:
 
 # Management
 ## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
-
 
 ### *Acute issue*
 #### *Management*:
-1. Steps for managing acutely
+1. Admit to ICU - life-threatening
 
 ### *Long-term issue*
 Steps for manaing long-term:
