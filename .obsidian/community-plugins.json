@@ -1,6 +1,5 @@
 [
   "obsidian-plugin-toc",
-  "table-editor-obsidian",
   "obsidian-dynamic-toc",
   "obsidian-icon-folder",
   "templater-obsidian",
@@ -11,5 +10,7 @@
   "obsidian-git",
   "obsidian-version-history-diff",
   "short-internal-links-to-headings",
-  "dataview"
+  "dataview",
+  "obsidian-banners",
+  "obsidian-smarter-md-hotkeys"
 ]
