@@ -6,7 +6,7 @@
 ---
 
 # Information
-Gout is a... 
+Gout is a joint
 
 > [!Important]
 - Important point
