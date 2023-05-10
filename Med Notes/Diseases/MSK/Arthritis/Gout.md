@@ -135,7 +135,24 @@ Can also use:
 ## Prevention
 Prevention focuses on two major methods:
 1. Lifestyle:
-	1. Weight loss and exercise reduce serum urat
+	1. Weight loss and exercise reduce serum urate and risk of flares
+	2. Moderation of:
+		1. Red meat intake
+		2. Seafood intake
+		3. Alcohol intake
+2. Pharacological use:
+	1. Indicated for frequent attacks, tophi/structural damage, and renal insufficiency (CrCl <60mL/minute)
+
+### Pharmacological use:
+1. [[Allopurinol]]: First line therapy
+	1. Xanthine oxidase inhibitor, which converrs hypoxnthine into uric acid
+	2. Target urate level <6mg/dL
+	3. May cause rash, leukopenia/thrombocytopenia or diarrhea
+	4. ***Must administer [[Colchicine]] when starting***
+		1. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup
+2. Febuxostat:
+	1. Alternative to [[Allopurinal]], also xanthine oxidase inhibitor
+
 
 
 ## Criteria
