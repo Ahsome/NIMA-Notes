@@ -39,7 +39,7 @@ Secondary has some known cause:
 	- Pheochromocytoma
 
 ### White coat hypertension
-Hypertension only in the clinic, likely due to stress of being in a hospital setting
+Hypertension only in the clinic, likely due to stress of being in a hospital setting. This can be solved utilising a [[Glossary#^dd845f|Ambulatory Blood Pressure Monitor]]
 
 ---
 
@@ -121,7 +121,11 @@ Drug choices include:
 1. Hydralazine
 2. Esmolol
 3. Nitroprusside
-	1. 
+	1. Short-acting IV strong antihypertensive
+	2. Smooth muscle relaxation
+		1. Decreases afterload (arteriolar dilation)
+		2. Decreases preload (venous dilation)
+	3. Can lead to **cyanide toxicity** due to containing multiple cyanide groups per molecule
 4. Labetalol
 5. Clevidipine or Nicardipine
 
