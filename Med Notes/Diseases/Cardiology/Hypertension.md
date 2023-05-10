@@ -12,7 +12,8 @@ Hypertension is increase blood pressure in a patient, and it is dependent on age
 **Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage
 
 ## Hypertensive Emergency:
-**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage.
+**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage. This can lead to the following issues:
+![[#^]]
 
 
 > [!Important] 
@@ -98,12 +99,14 @@ Initial choices include:
 3. Dihydropyridine calcium channel blockers
 
 Compelling indications: ^39a12c
+
 | Indication                      | Drug                   | Reasoning                     |
 | ------------------------------- | ---------------------- | ----------------------------- |
 | Prior [[Myocardial Infarction]] | [[Beta-blocker]]       | Helps with heart function     |
 | [[Diabetes Mellitus]]           | [[ACEi]] or [[ARB]]    | Renal protective              |
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
+[ Renal Issues ]
 
 ### Hypertensive Urgency
 Hypertensive 
@@ -115,10 +118,22 @@ Issues that can occur due to HTN:
 - Stroke
 - Heart disease
 	- MI
-	- Heart failure
+	- [[Heart Failure]]
 - [[Chronic Kidney Disease]]
 - Aortic aneurysm
 - Aortic dissection
+
+Issues that can occur due to [[#Hypertensive Emergency:]]: ^a08539
+
+| Issues                  | Examples            |
+| ----------------------- | ------------------- |
+| Neurological impairment | Retinal hemorrhages |
+| ^^                      | Encephalopathy      |
+| Renal imapirment       | Acute renal failure |
+| ^^                      | Hematuria           |
+| ^^           |   Proteinuria                  | 
+| Cardiac                 | Cardiac Ischemia    |
+
 
 ---
 
