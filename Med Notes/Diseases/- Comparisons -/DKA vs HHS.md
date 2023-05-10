@@ -1,4 +1,5 @@
 [[Diabetic Ketoacidosis (DKA)]] and [[HHS]] can both occur after management of diabetes:
+
 | DKA                              | HHS                            |
 | -------------------------------- | ------------------------------ |
 | Decreased PH                     | Normal PH                      |
