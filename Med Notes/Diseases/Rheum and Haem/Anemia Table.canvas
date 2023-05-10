@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"type":"text","text":"Examination of FBC","id":"8aac8a4c68979410","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"Examination of FBC","id":"465af3c77f735d14","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"MCV <80","id":"49a804a75ef6716b","x":-125,"y":80,"width":250,"height":60},
+		{"type":"file","file":"Med Notes/Diseases/Rheum and Haem/Microcytic Anaemia.md","id":"6f31a3c4562aac43","x":-200,"y":200,"width":400,"height":100}
+	],
+	"edges":[
+		{"id":"98887a37e40c286f","fromNode":"465af3c77f735d14","fromSide":"bottom","toNode":"49a804a75ef6716b","toSide":"top"},
+		{"id":"933dae0345d51105","fromNode":"49a804a75ef6716b","fromSide":"bottom","toNode":"6f31a3c4562aac43","toSide":"top"}
+	]
+}

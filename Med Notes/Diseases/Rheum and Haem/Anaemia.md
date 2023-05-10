@@ -9,6 +9,8 @@
  
 Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness.
 
+![[Anemia Table.canvas|Anemia Table]]
+
 ![[Pasted image 20230509094418.png]]
 
 ![[Pasted image 20230509102331.png]]
