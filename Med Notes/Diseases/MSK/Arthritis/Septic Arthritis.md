@@ -11,18 +11,33 @@
 2. Contiguous spread ([[Osteomyelitis]])
 3. Direct inoculation
 
-It is useually mono-bacterial. Causes include:
+It is usually mono-bacterial. Causes include:
 1. [[Staph. Aureus]] including MRSA
-2. S
+2. Streptococci
+3. Gram-negative rods
 
 > [!Important]
-- Important point
+- Symptoms occur **acutely**, and primarily are monoarthritic, specifically the **knee**. This differentiates it from [[Osteoarhritis]] and [[Rheumatoid Arthritis]] ^1c8b1c
 
 --- 
 # History
 ### Symptoms
+Symptoms are **acute**, and **monoarthritic**:
+1. Single, swollen, painful join
+2. Fever
+3. Knee is most common join
+	1. Less commonly wrists, ankles, or hips
+
+>[!Important]
+>![[#^1c8b1c]]
 
 ### Risk factors:
+1. Pre-existing joint disease. These include:
+	1. [[Osteoarhritis]]
+	2. [[Rheumatoid Arthritis]]
+	3. [[Med Notes/DIseases/MSK/Arthritis/Gout]]
+2. IV drug use, can introduce bacteria
+3. Immunosuppression including diabetes
 
 ### Questions to ask
 >*"Do you notice any ???"*
