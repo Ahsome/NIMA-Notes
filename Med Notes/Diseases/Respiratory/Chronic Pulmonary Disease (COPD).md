@@ -38,7 +38,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 > [!Important]
 - Acute respiratory failure (type 2) with acidosis, hypercapnia and hypoxaemia can be a worst case scenario presentation. ^f2cca6
 - COPD is defined by FEV1/FVC ratio <0.70 ^fc0233
-- Oxygen dependence, administration of CPAP/BiPAP, cachexia, functional decompensation, comorbidities (esp [[heart failure]]) and respiratory failure (type 2) are all indicators for poor prognosis in COPD.
+- Oxygen dependence, administration of CPAP/BiPAP, cachexia, functional decompensation, comorbidities (esp [[Heart Failure]]) and respiratory failure (type 2) are all indicators for poor prognosis in COPD.
 
 # History
 ## Signs
@@ -69,7 +69,7 @@ Infectious exacerbations of COPD – constitute about 70% of all exacerbations.
 - ABG – assess for evidence of respiratory failure, respiratory acidosis etc.
 	- Decreased pO2 with or without hypercapnia
 - D dimer and CTPA – if there is reasonable suspicion of a DVT and PE.
-- BNP, TTE etc – if there is reasonable suspicion that [[heart failure]] is the cause of worsening dyspnoea
+- BNP, TTE etc – if there is reasonable suspicion that [[Heart Failure]] is the cause of worsening dyspnoea
 >[!Important]
 >![[Chronic Pulmonary Disease (COPD)#^fc0233]]
 

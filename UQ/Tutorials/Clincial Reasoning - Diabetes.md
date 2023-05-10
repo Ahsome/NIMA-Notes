@@ -164,7 +164,7 @@ NOT~~ a ~~sign:
 ~~6. Glitazones~~:
 	~~1. Rozaglitazone~~
 	~~2. Piglitazone~~
-	~~3. Not used because increased [[heart failure]]~~
+	~~3. Not used because increased [[Heart Failure]]~~
 ~~7. GLP1 inhibitors~~
 	~~1. Semaglatide~~
 		~~1. Ozempic - Brand name~~

@@ -163,7 +163,7 @@ The following steps should be conducted:
 ---
 
 ### *Long-term management*:
-#### Overal:
+#### Overall:
 1. Treatment goals target lowering of HbA1c, as that exemplifies better control of blood sugar:
 	1. [[Diabetes Mellitus#Type I DM]] target <7.0%, between 5% to 10%
 	2. [[Diabetes Mellitus#Type II DM]] target <7.0% for average adult, <8.0% for older patients, between 5% to 10%

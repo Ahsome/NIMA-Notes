@@ -8,15 +8,7 @@
 # Information
 Hypertension is increase blood pressure in a patient, and it is dependent on age, cormobidities, past medical history, genetics, lifestyle factors etc.
 
-### Hypertensive Urgency
-**Hypertensive urgency** is severe hypertension without end-organ damage
-There is no agreed upon BP value, ususually >180/120. See [[#^f27c31|Complications with Hypertensive Emergency]]
-
-### Hypertensive Emergency
-**Hypertensive emergency** is severe hypertension with end-organ damage. The most common cause is due to longstanding HTN who stops meds
-
-### Malignant Hypertension:
-**Malignant hypertension** is a [[#Hypertensive Emergency]] that occurs with papilledema.
+**Hypertensive urgency**
 
 > [!Important] 
 - Diagnosis of hypertension *requires* **more than one** measurement ^4dbc79
@@ -64,10 +56,7 @@ Diagnosis of hypertension _requires_ **more than one** measurement
 | Stage II        | \> 140    | or  | \> 90   |
 | Hypertensive    | \> 180    | or  | \> 120      |
 
-If the blood pressure is >180/120, this can be either a [[#Hypertensive Emergency]]
- or [[#Hypertensive Urgency]].
- 
-### Comorbidities:
+### Complications:
 | Test             | Disease                                  |
 | ---------------- | ---------------------------------------- |
 | HbA1c            | [[Diabetes Mellitus]]                    |
@@ -97,7 +86,7 @@ Others include:
 2. Sodium restriction
 3. Alcohol limitation
 
-#### Pharmacological management:
+### Pharmacological management:
 Initial choices include:
 1. [[Thiazide]] diuretics
 2. [[ACEi]], [[ARB]]
@@ -111,21 +100,12 @@ Compelling indications: ^39a12c
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              |
 
-### Hypertensive Emergency:
-Treatment should involve **gradual reduction in blood pressure** to <160/100:
-- MAP reduced no more than 25% to 30% in first 2hr
-- Otherwise, a rapid reduction will cause ischemia
-
-Drug choices include (all IV):
-- Hydralazine
-- Esmelol
-- Nitroprusside
-- Labetalol
-- Clevidipine or Nicardipine
+### Hypertensive Urgency
+Hypertensive 
 
 --- 
 
-## Complications:
+## Contraindications:
 Issues that can occur due to HTN:
 - Stroke
 - Heart disease
@@ -134,15 +114,6 @@ Issues that can occur due to HTN:
 - [[Chronic Kidney Disease]]
 - Aortic aneurysm
 - Aortic dissection
-
-Issues that occur due to [[#Hypertensive Emergency]]: ^f27c31
-- Neurological impairment
-	- Retinal hemorrhages
-	- Encephalopathy
-- Renal impairment
-	- Acute renal failure
-	- Hematuria, prteinuria
-- Cardiac ischemia
 
 ---
 
@@ -220,9 +191,3 @@ Example for [[Asthma]]:
 1. Complications of disease
 
 ---
-
-# Extra
-## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...

@@ -9,7 +9,7 @@
  
 Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness.
 
-![[Pasted image 20230509094418.png]]
+![[Pasted image 20230509094418.png]] ^d5658c
 
 ![[Pasted image 20230509102331.png]]
 
@@ -76,6 +76,7 @@ Risk factors include:
 | High transferrin in iron-deficiency anaemia |                                                                                                                         | Body is trying to sequester more iron from stores                                                       |
 | Low transferrin in ACD                                            |                                                                                                                         |   Body is not sequestering iron from stores                                                                                                      |
 
+![[Anaemia#^d5658c]]
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
