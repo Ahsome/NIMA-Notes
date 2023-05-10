@@ -23,6 +23,7 @@ This can lead to the following issues:
 - Diagnosis of hypertension *requires* **more than one** measurement ^4dbc79
 - Screen every patient with new onset hypertension, and utilise pharmacologies if relevant indications exist. See [[Hypertension#Inital screening:]] and [[#^976242|Management > Compelling Indications]]
 - Initial treatment should always be **lifestyle** factors. Only choose pharmacology after an attempt. See [[Hypertension#Initial management:]]
+- [[#Hypertensive Urgency:]] require taking any missed antihypertensives, while [[#Hypertensive Emergency:]] require specific BP reduction. See [[#Sudden Hypertension:]] for management.
 
 ---
 
@@ -85,7 +86,7 @@ It can be done via a [[Glossary#^dd845f|Ambulatory Blood Pressure Monitor]] for 
 There should be an initial screening for any [[Hypertension#Complications|Complications and comorbid conditions]]. See [[Hypertension#Complications|Investigations > Complications]]
 
 ### Treatment:
-Initial management should always be **lifestyle modification**, focused on **weight loss**. This is the most effective intervention. Pharmacological comes when lifestyle is restricted, or there are [[Hypertension#^39a12c|compelling indications]]
+Initial management should always be **lifestyle modification**, focused on **weight loss**. This is the most effective intervention. Pharmacological comes when lifestyle is restricted, or there are [[#^976242|compelling indications]]
 
 The second most effective intervention is the **DASH diet**. See [[Hypertension#DASH diet:|DASH diet table]]:
 - Vegetables, fruits
@@ -114,7 +115,7 @@ Compelling indications: ^39a12c
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
 
 ### Sudden Hypertension:
-Managing a *sudden hyperension* that has symptoms (i.e. [[#Hypertensive Urgency:]] or [[#Hypertensive Emergency]] requires a **gradual reduction** in blood pressure:
+Managing a *sudden hyptension* that has symptoms (i.e. [[#Hypertensive Urgency:]] or [[#Hypertensive Emergency]] requires a **gradual reduction** in blood pressure:
 1. The MAP cannot reduce more than 25% to 30% in the first two hours
 2. A rapid reduction results in ischemia and damage
 3. The goal is <160/100mmHg
@@ -129,7 +130,7 @@ If the patient does not take antihypertensives or did not miss a dose, use the f
 	1. Slower, so use in less severe cases
 
 For a [[#Hypertensive Emergency:]], the use of drug therapy is recommended as it is a life-threatening situation. The following IV drugs are recommended:
-3. Nitroprusside
+1. Nitroprusside
 	1. Short-acting IV strong antihypertensive
 	2. Smooth muscle relaxation
 		1. Decreases afterload (arteriolar dilation)
@@ -161,10 +162,11 @@ Issues that can occur due to [[#Hypertensive Emergency:]]: ^a08539
 | ----------------------- | ------------------- |
 | Neurological impairment | Retinal hemorrhages |
 | ^^                      | Encephalopathy      |
-| Renal imapirment       | Acute renal failure |
+| Renal imapirment        | Acute renal failure |
 | ^^                      | Hematuria           |
-| ^^           |   Proteinuria                  | 
+| ^^                      | Proteinuria         |
 | Cardiac                 | Cardiac Ischemia    |
+| Respiratory             | Pulmonary Oedema                    |
 
 ^12e30a
 
