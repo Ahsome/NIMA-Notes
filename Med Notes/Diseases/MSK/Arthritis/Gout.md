@@ -47,6 +47,8 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 ### Risk factors:
 1. Hyperuricemia
 2. Genetics
+	1. Lesch-Nyhan Syndrome: Ezyme (HGPRT) defect in purine salvage pathway
+	2. Von Gierke's Disease: Glycogen Storage disease. Leads to lactic acidosis, promotes urate reabsoprtion
 3. Cool temperature
 	1. Comes from most distal locations of the body, aids in precipitation of crystals
 4. Obese males
@@ -145,24 +147,13 @@ Prevention focuses on two major methods:
 	1. Indicated for frequent attacks, tophi/structural damage, and renal insufficiency (CrCl <60mL/minute)
 
 ### Pharmacological use:
-1. [[Allopurinol]]: First line therapy
-	1. Xanthine oxidase inhibitor, which converrs hypoxnthine into uric acid
-	2. Target urate level <6mg/dL
-	3. May cause rash, leukopenia/thrombocytopenia or diarrhea
-	4. ***Must administer [[Colchicine]] when starting***
-		1. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup
-2. [[Febuxostat]]:
-	1. Alternative to [[Allopurinal]], also xanthine oxidase inhibitor
-3. [[Probenecid]]
-	1. Uricosuric drug: Promotes urate excretion
-4. [[Pegloticase]]
-	1. Recombinant form of uricase, which breaks down urate
-	2. Used for severe, refractory gout
-
-| Drug        | Function                                                                                                                                                                                                                                                               | Indication         | Symptoms                                         |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
-| Allopurinal | Xanthine oxidase inhibitor, which convers hypoxnthine into uric acid<br>Target urate level <6mg/dL<br><br>***Must administer [[Colchicine]] when starting***. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup | First line therapy | Rash<br>:Leukopenia/thrombocytopenia<br>Diarrhea |
-| Febuxostat  | Xanthine oxidase inh                                                                                                                                                                                                                                                                       |                    |                                                  |
+| Drug        | Function                                                                                                                                                                                                                                                               | Indication              | Symptoms                                         |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------ |
+| [[Allopurinal]] | [[Xanthine oxidase inhibitor]], prevents hypoxanthine into uric acid<br>Target urate level <6mg/dL<br><br>***Must administer [[Colchicine]] when starting***. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup | First line therapy      | Rash<br>Leukopenia/thrombocytopenia<br>Diarrhea |
+| [[Febuxostat]]  | [[Xanthine oxidase inhibitor]]                                                                                                                                                                                                                                             | Newer than allopurinol  |                                                  |
+| [[Probenecid]]  | Uricosuric drug: Promotes urate excretion                                                                                                                                                                                                                              |                         |                                                  |
+| [[Pegloticase]] | Recombinant uricase: Breaks down urate                                                                                                                                                                                                                                 | Severe, refractory gout |                                                  |
+| [[Rasburicase]] | Recombinant uricase                                                                                                                                                                                                                                                    |                         |                                                  |
 
 It is important to note that Xanthine oxidase inhibotrs prevent the metabolis of [[Azathioprine]] and [[6-MP]], important chemo drugs. As such, it may boost its effect and cause toxicity
 
