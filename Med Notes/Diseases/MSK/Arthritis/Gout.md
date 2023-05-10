@@ -6,19 +6,35 @@
 ---
 
 # Information
-Gout is a joint disorder where **Monosodium urate**
+Gout is a joint disorder where **Monosodium urate** is deposited in joints, most commonly the **base of great toe (podagra)**. They come from uric acid in the blood binding to sodium, forming crystals. This triggers an **inflammatorary response**, and causes *acute recurrent attacks of arthritis*
+
+It depends on the following the following:
+1. Hyperuricemia
+2. Genetics
+3. Cool temperatures
 
 > [!Important]
-- Important point
+- It most commonly affects the base of great toe ()
 
 --- 
 # History
 ### Symptoms
+Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthritic:
+1. Severe joint pain
+2. Redness
+3. Swelling
+4. Warmth
+
+It normaly
 
 ### Risk factors:
+1. Hyperuricemia
+2. Genetics
+3. Cool temperature
 
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice any redness or swelling in the joint?"*
+>"*Do you notice that you get repeat attacks of this?*"
 
 ---
 

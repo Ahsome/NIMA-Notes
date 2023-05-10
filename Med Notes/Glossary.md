@@ -17,3 +17,7 @@ Arthrotomy:??? ^c75edf
 
 # Endocrinology
 Stress hyperglycemia: Increased levels of glucose due to the effect of cortisol and adrenaline, normally due to a stressor or illness ^8fbeef
+
+
+# Anatomy
+## Feet:
