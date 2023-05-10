@@ -9,10 +9,10 @@
 Hypertension is increase blood pressure in a patient, and it is dependent on age, cormobidities, past medical history, genetics, lifestyle factors etc.
 
 ### Hypertensive Urgency:
-**Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage
+**Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage, but can still cause symptoms such as headache and nausea
 
 ### Hypertensive Emergency:
-**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage.
+**Hypertensive Emergency** is severe hypertension (>220/140) *with* end-organ damage.
 This can lead to the following issues:
 ![[#^12e30a]]
 
@@ -113,11 +113,13 @@ Compelling indications: ^39a12c
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
 
-### Hypertensive Urgency
-Managing a [[#Hypertensive Emergency:]] requires a **gradual reduction** in blood pressure:
+### Sudden Hypertension:
+Managing a *sudden hyperension* that has symptoms (i.e. [[#Hypertensive Urgency:]] or [[#Hypertensive Emergency]] requires a **gradual reduction** in blood pressure:
 1. The MAP cannot reduce more than 25% to 30% in the first two hours
 2. A rapid reduction results in ischemia and damage
 3. The goal is <160/100mmHg
+
+Options for a [[#Hypertensive Urgency:]] include:
 
 Drug choices include:
 1. Hydralazine
