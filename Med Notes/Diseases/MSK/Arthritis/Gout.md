@@ -30,6 +30,7 @@ It is urate crystals in *connective tissues*:
 - **Do not confuse** [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]] nodules as [[#Tophaceous gout:]]. These come from longstanding hyperuricemia
 - Urate is mostly excreted via Kidneys and Urine. As such, reduction in GFR is a trigger for gout
 - Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]]) ^76ceac
+- Allopurinol/Febuxostat can increase toxicity of chemo agents ([[Azathioprine]], [[6-MP]]) as they prevent their breakdown ^23da28
 
 --- 
 # History
@@ -150,10 +151,23 @@ Prevention focuses on two major methods:
 	3. May cause rash, leukopenia/thrombocytopenia or diarrhea
 	4. ***Must administer [[Colchicine]] when starting***
 		1. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup
-2. Febuxostat:
+2. [[Febuxostat]]:
 	1. Alternative to [[Allopurinal]], also xanthine oxidase inhibitor
+3. [[Probenecid]]
+	1. Uricosuric drug: Promotes urate excretion
+4. [[Pegloticase]]
+	1. Recombinant form of uricase, which breaks down urate
+	2. Used for severe, refractory gout
 
+| Drug        | Function                                                                                                                                                                                                                                                               | Indication         | Symptoms                                         |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ |
+| Allopurinal | Xanthine oxidase inhibitor, which convers hypoxnthine into uric acid<br>Target urate level <6mg/dL<br><br>***Must administer [[Colchicine]] when starting***. Otherwise, decrease in uric acid can precipitate a flareup. [[Colchicine]] needed to prevent the flareup | First line therapy | Rash<br>:Leukopenia/thrombocytopenia<br>Diarrhea |
+| Febuxostat  | Xanthine oxidase inh                                                                                                                                                                                                                                                                       |                    |                                                  |
 
+It is important to note that Xanthine oxidase inhibotrs prevent the metabolis of [[Azathioprine]] and [[6-MP]], important chemo drugs. As such, it may boost its effect and cause toxicity
+
+>[!Important]
+>![[#^23da28]]
 
 ## Criteria
 ### Example severity/test score:
