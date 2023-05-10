@@ -35,6 +35,7 @@ DKA occurs mainly in patients with type 1 diabetes. However, it is also seen in 
 
 ### *Risk factors*:
 Risk factors include:
+- T1DM, but also T2DM
 - Not taking insulin
 - Gastroenteritis 
 - MI
@@ -90,7 +91,7 @@ Risk factors include:
 	- ==K+ supplementation (esp < 3)== – insulin will not only shunt glucose into the cells, but also take potassium with it. Patients end up being hypokalemic, which is dangerous due to cardiac arrhythmias.
 5. For patients taking a sodium-glucose co-transporter 2 **(SGLT2) inhibitor**, stop the drug immediately
 6. **Maintain airway** - consider an **NGT** if risk of aspiration
-7. Septic screen (WCC, lactate, CRP, CXR)
+7. Septic screen (WCC, lactate, CRP, blood cultures, CXR, urine dipstick)
 8. DVT prophylaxis 
 
 ### *Long-term issue*
@@ -101,7 +102,7 @@ Steps for managing long-term:
 
 ## Differentials:
 ### HHS:
-[[Diabetic Ketoacidosis (DKA)]] and [[HHS]] can both occur after management of diabetes:
+[[Diabetic Ketoacidosis (DKA)]] and [[Hperglycaemic Hyperosmolar State (HHS)]] can both occur after management of diabetes:
 | DKA                              | HHS                            |
 | -------------------------------- | ------------------------------ |
 | Decreased PH                     | Normal PH                      |

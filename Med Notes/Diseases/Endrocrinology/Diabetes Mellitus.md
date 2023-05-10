@@ -319,7 +319,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 1. Hypoglycemia
 2. Hyperglycemia
 	1. [[Diabetic Ketoacidosis (DKA)]]
-	2. [[HHS]]
+	2. [[Hperglycaemic Hyperosmolar State (HHS)]]
 
 ---
 
