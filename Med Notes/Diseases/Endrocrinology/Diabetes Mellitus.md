@@ -273,8 +273,8 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 ## Complication of *Treatment*
 1. Hypoglycemia
 2. Hyperglycemia
-	1. DKA
-	2. HHSe4
+	1. [[Diabetic Ketoacidosis (DKA)]]
+	2. HHS
 
 ---
 
