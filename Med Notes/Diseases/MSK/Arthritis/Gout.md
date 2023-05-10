@@ -29,6 +29,7 @@ It is urate crystals in *connective tissues*:
 - It most commonly affects the [[Glossary#^d61e39|Podagra]] joint ^9e9d3e
 - **Do not confuse** [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]] nodules as [[#Tophaceous gout:]]. These come from longstanding hyperuricemia
 - Urate is mostly excreted via Kidneys and Urine. As such, reduction in GFR is a trigger for gout
+- Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]])
 
 --- 
 # History
@@ -89,14 +90,14 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 ## Examination findings
 | Key Findings                                  | Result                                            | Explanation                                        |
 | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
-| **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals | Yellow colour whe parallel to axis of polarization |
+| **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals | ![[Pasted image 20230511001724.png\|100]]<br>Ye*ll*ow colour when para*ll*el to axis of polarization<br>B*l*ue when perpendicu*l*ar to axis of the polarization |
 | Arthrocentesis                                | WBC: 20k-50k                                      |                                                    |
 | ^^                                            | Crystals: Positive                                | Monosodium urate crystals in joints                |
 | X-rays                                        | Joint destruction                                 | Particularly in advanced, chronic disease          |
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
+| Additional Findings | Result                     | Explanation   |
+| ------------------- | -------------------------- | ------------- |
+| Uric acid           | Not specific, assumed high | Most hyperuricemic patients do not develop gout<br>Normal/o |
 
 ---
 
