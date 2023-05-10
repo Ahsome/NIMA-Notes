@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "- Meta -/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Med Notes/Diseases",
-      "template": "Templates/Disease.md"
+      "template": "- Meta -/Templates/Disease.md"
     }
   ],
   "syntax_highlighting": true,
