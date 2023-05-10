@@ -5,18 +5,18 @@
 ```
 ---
 
-# Information
+## Information
 Hypertension is increase blood pressure in a patient, and it is dependent on age, cormobidities, past medical history, genetics, lifestyle factors etc.
 
-## Hypertensive Urgency:
+### Hypertensive Urgency:
 **Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage
 
-## Hypertensive Emergency:
+### Hypertensive Emergency:
 **Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage.
 This can lead to the following issues:
 ![[#^12e30a]]
 
-## Malignant Hypertension:
+### Malignant Hypertension:
 **Malignant Hypertension** refers to a [[#Hypertensive Emergency:]] that occurs with **papilledema**
 
 > [!Important] 
