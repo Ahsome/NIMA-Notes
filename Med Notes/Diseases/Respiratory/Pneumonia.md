@@ -42,7 +42,7 @@ This describes when pneumonia recurs quickly after being previously treated. The
 3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration** of stomach acid and microorganisms. See [[Pneumonia#Aspiration Pneumonia]]
 
 ### *Aspiration pneumonia*:
-This is pneumonia due to aspiration of bacteria (commonly [[Med Notes/Diseases/Klebsiella]] or [[S. Aureus]]), normally from gastric contents. It has a slow-onset of symptoms over days, which can help differentiate between it and [[Pneumonitis]], which has an acute onset after witness aspiration
+This is pneumonia due to aspiration of bacteria (commonly [[Med Notes/Diseases/Klebsiella]] or [[Staph. Aureus]]), normally from gastric contents. It has a slow-onset of symptoms over days, which can help differentiate between it and [[Pneumonitis]], which has an acute onset after witness aspiration
 
 |                     | Pneumonitis                                | Pneumonia                                                      |
 | ------------------- | ------------------------------------------ | -------------------------------------------------------------- |
@@ -199,7 +199,7 @@ Follow up management should include secondary CXR after **4-6 weeks**. There sho
 
 # Complications
 1. A major complication of [[Pneumonia#*Aspiration pneumonia*:]] is a [[Lung Abscess]]. This will show as a contained, fluid-filled space in lungs with a "Air fluid level".
-	1. It is predominantly by anaerobes, sometimes [[S. Aureus]] or [[Med Notes/Diseases/Klebsiella]]![[Pasted image 20230508205809.png]]
+	1. It is predominantly by anaerobes, sometimes [[Staph. Aureus]] or [[Med Notes/Diseases/Klebsiella]]![[Pasted image 20230508205809.png]]
 	2. This should be diagnosed via a CXR or CT scan, treated with broad spectrum antibiotics
 
 ---
