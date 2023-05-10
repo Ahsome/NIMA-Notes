@@ -79,10 +79,10 @@ Diagnosis of hypertension _requires_ **more than one** measurement
 ---
 
 ## Management:
-### Initial screening:
+### Screening:
 There should be an initial screening for any [[Hypertension#Complications|Complications and comorbid conditions]]. See [[Hypertension#Complications|Investigations > Complications]]
 
-### Initial management:
+### Treatment:
 Initial management should always be **lifestyle modification**, focused on **weight loss**. This is the most effective intervention. Pharmacological comes when lifestyle is restricted, or there are [[Hypertension#^39a12c|compelling indications]]
 
 The second most effective intervention is the **DASH diet**. See [[Hypertension#DASH diet:|DASH diet table]]:
@@ -96,7 +96,7 @@ Others include:
 2. Sodium restriction
 3. Alcohol limitation
 
-### Pharmacological management:
+#### Pharmacological management:
 Initial choices include:
 1. [[Thiazide]] diuretics
 2. [[ACEi]], [[ARB]]
@@ -112,7 +112,18 @@ Compelling indications: ^39a12c
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
 
 ### Hypertensive Urgency
-Managing a [[#Hypertensive Emergency:]] requires a **gradual redu**
+Managing a [[#Hypertensive Emergency:]] requires a **gradual reduction** in blood pressure:
+1. The MAP cannot reduce more than 25% to 30% in the first two hours
+2. A rapid reduction results in ischemia and damage
+3. The goal is <160/100mmHg
+
+Drug choices include:
+1. Hydralazine
+2. Esmolol
+3. Nitroprusside
+	1. 
+4. Labetalol
+5. Clevidipine or Nicardipine
 
 --- 
 
@@ -146,73 +157,3 @@ Issues that can occur due to [[#Hypertensive Emergency:]]: ^a08539
 ### DASH diet:
 ![[Pasted image 20230510165426.png]]
 
-# History
-## Signs
-### *Symptoms*
-Symptoms include:
-1. Symptom 1
-
-### *Risk factors*:
-Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
-
-### *Questions to ask*
->*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
-
----
-
-## Examination findings
-| Key Findings     | Result    | Explanation                                                                                                         |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| Finding 1 | Result 1 | Explanation 1    |                                                                                                                     |
-
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
-# Management
-## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
-
-
-### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
-
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
-
-## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
-
-^6df757
-
----
-
-# Complications
-1. Complications of disease
-
----
