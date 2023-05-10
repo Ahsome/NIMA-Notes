@@ -246,7 +246,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 ---
 
 ## Criteria
-### Risk of [[Chronic Kiney Disease]]:
+### Risk of [[Chronic Kidney Disease]]:
 ![[Pasted image 20230509235933.png]]
 ^6df757
 

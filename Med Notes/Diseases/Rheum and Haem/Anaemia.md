@@ -9,7 +9,7 @@
  
 Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness.
 
-![[Pasted image 20230509094418.png]]
+![[Pasted image 20230509094418.png]] ^d5658c
 
 ![[Pasted image 20230509100344.png]]
 
@@ -65,8 +65,9 @@ Risk factors include:
 |                        | Schistocytes - haemolysis                                                                                              |                                                                                                         |
 | Low reticulocyte count | Helful for normocytic anaemia - anaemia of chronic disease, CKD, hypothyroidism, bone marrow failure, aplastic anaemia | Otherwise usually, reticulocyte count will be high as the body produces more EPO to counter the anaemia |
 | Pancytopenia (FBC)     | Low platelets, RBC, WBC                                                                                                | Indiciates aplastic anaemia and can be caused by bone cancers/fibrosis                                  |
-| MCV (FBC)              | Micro: <80<br>Normo: 80-100<br>Macro: >100                                                                             | Changed potential cause. See below for algorith                                                                                                        |
+| MCV (FBC)              | Micro: <80<br>Normo: 80-100<br>Macro: >100                                                                             | Changed potential cause. See below for algorithm                                                                                                        |
 
+![[Anaemia#^d5658c]]
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
