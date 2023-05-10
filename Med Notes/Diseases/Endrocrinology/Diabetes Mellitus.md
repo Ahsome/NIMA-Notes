@@ -73,7 +73,7 @@ Risk factors include:
 | Type 1                                                                                     | Type 2                                                                                             | Type 3c           | Gestational |
 | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------- | ----------- |
 | Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pancreatic Cancer | Pregnancy   |
-| Environment                                                                                | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk | Pancreas removal  |             |
+| Environment                                                                                | Family history<br>Strong genetic component, more than [[Diabetes Mellitus#Type I DM]]<br>Any 1st degree relative: 2-3x risk | Pancreas removal  |             |
 | **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                | CF                |             |
 | Smoking                                                                                    |                                                                                                    | Hemochromatosis                  |             | ^14928e
 
