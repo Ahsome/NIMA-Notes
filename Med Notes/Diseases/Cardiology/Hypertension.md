@@ -120,7 +120,7 @@ Managing a *sudden hyptension* that has symptoms (i.e. [[#Hypertensive Urgency:]
 2. A rapid reduction results in ischemia and damage
 3. The goal is <160/100mmHg
 
-For a [[#Hypertensive Urgency:]], if the patient takes antihypertensives and missed a dose, **restart the dose**
+==For a [[#Hypertensive Urgency:]], if the patient takes antihypertensives and missed a dose, **restart the dose**==
 If the patient does not take antihypertensives or did not miss a dose, use the following:
 1. Nifedipine
 2. Captopril
