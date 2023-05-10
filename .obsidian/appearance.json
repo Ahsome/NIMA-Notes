@@ -5,5 +5,6 @@
     "dashboard-readline"
   ],
   "theme": "obsidian",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "cssTheme": ""
 }
