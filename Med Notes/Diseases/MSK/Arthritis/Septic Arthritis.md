@@ -14,10 +14,12 @@
 It is usually mono-bacterial. Causes include:
 1. [[Staph. Aureus]] including MRSA
 2. Streptococci
-3. Gram-negative rods
+3. Neisseria gonorrhoeae in sexually active patients
+4. Gram-negative rods
 
 > [!Important]
 - Symptoms occur **acutely**, and primarily are monoarthritic, specifically the **knee**. This differentiates it from [[Osteoarhritis]] and [[Rheumatoid Arthritis]] ^1c8b1c
+- Blood cultures and synovial fluid analysis should occur *before* antibiotics are given
 
 --- 
 # History
@@ -40,7 +42,8 @@ Symptoms are **acute**, and **monoarthritic**:
 3. Immunosuppression including diabetes
 
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice any previous joint disease?"*
+>*"Do you take any illicit drugs?"*
 
 ---
 
@@ -69,6 +72,7 @@ Afterwards, treatment:
 1. **Joint drainage** should be conducted
 	1. In easy joints, utilise seriel aspiration, similar to management of an [[Abscess]]
 	2. If hard joint, utilise [[Glossary#^8bf549|Arthroscopic drainage]] or [[Glossary#^c75edf|Arthrotomy]]
+2. **Antibiotics**:
 
 ## Drug overview
 
@@ -87,6 +91,6 @@ Afterwards, treatment:
 
 # Extra
 ## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
+1. 
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...
