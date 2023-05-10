@@ -93,6 +93,8 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 | ------------ | ------------------------------ | ------------- | --- |
 | Joint        | - Red<br>- Swollen<br>- Tender | Due to infection of join |     |
 
+---
+
 ## Investigations
 | Key Findings                                  | Result                                            | Explanation                                        |
 | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
@@ -107,13 +109,11 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 
 >[!Important]
 >![[#^76ceac]]
----
 
 ---
 
 # Management
-## Treatment
-### Acute attacks
+## Acute Treatment
 Acute attacks require either:
 1. Oral glucocorticoids:
 	1. Usually prednisone/prednisolone
@@ -121,9 +121,22 @@ Acute attacks require either:
 2. NSAIDs
 	1. Usually high-dose potent NSAIDS
 	2. Includes [[Naproxen]], [[Indomethacin]]
-	3. Avoid with high bleeding risk (e.g. anticoag use), [[Chronic Kidney Disease]], peptic ulcer di
+	3. Avoid with high bleeding risk (e.g. anticoag use), [[Chronic Kidney Disease]], peptic ulcer disease
+	4. Aspirin *not used* as high dose (1-2 grams/day) inhibit urate excretion
+		1. Safe for low dose, so can keep for cardiac issues
 
-## Drug overview
+Can also use:
+1. [[Colchicine]]:
+	1. Anti-inflammatory: Inhibits white blood cell activity
+	2. Alternative to glucocorticoids or NSAIDs
+2. Glucocorticoid intraarticular injection
+	1. Used when flare invovles only one or two joints
+
+## Prevention
+Prevention focuses on two major methods:
+1. Lifestyle:
+	1. Weight loss and exercise reduce serum urat
+
 
 ## Criteria
 ### Example severity/test score:
