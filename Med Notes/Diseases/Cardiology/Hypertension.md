@@ -90,7 +90,7 @@ Others include:
 Initial choices include:
 1. [[Thiazide]] diuretics
 2. [[ACEi]], [[ARB]]
-3. Dihydropyridine calcium channel blockers
+3. [[Dihydropyridine]] calcium channel blockers
 
 Compelling indications: ^39a12c
 | Indication                      | Drug                   | Reasoning                     |
@@ -98,9 +98,9 @@ Compelling indications: ^39a12c
 | Prior [[Myocardial Infarction]] | [[Beta-blocker]]       | Helps with heart function     |
 | [[Diabetes Mellitus]]           | [[ACEi]] or [[ARB]]    | Renal protective              |
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
-| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              |
+| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective, due to kidney disease                              |
 
-### Hypertensive Urgency
+### Hypertensive Urgency management
 Hypertensive 
 
 --- 
