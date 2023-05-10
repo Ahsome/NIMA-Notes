@@ -91,7 +91,7 @@ Risk factors include:
 
 ## Differentials:
 ### DKA:
-[[Diabetic Ketoacidosis (DKA)]] and [[Hperglycaemic Hyperosmolar State (HHS)]] can both occur after management of diabetes:
+[[Diabetic Ketoacidosis (DKA)]] and [[Hyperglycaemic Hyperosmolar State (HHS)]] can both occur after management of diabetes:
 | DKA                              | HHS                            |
 | -------------------------------- | ------------------------------ |
 | Decreased PH                     | Normal PH                      |

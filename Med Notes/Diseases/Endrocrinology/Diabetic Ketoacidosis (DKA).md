@@ -11,7 +11,6 @@ Diabetic ketoacidosis (DKA) is a medical emergency requiring specialist care, an
 
 DKA occurs mainly in patients with type 1 diabetes. However, it is also seen in patients with type 2 diabetes, particularly patients taking sodium-glucose co-transporter 2 (SGLT2) inhibitors, when DKA may occur without hyperglycaemia.
 
-
 **DKA diagnostic criteria:**
 -  ==Hyperglycaemia – BGL > 11mmol/L== (BUT CAN BE NORMAL)
 -   ==Metabolic acidosis – venous pH <7.3

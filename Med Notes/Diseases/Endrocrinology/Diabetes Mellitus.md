@@ -33,8 +33,6 @@ Loss of alpha + beta cells means loss of protective function of glucagon --> wil
 
 Pancreatic cancer: need to consider in person >60yo with new onset diabetes (especially if insulin requiring or other red flag symptoms)
 
-
-
 ## Gestational DM
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
@@ -47,9 +45,9 @@ It commonly affects **children**
 Immune-mediated: slowly progressive form of autoimmune diabetes (some argue T1DM caught early). May be misdiagnosed at [[Diabetes Mellitus#Type II DM]]
 
 Defined by:
--Adult onset (>30)
--Autoantibody + (e.g. GAD)
--Not requiring insulin at diagnosis (>6months without insulin requirement)
+- Adult onset (>30)
+- Autoantibody + (e.g. GAD)
+- Not requiring insulin at diagnosis (>6months without insulin requirement)
 
 
 
@@ -334,7 +332,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 1. Hypoglycemia
 2. Hyperglycemia
 	1. [[Diabetic Ketoacidosis (DKA)]]
-	2. [[Hperglycaemic Hyperosmolar State (HHS)]]
+	2. [[Hyperglycaemic Hyperosmolar State (HHS)]]
 
 ---
 
