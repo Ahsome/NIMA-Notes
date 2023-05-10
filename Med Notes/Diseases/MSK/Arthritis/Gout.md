@@ -29,7 +29,7 @@ It is urate crystals in *connective tissues*:
 - It most commonly affects the [[Glossary#^d61e39|Podagra]] joint ^9e9d3e
 - **Do not confuse** [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]] nodules as [[#Tophaceous gout:]]. These come from longstanding hyperuricemia
 - Urate is mostly excreted via Kidneys and Urine. As such, reduction in GFR is a trigger for gout
-- Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]])
+- Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]]) ^76ceac
 
 --- 
 # History
@@ -88,6 +88,12 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 ---
 
 ## Examination findings
+
+| Key Findings | Result                         | Explanation   |     |
+| ------------ | ------------------------------ | ------------- | --- |
+| Joint        | - Red<br>- Swollen<br>- Tender | Due to infection of join |     |
+
+## Investigations
 | Key Findings                                  | Result                                            | Explanation                                        |
 | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
 | **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals | ![[Pasted image 20230511001724.png\|100]]<br>Ye*ll*ow colour when para*ll*el to axis of polarization<br>B*l*ue when perpendicu*l*ar to axis of the polarization |
@@ -97,23 +103,25 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 
 | Additional Findings | Result                     | Explanation   |
 | ------------------- | -------------------------- | ------------- |
-| Uric acid           | Not specific, assumed high | Most hyperuricemic patients do not develop gout<br>Normal/o |
+| Uric acid           | Not specific, assumed high<br><br>Most accurate testing >2/52 after flare | Most hyperuricemic patients do not develop gout. See [[#Information]]<br>Normal/low serum urate can be present during gout. Due to urate depositing in joints, not blood. Also cytokines may lower urate levels<br><br>As such, testing for serum urate not helpful for diagnosis |
 
+>[!Important]
+>![[#^76ceac]]
 ---
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
 # Management
 ## Treatment
+### Acute attacks
+Acute attacks require either:
+1. Oral glucocorticoids:
+	1. Usually prednisone/prednisolone
+	2. Avoid in infection, post-op, brittle [[Diabetes Mellitus]]
+2. NSAIDs
+	1. Usually high-dose potent NSAIDS
+	2. Includes [[Naproxen]], [[Indomethacin]]
+	3. Avoid with high bleeding risk (e.g. anticoag use), [[Chronic Kidney Disease]], peptic ulcer di
 
 ## Drug overview
 
