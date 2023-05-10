@@ -6,7 +6,7 @@
 ---
 
 # Information
-Gout is a joint
+Gout is a joint disorder where **Monosodium urate**
 
 > [!Important]
 - Important point
