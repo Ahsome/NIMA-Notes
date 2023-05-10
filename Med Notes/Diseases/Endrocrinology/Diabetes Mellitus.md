@@ -45,7 +45,7 @@ It commonly affects **children**
 Immune-mediated: slowly progressive form of autoimmune diabetes (some argue T1DM caught early). May be misdiagnosed at [[Diabetes Mellitus#Type II DM]]
 
 Defined by:
-- Adult onset (>30)
+ Adult onset (>30)
 - Autoantibody + (e.g. GAD)
 - Not requiring insulin at diagnosis (>6months without insulin requirement)
 
