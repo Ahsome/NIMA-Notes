@@ -52,19 +52,18 @@ Symptoms are **acute**, and **monoarthritic**:
 ---
 
 ## Investigations
-| Key Tests               | Result                 | Explanation                                                                                                                                                                 |
-| ----------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Blood cultures          | Positive blood culture | 1. Displays infection present in joint<br>2. Displays which bacteria involved, aids treatment<br><br> This should be done *before* antibiotics. See [[#Initial management]] |
-| Synovial fluid analysis | WBC: 50,000 -> 150,000 | 1. Displays infection present in joint<br>2. Displays which bacteria involved, aids treatment<br><br> This should be done *before* antibiotics. See [[#Initial management]]<br><br>If [[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis\|Osteoarhritis]], expect 200-2,000<br>If Inflammatory, expect >2,000                                                                                                                                                                            |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+| Key Tests               | Result                 | Explanation                                                                                                                                                                                                                                                                                                 |
+| ----------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Blood cultures          | Positive blood culture |Displays infection present in joint<br>Displays which bacteria involved, aids treatment<br><br> This should be done *before* antibiotics. See [[#Initial management]]                                                                                                                                 |
+| Synovial fluid analysis | WBC: 50,000 -> 150,000 | Displays infection present in joint<br>Displays which bacteria involved, aids treatment<br><br> This should be done *before* antibiotics. See [[#Initial management]]<br><br>If [[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis\|Osteoarhritis]], expect 200-2,000<br>If Inflammatory, expect >2,000 |
+| ^^                      | Increased Neutrophils  |                                                                                                                                                                                                                                                                                                             |
+| ^^                      | Purulent fluid                       |                                                                                                                                                                                                                                                                                                             |
 
 ---
 
 # Management
 ## Initial management
+Initial management involves b
 
 ## Drug overview
 
