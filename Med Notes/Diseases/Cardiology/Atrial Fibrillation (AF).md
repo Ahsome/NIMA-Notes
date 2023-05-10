@@ -4,6 +4,9 @@
 ```toc
 ```
 ---
+ Lifestyle disease
+ - associated with obesity, COPD, etc. 
+ - Rivaroxaban, apixaban, dabigatran
  
 **CLASSIFICATION OF AF**
 -   Paroxysmal AF (pAF) – lasts for more than 30 seconds but terminates spontaneously within 7 days of onset without intervention.
@@ -11,6 +14,7 @@
 -   Long standing persistent AF – lasted for 12 months.
 -   Permanent AF – when the pt/Dr decides not to pursue rhythm control.
 
+[[Syncope (LOC)#Management:]]
 
 **CLINICAL PRESENTATION**
 -   Risk factors – ischaemic heart disease, hypertension, diabetes, hyperthyroidism

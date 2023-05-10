@@ -2,6 +2,7 @@
 
 ---
 ```toc
+max_depth: 2
 ```
 ---
 
@@ -12,28 +13,32 @@
 > [!Important]
 - Important point
 
-## Pathophysiology
-### *Variant (if applicable)*:
+# Vasovagal Syncope
+NEUROCARDIOGENIC - sudden increase in parasympathetic outflow, with reduced sympathetic input
 
---- 
-# History
-## Signs
-### *Symptoms*
-Symptoms include:
-1. Symptom 1
+### Triggers:
+- Emotional stress 
+- Pain
+- Fear
+- Heat 
+- Prolonged standing
 
-### *Risk factors*:
-Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
+### Clinical diagnosis + examination findings:
+- Bradycardia
+- Vasodilation
+- Hypotension
+- Trigger
+- Prodrome - nausea, diaphoresis, pallor, feeling faint
+- Rapid return to consciousness
+- On awakening, patient feels tired (due to vasodilation)
+- No ECG findings
 
-### *Questions to ask*
->*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
+### Management: 
+Reassurance
 
 ---
 
+<<<<<<< Updated upstream
 ## Examination findings
 | Key Findings     | Result    | Explanation                                                                                                         |
 | ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -92,3 +97,6 @@ Example for [[Asthma]]:
 1. 
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...
+=======
+# Cardiogenic syncope
+>>>>>>> Stashed changes
