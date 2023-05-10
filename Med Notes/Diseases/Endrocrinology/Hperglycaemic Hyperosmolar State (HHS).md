@@ -82,6 +82,7 @@ Risk factors include:
 #### *Management*:
 1. Admit to ICU - life-threatening
 2. IV fluids - 0.9% NaCl 1L/hr
+	- Flluid loss of 8-10L
 3. K+ replacement
 	- If K+ < 3.3, hold insulin + give 40meg/L K+ replacement
 	-  If K+ > 3.3, can commence insulin

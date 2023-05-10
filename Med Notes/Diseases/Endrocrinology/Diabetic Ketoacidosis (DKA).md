@@ -85,14 +85,15 @@ Risk factors include:
 #### *Management*:
 1. 2 IV cannulas
 2. One arm - **Fluid resuscitation** – IV isotonic saline (0.9%) infusion. Solves the hypovolaemia and will solve the hyponatremia too.  
+	- Fluid loss of ~3-6L
 	- Consider ==bicarbonate infusion== – helps resolve acidosis. Threshold is pH < 6.8
-3. Other arm - **Insulin infusion** to correct the hyperglycamia
-4. **Correction of electolyte disturbances**  
+4. Other arm - **Insulin infusion** to correct the hyperglycamia
+5. **Correction of electolyte disturbances**  
 	- ==K+ supplementation (esp < 3)== – insulin will not only shunt glucose into the cells, but also take potassium with it. Patients end up being hypokalemic, which is dangerous due to cardiac arrhythmias.
-5. For patients taking a sodium-glucose co-transporter 2 **(SGLT2) inhibitor**, stop the drug immediately
-6. **Maintain airway** - consider an **NGT** if risk of aspiration
-7. Septic screen (WCC, lactate, CRP, blood cultures, CXR, urine dipstick)
-8. DVT prophylaxis 
+6. For patients taking a sodium-glucose co-transporter 2 **(SGLT2) inhibitor**, stop the drug immediately
+7. **Maintain airway** - consider an **NGT** if risk of aspiration
+8. Septic screen (WCC, lactate, CRP, blood cultures, CXR, urine dipstick)
+9. DVT prophylaxis 
 
 ### *Long-term issue*
 Steps for managing long-term:
