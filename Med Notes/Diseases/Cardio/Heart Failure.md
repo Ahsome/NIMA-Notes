@@ -19,9 +19,7 @@
 
 Most heart failure has an aeitiology behind the acute presentation, and needs to be treated to prevent further decompensation, as well as treating the acute symptoms of heart failure itself.
 
-
-## Pathophysiology
-Aeitiology 
+## Aeitiology 
 -   Arrhythmia - [[Atrial Fibrillation (AF)]]!
 -   Fluid overload - non-compliance with diuretics, drinking too much,etc.
 -   Infection - fevers? malaise? cough? [[pneumonia]]?

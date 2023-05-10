@@ -49,8 +49,6 @@ Defined by:
 - Autoantibody + (e.g. GAD)
 - Not requiring insulin at diagnosis (>6months without insulin requirement)
 
-
-
 --- 
 # History
 ## Signs
@@ -86,8 +84,6 @@ See [[Diabetes Mellitus#Monitoring:]] for specifics on what to look for when ass
 | Risk factors?                                                                 | Self monitoring<br>- Fasting<br>- Pre-lunch<br>- Pre-dinner |
 | Investigations? (HbA1c), OGTT etc<br>See [[Diabetes Mellitus#Investigations]] | Diet? For lunch and dinner                                  |
 | Oral vs Insulin vs Non-Insulin Injectibles?                                   |                                                             |
-
-
 
 #### Diagnosis:
 ##### Type II:
@@ -304,7 +300,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 	1. Rosuvastatin - High-intensity, used for lipid management. See [[Diabetes Mellitus#^6f7958|Lipid management]]
 
 ## Criteria
-### Risk of [[Chronic Kiney Disease]]:
+### Risk of [[Chronic Kidney Disease]]:
 ![[Pasted image 20230509235933.png]]
 ^6df757
 
