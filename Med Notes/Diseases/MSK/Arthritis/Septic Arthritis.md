@@ -106,9 +106,9 @@ Infected prosthetic joints have different management:
 	1. Commonly [[Vancomyocin]] + Broad-spectrum cephalosporin
 2. Surgery required for debridement/re-implantation
 
-## Drug overview
+---
 
-## Criteria
+# Criteria
 ### Example severity/test score:
 ![[Asthma#^6df757]]
 
