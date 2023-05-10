@@ -49,6 +49,9 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 	1. Comes from most distal locations of the body, aids in precipitation of crystals
 4. Obese males
 5. Hypertension
+6. Sudden alcohol drinking
+7. Consumption of red meat/seafood
+8. Myeloproliferative disorders
 
 **Triggers:** ^9ecc5f
 1. Increased serum uric acid levels production
@@ -66,13 +69,16 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 	1. Reduction in GFR results in reduced uric acid excretion
 	2. Includes:
 		1. Renal failure
-		2. Olume depletion
+		2. Volume depletion
 		3. Diuretics
 			1. Decreases GFR
-			2. Decreases
+			2. Decreases uric acid secretion
+			3. Especially [[Thiazide]], [[Loop diuretics]]
+		4. Alcohol:
+			1. Metabolises into lactic acid
+			2. Lactic acid increases reabsoprtion of urate
 3. Rare genetic enzyme defects
 
-| Trigger | Cause | Explanation
 
 ### Questions to ask
 >*"Do you notice any redness or swelling in the joint?"*
@@ -81,9 +87,12 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 ---
 
 ## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+| Key Findings                                  | Result                                            | Explanation                                        |
+| --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
+| **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals | Yellow colour whe parallel to axis of polarization |
+| Arthrocentesis                                | WBC: 20k-50k                                      |                                                    |
+| ^^                                            | Crystals: Positive                                | Monosodium urate crystals in joints                |
+| X-rays                                        | Joint destruction                                 | Particularly in advanced, chronic disease          |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
