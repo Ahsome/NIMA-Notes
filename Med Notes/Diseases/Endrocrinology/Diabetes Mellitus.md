@@ -216,6 +216,7 @@ Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This lea
 2. Reduced risk of diabetes complications
 
 #### Pharmacological:
+![[Pasted image 20230510144542.png]]
 **Monotherapy** is first line, utilising [[Metformin]]. Dual or Multitherapy can be used based on patients profile. Should consider:
 - Cardiovascular disease
 - [[Chronic Kidney Disease]]
@@ -261,11 +262,11 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 	3. No proven CVD help
 4. DPP4
 	1. Linagiptan
-		1. Safe at any eGFR
+		1. **Safe at any eGFR**
 	2. Saxsagiptane
 		1. Causes HF
 5. Acarbose
-	1. Helps reduce absorption of fluid, you poo it out
+	1. Helps reduce absorption of fluid, you poo the glucose out
 6. [[Glitazones]]:
 	1. Rozaglitazone
 	2. Piglitazone
@@ -276,7 +277,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 			1. Ozempic - Brand name
 		2. Liraglatide
 		3. Massive reduction of HbA1c
-	2. Reduces weight loss and apetite
+	2. **==Helps with weight loss and appetite==**
 	3. Requires eGFR >45
 8. Insulin
 	1. Basal insulin
