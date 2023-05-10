@@ -12,9 +12,12 @@ Hypertension is increase blood pressure in a patient, and it is dependent on age
 **Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage
 
 ## Hypertensive Emergency:
-**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage. This can lead to the following issues:
-![[#^]]
+**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage.
+This can lead to the following issues:
+![[#^12e30a]]
 
+## Malignant Hypertension:
+**Malignant Hypertension** refers to a [[#Hypertensive Emergency:]] that occurs with **papilledema**
 
 > [!Important] 
 - Diagnosis of hypertension *requires* **more than one** measurement ^4dbc79
@@ -54,6 +57,7 @@ Risk factors include:
 ## Investigations:
 ### Diagnosis:
 Diagnosis of hypertension _requires_ **more than one** measurement
+
 | Stage           | SBP     | or | DBP   |
 | --------------- | ------- | --- | ----- |
 | Normal          | <120    | and | <80   |
@@ -106,10 +110,9 @@ Compelling indications: ^39a12c
 | [[Diabetes Mellitus]]           | [[ACEi]] or [[ARB]]    | Renal protective              |
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
 | Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
-[ Renal Issues ]
 
 ### Hypertensive Urgency
-Hypertensive 
+Managing a [[#Hypertensive Emergency:]] requires a **gradual redu**
 
 --- 
 
@@ -133,6 +136,8 @@ Issues that can occur due to [[#Hypertensive Emergency:]]: ^a08539
 | ^^                      | Hematuria           |
 | ^^           |   Proteinuria                  | 
 | Cardiac                 | Cardiac Ischemia    |
+
+^12e30a
 
 
 ---
