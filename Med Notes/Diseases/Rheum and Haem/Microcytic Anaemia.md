@@ -7,7 +7,12 @@
 
 # Information
  
-Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness.
+Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness. Microcytic anaemia is usually due to ↓ hemoglobin in red cells. 
+
+In anaemia of chronic disease, increased inflammation --> increased cytokines --> increased hepcidin --> iron trapped as ferritin in the liver
+
+Iron studies:
+![[Pasted image 20230510125606.png]]
 
 ![[Pasted image 20230509094418.png]]
 
@@ -18,7 +23,6 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 ## Pathophysiology
 ![[Pasted image 20230509100344.png]]
--   a and b thalassaemia – reduced production of either the a or b chain globin, hence resulting in faulty haemoglobin molecules.
 
 --- 
 # History
@@ -29,25 +33,20 @@ Typically asymptomatic but symptoms include:
 2. Fatigue 
 3. Dyspnoea
 4. Palm crease pallour, nail bed palllour, conjunctival pallour 
+5. Pica (craving non-food substances e.g. clay/dirt)
+6. Restless leg syndrome
 
 ### *Risk factors*:
 Risk factors include:
 | Microcytic iron-deficient anaemia | Normocytic Anaemia | Macrocytic Anaemia |
 | ------------------ | ------------------ | ------------------ |
-| - Menorrhagia (women of childbearing age)<br>- Reduced dietary intake<br>- Overt or occult blood loss (most commonly in GIT)  |        |                    |
+| - Menorrhagia (women of childbearing age)<br>- Reduced dietary intake<br>- Overt or occult blood loss (peptic ulcer, colon cancer)<br> - Malabsorption e.g. celiac or PPI (Fe2+ is easier to absorb than Fe3+, so Vitamin C deficiency reduces absoprtion)  |        |                    |
 
 ### *Questions to ask*
 - "*Any significant bleeding in recent days? Menorrhagia for women?"
 - *"Any GIT bleeding including melena / bloody stools?"*
 
 ---
-
-## Examination findings
-
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
-
 
 ---
 
@@ -74,7 +73,8 @@ Risk factors include:
 | Pancytopenia (FBC)                          | Low platelets, RBC, WBC                                                                                                 | Indiciates aplastic anaemia and can be caused by bone cancers/fibrosis                                  |
 | MCV (FBC)                                   | Micro: <80<br>Normo: 80-100<br>Macro: >100                                                                              | Changed potential cause. See below for algorith                                                         |
 | High transferrin in iron-deficiency anaemia |                                                                                                                         | Body is trying to sequester more iron from stores                                                       |
-| Low transferrin in ACD                                            |                                                                                                                         |   Body is not sequestering iron from stores                                                                                                      |
+| Low transferrin in ACD                      |                                                                                                                         | Body is not sequestering iron from stores                                                               |
+| High ferritin in ACD                                            |                                                                                                                         |                                                                                                         |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -89,7 +89,10 @@ Treatment for iron deficiency anaemia
 	- Stop GIT bleeding
 	- Control menorrhagia
 - Supplement dietary intake – iron deficiency anaemia responds very well to oral supplementation
--   Iron infusion – for severe anaemia.
+	- SEs:
+		- Constipation, diarrhoea, N/V, epigastric pain
+		- Black/green/tarry stools
+-   Iron infusion – for severe anaemia, or people with malabsoprtion syndromes
 	- ==INDICATION is Hb<70 == 
 	- ==INDICATION is SYMPTOMATIC ANAEMIA==
 
@@ -100,6 +103,24 @@ Example for [[Asthma]]:
 
 ^6df757
 
+
+2. OTHER CAUSES OF MICROCYTIC ANAEMIA
+
+Thalassaemia
+
+-   a and b thalassaemia – reduced production of either the a or b chain globin, hence
+    
+    resulting in faulty haemoglobin molecules.  
+    o Hypochromic/microcytic RBC – TARGET CELLS  
+    o Often high iron stores – due to ineffective erythropoiesis or large number of
+    
+    blood transfusions.
+    
+-   Anaemia of chronic disease – RBC can either be microcytic OR normocytic. Chronic
+    
+    inflammatory states result in iron sequestration intracellularly, resulting in reduced erythropoiesis and circulating iron. This is common in CKD, with the failure of secretion of EPO.
+    
+    o Transferrin/TIBC is LOW in anaemia of chronic disease, whereas it is HIGH in iron deficiency anaemia. In ACD, the body has no intention of trying to increase serum iron, as it is trying to sequester it away in cells.
 ---
 
 # Complications
