@@ -14,6 +14,7 @@
 - [[Diabetes Mellitus#Type II DM]] commonly affects adults with insidous onset. It is more dependant on **family history** and **obesity** ^6386e4
 - Diagnosis cannot occur when patient is in illness or stress, as these increase cortisol and adrenaline, which in turn increases glucose levels. See [[Glossary#^8fbeef|Stress hyperglycemia]] ^b59224
 - Calculating eGFR and Alb/Cr ratio from urine dipstick (See [[Diabetes Mellitus#Investigations]]) is critical for identifying [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. See [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] for how to calculate risk of [[Chronic Kidney Disease]] ^65f830
+- Add a SGLT-2 for diabetic patients with [[Coronary Artery Disease]], it has a protective effect ^da509f
 
 ## Pathophysiology
 ### Type I DM
@@ -221,6 +222,13 @@ Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This lea
 - Obesity
 - Hypoglycemic Risk
 
+Other options:
+1. SGLT-2 inhibitor: Use if there is a of [[Coronary Artery Disease]], it has a protective effect and reduced morbidity
+2. GLP1 Inhibitor: Useful for strong weight loss, helps with comorbidities
+
+>[!Important]
+>![[Diabetes Mellitus#^da509f]]
+
 ##### Lifestyle
 Lifestyle modifications that can be recommended include:
 1. Improve dietary intake
@@ -237,18 +245,23 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 
 ### *Pharmacological summary:*
 1. [[Metformin]] (first line for [[Diabetes Mellitus#Type II DM]])
+	1. Dose reduction in CKD, do not use. if CrCl < 30
 2. [[SGLT-2]] inhibitors
-	1. Empaglyphosen
-	2. Dapaglyphosen
-	3. Have cardio/renal protective effect
-	4. Reduce morbidity
-	5. Tell you will pee a lot
+	1. Examples:
+		1. Empaglyphosen
+		2. Dapaglyphosen
+	2. **Have cardio/renal protective effect**, use in [[Coronary Artery Disease]]
+	3. Reduce morbidity
+	4. Tell you will pee a lot
 3. [[Sulphanyluria]]
-	1. Glicozine
-	2. Gliperimide
-	3. Associated with weight gain
+	1. Examples:
+		1. Glicozine
+		2. Gliperimide
+	2. Associated with weight gain
+	3. No proven CVD help
 4. DPP4
 	1. Linagiptan
+		1. Safe at any eGFR
 	2. Saxsagiptane
 		1. Causes HF
 5. Acarbose
@@ -258,11 +271,13 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 	2. Piglitazone
 	3. Not used because increased [[Heart Failure]]
 7. [[GLP1 inhibitors]]
-	1. Semaglatide
-		1. Ozempic - Brand name
-	2. Liraglatide
-	3. Massive reduction of HbA1c
-	4. Reduces weight loss and apetite
+	1. Examples:
+		1. Semaglatide
+			1. Ozempic - Brand name
+		2. Liraglatide
+		3. Massive reduction of HbA1c
+	2. Reduces weight loss and apetite
+	3. Requires eGFR >45
 8. Insulin
 	1. Basal insulin
 	2. Bolus insuline
@@ -304,7 +319,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 1. Hypoglycemia
 2. Hyperglycemia
 	1. [[Diabetic Ketoacidosis (DKA)]]
-	2. HHS
+	2. [[HHS]]
 
 ---
 

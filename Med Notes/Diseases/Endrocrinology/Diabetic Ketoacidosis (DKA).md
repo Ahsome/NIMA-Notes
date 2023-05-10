@@ -81,7 +81,6 @@ Risk factors include:
 
 # Management
 ## Treatments
-### *Acute issue*
 #### *Management*:
 1. 2 IV cannulas
 2. One arm - **Fluid resuscitation** – IV isotonic saline (0.9%) infusion. Solves the hypovolaemia and will solve the hyponatremia too.  
@@ -95,10 +94,15 @@ Risk factors include:
 8. DVT prophylaxis 
 
 ### *Long-term issue*
-Steps for manaing long-term:
+Steps for managing long-term:
 1. Education on precipitating factors
 2. Diabetes educator
 3. Micro and macrovascular complications of T2DM
+
+## Differentials:
+### HHS:
+[[Diabetic Ketoacidosis (DKA)]] and [[HHS]] can both occur after management of diabetes. Comparison below can help with differentiation:
+
 
 ---
 

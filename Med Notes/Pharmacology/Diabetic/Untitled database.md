@@ -48,6 +48,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Class:
+    input: select
+    accessorKey: Class
+    key: Class
+    id: Class
+    label: Class
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Biguanides", value: "Biguanides", color: "hsl(17, 95%, 90%)"}
+      - { label: "Sulfonylureas", value: "Sulfonylureas", color: "hsl(152, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
