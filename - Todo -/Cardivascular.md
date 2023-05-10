@@ -9,7 +9,7 @@
 ### *Expected knowledge*:
 #### Know in depth
 - [ ] ACS and angina
-- [x] [[Heart failure]]
+- [x] [[Heart Failure]]
 - [ ] Valvular heart disease
 - [ ] Arrhythmia
 - [x] Venous thromboembolism and pulmonary embolism
