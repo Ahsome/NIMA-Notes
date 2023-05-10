@@ -13,8 +13,21 @@ It depends on the following the following:
 2. Genetics
 3. Cool temperatures
 
+After a flare, there is an *intercritical period* before the next attack
+
+If kept chronically, it can result in a [[#Tophaceous gout:]], or urate collections in connective tissue
+
+## Tophaceous gout:
+It is urate crystals in *connective tissues*:
+1. Present as slowly-enlarging hard masses
+2. Usually *not-painful* or *tender*
+3. Can cause erosion of surrouding bone
+
+***Do not confuse with RA nodules***
+
 > [!Important]
-- It most commonly affects the base of great toe ()
+- It most commonly affects the [[Glossary#^d61e39|Podagra]] joint ^9e9d3e
+- Tophaceous gouts come from
 
 --- 
 # History
@@ -25,12 +38,16 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 3. Swelling
 4. Warmth
 
-It normaly
+>[!Important]
+>![[#^9e9d3e]]
 
 ### Risk factors:
 1. Hyperuricemia
 2. Genetics
 3. Cool temperature
+	1. Comes from most distal locations of the body, aids in precipitation of crystals
+4. Obese males
+5. Hypertension
 
 ### Questions to ask
 >*"Do you notice any redness or swelling in the joint?"*

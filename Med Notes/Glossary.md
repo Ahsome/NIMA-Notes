@@ -21,3 +21,4 @@ Stress hyperglycemia: Increased levels of glucose due to the effect of cortisol 
 
 # Anatomy
 ## Feet:
+Podagra: Base of great toe ^d61e39
