@@ -16,25 +16,14 @@ title = await tp.system.prompt("Title");
 > [!Important]
 - Important point
 
-## Pathophysiology
-### *Variant (if applicable)*:
-
 --- 
 # History
-## Signs
-### *Symptoms*
-Symptoms include:
-1. Symptom 1
+### Symptoms
 
-### *Risk factors*:
-Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
+### Risk factors:
 
 ### *Questions to ask*
 >*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
 
 ---
 
