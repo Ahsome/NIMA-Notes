@@ -100,6 +100,12 @@ Afterwards, treatment:
 | Unknown                      | [[Staph. Aureus]]  | Vancomycin IV     | Most likely, use if *high risk* of [[MRSA]] |
 | ^^                           | ^^                 | FLucloxacillin IV | Use if *low risk* of MRSA                                                  |
 
+## Prosthetic joint management:
+Infected prosthetic joints have different management:
+1. Broad-spectrum antibiotic, given different microbiology
+	1. Commonly [[Vancomyocin]] + Broad-spectrum cephalosporin
+2. Surgery required for debridement/re-implantation
+
 ## Drug overview
 
 ## Criteria
