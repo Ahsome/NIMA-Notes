@@ -16,26 +16,40 @@
 - Calculating eGFR and Alb/Cr ratio from urine dipstick (See [[Diabetes Mellitus#Investigations]]) is critical for identifying [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. See [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]] for how to calculate risk of [[Chronic Kidney Disease]] ^65f830
 - Add a SGLT-2 for diabetic patients with [[Coronary Artery Disease]], it has a protective effect ^da509f
 
-## Pathophysiology
-### Type I DM
+## Type I DM
 Type I DM is an autoimmune disorder from a Type IV hypersensitivity reaction. It comes from immune-mediated destrution of the beta cells of the pancreas, and results in the loss of insulin. It has a multifactorial etiology (See [[Diabetes Mellitus#Risk factors:]])
 
 It commonly affects **children**, and has a bimodial distribution:
 1. First peak: 4-6 years
 2. Second peak: 10-14 yeas
 
-### Type II DM
+## Type II DM
 Type II DM is a complex disorder of **insulin resistance**. This leads to hyperlgycemia. Initially, the pancreas responds with increasing insulin levels, but eventually fails. Family history has a strong effect, with Type II DM having a higher genetic component than Type I DM (See [[Diabetes Mellitus#Risk factors]])
 
 It commonly affects **adults**, but rates in children have been rising
 
-### Gestational DM
+## Type IIIc (Exocrine Pancreas)
+Loss of alpha + beta cells means loss of protective function of glucagon --> will not develop DKA but difficult to manage (risk of hypos) (See [[Diabetes Mellitus#^14928e|Type IIIc Risk Factors]])
+
+Pancreatic cancer: need to consider in person >60yo with new onset diabetes (especially if insulin requiring or other red flag symptoms)
+
+
+
+## Gestational DM
 Diabetes on the onset of gestation. Commonly diagnosed through the use of [[Glossary#^089fdb|OGTT]] rather than fasting glucose and A1c given expected insulin resistance in pregnancy. See [[Diabetes Mellitus#Investigations]]
 
 ### Mature Onset Diabetes of the Young (MODY)
 MODY is a rare form of diabetes due to >3 **changes in genes** disruting insulin production. While [[Diabetes Mellitus#Type I:]] and [[Diabetes Mellitus#Type II DM]] have multifactorial aetiologies, MODY comes from a single change in gene.
 
 It commonly affects **children**
+
+## Latent Autoimmune Diabetes in Adults (LADA)
+Immune-mediated: slowly progressive form of autoimmune diabetes (some argue T1DM caught early). May be misdiagnosed at [[Diabetes Mellitus#Type II DM]]
+
+Defined by:
+-Adult onset (>30)
+-Autoantibody + (e.g. GAD)
+-Not requiring insulin at diagnosis (>6months without insulin requirement)
 
 
 
@@ -56,12 +70,12 @@ It commonly affects **children**
 
 ### *Risk factors*:
 Risk factors include:
-| Type 1                                                                                     | Type 2                                                                                             | Gestational |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------- |
-| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pregnancy   |
-| Environment                                                                                 | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk |             |
-| **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                |             |
-	| Smoking                                                                                           |                                                                                                    |             |
+| Type 1                                                                                     | Type 2                                                                                             | Type 3c           | Gestational |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------- | ----------- |
+| Childhood disorder:<br>Bimodal distribution<br>- First peak 4-6yo<br>- Second peak 10-14yo | **Obesity (Major)**                                                                                | Pancreatic Cancer | Pregnancy   |
+| Environment                                                                                | Family history<br>Strong genetic component, more than Type I<br>Any 1st degree relative: 2-3x risk | Pancreas removal  |             |
+| **Family history** (Major)                                                                 | Sedentary lifestyle                                                                                | CF                |             |
+| Smoking                                                                                    |                                                                                                    | Hemochromatosis                  |             | ^14928e
 
 ### *Questions to ask*
 #### Monitoring:
