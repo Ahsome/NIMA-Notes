@@ -8,11 +8,16 @@
 # Information
 Hypertension is increase blood pressure in a patient, and it is dependent on age, cormobidities, past medical history, genetics, lifestyle factors etc.
 
-**Hypertensive urgency**
+## Hypertensive Urgency:
+**Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage
+
+## Hypertensive Emergency:
+**Hypertensive Emergency** is severe hypertension (>180/120) *with* end-organ damage.
+
 
 > [!Important] 
 - Diagnosis of hypertension *requires* **more than one** measurement ^4dbc79
-- Screen every patient with new onset hypertension. See [[Hypertension#Inital screening:]]
+- Screen every patient with new onset hypertension, and utilise pharmacologies if relevant indications exist. See [[Hypertension#Inital screening:]] and [[#^976242|Management > Compelling Indications]]
 - Initial treatment should always be **lifestyle** factors. Only choose pharmacology after an attempt. See [[Hypertension#Initial management:]]
 
 ---
@@ -98,7 +103,7 @@ Compelling indications: ^39a12c
 | Prior [[Myocardial Infarction]] | [[Beta-blocker]]       | Helps with heart function     |
 | [[Diabetes Mellitus]]           | [[ACEi]] or [[ARB]]    | Renal protective              |
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
-| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              |
+| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
 
 ### Hypertensive Urgency
 Hypertensive 
