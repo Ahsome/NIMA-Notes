@@ -129,11 +129,19 @@ If the patient does not take antihypertensives or did not miss a dose, use the f
 	1. Slower, so use in less severe cases
 
 For a [[#Hypertensive Emergency:]], the use of drug therapy is recommended as it is a life-threatening situation. The following IV drugs are recommended:
+3. Nitroprusside
+	1. Short-acting IV strong antihypertensive
+	2. Smooth muscle relaxation
+		1. Decreases afterload (arteriolar dilation)
+		2. Decreases preload (venous dilation)
+	3. Can lead to **cyanide toxicity** due to containing multiple cyanide groups per molecule
+4. Esmelol
+5. Labetalol
 
-
-
-Drug choices include:
-
+If IV access is not possible, then oral:
+1. Hydralazine
+2. Metoprolol
+4. Labetalol
 
 --- 
 
