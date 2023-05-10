@@ -57,6 +57,7 @@ Risk factors include:
 ## Investigations:
 ### Diagnosis:
 Diagnosis of hypertension _requires_ **more than one** measurement
+It can be done via a [[Glossary#^dd845f|Ambulatory Blood Pressure Monitor]] for instances such as [[#White coat hypertension]]
 
 | Stage           | SBP     | or | DBP   |
 | --------------- | ------- | --- | ----- |
@@ -67,10 +68,11 @@ Diagnosis of hypertension _requires_ **more than one** measurement
 | Hypertensive    | \> 180    | or  | \> 120      |
 
 ### Complications:
+
 | Test             | Disease                                  |
 | ---------------- | ---------------------------------------- |
-| HbA1c            | [[Diabetes Mellitus]]                    |
-| Fasting glucose  | ^^                                       |
+| HbA1c            |[[Diabetes Mellitus]]|
+| Fasting glucose  |^^|
 | Lipid Panel      | Hyperlipidemia                           |
 | ECG              | [[Myocardial Infarction]], check Q-waves |
 | Serum creatinine | [[Chronic Kidney Disease]]               |
