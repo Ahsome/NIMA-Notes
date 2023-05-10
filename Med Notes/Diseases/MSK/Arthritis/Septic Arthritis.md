@@ -73,6 +73,12 @@ Afterwards, treatment:
 	1. In easy joints, utilise seriel aspiration, similar to management of an [[Abscess]]
 	2. If hard joint, utilise [[Glossary#^8bf549|Arthroscopic drainage]] or [[Glossary#^c75edf|Arthrotomy]]
 2. **Antibiotics**:
+| Stain                        | Suspected Organism | Drug              | Reasoning                                 |
+| ---------------------------- | ------------------ | ----------------- | ----------------------------------------- |
+| Gram-positive cocci clusters | [[Staph. Aureus]]  | Vancomycin IV     | Effective, use if *high risk* of [[MRSA]] |
+|                              |                    |                   |                                           |
+| Gram-positive cocci chain    |                    | FLucloxacillin IV | Use if *low risk* of MRSA                 |
+| Gram-negative/Strep          |                    | Ceftriaxone IV    | Covers gram-neg and Strep                 |
 
 ## Drug overview
 
