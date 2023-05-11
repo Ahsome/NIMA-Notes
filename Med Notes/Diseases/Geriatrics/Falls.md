@@ -65,7 +65,7 @@ A 90 year old female presented after an episode of a falll at home and was found
 	2. ==Denosumab== - Inhibits RANKLL which stops development of osteoclasts 
 	3. ==HRT== 
 
-### *Long-term issue*
+### *Long-term management*
 1. Fall prevention strategies
 	- Falls bracelet
 	- Exercise (e.g. Tai Chi)
