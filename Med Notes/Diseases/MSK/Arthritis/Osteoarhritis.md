@@ -6,18 +6,32 @@
 ---
 
 # Information
-Osteoarhritis is a degeneration of the synovial joints. Major features include:
+Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular *or* polyarticular disease. Major features include:
  1. *Breakdown of hyaline cartilage*: Hyline cartilage surrounds the joint spaces, and provides smooth surface for gliding bones ^f0e007
- 2. *Hypertrophy of bone*: Causes **bone sclerosis** of subchondral bone, and **bone spurs**/osteophytes may form. This *narrows* the joint space ^ac6961
+ 2. *Hypertrophy of bone*: Causes **bone sclerosis** of subchondral bone, and **bone spurs**/osteophytes may form. This *narrows* the joint space, leading to bone-on-bone ^ac6961
  3. *Minimal inflammation of synovial fluid*: This is a non-inflammatory arthritis ^1b4f19
+
+While it can affect any joint, the *weight-bearing joints* are **most commo**n:
+
+
+| 1. Hips<br2. Knees
+3. Cervical spine
+4. Lumber | ![[Pasted image 20230512011932.png]] |
+| ---- | ------------------------------------ |
+|      |                                      |
 
 > [!Important]
 - Three major features include [[#^f0e007|Breakdown of hyaline cartilage]], [[#^ac6961|Hypertrophy of bone]] and [[#^1b4f19|Minimal inflammation of synovial fluid]]
-- 
+- Most commonly affects weight-bearing joints
 
 --- 
 # History
 ### Symptoms
+| Features                     | Explanation                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------- |
+| Insidous onset of joint pain | Bone pain fibers irritated by movement<br>Deep, dull ache<br>Worsened by activity, improved by rest |
+| Stiffness                    | In morning or after inactivity, last <30 minutes                                                    |
+| Restricted ROM               | Boney enlargement limits movement                                                                                                    |
 
 ### Risk factors:
 
