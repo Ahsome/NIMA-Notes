@@ -14,9 +14,7 @@ Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular
 While it can affect any joint, the *weight-bearing joints* are **most commo**n:
 
 
-| 1. Hips<br2. Knees
-3. Cervical spine
-4. Lumber | ![[Pasted image 20230512011932.png]] |
+| 1. Hips<br>2. Knees<br>3. Cervical spine4. Lumber | ![[Pasted image 20230512011932.png]] |
 | ---- | ------------------------------------ |
 |      |                                      |
 
