@@ -125,5 +125,5 @@ Infected prosthetic joints have different management:
 ## Relevant notes:
 1. 
 ## References:
-1. [*Boads and Beyond - STEP 2:* MSK > Arthritis II](http://10.243.109.99:8080/BnB%20Step%202/MSK%20March%20Update/3.Gout%20atf.mp4)
+1. [*Boads and Beyond - STEP 2:* MSK > Arthritis II](http://10.243.109.99:8080/BnB%20Step%202/MSK%20March%20Update/2.Arthritis%20II%20atf.mp4)
 	1. See first half of video
