@@ -55,6 +55,7 @@ Typically asymptomatic but symptoms include:
 ### *Risk factors*:
 
 ***Risk factors for folate deficiency***
+
 | Malnutrition                      | Increased Use      | Malabsoprtion          | Drugs |
 | --------------------------------- | ------------------ | ---------------------- | ----- |
 | Requires severely restricted diet | Pregnancy          | Gastric bypass surgery | Methotrexate - Inhibits dihydrofolate reductase      |
