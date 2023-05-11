@@ -11,16 +11,17 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 ![[Pasted image 20230509094418.png]] ^d5658c
 
-![[Pasted image 20230509102331.png]]
-
-> [!Important]
-- Important point
 
 ## Pathophysiology
 ![[Pasted image 20230509100344.png]]
--   a and b thalassaemia – reduced production of either the a or b chain globin, hence resulting in faulty haemoglobin molecules.
 
 --- 
+# Scenario
+
+2/7 days of dyspnoea, eercise tolerance < 20m (decreased from at least 100m). No fever, no resp symptoms. Has intermittent diarrhoea for a few days --> septic and anaemic.
+
+
+
 # History
 ## Signs
 ### *Symptoms*
@@ -29,9 +30,6 @@ Typically asymptomatic but symptoms include:
 2. Fatigue 
 3. Dyspnoea
 4. Palm crease pallour, nail bed palllour, conjunctival pallour 
-
-### *Risk factors*:
-Risk factors include:
 
 
 ---
@@ -47,15 +45,15 @@ Risk factors include:
 
 ## Investigations
 
-***Microcytic Anaemia***
-- Blood smear – shows the actual morphology of the RBCs and neutrophils
-	- Iron deficiency anaemia – hypochromic microcytic
-- GIT bleeding?
-	- Endoscopy, colonoscopy, capsule – cancer? Angioectasia? Peptic ulcer? H. pylori? Dieulafoy’s lesion? Is there an obvious source of bleeding?
-	- ASK ABOUT MELENA? Haematemesis? PR bleeding?
--   Stool testing – faecal occult blood (FOB)
--  Coeliac disease screen – can be a cause of GIT bleeding and malabsorption.
-- Crohn's disease screen
+- FBC - Hb, WCC, ESR/CRP, platelets, MCV
+- Coags study
+- U & Es, LFTs
+- Bun-Creating ratio - elevated in UGIB
+- Stool MCS - infective cause e.g. C.diff
+- FOBT / calprotectin --> CRC, IBD
+- Upper endoscope or colonoscope for UGIB/LGIB
+- NG aspirate - blood could indicate UGIB
+- Eplorative laparotomy?
 
 | Key Tests                                   | Result                                                                                                                  | Explanation                                                                                             |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -77,15 +75,22 @@ Risk factors include:
 ---
 
 # Management
-## Treatments
-Treatment for iron deficiency anaemia
--   Identify and treat the underlying cause
-	- Stop GIT bleeding
-	- Control menorrhagia
-- Supplement dietary intake – iron deficiency anaemia responds very well to oral supplementation
--   Iron infusion – for severe anaemia.
-	- ==INDICATION is Hb<70 == 
-	- ==INDICATION is SYMPTOMATIC ANAEMIA==
+## Initial Acute Management
+1. ABCDE
+2. 2 large bore IV - fluids or blood
+3. G + H
+4. IV PPI (if unsure of cause / UGIB suspected)
+5. Monitor Hb and Coags panel
+6. Treatment based on cause 
+7. Surgery if haemodynamically unstable / severe intitial/ongoing bleeding
+
+
+## Longer term Mx
+1. Monitor Hb and coags
+2. Reduce risk of recurrent bleeds e.g. nitrates
+3. Oral PPI if PUD, GORD, H.pylori
+4. Iron supplements
+5. Folate / B12 supplements 
 
 
 ---
