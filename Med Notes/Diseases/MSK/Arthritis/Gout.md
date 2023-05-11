@@ -179,4 +179,4 @@ It is important to note that Xanthine oxidase inhibotrs prevent the metabolis of
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2:* 
