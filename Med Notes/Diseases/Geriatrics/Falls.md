@@ -56,7 +56,7 @@ A 90 year old female presented after an episode of a falll at home and was found
 ---
 
 # Management
-### *Acute issue*
+### *Acute management*
 1. Medication review - polypharmacy / meds that can cause postual drop
 2. If fracture, manage it using a splint / immbolise and analgesia
 3. Falls risk assessment
