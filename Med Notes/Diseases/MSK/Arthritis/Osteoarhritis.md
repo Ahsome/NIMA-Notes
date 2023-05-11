@@ -105,6 +105,8 @@ First line of management include:
 
 If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be given, as well as injections and [[Opiods]]. See [[#Pharmacological treatment:]]
 
+Lastly, surgery is possible, with 30% of [[#Knee involvement:]] eventually requiring surgery. This is likely higher in [[#Hip involvement:]]. There is inconclusive evidence of the use with [[#Hand involvement:]]
+
 ### Pharmacological treatment:
 First line drugs should be used *as necessary*, but can have *regular dosing* if pain persists:
 
