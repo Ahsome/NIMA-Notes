@@ -37,17 +37,17 @@ It does ***not involve the MCP***
 ![[Pasted image 20230512013824.png]]
 
 ## Nodal Osteoarthritis
-Nodal osteoarthritis is[[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis|Osteoarhritis]] that affects the joints in the fingers and toes. Signs include oney overgrowth and osteophytes at specific sections of the hand.
-1. Heberden's nodes: 
+Nodal osteoarthritis is[[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis|Osteoarhritis]] that affects the joints in the fingers and toes. Signs include boney overgrowth and osteophytes at specific sections of the hand. It is **most common** at the i*ndex* and *middle* fingers:
+1. Heberden's nodes: Located in DIP
+2. Bouchard's nodes: Located in PIP
 
-Heberden's nodes affect the joints at the end of the fingers, while Bouchard's nodes affect the joints in the middle of the fingers.
-
-Nodal osteoarthritis is more common in women than in men, and its incidence increases with age. It can be diagnosed through physical examination and imaging tests, and treatment options include pain management, exercise, and in severe cases, surgery.
+Over time, inflammatory signs subside and joints become less painful, but swellings remains
 
 > [!Important]
 - Three major features include [[#^f0e007|Breakdown of hyaline cartilage]], [[#^ac6961|Hypertrophy of bone]] and [[#^1b4f19|Minimal inflammation of synovial fluid]]
 - Most commonly affects weight-bearing joints
 - It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
+- First line management is **weight loss and exercise**. Only use [[NSAID|NSAIDS]] if not responding. See [[#Management]]
 
 --- 
 # History
@@ -80,10 +80,6 @@ Nodal osteoarthritis is more common in women than in men, and its incidence incr
 | Range of movement | Restricted ROM                                   | Boney enlargement limits movement                                          |
 | Crepitus          | Increased crepitus                               | Commonly found in [[#Hip involvement:\|hip joints]]                        |
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
 ---
 
 ## Investigations
@@ -96,16 +92,15 @@ Nodal osteoarthritis is more common in women than in men, and its incidence incr
 | FBC       | Low WBC (<200)           | Non-inflammatory response:<br>- If 200-2000, see [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]]<br>- If >50,000, see [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] |
 | ^^        | Rest normal              | Other blood tests normal                                                                                                                                                                                                      |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
 ---
 
 # Management
-## Treatment
+## Long-term management:
+First line of management include:
+1. **Weight loss**
+2. **Exercise and physical therapy**: Used to maintain motion and strength
 
-## Drug overview
+If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be given
 
 ## Criteria
 ### Example severity/test score:
