@@ -106,6 +106,15 @@ First line of management include:
 If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be given, as well as injections and [[Opiods]]
 
 ### Pharmacological treatment:
+| Drug          | Application                     | Explanation                                                                                       |
+| ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Topical NSAID | Topical on site, up to 4x daily | First-line. Has benefit for pain, and limited absorption compared to oral NSAID                   |
+| Capsacin      | Topical on site, 0.025%         | Some evidence of pain benefit, can cause burning                                                  |
+| Oral NSAID     | Oral                            | Stronger pain relief than Topical NSAID or Paracetamol, but more systemic side effects and issues.<br><br>Can be first-line, but only with patients with low NSAID risk |
+| Paracetamol   | Oral                            | Pain relief, weaker than Oral NSAID but less complications                                                                                                  |
+
+>[!Important]
+>Only use oral NSAID first line in patients with low NSAID risk
 
 
 ## Criteria
