@@ -69,7 +69,7 @@ Risk factors include:
 
 ---
 
-## Investigations
+## Examinations/Investigations
 
 Normocytic Anaemia***
 | Haemolysis                                                                   | Aplastic anaemia | ACD                                                | CKD                                                     |
