@@ -107,19 +107,23 @@ If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be give
 
 ### Pharmacological treatment:
 First line drugs should be used *as necessary*, but can have *regular dosing* if pain persists:
+
 | Drug          | Application                     | Explanation                                                                                       |
 | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Topical NSAID | Topical on site, up to 4x daily | First-line. Has benefit for pain, and limited absorption compared to oral NSAID                   |
 | Capsacin      | Topical on site, 0.025%         | Some evidence of pain benefit, can cause burning                                                  |
-| Oral NSAID     | Oral                            | Stronger pain relief than Topical NSAID or Paracetamol, but more systemic side effects and issues.<br><br>Can be first-line, but only with patients with low NSAID risk |
+| Oral NSAID     | Oral                            | Stronger pain relief than Topical NSAID or Paracetamol, but more systemic side effects and issues.<br><br>Can be first-line, but only with patients with low NSAID risk<br>Can be used in conjunction with [[Duloxitene]], see [[#^cad992\|Additional treatment]] |
 | Paracetamol   | Oral                            | Pain relief, weaker than Oral NSAID but less complications                                                                                                  |
 
 Beyond this, additional treatment is possible:
-| Drug                      | Application               | Explanation                                                                                                                                                                           |
-| ------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Intra-articular injection | Injection, Corticosteroid | Can provide relief 4-16 weeks. Studies show more help in [[#Knee involvement:]] than [[#Hip involvement:]]<br><br>Potential benefit if used before major travel or important occasion |
-| ^^                        | Injection, Hyaluronan     | Inconsistend benefit, many biased studies, sometimes worsening symptoms. Last longer than corticosteroid injections                                                                   |
-| ^^                        | Injection,                           |                                                                                                                                                                                       |
+
+| Drug                      | Application                                | Explanation                                                                                                                                                                           |         |
+| ------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Intra-articular injection | Injection, Corticosteroid                  | Can provide relief 4-16 weeks. Studies show more help in [[#Knee involvement:]] than [[#Hip involvement:]]<br><br>Potential benefit if used before major travel or important occasion |         |
+| ^^                        | Injection, Hyaluronan                      | Inconsistend benefit, many biased studies, sometimes worsening symptoms. Last longer than corticosteroid injections                                                                   |         |
+| ^^                        | Injection, Platelet-rich Plasma/Stem Cells | Favourble benefit in recent studies but highly biased studies                                                                                                                         |         |
+| [[Duloxitene]]            | Oral                                       | Reduces pain and improves function, similar to Oral NSAID. Can be used in conjunction with Oral NSAID                                                                                 | ^cad992 |
+| Opiods                    | Varies                                     | Very limited role due to modest if any benefit, and significant harm<br><br>Studies show [[Tapentadol]] safer than [[Oxycodone]] after 1 year, but long-term safety is not known                                                                                                                                                                                      |         |
 
 >[!Important]
 >Only use oral NSAID first line in patients with low NSAID risk
