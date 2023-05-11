@@ -64,7 +64,7 @@ Risk factors include:
 | Sickle cell disease                                                           |                                                                                                       |
 
 ### *Questions to ask*
-- ""*Any past medical history?""
+- *Any past medical history?"
 - *"Any heart vales / murmurs"*
 
 ---
