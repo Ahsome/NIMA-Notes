@@ -22,6 +22,8 @@ Normocytic anaemia is broken up into 2 major branches of aetiologies, based on t
 -   Acute haemorrhage
 -   Haemolytic anaemia
 	- Sickle cell disease  
+		- One abnormal gene: sickle cell trait (SA)
+		- Two abnormal genes: sickle cells disease (SS)
 	- Thalassaemia?  
 	- Autoimmune haemolytic anaemia  
 	- Mechanical heart valve/critical aortic stenosis  
@@ -32,8 +34,6 @@ Normocytic anaemia is broken up into 2 major branches of aetiologies, based on t
 
 
 ![[Pasted image 20230509094418.png]]
-
-
 
 
 ## Pathophysiology
@@ -48,57 +48,55 @@ Typically asymptomatic but symptoms include:
 2. Fatigue 
 3. Dyspnoea
 4. Palm crease pallour, nail bed palllour, conjunctival pallour 
-5. Pica (craving non-food substances e.g. clay/dirt)
-6. Restless leg syndrome
-7. Lead poisoning: abdo pain, anorexia, confusion, behavioural changes, poor concentration
+5. Splenomegaly
+6. Sickle cell - acute pain crises, splenic sequestration, swollen hands (“dactylitis”)
+
 
 ### *Risk factors*:
 Risk factors include:
-| Haemolysis                                      | Thalassemia                                                                                           |
-| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| G6PD Deficiency                                 | reduced production of either the a or b chain globin, hence resulting in faulty haemoglobin molecules |
-| Mechanical stress - AS, mechanical heart valves |                                                                                                       |
-| Lupus                                           |                                                                                                       |
-| Leukemia / Lymphoma                             |                                                                                                       |
+| Haemolysis                                                 | Thalassemia                                                                                           |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| G6PD Deficiency                                            | reduced production of either the a or b chain globin, hence resulting in faulty haemoglobin molecules |
+| Mechanical stress - AS, mechanical heart valves, cirrhosis |                                                                                                       |
+| Lupus                                                      |                                                                                                       |
+| Leukemia / Lymphoma                                        |                                                                                                       |
+| Hereditary spherocytosis                                   |                                                                                                       |
+| Sickle cell disease                                                           |                                                                                                       |
 
 ### *Questions to ask*
-- "*Any significant bleeding in recent days? Menorrhagia for women?"
-- *"Any GIT bleeding including melena / bloody stools?"*
+- ""*Any past medical history?""
+- *"Any heart vales / murmurs"*
 
 ---
 
 ## Investigations
 
 Normocytic Anaemia***
-| Haemolysis                                                  | Thalassemia                               | ACD                                                | Sideroblastic Anaemia                                   | Lead poisoning |
-| ------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- | -------------- |
-| Elevated lactate dehydrogenase (LDH)                                      | Hypochromic/microcytic RBC – TARGET CELLS | Increased ferritin (due to inflammatory cytokines) | Ringed sideroblasts (perinuclear ring of blue granules) |                |
-| Increased reticulocytes                                                   | Increased ferritin                        | Low transferrin (contrast to iron-deficient)                                   | B6 deficiency (often a precipitating cause)             |                |
-| Elevated unconjugated (indirect) bilirubin - jaundice                                                     |                                           |                                                    | Increased serum iron and ferritin                       |                |
-| Intravascular haemolysis - Filtered in kidneys → hemoglobinuria (dark urine)                                |                                           |                                                    | Bone marrow biopady to diagnose                         |                |
-| Back, abdominal or flank pain (acute hemolysis)|                                           |                                                    |                                                         |                |
-| Blood smear: schistocytes (broken RBCs)                                                                          |                                           |                                                    |                                                         |                |
+| Haemolysis                                                                   | Aplastic anaemia | ACD                                                | CKD                                                     |
+| ---------------------------------------------------------------------------- | ---------------- | -------------------------------------------------- | ------------------------------------------------------- |
+| Elevated lactate dehydrogenase (LDH)                                         |  Pancytopenia on FBC                | Increased ferritin (due to inflammatory cytokines) | Low EPO|
+| Increased reticulocytes                                                      |                  | Low transferrin (contrast to iron-deficient)       | Low eGFR, high U&Cr             |
+| Elevated unconjugated (indirect) bilirubin - jaundice                        |                  |                                                    |                       |
+| Intravascular haemolysis - Filtered in kidneys → hemoglobinuria (dark urine) |                  |                                                    |                        |
+| Back, abdominal or flank pain (acute hemolysis)                              |                  |                                                    |                                                         |
+| Blood smear: schistocytes (broken RBCs)                                      |                  |                                                    |                                                         |
+| Blood smear: spherocytes (if spherocytosis)                                  |                  |                                                    |                                                         |
 
 
 
 ---
 
 # Management
-## Treatments
-Treatment for iron deficiency anaemia
--   Identify and treat the underlying cause
-	- Stop GIT bleeding
-	- Control menorrhagia
-- Supplement dietary intake – iron deficiency anaemia responds very well to oral supplementation
-	- SEs:
-		- Constipation, diarrhoea, N/V, epigastric pain
-		- Black/green/tarry stools
--   Iron infusion – for severe anaemia, or people with malabsoprtion syndromes
-	- ==INDICATION is Hb<70 == 
-	- ==INDICATION is SYMPTOMATIC ANAEMIA==
-- Treatment for sideroblastic - B6 supplementation
-- Treatment for lead poisoning - remove exposure +/- chelation
+***General treatment principles***
+- Blood transfusions
+- Remove instigating factor (e.g. treat underlying chronic disease or CKD)
+- Folate supplementation
+- Splenectomy if there is risk of etravascular sequestration of RBCs and splenomegaly 
 
+**Treatment for hereditary spherocytosis:**
+- Iron/bllood transfusions as needed
+- Folate supplementation
+- ==Splenectomy!!!==
 
 
 
@@ -110,11 +108,3 @@ Treatment for iron deficiency anaemia
 3. Disseminated intravascular coagulation (DIC) 
 4. Severe hypertension 
 5. Preeclampsia/HELLP
-
----
-
-# Extra
-## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...

@@ -37,11 +37,11 @@ Risk factors include:
 ---
 
 ## Examination findings
-
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
-
+- Low BP
+- Weak pulses
+- Pallor of hands, face, conjunctiva, tongue
+- Murke's lines on nails 
+- Splenomegaly?
 
 ---
 
@@ -54,7 +54,8 @@ Risk factors include:
 	- Endoscopy, colonoscopy, capsule – cancer? Angioectasia? Peptic ulcer? H. pylori? Dieulafoy’s lesion? Is there an obvious source of bleeding?
 	- ASK ABOUT MELENA? Haematemesis? PR bleeding?
 -   Stool testing – faecal occult blood (FOB)
--   Coeliac disease screen – can be a cause of GIT bleeding and malabsorption.
+-  Coeliac disease screen – can be a cause of GIT bleeding and malabsorption.
+- Crohn's disease screen
 
 | Key Tests                                   | Result                                                                                                                  | Explanation                                                                                             |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -71,9 +72,7 @@ Risk factors include:
 | Low transferrin in ACD                                            |                                                                                                                         |   Body is not sequestering iron from stores                                                                                                      |
 
 ![[Anaemia#^d5658c]]
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+
 
 ---
 
@@ -90,14 +89,3 @@ Treatment for iron deficiency anaemia
 
 
 ---
-
-# Complications
-1. Complications of disease
-
----
-
-# Extra
-## Relevant notes:
-1. 
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...
