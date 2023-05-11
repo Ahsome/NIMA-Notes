@@ -72,7 +72,7 @@ Risk factors include:
 ## Examinations/Investigations
 
 Normocytic Anaemia***
-| Haemolysis                                                                   | Aplastic anaemia | ACD                                                | CKD                                                     |
+| Haemolysis                                                                   | Aplastic anaemia | ACD                                                | [[Chronic Kidney Disease]]                                                     |
 | ---------------------------------------------------------------------------- | ---------------- | -------------------------------------------------- | ------------------------------------------------------- |
 | Elevated lactate dehydrogenase (LDH)                                         |  Pancytopenia on FBC                | Increased ferritin (due to inflammatory cytokines) | Low EPO|
 | Increased reticulocytes                                                      |                  | Low transferrin (contrast to iron-deficient)       | Low eGFR, high U&Cr             |
