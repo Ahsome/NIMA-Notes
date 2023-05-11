@@ -157,8 +157,8 @@ Long term management centers around combination of education, follow-up, and pre
 |                     | Daytime Symptoms | Nighttime Symptoms | Therapy |
 | ------------------- | ----------------- | ------------------ | ------- |
 | Intermittent:<br>*No activity limitations*<br>*Normal PFTs*        | <= 2/week         | <= 2/month         | Step 1  |
-| Mild persistent     | > 2/week          | 3-4/month          | Step 2  |
-| Moderate persistent | Daily             | >1/week            | Step 3  |
+| Mild persistent     | \> 2/week          | 3-4/month          | Step 2  |
+| Moderate persistent | Daily             | \>1/week            | Step 3  |
 | Severe persistent   | Daily             | 4-7/week           | Steps 4+        |
 
 ^6df757

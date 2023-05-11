@@ -13,10 +13,18 @@ Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular
 
 While it can affect any joint, the *weight-bearing joints* are **most commo**n:
 
-| 1. Hips<br>2. Knees<br>3. Cervical spine<br>4. Lumber | ![[Pasted image 20230512011932.png\|150]] |
+| 1. Hips<br>2. [[#Knee involvement:\|Knees]]<br>3. Cervical spine<br>4. Lumber | ![[Pasted image 20230512011932.png\|150]] |
 | ----------------------------------------------------- | ----------------------------------------- |
 
 It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
+
+## Knee involvement:
+When knees are involve, it often involves **both knees**. This contrasts with [[#Hip involvement:]], which often More weight bearing on medial side, so asymmetric narrowing of medial side occurs.
+
+![[Pasted image 20230512013338.png|150]]
+
+## Hip involvement:
+Hip involvement results in **groin, buttock, or thigh pain**. There is reduced range oof motion, and crepitus may be present.
 
 > [!Important]
 - Three major features include [[#^f0e007|Breakdown of hyaline cartilage]], [[#^ac6961|Hypertrophy of bone]] and [[#^1b4f19|Minimal inflammation of synovial fluid]]
@@ -61,12 +69,12 @@ It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
 ## Investigations
 | Key Tests | Result                   | Explanation                                                                                                                                                                                                                   |
 | --------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| X-ray     | Joint space narrowing    | ![[Pasted image 20230512012731.png\|300]]                                                                                                                                                                                                                              |
-| ^^        | Subchondral sclerosis    | Thickening of subchondral bone due to increased collagen with abnormal mineralisation. Look at white stripe below:<br>![[Pasted image 20230512012817.png\|150]]                                                                                                                                                                                                                              |
-| ^^        | Osteophytes (bone spurs) |  Thickening of subchondrla bone at joint margins. Often at insertion points of tendons or ligaments![[Pasted image 20230512012941.png\|300]]                                                                                                                                                                                                                             |
-| ^^        | Subchondral cyst         |                                                                                                                                                                                                                               |
+| X-ray     | Joint space narrowing    | ![[Pasted image 20230512012731.png\|300]]                                                                                                                                                                                     |
+| ^^        | Subchondral sclerosis    | Thickening of subchondral bone due to increased collagen with abnormal mineralisation. Look at white stripe below:<br>![[Pasted image 20230512012817.png\|150]]                                                               |
+| ^^        | Osteophytes (bone spurs) | Thickening of subchondrla bone at joint margins. Often at insertion points of tendons or ligaments<br><br>![[Pasted image 20230512012941.png\|300]]                                                                           |
+| ^^        | Subchondral cyst         | Fluid filled sack. Occurs when bone crack, and synovial fluid accumulates![[Pasted image 20230512013043.png\|150]]<br><br>                                                                                                                                                                                                                              |
 | FBC       | Low WBC (<200)           | Non-inflammatory response:<br>- If 200-2000, see [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]]<br>- If >50,000, see [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] |
-| ^^        | Rest normal              | Other blood tests normal                                                                                                                                                                                                                              |
+| ^^        | Rest normal              | Other blood tests normal                                                                                                                                                                                                      |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
