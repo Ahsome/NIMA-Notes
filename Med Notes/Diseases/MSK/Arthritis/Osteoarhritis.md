@@ -12,6 +12,7 @@ Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular
  3. *Minimal inflammation of synovial fluid*: This is a non-inflammatory arthritis ^1b4f19
 
 While it can affect any joint, the *weight-bearing joints* are **most commo**n:
+
 | 1. Hips<br>2. Knees<br>3. Cervical spine<br>4. Lumber | ![[Pasted image 20230512011932.png\|150]] |
 | ----------------------------------------------------- | ----------------------------------------- |
 
@@ -58,10 +59,14 @@ It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
 ---
 
 ## Investigations
-| Key Tests | Result                | Explanation |
-| --------- | --------------------- | ----------- |
-| X-ray     | Joint space narrowing |             |
-|           |                       |             |
+| Key Tests | Result                   | Explanation                                                                                                                                                                                                                   |
+| --------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| X-ray     | Joint space narrowing    | ![[Pasted image 20230512012731.png\|300]]                                                                                                                                                                                                                              |
+| ^^        | Subchondral sclerosis    | Thickening of subchondral bone due to increased collagen with abnormal mineralisation. Look at white stripe below:<br>![[Pasted image 20230512012817.png\|150]]                                                                                                                                                                                                                              |
+| ^^        | Osteophytes (bone spurs) |  Thickening of subchondrla bone at joint margins. Often at insertion points of tendons or ligaments![[Pasted image 20230512012941.png\|300]]                                                                                                                                                                                                                             |
+| ^^        | Subchondral cyst         |                                                                                                                                                                                                                               |
+| FBC       | Low WBC (<200)           | Non-inflammatory response:<br>- If 200-2000, see [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]]<br>- If >50,000, see [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] |
+| ^^        | Rest normal              | Other blood tests normal                                                                                                                                                                                                                              |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
