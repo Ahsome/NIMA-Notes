@@ -37,7 +37,8 @@ It does ***not involve the MCP***
 ![[Pasted image 20230512013824.png]]
 
 ## Nodal Osteoarthritis
-Nodal osteoarthritis is[[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis|Osteoarhritis]] that affects the joints in the fingers and toes. Signs include oney overgrowth and osteophytes at specific sectio
+Nodal osteoarthritis is[[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis|Osteoarhritis]] that affects the joints in the fingers and toes. Signs include oney overgrowth and osteophytes at specific sections of the hand.
+1. Heberden's nodes: 
 
 Heberden's nodes affect the joints at the end of the fingers, while Bouchard's nodes affect the joints in the middle of the fingers.
 
