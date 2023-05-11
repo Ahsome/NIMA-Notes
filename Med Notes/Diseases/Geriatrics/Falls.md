@@ -95,7 +95,7 @@ A 90 year old female presented after an episode of a falll at home and was found
 	- Vertebral 
 2. Aspiration
 3. Pressure ulcers
-4. Rhabdomyolysis 
+4. [[Rhabdomyolysis]] 
 
 ---
 
