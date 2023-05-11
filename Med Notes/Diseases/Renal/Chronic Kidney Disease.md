@@ -94,20 +94,20 @@ As patients in CKD stage 1 to 3 (eGFR > 30) typically are asymptomatic for the m
 
 
 ### *Questions to ask*
-*Are you peeing at night?*
-*Is there blood in your urine?
-Any increase in weight? (could be fluid overload)
-Any fatigue or loss of appetite?
-Any itching of the skin (pruritis)
-Uraemia - Any n/v? Any confusion or loss of sensation (encephalopathy and neuropathy)?*
-*Have you been told what your kidney issues are?*
-*When was the last time you checked GFR, and hat was the number?
-What was the level of protein in your urine? Do you know the number?
-Do you know your UCR?
-What medications are you on currently? - check for triple whammy
-Do you have [[Heart Failure]] / heart complications?
-Any recent weight loss? Dehydration? Diarrhoea/vomitting?
-Any BPH/bladder cancer or low urine output?*
+> *Are you peeing at night?*
+> *Is there blood in your urine?
+> Any increase in weight? (could be fluid overload)
+> Any fatigue or loss of appetite?
+> Any itching of the skin (pruritis)
+> Uraemia - Any n/v? Any confusion or loss of sensation (encephalopathy and neuropathy)?*
+> *Have you been told what your kidney issues are?*
+> *When was the last time you checked GFR, and hat was the number?
+> What was the level of protein in your urine? Do you know the number?
+> Do you know your UCR?
+> What medications are you on currently? - check for triple whammy
+> Do you have [[Heart Failure]] / heart complications?
+> Any recent weight loss? Dehydration? Diarrhoea/vomitting?
+> Any BPH/bladder cancer or low urine output?*
 
 
 ## Investigations

@@ -1,5 +1,6 @@
 [
   "obsidian-plugin-toc",
+  "table-editor-obsidian",
   "obsidian-dynamic-toc",
   "obsidian-icon-folder",
   "templater-obsidian",
@@ -11,11 +12,9 @@
   "obsidian-version-history-diff",
   "short-internal-links-to-headings",
   "dataview",
+  "emoji-shortcodes",
+  "homepage",
   "obsidian-banners",
   "obsidian-smarter-md-hotkeys",
-  "table-editor-obsidian",
-  "homepage",
-  "emoji-shortcodes",
-  "obsidian-style-settings",
   "table-extended"
 ]

@@ -1,4 +1,4 @@
-*Created on <% tp.date.now(format = "Do MMM YYYY") %>*
+*Created on 10th May 2023*
 
 ---
 ```toc
@@ -6,11 +6,7 @@
 ---
 
 # Information
-<%* 
-let title = tp.file.title 
-if (title.startsWith("Untitled")) { 
-title = await tp.system.prompt("Title"); 
-} await tp.file.rename(title) -%><% title %> is a... 
+ Osteoarhritis is a... 
 
 > [!Important]
 - Important point
@@ -68,6 +64,6 @@ title = await tp.system.prompt("Title");
 
 # Extra
 ## Relevant notes:
-1. 
+1. [[Comparison between Spiromotry and PFM]]
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...

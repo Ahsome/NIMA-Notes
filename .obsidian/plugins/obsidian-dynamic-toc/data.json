@@ -4,6 +4,6 @@
   "max_depth": 6,
   "externalStyle": "None",
   "supportAllMatchers": false,
-  "allow_inconsistent_headings": false,
+  "allow_inconsistent_headings": true,
   "varied_style": true
 }

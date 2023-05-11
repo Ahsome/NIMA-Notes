@@ -5,15 +5,25 @@
 ```
 ---
 
-# Information
+## Information
 Hypertension is increase blood pressure in a patient, and it is dependent on age, cormobidities, past medical history, genetics, lifestyle factors etc.
 
-**Hypertensive urgency**
+### Hypertensive Urgency:
+**Hypertensive Urgency** is severe hypertension (>180/120) without end-organ damage, but can still cause symptoms such as headache and nausea
+
+### Hypertensive Emergency:
+**Hypertensive Emergency** is severe hypertension (>220/140) *with* end-organ damage.
+This can lead to the following issues:
+![[#^12e30a]]
+
+### Malignant Hypertension:
+**Malignant Hypertension** refers to a [[#Hypertensive Emergency:]] that occurs with **papilledema**
 
 > [!Important] 
 - Diagnosis of hypertension *requires* **more than one** measurement ^4dbc79
-- Screen every patient with new onset hypertension. See [[Hypertension#Inital screening:]]
+- Screen every patient with new onset hypertension, and utilise pharmacologies if relevant indications exist. See [[Hypertension#Inital screening:]] and [[#^976242|Management > Compelling Indications]]
 - Initial treatment should always be **lifestyle** factors. Only choose pharmacology after an attempt. See [[Hypertension#Initial management:]]
+- [[#Hypertensive Urgency:]] require taking any missed antihypertensives, while [[#Hypertensive Emergency:]] require specific BP reduction. See [[#Sudden Hypertension:]] for management.
 
 ---
 
@@ -30,7 +40,7 @@ Secondary has some known cause:
 	- Pheochromocytoma
 
 ### White coat hypertension
-Hypertension only in the clinic, likely due to stress of being in a hospital setting
+Hypertension only in the clinic, likely due to stress of being in a hospital setting. This can be solved utilising a [[Glossary#^dd845f|Ambulatory Blood Pressure Monitor]]
 
 ---
 
@@ -48,6 +58,8 @@ Risk factors include:
 ## Investigations:
 ### Diagnosis:
 Diagnosis of hypertension _requires_ **more than one** measurement
+It can be done via a [[Glossary#^dd845f|Ambulatory Blood Pressure Monitor]] for instances such as [[#White coat hypertension]]
+
 | Stage           | SBP     | or | DBP   |
 | --------------- | ------- | --- | ----- |
 | Normal          | <120    | and | <80   |
@@ -57,10 +69,11 @@ Diagnosis of hypertension _requires_ **more than one** measurement
 | Hypertensive    | \> 180    | or  | \> 120      |
 
 ### Complications:
+
 | Test             | Disease                                  |
 | ---------------- | ---------------------------------------- |
-| HbA1c            | [[Diabetes Mellitus]]                    |
-| Fasting glucose  | ^^                                       |
+| HbA1c            |[[Diabetes Mellitus]]|
+| Fasting glucose  |^^|
 | Lipid Panel      | Hyperlipidemia                           |
 | ECG              | [[Myocardial Infarction]], check Q-waves |
 | Serum creatinine | [[Chronic Kidney Disease]]               |
@@ -69,11 +82,11 @@ Diagnosis of hypertension _requires_ **more than one** measurement
 ---
 
 ## Management:
-### Initial screening:
+### Screening:
 There should be an initial screening for any [[Hypertension#Complications|Complications and comorbid conditions]]. See [[Hypertension#Complications|Investigations > Complications]]
 
-### Initial management:
-Initial management should always be **lifestyle modification**, focused on **weight loss**. This is the most effective intervention. Pharmacological comes when lifestyle is restricted, or there are [[Hypertension#^39a12c|compelling indications]]
+### Treatment:
+Initial management should always be **lifestyle modification**, focused on **weight loss**. This is the most effective intervention. Pharmacological comes when lifestyle is restricted, or there are [[#^976242|compelling indications]]
 
 The second most effective intervention is the **DASH diet**. See [[Hypertension#DASH diet:|DASH diet table]]:
 - Vegetables, fruits
@@ -86,22 +99,50 @@ Others include:
 2. Sodium restriction
 3. Alcohol limitation
 
-### Pharmacological management:
+#### Pharmacological management:
 Initial choices include:
 1. [[Thiazide]] diuretics
 2. [[ACEi]], [[ARB]]
 3. Dihydropyridine calcium channel blockers
 
 Compelling indications: ^39a12c
+
 | Indication                      | Drug                   | Reasoning                     |
 | ------------------------------- | ---------------------- | ----------------------------- |
 | Prior [[Myocardial Infarction]] | [[Beta-blocker]]       | Helps with heart function     |
 | [[Diabetes Mellitus]]           | [[ACEi]] or [[ARB]]    | Renal protective              |
 | [[Osteoporosis]]                | [[Thiazide]] diuretics | Helps maintain calcium levels |
-| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              |
+| Proteinuria                     | [[ACEi]] or [[ARB]]    | Renal protective                              | ^976242
 
-### Hypertensive Urgency
-Hypertensive 
+### Sudden Hypertension:
+Managing a *sudden hyptension* that has symptoms (i.e. [[#Hypertensive Urgency:]] or [[#Hypertensive Emergency]] requires a **gradual reduction** in blood pressure:
+1. The MAP cannot reduce more than 25% to 30% in the first two hours
+2. A rapid reduction results in ischemia and damage
+3. The goal is <160/100mmHg
+
+==For a [[#Hypertensive Urgency:]], if the patient takes antihypertensives and missed a dose, **restart the dose**==
+If the patient does not take antihypertensives or did not miss a dose, use the following:
+1. Nifedipine
+2. Captopril
+3. Clonidine
+4. Prazosin
+5. Amlodipine
+	1. Slower, so use in less severe cases
+
+For a [[#Hypertensive Emergency:]], the use of drug therapy is recommended as it is a life-threatening situation. The following IV drugs are recommended:
+1. Nitroprusside
+	1. Short-acting IV strong antihypertensive
+	2. Smooth muscle relaxation
+		1. Decreases afterload (arteriolar dilation)
+		2. Decreases preload (venous dilation)
+	3. Can lead to **cyanide toxicity** due to containing multiple cyanide groups per molecule
+4. Esmelol
+5. Labetalol
+
+If IV access is not possible, then oral:
+1. Hydralazine
+2. Metoprolol
+4. Labetalol
 
 --- 
 
@@ -110,10 +151,25 @@ Issues that can occur due to HTN:
 - Stroke
 - Heart disease
 	- MI
-	- Heart failure
+	- [[Heart Failure]]
 - [[Chronic Kidney Disease]]
 - Aortic aneurysm
 - Aortic dissection
+
+Issues that can occur due to [[#Hypertensive Emergency:]]: ^a08539
+
+| Issues                  | Examples            |
+| ----------------------- | ------------------- |
+| Neurological impairment | Retinal hemorrhages |
+| ^^                      | Encephalopathy      |
+| Renal imapirment        | Acute renal failure |
+| ^^                      | Hematuria           |
+| ^^                      | Proteinuria         |
+| Cardiac                 | Cardiac Ischemia    |
+| Respiratory             | Pulmonary Oedema                    |
+
+^12e30a
+
 
 ---
 
@@ -121,73 +177,3 @@ Issues that can occur due to HTN:
 ### DASH diet:
 ![[Pasted image 20230510165426.png]]
 
-# History
-## Signs
-### *Symptoms*
-Symptoms include:
-1. Symptom 1
-
-### *Risk factors*:
-Risk factors include:
-| Variant 1 | Variant 2 |
-| --------------- | ------------------- |
-| - **Symptom 1** |     - Symptom 2               |
-
-### *Questions to ask*
->*"Do you notice any ???"*
->*"Any history of ???"* See - [[Link to relavent article]]
-
----
-
-## Examination findings
-| Key Findings     | Result    | Explanation                                                                                                         |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| Finding 1 | Result 1 | Explanation 1    |                                                                                                                     |
-
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
-# Management
-## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
-
-
-### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
-
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
-
-## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
-
-^6df757
-
----
-
-# Complications
-1. Complications of disease
-
----
