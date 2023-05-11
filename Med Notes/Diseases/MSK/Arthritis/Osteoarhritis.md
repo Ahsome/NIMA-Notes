@@ -13,18 +13,35 @@ Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular
 
 While it can affect any joint, the *weight-bearing joints* are **most commo**n:
 
-| 1. Hips<br>2. [[#Knee involvement:\|Knees]]<br>3. Cervical spine<br>4. Lumber | ![[Pasted image 20230512011932.png\|150]] |
+| 1. [[#Hip involvement:\|Hips]]<br>2. [[#Knee involvement:\|Knees]]<br>3. [[#Hand involvement:\|Hands]]<br>4. Cervical spine<br>5. Lumber | ![[Pasted image 20230512011932.png\|150]] |
 | ----------------------------------------------------- | ----------------------------------------- |
 
 It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
 
 ## Knee involvement:
-When knees are involve, it often involves **both knees**. This contrasts with [[#Hip involvement:]], which often More weight bearing on medial side, so asymmetric narrowing of medial side occurs.
+When knees are involve, it often involves **both knees**. This contrasts with [[#Hip involvement:]], which often is unilateral. More weight bearing on medial side, so asymmetric narrowing of medial side occurs.
 
 ![[Pasted image 20230512013338.png|150]]
 
 ## Hip involvement:
-Hip involvement results in **groin, buttock, or thigh pain**. There is reduced range oof motion, and crepitus may be present.
+Hip involvement is normally unilateral, which contrasts with [[#Knee involvement:]] which is bilateral. It results in **groin, buttock, or thigh pain**. There is reduced range of motion, and crepitus may be present.
+
+## Hand involvement:
+Hip involvement commonly affects:
+1. Distal Interphalangeal (DIP) joints. Contrast with [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis|Rheumatoid Arthritis]], where DIP joints are spared
+2. Proximal Interphalangeal (PIP) joints
+3. 1st. Carpometacarpal (CMC) joint
+
+It does ***not involve the MCP***
+
+![[Pasted image 20230512013824.png]]
+
+## Nodal Osteoarthritis
+Nodal osteoarthritis is[[Med Notes/Diseases/MSK/Arthritis/Osteoarhritis|Osteoarhritis]] that affects the joints in the fingers and toes. Signs include oney overgrowth and osteophytes at specific sectio
+
+Heberden's nodes affect the joints at the end of the fingers, while Bouchard's nodes affect the joints in the middle of the fingers.
+
+Nodal osteoarthritis is more common in women than in men, and its incidence increases with age. It can be diagnosed through physical examination and imaging tests, and treatment options include pain management, exercise, and in severe cases, surgery.
 
 > [!Important]
 - Three major features include [[#^f0e007|Breakdown of hyaline cartilage]], [[#^ac6961|Hypertrophy of bone]] and [[#^1b4f19|Minimal inflammation of synovial fluid]]
@@ -56,9 +73,11 @@ Hip involvement results in **groin, buttock, or thigh pain**. There is reduced r
 ---
 
 ## Examination findings
-| Key Findings      | Result         | Explanation   |
-| ----------------- | -------------- | ------------- |
-| Range of movement | Restricted ROM | Boney enlargement limits movement |
+| Key Findings      | Result                                           | Explanation                                                                |
+| ----------------- | ------------------------------------------------ | -------------------------------------------------------------------------- |
+| Nodes             | Heberden's Nodes (DIP)<br>Bouchard's Nodes (PIP) | Caused by boney overgrowth/osteophytes. More common at inex and middle fingers. Found in [[#Nodal Osteoarthritis]]<br><br>![[Pasted image 20230512014201.png\|250]]|
+| Range of movement | Restricted ROM                                   | Boney enlargement limits movement                                          |
+| Crepitus          | Increased crepitus                               | Commonly found in [[#Hip involvement:\|hip joints]]                        |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
