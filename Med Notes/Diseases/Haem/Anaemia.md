@@ -32,13 +32,7 @@ Typically asymptomatic but symptoms include:
 
 ### *Risk factors*:
 Risk factors include:
-| Microcytic iron-deficient anaemia | Normocytic Anaemia | Macrocytic Anaemia |
-| ------------------ | ------------------ | ------------------ |
-| - Menorrhagia (women of childbearing age)<br>- Reduced dietary intake<br>- Overt or occult blood loss (most commonly in GIT)  |        |                    |
 
-### *Questions to ask*
-- "*Any significant bleeding in recent days? Menorrhagia for women?"
-- *"Any GIT bleeding including melena / bloody stools?"*
 
 ---
 
@@ -94,12 +88,6 @@ Treatment for iron deficiency anaemia
 	- ==INDICATION is Hb<70 == 
 	- ==INDICATION is SYMPTOMATIC ANAEMIA==
 
-## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
-
-^6df757
 
 ---
 
