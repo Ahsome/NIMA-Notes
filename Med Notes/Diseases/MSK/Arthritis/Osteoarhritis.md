@@ -12,15 +12,15 @@ Osteoarhritis is a degeneration of the synovial joints, leading to monoarticular
  3. *Minimal inflammation of synovial fluid*: This is a non-inflammatory arthritis ^1b4f19
 
 While it can affect any joint, the *weight-bearing joints* are **most commo**n:
+| 1. Hips<br>2. Knees<br>3. Cervical spine<br>4. Lumber | ![[Pasted image 20230512011932.png\|150]] |
+| ----------------------------------------------------- | ----------------------------------------- |
 
-
-| 1. Hips<br>2. Knees<br>3. Cervical spine4. Lumber | ![[Pasted image 20230512011932.png]] |
-| ---- | ------------------------------------ |
-|      |                                      |
+It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
 
 > [!Important]
 - Three major features include [[#^f0e007|Breakdown of hyaline cartilage]], [[#^ac6961|Hypertrophy of bone]] and [[#^1b4f19|Minimal inflammation of synovial fluid]]
 - Most commonly affects weight-bearing joints
+- It is a **clinical diagnosis**. [[#Investigations]] are supportive evidence.
 
 --- 
 # History
@@ -32,16 +32,24 @@ While it can affect any joint, the *weight-bearing joints* are **most commo**n:
 | Restricted ROM               | Boney enlargement limits movement                                                                                                    |
 
 ### Risk factors:
+| Risk factor  | Explanation                                                 |
+| ------------ | ----------------------------------------------------------- |
+| Advanced age | 80% over 55yo                                               |
+| Obseity      | Modifiable risk factor. Commonly:<br>- Knees<br>- Hip |
+| Trauma       | Either major trauma to joint or repeated microtrauma                                                            |
+
 
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice any pain that's worse when you are active, but imrpvoed when you rest"*
+>"*Do you notice any stiffness when you wake up?*"
+>"*How logn to symptoms last? Less than 30 miutes?*"
 
 ---
 
 ## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+| Key Findings      | Result         | Explanation   |
+| ----------------- | -------------- | ------------- |
+| Range of movement | Restricted ROM | Boney enlargement limits movement |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -50,9 +58,10 @@ While it can affect any joint, the *weight-bearing joints* are **most commo**n:
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Tests | Result                | Explanation |
+| --------- | --------------------- | ----------- |
+| X-ray     | Joint space narrowing |             |
+|           |                       |             |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
