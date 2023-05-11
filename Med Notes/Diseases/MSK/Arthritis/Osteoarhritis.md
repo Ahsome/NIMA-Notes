@@ -99,8 +99,14 @@ Over time, inflammatory signs subside and joints become less painful, but swelli
 First line of management include:
 1. **Weight loss**
 2. **Exercise and physical therapy**: Used to maintain motion and strength
+3. Use of **assisted devices** to move around
+4. Education of disease of conditions and self-treatment
+5. Reduction of comorbidities such as obesity
 
-If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be given
+If first line is not affective, *Topical* or *Oral* [[NSAID|NSAIDS]] can be given, as well as injections and [[Opiods]]
+
+### Pharmacological treatment:
+
 
 ## Criteria
 ### Example severity/test score:
