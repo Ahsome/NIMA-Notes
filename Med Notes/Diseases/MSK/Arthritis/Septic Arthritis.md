@@ -125,4 +125,4 @@ Infected prosthetic joints have different management:
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. [*Boads and Beyond - STEP 2:* Etc...](<[*Boads and Beyond - STEP 2:* MSK %3E Gout](http://10.243.109.99:8080/BnB%20Step%202/MSK%20March%20Update/3.Gout%20atf.mp4)>)
