@@ -53,6 +53,7 @@ Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more tha
 
 ## Examination findings
 Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rheumatoid Arthritis]], and Extra-articular findings
+
 | Articular findings               | Result                  | Explanation                                                                                                                             |
 | -------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                                                      |
@@ -61,18 +62,19 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 | Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
 | Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        | ^b3bc46
 
+
 | Extra-articular findings  | Result                | Explanation                                                                                                                                                         |
 | ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to [[Pericardial Effusion]]              |
+| Palpable nodules          |                       | Pathognomonic for [[Rheumatoid Arthritis]], common in 20-35% of patients<br>Common on elbow, can occur anywhere<br><br>   ![[Pasted image 20230512161852.png\|200]] |
 | Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                                           |
 | ^^                        | Pulmonary nodules     |                                                                                                                                                                     |
 | Carpal tunnel syndrome    |                       |                                                                                                                                                                     |
 | Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                                     |
-| Palpable nodules          |                       | Pathognomonic for [[Rheumatoid Arthritis]], common in 20-35% of patients<br>Common on elbow, can occur anywhere<br><br>   ![[Pasted image 20230512161852.png\|200]] |
 | Episcleritis/Scleritis    | Red eye               |                                                                                                                                                                     |
 | ^^                        | Eye pain              |                                                                                                                                                                     |
 | ^^                        | Discharge             |                                                                                                                                                                     |
-| [[Sjogren's Syndrome]]        |                       | Common in patients with RA                                                                                                                                                                    |
+| [[Sjogren's Syndrome]]    |                       | Common in patients with RA                                                                                                                                          |
 
 ^7e02a2
 >[!Important]
@@ -81,12 +83,13 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 
 ## Investigations
 Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invovle:
+
 | Key Tests                                   | Result         | Explanation                                                                                            |
 | ------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------ |
 | Rheumatoid Factor                           | Present        | Present in 70% to 80% of patients<br>*Low specificity:* Elevated in some patients and other conditions |
 | Antibodies to citrullinated peptides (ACPA) | Present        | More specific test                                                                                     |
 | Acute phase reactants                       | CRP (elevated) |                                                                                                        |
-| ^^                                          | ESR (elev)               |                                                                                                        |
+| ^^                                          | ESR (elevated)               |                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -95,7 +98,22 @@ Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invov
 ---
 
 # Management
-## Treatment
+## Overall management:
+Management involves the use of both:
+1. DMARD (Disease-Modifying antirheumatic drugs)
+2. Pain control
+
+**DMARDs**:
+1. Protects joints from destruction
+2. Provides long-term reduction in disease progression
+3. Slow onsent, effect over weeks
+4. Usually oral
+
+**Pain control**:
+1. Bridge until DMARDs take effect
+2. NSAID: Drug of choice for pain control
+3. Corticosteroids: Use if NSAID is inadequate
+	1. Can use short-term for symptom flairs
 
 ## Cervical subluxation management:
 Cervical subluxaion management can need the following:
