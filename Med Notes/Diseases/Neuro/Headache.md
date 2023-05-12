@@ -20,8 +20,8 @@ It is the **most common** headache. No known etiology, probably multifactorial. 
 Migraine pathophysiology is incopletely understood. The most likely theory is the "cortical spreading depression" theory. This involves a wave of nerve depolarisation across the cerebral cortex. This *activates* the [[Trigeminal nerve]], causing paine
 
 Migraine headaches has episodic phases that goes through phases:
-1. Prodrome
-2. Aura
+1. Prodrome (75% of patients), 1-2 days before headache. See [[#^1f7d8d|Prodrome symptoms]]
+2. Aura: Slow development of non-headache symptom. See [[#^d15b83|Aura symptoms]]
 3. Headache
 
 ## Cluster headache
@@ -37,13 +37,28 @@ Migraine headaches has episodic phases that goes through phases:
 Comparison over primary headaches:
 | Sign           | [[#Tension headache]]                 |[[#Migraine headache]]    | [[#Cluster headache]]   |
 | ----------- | -------------------------------- | ---------------------- | --------------------- |
-| Pain        |Constant, tightening around head |Episodic, goes through phases|  |
+| Pain        |Constant, tightening around head |Pulsating, Throbbing|  |
 | Location    | Bilateral                        |Unilateral|                       |
-| Duration    | 30min to several hours           |  |  |
+| Duration    | 30min to several hours           |Hours|  |
 | Photophobia | None                             |Yes |  |
 | Phonophobia | None                             |Yes|                       |
-| Aura        | None                                 |Yes|                       |
+|Aura| None                                 |Yes|                       |
+|Extra|None|  |  |
 
+Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: ^1f7d8d
+1. Yawning
+2. Depression
+3. Irritability
+4. Food cravings
+5. Constipation
+6. Neck stiffness
+
+Aura symptoms, mostly in [[#Migraine headache]]:
+| Category | Sign |
+| -------- | ---- |
+|Visual|- Bright, dark spots <br>- Also called "Scintillating scotoma"|
+|Sensory|Tingling in limb/face|
+|Auditory|Tinnitus|
 
 ### Risk factors:
 
