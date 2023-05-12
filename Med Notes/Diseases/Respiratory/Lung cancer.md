@@ -88,7 +88,8 @@ Symptoms across variants
 |Symptoms|[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                          | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
 | ------------ | ------------ | ----------------------------------------------------- | ------------------- | ------------------------- |
 | Pain         |  |Bone and Abdominal pain<br>Due to production of PTHrP|                     |                           |
-| Neurological |- Headaches <br>-Confusion <br>-Coma <br> <br>Due to [[#^5de9bf|SVC syndrome]] | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
+|Neurological |- Headaches <br>- Confusion <br>- Coma <br> <br>Due to [[#^5de9bf\|SVC syndrome]] | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
+|Swelling|- Facial swelling <br>- Arm Swelling <br> <br>Due to [[#^5de9bf\|SVC syndrome]]|  |  |  |
 
 ### Risk factors:
 1. Cigarette smoking
@@ -123,11 +124,11 @@ Lung cancer tests:
 
 Tests across variants:
 
-| Test     | [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                              | [[#Large Cell Carcinoma]]        |
-| -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
-| Biopsy   | Keratin Production<br>("Pearls")                                          |                                                                                                  |         |
-| ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
-| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] | Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca |
+|Test|[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                              | [[#Large Cell Carcinoma]]        |
+| -------- | -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
+| Biopsy   |   | Keratin Production<br>("Pearls")                                          |  |         |
+| ^^       |  | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
+|Chest CT|Compression of SVC, leading to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
 
 >[!Important]
 >![[#^fdb235]]
