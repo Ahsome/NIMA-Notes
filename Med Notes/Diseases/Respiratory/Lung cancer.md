@@ -6,7 +6,7 @@
 ---
 
 # Information
-Lung cancer is a... 
+Lung cancer is  
 
 > [!Important]
 - Important point
