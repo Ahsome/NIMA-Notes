@@ -20,6 +20,7 @@ Features include:
 2. It is treated with **chemotherapy**
 3. Exhibitts *many* paraneoplastic syndromes.
 4. It occurs in smokers
+5. Risk of [[#^5de9bf|SVC syndrome]] due to compression of SVC
 
 ### Paraneoplastic Syndromes:
 Small cell lung cancer can result in production of:
@@ -84,10 +85,10 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 
 Symptoms across variants
 
-| Symptoms     | [[#Squamous Cell Carcinoma]]                          | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
-| ------------ | ----------------------------------------------------- | ------------------- | ------------------------- |
-| Pain         | Bone and Abdominal pain<br>Due to production of PTHrP |                     |                           |
-| Neurological | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
+|Symptoms|[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                          | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
+| ------------ | ------------ | ----------------------------------------------------- | ------------------- | ------------------------- |
+| Pain         |  |Bone and Abdominal pain<br>Due to production of PTHrP|                     |                           |
+| Neurological |- Headaches <br>-Confusion <br>-Coma <br> <br>Due to [[#^5de9bf|SVC syndrome]] | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
 
 ### Risk factors:
 1. Cigarette smoking
@@ -116,7 +117,7 @@ Lung cancer tests:
 |Key Findings | Result                             | Explanation                                                                                         |
 |:-:|:--| --------------------------------------------------------------------------------------------------- |
 |CXR |Pulmonary Nodule<br>"Coin lesions"| Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| ^^           | Elevated hemidiaphram              |Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the sniff test.<br><br>![[Pasted image 20230512211221.png\|150]]|
+| ^^           | Elevated hemidiaphram              |Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
 | Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 
 
@@ -180,9 +181,16 @@ Surgery is not incidated in:
 	1. Leads to diaphragm paralysis
 	2. Dyspnea
 	3. Hemidiaphragm elevated on CXR
-	4. Can be tested with Sniff test. Make patient sniff under imaging, if hemidiaphargm does not elevate then phrenic nerve compression
+	4. Can be tested with Sniff test. Make patient sniff under imaging such as fluroscope, if hemidiaphargm does not elevate then phrenic nerve compression ^7f0231
 4. Recurrent laryngeal nerve compression ^93ef83
 	1. Hoarseness
+5. SVC syndrome: Caused by any obstruction of blood through SVC, such as a malignant tumor ^5de9bf
+	1. Other causes include: Lymphoma, Indwelling catheters, pacemaker wires
+	2. Facial swelling or head fullness
+	3. Arm swelling
+	4. Increased ICP
+		1. Leads to headaches, confusion coma
+		2. Cranial artery rupture
 
 ---
 
