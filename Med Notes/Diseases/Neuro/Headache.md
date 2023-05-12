@@ -138,10 +138,21 @@ Initial management involves first identifying and ruling out serious but unlikel
 Treatment can then be provided assuming it's a primary headache.
 
 ## Tension Headache management:
-First-line treatment is NSAIDS. This is often combined with caffeine.
+**First-line** treatment is NSAIDS. This is often combined with caffeine.
 1. Aspirin, 600mg to 900mg
-2. Ibuprofin, 
-Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
+2. Ibuprofin, 400mg
+3. Naproxen, 500mg to 750mg
+4. Paracetaml, 1g
+
+**Prophylaxis** for chronic tension can be given:
+
+| Drug          | Amount                                             | Duration       | Extra      |
+| ------------- | -------------------------------------------------- | -------------- | ---------- |
+| Amitryptyline | 10mg, increase bg 10mg every 7 days to max of 75mg | OD, 8 weeks    | First line |
+| Notriptyline  | ^^                                                 | ^^             | ^^         |
+| Mirtazapine   | 15mg to 30mg                                       | OD, 8-12 weeks |          At night  |
+| Velafaxine    | 75mg, increase to 150mg if needed                  | OD, 8-12 weeks | After food           |
+
 
 ## Migraine Headhache management:
 Treatment involves:
@@ -210,7 +221,11 @@ This is done for patients with >3 headaches per month. This includes:
 ## Cluster Headache management:
 First line treatment include:
 1. Oxygen: Mechanism unclear, may be due to O2-induced vasoconstiction and inhibition of neuronal activation in trigeminal nculeus
-2. Triptans
+	1. 100% 15L/min for 15-20 minutes
+2. Triptans:
+	1. Sumatriptan
+	2. Rizatriptan
+	3. Zolmitriptan
 
 Prophylaxis: Verapamil, highly effective
 
