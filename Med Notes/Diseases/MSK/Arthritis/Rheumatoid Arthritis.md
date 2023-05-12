@@ -18,8 +18,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 
 
 > [!Important]
-- Important point
-
+- Palpable nodules are ***Pathognomonic*** for
 --- 
 # History
 ### Symptoms
@@ -55,11 +54,12 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 
 | Extra-articular findings  | Result                | Explanation                                                                                                                                        |
 | ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to Pericardial effusion |
-| Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                                                                   |
+| Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to [[Pericardial Effusion]] |
+| Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                          |
 | ^^                        | Pulmonary nodules     |                                                                                                                                                    |
 | Carpal tunnel syndrome    |                       |                                                                                                                                                    |
-| Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                                   |
+| Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                    |
+| Palpable nodules          |                       | Pathognomonic for [[Rheumatoid Arthritis]], common in 20-35% of patients<br>Common on elbow, can occur anywhere<br><br>   ![[Pasted image 20230512161852.png\|200]]                                                                                                                                                |
 
 ---
 
