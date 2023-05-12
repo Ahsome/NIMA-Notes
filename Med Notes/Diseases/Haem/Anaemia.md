@@ -30,7 +30,7 @@ flowchart TB
 211 --> 2113 [Low/normal iron and low/normal feritin with low TIBC]
 
 2111 --> 21111[Iron defieciency anaemia]
-2112
+2112 --> 21121
 
 class 21 internal-link
 class 31 internal-link
