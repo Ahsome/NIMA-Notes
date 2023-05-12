@@ -70,6 +70,12 @@ It can creat PTHrP, leading to:
 	2. If migratory, then more likely to be an immune defiiency
 	3. Best scan is CT scan
 
+Symptoms across variants
+| Symptoms     | [[#Squamous Cell Carcinoma]]                          |
+| ------------ | ----------------------------------------------------- |
+| Pain         | Bone and Abdominal pain<br>Due to production of PTHrP |
+| Neurological | Confusion<br>Due to production of PTHrP                                                      |
+
 ### Risk factors:
 1. Cigarette smoking
 	1. Leads to [[#Small cell lung cancer]] or [[#Squamous Cell Carcinoma]] for men
@@ -105,7 +111,7 @@ Lung cancer tests:
 | Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
 | ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                  |
 
-Specific tests:
+Tests across variants::
 
 | Test     | [[#Squamous Cell Carcinoma]]                         |
 | -------- | ---------------------------------------------------- |
