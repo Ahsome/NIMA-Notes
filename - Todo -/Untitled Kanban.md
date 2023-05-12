@@ -8,10 +8,21 @@ kanban-plugin: basic
 
 
 
+## In Progress
+
+
+
+## Completed
+
+- [ ] [[Diabetes Mellitus]]<br>#cardiology
+- [ ] Gout
+- [ ] Septic Arthritis
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","show-checkboxes":true,"tag-colors":[]}
 ```
 %%
