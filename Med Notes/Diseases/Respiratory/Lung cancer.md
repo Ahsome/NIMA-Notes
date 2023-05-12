@@ -146,9 +146,9 @@ Symptoms across variants
 ## Investigations
 Lung cancer tests:
 
-|Key Findings | Result                             | Explanation                                                                                         |
+|Key Findings  | Result                              | Explanation                                                                                         |
 |:-:|:--| --------------------------------------------------------------------------------------------------- |
-|CXR |Pulmonary Nodule (<3cm) <br>"Coin lesions"|Compare with *previous* CXR to identify new lesion <br> Further evaluation with Chest CT for size and location <br> Always conduct management as seen in [[#Pulmonary Nodules]]<br><br>![[Pasted image 20230512202432.png\|100]]|
+|CXR|Pulmonary Nodule (<3cm) <br>"Coin lesions" |Compare with *previous* CXR to identify new lesion <br> Further evaluation with Chest CT for size and location <br> Always conduct management as seen in [[#Pulmonary Nodules]]<br><br>![[Pasted image 20230512202432.png\|100]]|
 | ^^           |Elevated hemidiaphram|Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
 |^^|Tumor at apex of lung|[[#Pancoast tumor]] <br> <br>![[Pasted image 20230512213855.png\|150]]|
 |^^|Multiple lesions|More like metastasis to lungs than primary cancer <br> <br>![[Pasted image 20230512214212.png\|150]]|
@@ -161,9 +161,9 @@ Lung cancer tests:
 
 Tests across variants:
 
-|Test|[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                              | [[#Large Cell Carcinoma]]        |
+|Test |[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                               | [[#Large Cell Carcinoma]]         |
 | -------- | -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
-| Biopsy   |   | Keratin Production<br>("Pearls")                                          |  |         |
+|Biopsy|   | Keratin Production<br>("Pearls")                                          |  |  |
 | ^^       |  | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
 |Chest CT|Compression of SVC<br>Leads to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
 
@@ -199,11 +199,14 @@ When pulmonary nodules are identified, following steps are warranted:
 
 Differentials include: <br>- Granuloma <br>- Hamartoma <br>- Malilgancy
 
-The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* or *high-risk*
+The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* or *high-risk*:
+![[#^6df757]]
 
 ## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
+### Severity of Pulmonary Nodules:
+|Low risk  |High Risk   |
+|:-:|:-:|
+|<40yo <br>Non-Smoker <br>Small lesions <1cm <br>Smooth borders <br>Calcifications |\>40yo <br>Smoker <br>Large lesions <br>Spiculated |
 
 ^6df757
 
