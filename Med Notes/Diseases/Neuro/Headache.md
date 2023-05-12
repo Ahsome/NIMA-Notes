@@ -30,6 +30,7 @@ Migraine headaches has episodic phases that goes through phases:
 - It is important with headaches to **rule out** life-threatening causes, even when it is unlikely
 - Lack of papilledema helps exclude life-threatening causes of headaches
 - Primary headaches are *all diagnosed clinically*. There are no investigations, blood test or imaging ^ba1cb7
+- Women with migraines *should not use estrogen-containing OCPs* due to risk of **** ^be3ebf
 
 --- 
 # History
@@ -40,10 +41,9 @@ Comparison over primary headaches:
 | Pain        |Constant, tightening around head |Pulsating, Throbbing|  |
 | Location    | Bilateral                        |Unilateral|                       |
 | Duration    | 30min to several hours           |Hours|  |
-| Photophobia | None                             |Yes |  |
-| Phonophobia | None                             |Yes|                       |
 |Aura| None                                 |Yes|                       |
-|Extra|None|  |  |
+|Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|  |
+|Disabling|No|Yes|Yes|
 
 Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: ^1f7d8d
 1. Yawning
@@ -61,6 +61,12 @@ Aura symptoms, mostly in [[#Migraine headache]]:
 |Auditory|Tinnitus|
 
 ### Risk factors:
+1. Stress
+2. Fasting
+3. Menstruation
+4. Weather changes
+5. Alcohol
+	1. Especially wine
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -102,9 +108,15 @@ Initial management involves first identifying and ruling out serious but unlikel
 
 Treatment can then be provided assuming it's a primary headache.
 
-## Tension Headache treatment:
+## Tension Headache management:
 First-line treatment is NSAIDS. This is often combined with caffeine.
 Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
+
+## Migraine Headhache management:
+An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***
+
+>[!Important]- No estrogen-containing OCPs
+>![[#^be3ebf]]
 
 ## Drug overview
 
