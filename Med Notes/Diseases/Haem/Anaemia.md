@@ -11,11 +11,17 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 ![[Pasted image 20230509094418.png]] ^d5658c
 
+```mermaid
+flowchart TB
+[Examination of FBC and Peripheral Blood Smear]--->MCV < 80
+[Examination of FBC and Peripheral Blood Smear]---> MCV 80-100
+[Examination of FBC and Peripheral Blood Smear]---MCV > 100
+```
 
 ## Pathophysiology
 | [[Microcytic Anaemia]]<br>MCV < 80   | [[Normocytic Anaemia]]<br>MCV 80-100  | [[Macrocytic Anaemia]]<br>MCV > 100 |
-| ------------------------- | ------------------------- | ----------------------- |
-| Iron deficiency           | Anemia of Chronic Disease |                         |
+| :-------------------------: | :-------------------------: | :-----------------------: |
+| Iron deficiency           | Anemia of Chronic Disease |  Folate/B12 deficiency                       |
 | THalassemia               | Hemolysis                 | Liver Disease           |
 | Anemia of Chronic DIsease | Aplastic Aneia            | Alcohol use             |
 | Sideroblastic ANemia      | Chronic Kidney Disease    | Reticulocytosis                        |
