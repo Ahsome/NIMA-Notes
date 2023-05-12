@@ -189,7 +189,16 @@ This is done for patients with >3 headaches per month. This includes:
 >![[#^be3ebf]]
 
 ## Cluster Headache management:
-First line 
+First line treatment include:
+1. Oxygen: Mechanism unclear, may be due to O2-induced vasoconstiction and inhibition of neuronal activation in trigeminal nculeus
+2. Triptans
+
+Prophylaxis: Verapamil, highly effective
+
+Cluster headaches do *not* respond well to NSAIDs such as indomethacin
+
+>[!Important]- NSAID ineffective
+>Cluster headaches do *not* respond well to NSAIDs such as indomethacin
 
 ## Drug overview
 
