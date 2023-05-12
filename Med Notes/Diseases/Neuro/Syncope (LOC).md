@@ -9,6 +9,21 @@ max_depth: 2
 # Information
  
 ![[Pasted image 20230509064442.png]]
+>[!Important] RARE causes NOT TO MISS
+>- PE
+>- Subarachnoid haemorrhage
+>- Shock
+>- Atrial myxoma (tumour of atrium)
+
+
+# DDx:
+- Seizure
+	- Tonic-clonic activity
+	- Tongue biting
+	- Incontinence
+	- Post-ictal state (confusion after LOC)
+- Mechanical fall +/- head trauma
+- Narcolepsy 
 
 > [!Important]
 - Important point
@@ -22,6 +37,12 @@ NEUROCARDIOGENIC - sudden increase in parasympathetic outflow, with reduced symp
 - Fear
 - Heat 
 - Prolonged standing
+- Situational:
+	- Coughing
+	- Sneezing
+	- Urinating
+	- Defecation
+	- Swallowing
 
 ### Clinical diagnosis + examination findings:
 - Bradycardia
@@ -37,66 +58,45 @@ NEUROCARDIOGENIC - sudden increase in parasympathetic outflow, with reduced symp
 Reassurance
 
 ---
+# Orthostatic Syncope
 
-<<<<<<< Updated upstream
-## Examination findings
-| Key Findings     | Result    | Explanation                                                                                                         |
-| ---------------- | --------- | ------------------------------------------------------------------------------------------------------------------- |
-| Finding 1 | Result 1 | Explanation 1    |                                                                                                                     |
+Syncope with standing --> exaggerated fall in BP
 
-| Additional Findings         | Result    | Explanation |
-| ---------------- | --------- | ----------- |
-| Finding 1 | Result 1 | Explanation 1
+### Risk Factors
+| Hypovolaemia      | Autonomic failure | Medications   |
+| ----------------- | ----------------- | ------------- |
+| Poor fluid intake | Diabetes          | Beta blockers |
+| Diuretics         | Parkinson's (especiallly with levodopa treatment)       | alpha blockers              |
 
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
-# Management
-## Treatments
-### *Possible drugs:*
-1. Drug/Drug class 1
-	1. Info on drug 1
-2. Drug/Drug class 2
-	1. Info on drug 2
+- Improves with IV fluids
 
 
-### *Acute issue*
-#### *Management*:
-1. Steps for managing acutely
+# Cardiogenic Syncope
 
-### *Long-term issue*
-Steps for manaing long-term:
-1. Step 1
+- Sudden fall in cardiac output
+- ==Abrupt without a prodrome ==
+- Sometimes preceded by palpitations or chest pain
+- Extensive cardiac history 
 
-## Criteria
-### *Insert test severity or score (e.g. Chad-Vacs)*
-Example for [[Asthma]]:
-![[Asthma#^6df757]]
+### Causes:
+| Ischaemia | Arrhythmia  | Outflow Obstruction         |
+| --------- | ----------- | --------------------------- |
+| Very rare | Bradycardia | Aortic stenosis             |
+|           | SVT / VT    | Hypertrophic cardiomyopathy |
+|           |             |                             |
 
-^6df757
+### Investigations:
+- ECG - heart block or arrhythmia
+- History - CVS risk factors
+- Exam - murmur
+- Echocardiogram - outflow obstruction
+
+## Subtype - Carotid Sinus Syncope:
+- Carotid sinus hypersensitivty (baroreceptors)
+- Patient education is required 
+
+
 
 ---
 
-# Complications
-1. Complications of disease
-
 ---
-
-# Extra
-## Relevant notes:
-1. 
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...
-=======
-# Cardiogenic syncope
->>>>>>> Stashed changes
