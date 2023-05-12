@@ -24,7 +24,9 @@ Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more tha
 > [!Important]
 - Palpable nodules are ***Pathognomonic*** for[[Rheumatoid Arthritis]]. See [[#^7e02a2|Extra-articular features]] ^2d22d0
 - Increases rate of [[Osteoporosis]]. See [[#^25f590|Complications > Osteoporosis]]
-- Diagnosis require 3 or more oints lasting over 6 weeks
+- Diagnosis require 3 or more joints lasting over 6 weeks
+- csDMARD is first line with [[Methotrexate]], add bDMARD and tsDMARD only if not remissing well
+- bDMARD and tsDMARD have *increased* **infection risk** ^9abca0
 --- 
 # History
 ### Symptoms
@@ -108,7 +110,11 @@ Inducing remission and paincontrol depend on the following:
 2. Pain control
 
 ##  Clinical remission
-Clinical remission requires the use of DMARDs. This is then followed by 12 weeks of observation. If no improvement is found, consider changing dosage, addition of new DMARDs
+Clinical remission requires the use of DMARDs. This is then followed by 12 weeks of observation. If no improvement is found, consider changing dosage, addition of new bDMARD or tsDMARD.
+
+>[!Important]
+>![[#^9abca0]]
+
 **DMARDs**:
 1. Protects joints from destruction
 2. Provides long-term reduction in disease progression
@@ -121,14 +127,17 @@ Clinical remission requires the use of DMARDs. This is then followed by 12 weeks
 
 Following options are recommended:
 
-| Type      | Drug                    | Use case/Explanation                     |
-| --------- | ----------------------- | ---------------------------------------- |
-| *csDMARD* | Methotrexate+Folic Acid | First-line                               |
-| ^^        | Leflunomide             | Use if Methotrexate is not tolerated     |
-| ^^        | Sulfsazaline            | Can use in low-risk, few affected joints |
-| ^^        | Hydroxychloroquine      | ^^                                       |
-|           |                         |                                          |
-
+| Type      | Drug                    | Use case/Explanation                                                                                                                            |
+| --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| *csDMARD* | Methotrexate+Folic Acid | First-line                                                                                                                                      |
+| ^^        | Leflunomide             | Use if Methotrexate is not tolerated                                                                                                            |
+| ^^        | Sulfsazaline            | Can use in low-risk, few affected joints                                                                                                        |
+| ^^        | Hydroxychloroquine      | ^^                                                                                                                                              |
+| *bDMARD*    | Abatacerpt              | Used if remission is not available or significant detirioration.<br> All equally effective<br><br>Important to consider increase risk infection |
+| ^^        | Etanercept              | ^^                                                                                                                                              |
+| ^^        | Infliximab              | ^^                                                                                                                                              |
+| *tsDMARD*   | Tofacitinib             | ^^                                                                                                                                                |
+**
 **Pain control**:
 1. Bridge until DMARDs take effect
 2. NSAID: Drug of choice for pain control
