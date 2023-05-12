@@ -6,9 +6,7 @@
 ---
 
 # Information
-Rheumatoid Arthritis is an autoimmune infammation of the synovium. The *synovium* is a thin layer of tissues that line joints and tendon sheaths, and secretes hyaluronic acid to lubricate the joint space.
-
-It results in a **systemic disease** with **extra-articular complications**. It may wax and wave with flares
+Rheumatoid Arthritis is an autoimmune infammation of the synovium. The *synovium* is a thin layer of tissues that line joints and tendon sheaths, and secretes hyaluronic acid to lubricate the joint space. It results in a **systemic disease** with **extra-articular complications**. It may wax and wave with flares.
 
 Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the body. It has a gradual onset of symptoms, and commonly involves the **wrists** and the **hands**. It classicly affects:
 1. Metacarpophalangeal (MCP) joints. Contrast with [[Osteoarhritis]], where MCP joints are spared
@@ -21,10 +19,12 @@ If a patient has [[Osteoporosis]], it is ***accelerated by RA***:
 2. Steroid treatment for [[Rheumatoid Arthritis]] (See [[#Management]]) can worsen [[Osteoporosis]]
 3. Leads to 30% increase in major fracture, 40% increase hip fracture
 
+Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more than 6 weeks*
 
 > [!Important]
 - Palpable nodules are ***Pathognomonic*** for[[Rheumatoid Arthritis]]. See [[#^7e02a2|Extra-articular features]] ^2d22d0
-- 
+- Increases rate of [[Osteoporosis]]. See [[#^25f590|Complications > Osteoporosis]]
+- Diagnosis require 3 or more oints lasting over 6 weeks
 --- 
 # History
 ### Symptoms
@@ -80,9 +80,13 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invovle:
+| Key Tests                                   | Result         | Explanation                                                                                            |
+| ------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------ |
+| Rheumatoid Factor                           | Present        | Present in 70% to 80% of patients<br>*Low specificity:* Elevated in some patients and other conditions |
+| Antibodies to citrullinated peptides (ACPA) | Present        | More specific test                                                                                     |
+| Acute phase reactants                       | CRP (elevated) |                                                                                                        |
+| ^^                                          | ESR (elev)               |                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -111,6 +115,9 @@ Cervical subluxaion management can need the following:
 
 # Complications
 1. Cervical subluxation: It is a possible life-threatening spinal cord compression occuring at the [[Glossary#^8e8608|Atlantoaxial joint]]. It may require surgery, and DMARD therapy. See [[#Cervical subluxation management:]] ^7c1724
+2. Osteoporosis: Accelerates rate due to disease and the use of steroid treatment ^25f590
+	1. 30% increase risk of major fracture
+	2. 40% increase risk of hip fracture
 
 ---
 
