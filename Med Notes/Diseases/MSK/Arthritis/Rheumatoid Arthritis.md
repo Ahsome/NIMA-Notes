@@ -14,7 +14,7 @@ Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the 
 1. Metacarpophalangeal (MCP) joints. Contrast with [[Osteoarhritis]], where MCP joints are spared
 2. Proximal Interphalangeal (PIP) joints
 
-It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It also *does not* involve the Lumbar spine, which is involved in [[Osteoarhritis]]
+It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It also *does not* involve the Lumbar spine, which is involved in [[Osteoarhritis]]. Exception is C1-C2, see [[#Examination findings]].
 
 
 > [!Important]
@@ -38,14 +38,18 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 1. Woman
 2. Age 20-40
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice any stiffness or warmth in the joint?"*
+>"*Do you notice stiffness when you wake up? Does it last over one hour?*"
 
 ---
 
 ## Examination findings
-| Key Findings        | Result  | Explanation   |
-| ------------------- | ------- | ------------- |
-| Swelling and Warmth | Present | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]] |
+| Key Findings               | Result                  | Explanation                                                                                                    |
+| -------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                             |
+| Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]] |
+| Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                      |
+| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724|Cervical subluxation]], a possile life-threatening spinal cord compression                                                                                                               |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -78,12 +82,12 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ---
 
 # Complications
-1. Complications of disease
+1. Cervical subluxation: It is ^7c1724
 
 ---
 
 # Extra
 ## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
+1. 
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...
