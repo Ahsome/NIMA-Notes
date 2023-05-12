@@ -89,6 +89,7 @@ Symptoms include:
 - When using CXR, always compare with previous CXR to identify new lesions ^fdb235
 - [[#Adenocarcinoma]] is the cancer linked least to non-smoking
 - Most lung cancer come from metastatis, such as from [[Breast Cancer]] and [[Colon Cancer]]
+- When pulmonary nodules are found, always conduct management as seen in [[#Pulmonary Nodules:]] ^3290b8
 
 --- 
 # History
@@ -147,12 +148,16 @@ Lung cancer tests:
 
 |Key Findings | Result                             | Explanation                                                                                         |
 |:-:|:--| --------------------------------------------------------------------------------------------------- |
-|CXR |Pulmonary Nodule (<3cm) <br>"Coin lesions"|Compare with *previous* CXR to identify new lesion <br> Further evaluation with Chest CT for size and location <br><br>![[Pasted image 20230512202432.png\|100]]|
+|CXR |Pulmonary Nodule (<3cm) <br>"Coin lesions"|Compare with *previous* CXR to identify new lesion <br> Further evaluation with Chest CT for size and location <br> Always conduct management as seen in [[#Pulmonary Nodules]]<br><br>![[Pasted image 20230512202432.png\|100]]|
 | ^^           |Elevated hemidiaphram|Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
 |^^|Tumor at apex of lung|[[#Pancoast tumor]] <br> <br>![[Pasted image 20230512213855.png\|150]]|
 |^^|Multiple lesions|More like metastasis to lungs than primary cancer <br> <br>![[Pasted image 20230512214212.png\|150]]|
 | Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 
+^c3139a
+
+>[!Important]
+>![[#^3290b8]]
 
 Tests across variants:
 
@@ -176,6 +181,8 @@ Treatment involves the following:
 2. Chemotherapy
 3. Radiation
 
+Specific management is needed when identified from [[#^c3139a|Pulmonary Nodules]]
+
 ### Surgery:
 Surgery is not incidated in:
 1. Metastatic disease. This includes [[#Small cell lung cancer]], which are unresectable 95% time
@@ -184,6 +191,15 @@ Surgery is not incidated in:
 
 **NOTE**: Size is *not* a major determinant for surgery
 
+### Pulmonary Nodules:
+When pulmonary nodules are identified, following steps are warranted:
+1. Check with previous CXR to see if nodules are new
+2. CT scan to check size and location
+3. Potential biopsy for differentials
+
+Differentials include: <br>- Granuloma <br>- Hamartoma <br>- Malilgancy
+
+The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* or *high-risk*
 
 ## Criteria
 ### Example severity/test score:
