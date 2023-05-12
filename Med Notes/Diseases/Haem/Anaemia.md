@@ -49,6 +49,10 @@ style 211 fill:#b8e1e1,color:#000000
 style 311 fill:#b8e1e1,color:#000000
 style 411 fill:#b8e1e1,color:#000000
 
+style 2111 fill:#b8e1e1,color:#000000
+style 2111 fill:#b8e1e1,color:#000000
+style 2111 fill:#b8e1e1,color:#000000
+
 ```
 
 ## Pathophysiology
