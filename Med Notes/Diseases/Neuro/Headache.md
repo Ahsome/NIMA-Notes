@@ -13,16 +13,31 @@ Primay causes include:
 2. Migraine headache
 3. Cluster headache
 
+## Tension headache
+It is the **most common** headache. No known etiology, probably multifactorial. There is a *lack* of photophobia, ponophobia, or aura. It is considered chronic when >15 days/month
 
+## Migraine headache
+
+## Cluster headache
 
 > [!Important]
 - It is important with headaches to **rule out** life-threatening causes, even when it is unlikely
 - Lack of papilledema helps exclude life-threatening causes of headaches
-- Primary headaches are *all diagnosed clinically*. There are no investigations, blood test or imaging
+- Primary headaches are *all diagnosed clinically*. There are no investigations, blood test or imaging ^ba1cb7
 
 --- 
 # History
 ### Symptoms
+Comparison over primary headaches:
+| Sign         | [[#Tension headache]]              | [[#Migraine headache]]   | [[#Cluster headache]]   |
+| ----------- | -------------------------------- | ---------------------- | --------------------- |
+| Pain        | Constant, tightening around head |                        |  |
+| Location    | Bilateral                        |Unilateral|                       |
+| Duration    | 30min to several hours           |                        |                       |
+| Photophobia | None                             |                        |                       |
+| Phonophobia | None                             |                        |                       |
+| Aura        | None                                 |                        |                       |
+
 
 ### Risk factors:
 
@@ -51,7 +66,8 @@ Primay causes include:
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
 
->[!Import]
+>[!Important]- All clinical diagnosis, no investigations
+>![[#^ba1cb7]]
 
 ---
 
