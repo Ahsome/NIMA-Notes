@@ -119,15 +119,33 @@ Treatment involves:
 1. Abortive therapy: Used in acute migraine
 2. Prophylactic therapy: Prevent further migraines
 
+An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***. They should use progesterone-containing pills
+
+### Abortive therapy:
 **Abortive therapy** include [[Triptans]], that are serotonin agonists and inhibit trigeminal nerve activity, reducing vasoactive peptide release. These include:
 1. Sumatriptan
 2. Zolmitriptan
 3. Eletriptan
 4. Rizatriptan
+5. [[Lasmitidan]]: Selective serotonin 1F receptor agonist, no vasocontrictor activity
 
-Use over 10 days per month is not recommended, as it can cause an *overuse headache*. It can also lead to the [[Serotonin syndrome]] when combined with MAO inhibitors. There is less risk with SSRI or SNRI
+Other examples include:
+1. High dose NSAIDs
+2. Antiemetics: Dopamine antagonists
+	1. Improve nausea and pain. May cause dystonia, so can help sleep through
 
-An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***. They should use progesterone-containing pills
+#### Contraindications:
+**Triptans:**
+1. Use over 10 days per month is not recommended, as it can cause an *overuse headache*.
+2. It can also lead to the [[Serotonin syndrome]] when combined with [[MAOi]]. There is less risk with SSRI or SNRI
+3. Given triptans cause vasoconstriction, it is contraindicated in the following:
+	1. [[Peripheral Vascular Disease]]
+	2. [[Coronary Artery Disease]]
+	3. [[Cerebrovascular disease]]
+	4. Uncontrolled [[Hypertension]]
+	5. Only exception is [[Lasmitidan]]: Selective serotonin 1F receptor agonist, no vasocontrictor activity
+
+
 
 
 >[!Important]- No estrogen-containing OCPs
