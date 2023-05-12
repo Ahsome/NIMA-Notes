@@ -7,14 +7,14 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] [[Breast Cancer]]
-- [ ] [[Headaches]]
-- [ ] [[Migranes]]
 - [ ] [[Dementia]]
 - [ ] [[Parkinsons]]
 
 
 ## In Progress
 
+- [ ] [[Headaches]]
+- [ ] [[Migranes]]
 
 
 ## Completed
