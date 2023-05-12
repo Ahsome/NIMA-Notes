@@ -222,6 +222,13 @@ Cluster headaches do *not* respond well to NSAIDs such as indomethacin, but it *
 
 ^6df757
 
+## Low Pressure Headache management:
+First line treatment include:
+1. NSAID
+2. Epidural blood patch
+	1. Infusion of blood into epidural space, clots over dural CSF leaks
+	2. Often provides immediate symptom relief
+
 ---
 
 # Complications

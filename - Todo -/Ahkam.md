@@ -10,17 +10,19 @@ kanban-plugin: basic
 - [ ] [[Dementia]]
 - [ ] [[Parkinsons]]
 - [ ] Gastroenteritis
+- [ ] [[UMN Lesion]]
+- [ ] [[LMN Lesion]]
 
 
 ## In Progress
 
-- [ ] [[Headaches]]
-- [ ] [[Migranes]]
 
 
 ## Completed
 
 **Complete**
+- [x] [[Headaches]]
+- [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
 - [x] [[Gout]]
 - [x] [[Septic Arthritis]]
