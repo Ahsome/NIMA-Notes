@@ -25,7 +25,8 @@ flowchart TB
 31 --> 311[Reticulocyte count]
 41 --> 411[Megalocytes and segmented neutrophils]
 
-211 --> 2111[Low iron and erritin with high ]
+211 --> 2111[Low iron and erritin with high TIBC]
+211 --> 2112
 
 class 21 internal-link
 class 31 internal-link
