@@ -6,38 +6,26 @@
 ---
 
 # Information
-Lung cancer is cancer involving lung tissue. It is the **most deadly** cancer, and *second* **most likely** cancer. 
-
-It has usually adbanced at presentation; it is unlikely to identify lung cancer in the earlier stages
+Breast Cancer is a... 
 
 > [!Important]
-- Most deadly cancer, second most likely cancer
+- Important point
 
 --- 
 # History
 ### Symptoms
-1. Cough
-2. Dyspnea
-3. Hemoptosys
-4. Weight loss
 
 ### Risk factors:
-1. Ciagarette smoking
-2. Radiation therapy
-	1. Hodhkin lymphoma
-	2. [[Breast Cancer]]
-3. Environmentl toxins
-	1. Asbestos
-	2. Radon
+
 ### Questions to ask
 >*"Do you notice any ???"*
 
 ---
 
 ## Examination findings
-| Key Findings     | Result  | Explanation   |
-| ---------------- | ------- | ------------- |
-| Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
+| Key Findings | Result   | Explanation   |
+| ------------ | -------- | ------------- |
+| Finding 1    | Result 1 | Explanation 1 |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -70,7 +58,7 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 ---
 
 # Complications
-1. Complications of disease
+1. [[Lung cancer]]: Due to the radiation therapy for breast cancer, it can be a risk factor for lung cancer.
 
 ---
 
@@ -78,4 +66,4 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 ## Relevant notes:
 1. 
 ## References:
-1. [*Boads and Beyond - STEP 2:* MSK > Pulmonary Disease > Lung Cancer](http://10.243.109.99:8080/BnB%20Step%202/Pulmonary/1.%20Pulmonary%20Disease/7.%20Lung%20Cancer%20ATF.mkv)
+1. *Boads and Beyond - STEP 2:* Etc...
