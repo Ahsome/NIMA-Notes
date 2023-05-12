@@ -138,6 +138,7 @@ Symptoms across variants
 >*"Do you notice any cough? Shortness of breath"*
 >"*Hoarsness in voice? Changes in your arm?*" - See [[#^93ef83|Recurrent laryngeal nerve compression]] and [[#Pancoast tumor]]
 >"*Any swelling of the face and arm? Confusions or headaches?*" - See [[#^5de9bf|SVC syndome]]
+>"*Any bone or abdominal pain? Confusion?*" - See [[#Squamous Cell Carcinoma]]]
 
 ---
 
@@ -166,11 +167,12 @@ Lung cancer tests:
 
 Tests across variants:
 
-|Test |[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                               | [[#Large Cell Carcinoma]]         |
+|Test |[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                                                  | [[#Adenocarcinoma]]                                                                                | [[#Large Cell Carcinoma]]            |
 | -------- | -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
-|Biopsy|   | Keratin Production<br>("Pearls")                                          |  |  |
-| ^^       |  | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
-|Chest CT|Compression of SVC<br>Leads to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
+|Biopsy |  |Keratin Production<br>("Pearls")|  |  |
+| ^^       |  | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |  |
+|Chest CT <br> |Compression of SVC<br>Leads to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
+|Chem20|  |Hypercalcemia, due to PTHrP involvement|  |  |
 
 >[!Important]
 >![[#^fdb235]]
