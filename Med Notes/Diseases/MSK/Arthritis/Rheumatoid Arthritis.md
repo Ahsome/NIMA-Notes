@@ -37,7 +37,6 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ### Risk factors:
 1. Woman
 2. Age 20-40
-
 ### Questions to ask
 >*"Do you notice any stiffness or warmth in the joint?"*
 >"*Do you notice stiffness when you wake up? Does it last over one hour?*"
@@ -45,18 +44,20 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ---
 
 ## Examination findings
-| Key Findings||                                                                                                                                      |
-| -------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Key Findings               | Result                  | Explanation                                                   |                                                                                                                                                                                                                                                                             |
-| Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                                                                                                                                                                                          |
-| Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]]                                                                                                                                                              |
-| Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                                                                                                                                                                                   |
-| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression                                                                                                                                     |
-| Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT |
+Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rheumatoid Arthritis]], and Extra-articular findings
+| Articular findings               | Result                  | Explanation                                                                                                                             |
+| -------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                                                      |
+| Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]]                          |
+| Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                                               |
+| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
+| Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        | ^b3bc46
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
+| Extra-articular findings | Result   | Explanation   |
+| ------------------------ | -------- | ------------- |
+| Additional Findings      | Result   | Explanation   |
+| -------------------      | -------- | ------------- |
+| Finding 1                | Result 1 | Explanation 1 |
 
 ---
 
