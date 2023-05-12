@@ -14,7 +14,7 @@
 -   Long standing persistent AF – lasted for 12 months.
 -   Permanent AF – when the pt/Dr decides not to pursue rhythm control.
 
-[[Syncope (LOC)#Management:]]
+[[Syncope#Management:]]
 
 **CLINICAL PRESENTATION**
 -   Risk factors – ischaemic heart disease, hypertension, diabetes, hyperthyroidism

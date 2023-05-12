@@ -17,6 +17,12 @@ Primay causes include:
 It is the **most common** headache. No known etiology, probably multifactorial. There is a *lack* of photophobia, ponophobia, or aura. It is considered chronic when >15 days/month
 
 ## Migraine headache
+Migraine pathophysiology is incopletely understood. The most likely theory is the "cortical spreading depression" theory. This involves a wave of nerve depolarisation across the cerebral cortex. This *activates* the [[Trigeminal nerve]], causing paine
+
+Migraine headaches has episodic phases that goes through phases:
+1. Prodrome
+2. Aura
+3. Headache
 
 ## Cluster headache
 
@@ -29,14 +35,14 @@ It is the **most common** headache. No known etiology, probably multifactorial. 
 # History
 ### Symptoms
 Comparison over primary headaches:
-| Sign         | [[#Tension headache]]              | [[#Migraine headache]]   | [[#Cluster headache]]   |
+| Sign           | [[#Tension headache]]                 |[[#Migraine headache]]    | [[#Cluster headache]]   |
 | ----------- | -------------------------------- | ---------------------- | --------------------- |
-| Pain        | Constant, tightening around head |                        |  |
+| Pain        |Constant, tightening around head |Episodic, goes through phases|  |
 | Location    | Bilateral                        |Unilateral|                       |
-| Duration    | 30min to several hours           |                        |                       |
-| Photophobia | None                             |                        |                       |
-| Phonophobia | None                             |                        |                       |
-| Aura        | None                                 |                        |                       |
+| Duration    | 30min to several hours           |  |  |
+| Photophobia | None                             |Yes |  |
+| Phonophobia | None                             |Yes|                       |
+| Aura        | None                                 |Yes|                       |
 
 
 ### Risk factors:
@@ -78,6 +84,12 @@ Initial management involves first identifying and ruling out serious but unlikel
 2. CNS bleeds
 3. Hydrocephalus
 4. Inflammation
+
+Treatment can then be provided assuming it's a primary headache.
+
+## Tension Headache treatment:
+First-line treatment is NSAIDS. This is often combined with caffeine.
+Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
 
 ## Drug overview
 
