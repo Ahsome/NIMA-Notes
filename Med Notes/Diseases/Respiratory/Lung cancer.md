@@ -35,11 +35,24 @@ Small cell lung cancer can result in production of:
 	2. Blocks Ach
 	3. Lambert-Eaton syndrom
 
+---
+
 ### Non-small cell lung cancer
 Non-small cell lung cancer is the most common (85%), and it *can* be resected. It has a better progrnosis compared to [[#Small cell lung cancer]]. It has three main types:
 1. Squamous Cell Carcinoma
 2. Adenocarcinoma
 3. Large-cell Carcinoma
+
+### Squamous Cell Carcinoma
+This occurs due to *hilar mass arising from bronchus*. It is common in **male smokers**.
+Key pathologies include:
+1. Keratin production ("pearls") by tuor cells
+2. Intercellular desosomes ("intercellular bridges")
+
+It can creat PTHrP, leading to:
+1. Hypercalcemia
+2. Bone and abdominal pain, confusion
+
 
 > [!Important]
 - Most deadly cancer, second most likely cancer
@@ -82,11 +95,14 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 ---
 
 ## Investigations
-| Key Findings | Result                             | Explanation                                        |
-| ------------ | ---------------------------------- | -------------------------------------------------- |
-| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| Chest CT     |                                    | ![[Pasted image 20230512202457.png\|150]]                                                   |
-| Biopsy       |                                    |                                                    |
+
+| Key Findings | Result                                             | Explanation                                                                                         |
+| ------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| CXR          | Pulmonary Nodule<br>"Coin lesions"                 | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+| Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|150]]                                                           |
+| Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
+| ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                    |
+
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -110,7 +126,7 @@ Treatment depends on type of cancer:
 ---
 
 # Complications
-1. Paraneoplastic Syndromes: Most likely to occur due to [[#Small cell lung cancer]]. Examples include:
+1. Paraneoplastic Syndromes: Most likely to occur due to [[#Small cell lung cancer]]. Examples include: ^e2b308
 	1. ACTH
 		1. [[Cushing Syndrome]]
 			1. Leads to Progressive Obesity
@@ -120,8 +136,9 @@ Treatment depends on type of cancer:
 			1. Leads to Hyponatremia
 	3. Antibodies
 		1. Creayes antibodies against pre-synaptic Ca2+ channels in neurons
-		2. Blocks Ach
-		3. [[Lambert-Eaton syndrome]]
+			1. Blocks Ach
+			2. Leads to [[Lambert-Eaton syndrome]]
+			3. Main symptoms is muscle weakness
 
 ---
 

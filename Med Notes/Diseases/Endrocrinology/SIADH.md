@@ -6,9 +6,10 @@
 ---
 
 # Information
-Cushing Syndrome is a... 
+SIADH is a... 
 
-==Can be caused by [[#]]
+==Can be caused by [[Lung cancer#^e2b308|Paraneoplastic Syndromes from Small-cell Lung Cancer]]==
+
 
 > [!Important]
 - Important point
@@ -18,6 +19,9 @@ Cushing Syndrome is a...
 ### Symptoms
 
 ### Risk factors:
+
+==Can be caused by [[Lung cancer#^e2b308|Paraneoplastic Syndromes from Small-cell Lung Cancer]]==
+
 
 ### Questions to ask
 >*"Do you notice any ???"*
