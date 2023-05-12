@@ -129,7 +129,12 @@ Aura symptoms, mostly in [[#Migraine headache]]:
 
 # Management
 ## Initial management:
-Initial management involves first identifying and ruling out serious but unlikely causes of headaches via history and neurological examination. These inculde:
+Initial management involves first identifying and ruling out serious but unlikely causes of headaches via history and neurological examination. These include:
+
+| Warning symptoms                                 | Possible diagnosis                   |
+| ------------------------------------------------ | ------------------------------------ |
+| Sudden onset                                     | Subarachnoid haemorrhage, Dissection |
+| First headache with neurological signs/confusion | Stroke,                                     |
 1. CNS tumors
 2. CNS bleeds
 3. Hydrocephalus
@@ -148,7 +153,7 @@ Treatment can then be provided assuming it's a primary headache.
 
 | Drug          | Amount                                             | Duration       | Extra      |
 | ------------- | -------------------------------------------------- | -------------- | ---------- |
-| Amitryptyline | 10mg, increase bg 10mg every 7 days to max of 75mg | OD, 8 weeks    | First line |
+| Amitryptyline |10mg, increase by 10mg every 7 days to max of 75mg| OD, 8 weeks    | First line |
 | Notriptyline  | ^^                                                 | ^^             | ^^         |
 | Mirtazapine   | 15mg to 30mg                                       | OD, 8-12 weeks |          At night  |
 | Velafaxine    | 75mg, increase to 150mg if needed                  | OD, 8-12 weeks | After food           |
@@ -219,7 +224,12 @@ This is done for patients with >3 headaches per month. This includes:
 >![[#^be3ebf]]
 
 ## Cluster Headache management:
-First line treatment include:
+Management includes:
+1. First line, acute treatment
+2. Bridging treatment, until-
+3. Prophylaxis treatment
+
+**First line treatment** include:
 1. Oxygen: Mechanism unclear, may be due to O2-induced vasoconstiction and inhibition of neuronal activation in trigeminal nculeus
 	1. 100% 15L/min for 15-20 minutes
 2. Triptans:
@@ -227,7 +237,12 @@ First line treatment include:
 	2. Rizatriptan
 	3. Zolmitriptan
 
-Prophylaxis: Verapamil, highly effective
+**Bridging treatment** include:
+1. Prednisolone, short course
+2. Occipital nerve block, either methylprednisolone acetate+bupivacaine or lidocaine
+3. Naratriptan
+
+**Prophylaxis**: Verapamil, highly effective, use immediate-release rather than sustained-release
 
 Cluster headaches do *not* respond well to NSAIDs such as indomethacin, but it *is* useful for [[#Paroxysmal Hemicrania]]
 
