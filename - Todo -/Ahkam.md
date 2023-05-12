@@ -15,7 +15,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] [[Lung Cancer]]
 
 
 ## Completed
@@ -25,6 +24,7 @@ kanban-plugin: basic
 - [x] [[Gout]]
 - [x] [[Septic Arthritis]]
 - [x] [[Osteoarhritis]]
+- [x] [[Lung Cancer]]
 - [x] [[Rheumatoid Arthritis]]
 
 
