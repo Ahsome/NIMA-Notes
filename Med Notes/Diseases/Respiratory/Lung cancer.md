@@ -79,6 +79,8 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 	1. Specifically, if under CXR it shows the pneumonia consistently affects the same region
 	2. If migratory, then more likely to be an immune defiiency
 	3. Best scan is CT scan
+6. Hoarseness: Due to [[#^93ef83|recurrant laryngeal nerve compression]]
+7. 
 
 Symptoms across variants
 
@@ -114,14 +116,12 @@ Symptoms across variants
 ## Investigations
 Lung cancer tests:
 
-| Key Findings | Result                                             | Explanation                                                                                         |
-| ------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| CXR          | Pulmonary Nodule<br>"Coin lesions"                 | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
-| ^^           | Hilar Mass from Bronchus                           | Caused by [[#Squamous Cell Carcinoma]]<br><br>![[Pasted image 20230512204548.png\|200]]             |
-| ^^           | Glandular tumor                                    | Caused by [[#Adenocarcinoma]].<br>Notice lesions is in the periphery<br><br>![[Pasted image 20230512205607.png\|150]]                                                                                                    |
-| Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
-| ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                  |
+| Key Findings | Result                             | Explanation                                                                                         |
+| ------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------- |
+| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+| ^^           | Elevated hemidiaphram              | Due to [[#^2032c7\|Phrenic nerve compression]]<br><br>![[Pasted image 20230512211221.png\|150]]     |
+| Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
+
 
 Tests across variants:
 
@@ -140,7 +140,9 @@ Tests across variants:
 # Management
 ## Overall treatment
 Treatment involves the following:
-1. Surgery
+1. Surgery:
+	1. Discussion of whether to perform surgery
+	2. Requires tap effusions to check for malignant pleural effusion
 2. Chemotherapy
 3. Radiation
 
@@ -152,8 +154,6 @@ Surgery is not incidated in:
 
 **NOTE**: Size is *not* a major determinant for surgery
 
-
-## Drug overview
 
 ## Criteria
 ### Example severity/test score:
@@ -177,6 +177,13 @@ Surgery is not incidated in:
 			1. Blocks Ach
 			2. Leads to [[Lambert-Eaton syndrome]]
 			3. Main symptoms is muscle weakness
+2. [[Pleural Effusion]]: Tap fluid, send for cytology
+3. Phrenic nerve compression: ^2032c7
+	1. Leads to diaphragm paralysis
+	2. Dyspnea
+	3. Hemidiaphragm elevated on CXR
+4. Recurrent laryngeal nerve compression ^93ef83
+	1. Hoarseness
 
 ---
 
