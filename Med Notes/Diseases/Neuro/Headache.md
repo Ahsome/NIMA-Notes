@@ -44,13 +44,13 @@ A vry rare headache disorder. It is poorly understood, seen primarily in men and
 # History
 ### Symptoms
 Comparison over primary headaches:
-| Sign           | [[#Tension headache]]                 |[[#Migraine headache]]    | [[#Cluster headache]]   |
+| Sign            | [[#Tension headache]]                 |[[#Migraine headache]]    | [[#Cluster headache]]      |
 | ----------- | -------------------------------- | ---------------------- | --------------------- |
-| Pain        |Constant, tightening around head |Pulsating, Throbbing|Excrutiating, behind eye|
+|Pain|Constant, tightening around head|Pulsating, Throbbing|Excrutiating, behind eye |
 |Location|Bilateral|Unilateral |Unilateral|
-| Duration    | 30min to several hours           |Hours|15 min to several hours <br> <br> Clusters (daily for few weeks, same time of day)|
+| Duration    | 30min to several hours           |Hours|15 min to several hours. Contrast with [[Trigeminal Neuralgia]], <1 min <br> <br> Clusters (daily for few weeks, same time of day)|
 |Aura| None                                 |Yes|None|
-|Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|Autonomic dysfunction: <br>- Lacrimation <br>- Rhinorrhea <br>- Ptosis <br>- Miosis |
+|Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|Autonomic dysfunction: <br>- Lacrimation <br>- Rhinorrhea <br>- Ptosis <br>- Miosis  <br> <br>No nausea/Vomiting. Contrast with [[#Migraine headache]]|
 |Disabling|No|Yes|Yes|
 
 Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: ^1f7d8d
@@ -187,6 +187,9 @@ This is done for patients with >3 headaches per month. This includes:
 
 >[!Danger]+ No estrogen-containing OCPs
 >![[#^be3ebf]]
+
+## Cluster Headache management:
+First line 
 
 ## Drug overview
 
