@@ -73,6 +73,7 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 ### Symptoms
 1. Cough
 2. Dyspnea
+	1. Can be due to [[#^2032c7|Phrenic nerve compression]]
 3. Hemoptosys
 4. Weight loss
 5. [[Pneumonia#*Recurrent pneumonia*:]]:
@@ -80,7 +81,6 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 	2. If migratory, then more likely to be an immune defiiency
 	3. Best scan is CT scan
 6. Hoarseness: Due to [[#^93ef83|recurrant laryngeal nerve compression]]
-7. 
 
 Symptoms across variants
 
@@ -108,9 +108,6 @@ Symptoms across variants
 | ---------------- | ------- | ------------- |
 | Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
 
->[!Important]
->![[#^fdb235]]
-
 ---
 
 ## Investigations
@@ -131,9 +128,8 @@ Tests across variants:
 | ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
 | Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] | Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+>[!Important]
+>![[#^fdb235]]
 
 ---
 
