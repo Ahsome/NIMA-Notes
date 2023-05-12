@@ -113,15 +113,15 @@ Treatment depends on type of cancer:
 1. Paraneoplastic Syndromes: Most likely to occur due to [[#Small cell lung cancer]]. Examples include:
 	1. ACTH
 		1. [[Cushing Syndrome]]
-		2. Progressive Obesity
-		3. Hyperglycemia
+			1. Leads to Progressive Obesity
+			2. Leads to Hyperglycemia
 	2. ADH
 		1. [[SIADH]]
-		2. Hyponatremia
+			1. Leads to Hyponatremia
 	3. Antibodies
 		1. Creayes antibodies against pre-synaptic Ca2+ channels in neurons
 		2. Blocks Ach
-		3. Lambert-Eaton syndrom
+		3. [[Lambert-Eaton syndrome]]
 
 ---
 
