@@ -7,12 +7,13 @@
 
 # Information
 Lung cancer is cancer involving lung tissue. It is the **most deadly** cancer, and *second* **most likely** cancer. 
-
 It has usually advanced at presentation; it is unlikely to identify lung cancer in the earlier stages
 
 More tumors of the lungs are *metastasis to lung*, rather than *primary lung tumors*. This leads to multiple lesions on imaging. Most comonly from:
 1. [[Breast Cancer]]
 2. Colon
+
+It is important to identify other differentials for masses in the mediastinum. See [[Mediastinal Masses]]
 
 ---
 
