@@ -43,18 +43,25 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 2. Adenocarcinoma
 3. Large-cell Carcinoma
 
+See [[#Comparisons]] for comparisons for each type
+
 #### Squamous Cell Carcinoma
 This occurs due to *hilar mass arising from bronchus*. It is common in **male smokers**.
 Key pathologies include:
 1. Keratin production ("pearls") by tuor cells
 2. Intercellular desosomes ("intercellular bridges")
 
-It can creat PTHrP, leading to:
+It can create PTHrP, leading to:
 1. Hypercalcemia
 2. Bone and abdominal pain, confusion
 
 #### Adenocarcinoma
 This is the most common lung cancer in non-smokers. It is a **glandular tumor**
+
+#### Large Cell Carcinoma
+Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lacks any glandular, small cell, or squamous diferentiation. It has a poor prognosis, affecting the periphery and involves smoking
+
+---
 
 > [!Important]
 - Most deadly cancer, second most likely cancer
@@ -75,10 +82,10 @@ This is the most common lung cancer in non-smokers. It is a **glandular tumor**
 
 Symptoms across variants
 
-| Symptoms     | [[#Squamous Cell Carcinoma]]                          |
-| ------------ | ----------------------------------------------------- |
-| Pain         | Bone and Abdominal pain<br>Due to production of PTHrP |
-| Neurological | Confusion<br>Due to production of PTHrP                                                      | ^a1d5fa
+| Symptoms     | [[#Squamous Cell Carcinoma]]                          | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
+| ------------ | ----------------------------------------------------- | ------------------- | ------------------------- |
+| Pain         | Bone and Abdominal pain<br>Due to production of PTHrP |                     |                           |
+| Neurological | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
 
 ### Risk factors:
 1. Cigarette smoking
@@ -112,7 +119,7 @@ Lung cancer tests:
 | CXR          | Pulmonary Nodule<br>"Coin lesions"                 | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
 | Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 | ^^           | Hilar Mass from Bronchus                           | Caused by [[#Squamous Cell Carcinoma]]<br><br>![[Pasted image 20230512204548.png\|200]]             |
-| ^^           | Glandular tumor                                    | Caused by [[#Adenocarcinoma]]<br><br>![[Pasted image 20230512205607.png\|150]]                                                                                                    |
+| ^^           | Glandular tumor                                    | Caused by [[#Adenocarcinoma]].<br>Notice lesions is in the periphery<br><br>![[Pasted image 20230512205607.png\|150]]                                                                                                    |
 | Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
 | ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                  |
 
@@ -122,7 +129,7 @@ Tests across variants:
 | -------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Biopsy   | Keratin Production<br>("Pearls")                                          |                                                                  |
 | ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                  |
-| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] |Glandular tumor<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca
+| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] |Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -164,6 +171,11 @@ Treatment depends on type of cancer:
 
 # Comparisons
 Comparisons across different subtypes of [[#Non-small cell lung cancer]]:
+
+| Pathophys         | [[#Squamous Cell Carcinoma]] | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
+| ----------------- | ---------------------------- | ------------------- | ------------------------- |
+| Involves smoking? | Smoking                      | Non-Smoking         | Smoking                   |
+	| Prognosis                  |                              |                     |                           |
 
 ![[#^7246ca]]
 
