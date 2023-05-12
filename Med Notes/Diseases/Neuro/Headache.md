@@ -30,7 +30,9 @@ Migraine headaches has episodic phases that goes through phases:
 - It is important with headaches to **rule out** life-threatening causes, even when it is unlikely
 - Lack of papilledema helps exclude life-threatening causes of headaches
 - Primary headaches are *all diagnosed clinically*. There are no investigations, blood test or imaging ^ba1cb7
-- Women with migraines *should not use estrogen-containing OCPs* due to risk of **** ^be3ebf
+- Women with migraines *should not use estrogen-containing OCPs* due to risk of **stroke** ^be3ebf
+- Triptans can cause overuse headache if repeated >10 days/month
+- Triptans can cause serotonin syndrome if combined with MAOi. Use SSRI or SNRI
 
 --- 
 # History
@@ -113,7 +115,20 @@ First-line treatment is NSAIDS. This is often combined with caffeine.
 Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
 
 ## Migraine Headhache management:
-An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***
+Treatment involves:
+1. Abortive therapy: Used in acute migraine
+2. Prophylactic therapy: Prevent further migraines
+
+**Abortive therapy** include [[Triptans]], that are serotonin agonists and inhibit trigeminal nerve activity, reducing vasoactive peptide release. These include:
+1. Sumatriptan
+2. Zolmitriptan
+3. Eletriptan
+4. Rizatriptan
+
+Use over 10 days per month is not recommended, as it can cause an *overuse headache*. It can also lead to the [[Serotonin syndrome]] when combined with MAO inhibitors. There is less risk with SSRI or SNRI
+
+An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***. They should use progesterone-containing pills
+
 
 >[!Important]- No estrogen-containing OCPs
 >![[#^be3ebf]]
@@ -129,7 +144,9 @@ An important complication is that migraines and exogenous estrogen **increase th
 ---
 
 # Complications
-1. Complications of disease
+1. **Stroke**: Women with migraines who use the OCP are at an increased risk of stroke, especially with an aura. See [[#Migraine Headhache management:]]
+2. Overuse headache: Repeated use of [[Triptans]] over 10 days>month can cause a migranine
+3. [[Serotonin syndrome]]: Can occur when [[Triptans]] are combined with [[MAOi]]
 
 ---
 
