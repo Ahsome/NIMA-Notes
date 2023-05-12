@@ -71,8 +71,8 @@ It can creat PTHrP, leading to:
 	3. Best scan is CT scan
 
 ### Risk factors:
-1. Ciagarette smoking
-	1. Leads to [[#Small cell lung cancer]]
+1. Cigarette smoking
+	1. Leads to [[#Small cell lung cancer]] or [[#Squamous Cell Carcinoma]] for men
 2. Radiation therapy
 	1. Hodgkin lymphoma
 	2. [[Breast Cancer]]
@@ -95,14 +95,23 @@ It can creat PTHrP, leading to:
 ---
 
 ## Investigations
+Lung cancer tests:
 
 | Key Findings | Result                                             | Explanation                                                                                         |
 | ------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | CXR          | Pulmonary Nodule<br>"Coin lesions"                 | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|150]]                                                           |
+| Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
+| ^^           | Hilar Mass from Bronchus                           | Caused by [[#Squamous Cell Carcinoma]]<br><br>![[Pasted image 20230512204548.png\|200]]                                                                                                    |
 | Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
-| ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                    |
+| ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                  |
 
+Specific tests:
+
+| Test     | [[#Squamous Cell Carcinoma]]                         |
+| -------- | ---------------------------------------------------- |
+| Biopsy   | Keratin Production<br>("Pearls")                     |
+| ^^       | Interceullar desmosomes<br>("intercellular bridges") |
+| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]                                                     |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
