@@ -13,9 +13,13 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 ```mermaid
 flowchart TB
-[Examination of FBC and Peripheral Blood Smear]--->MCV < 80
-[Examination of FBC and Peripheral Blood Smear]---> MCV 80-100
-[Examination of FBC and Peripheral Blood Smear]---MCV > 100
+1[Examination of FBC and Peripheral Blood Smear]--->2[MCV <80]
+1---> 3[MCV 80-100]
+1--->4[MCV > 100]
+
+2 ---> 21[Microcytic Anemia]
+
+class 2 internal-link
 ```
 
 ## Pathophysiology
