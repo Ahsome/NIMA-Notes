@@ -21,73 +21,18 @@ Differentials for masses depends on compartment:
 |Anterior|- Thymus <br>- Internal mammary arteries <br>- Lymph nodes |Terrible Ts: <br>- Thyroid <br>- Thyroid neoplasm <br>- Teratoma <br>- Lymphoma|
 |Middle|- Pericardium <br>- Heart <br>- Aorta <br>- Trachea <br>- Esophagus <br>- Lymph Nodes|Lymphadenopathy: <br>- Lymphoma <br>- Sarcoid <br>- [[Lung Cancer\|Metastatic Lung Cancer]], leading to lymphadenopathy|
 |Posterior|- Spine <br>- Nerves and spinal Ganglia|Neurogenic tumors: <br> Schwannoma <br>- Neuroblastoma|
-|  |  |  |
 
-### Anterior Medistinal Masses:
+### Anterior Medistinal Masses
 1. Thymic Masses:
 	1. Half of anterior masses derive from thymus
-	2. Thymoma: Most common Associated with [[Myasthenia Gravis]]
-2. Teratoma/Germ ell tuors in adults
+	2. Thymoma: Most common [[#Anterior Medistinal Masses:]] from thymus. Associated with [[Myasthenia Gravis]]
+2. Teratoma/Germ cell tuors in adults
 	1. Mediastium: Most common location extragonadal GCT
 	2. Teratomas, Seminomas
 3. Terrible lymphomas
 4. Thyroid Growths
 	1. Enlarged or ectopic throid tissue may present as mass
 	2. Usually connected to thyroid gland
-
-> [!Important]
-- Important point
-
---- 
-# History
-### Symptoms
-
-### Risk factors:
-
-### Questions to ask
->*"Do you notice any ???"*
-
----
-
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
-# Management
-## Treatment
-
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
-
----
-
-# Complications
-1. Complications of disease
-
----
 
 # Extra
 ## Relevant notes:

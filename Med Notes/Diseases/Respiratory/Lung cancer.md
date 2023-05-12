@@ -132,8 +132,12 @@ Symptoms across variants
 3. Environmental toxins
 	1. Asbestos
 	2. Radon
+4. Family history
+
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice any cough? Shortness of breath"*
+>"*Hoarsness in voice? Changes in your arm?*" - See [[#^93ef83|Recurrent laryngeal nerve compression]] and [[#Pancoast tumor]]
+>"*Any swelling of the face and arm? Confusions or headaches?*" - See [[#^5de9bf|SVC syndome]]
 
 ---
 
