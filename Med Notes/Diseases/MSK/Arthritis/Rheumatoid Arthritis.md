@@ -14,12 +14,14 @@ Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the 
 
 It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It also *does not* involve the Lumbar spine, which is involved in [[Osteoarhritis]]. Exception is C1-C2, see [[#Examination findings]].
 
+Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more than 6 weeks*
+
 If a patient has [[Osteoporosis]], it is ***accelerated by RA***:
 1. Disease itself accelerates [[Osteoporosis]]
 2. Steroid treatment for [[Rheumatoid Arthritis]] (See [[#Management]]) can worsen [[Osteoporosis]]
 3. Leads to 30% increase in major fracture, 40% increase hip fracture
 
-Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more than 6 weeks*
+The leading cause of mortality with [[Rheumatoid Arthritis]] is [[#^a37ddb|coronary disease]]
 
 > [!Important]
 - Palpable nodules are ***Pathognomonic*** for[[Rheumatoid Arthritis]]. See [[#^7e02a2|Extra-articular features]] ^2d22d0
@@ -27,6 +29,8 @@ Diagnosis involves inflammatory arthritis of 3 or more joints, lasting *more tha
 - Diagnosis require 3 or more joints lasting over 6 weeks
 - csDMARD is first line with [[Methotrexate]], add bDMARD and tsDMARD only if not remissing well
 - bDMARD and tsDMARD have *increased* **infection risk** ^9abca0
+- If bDMARD or tsDMARD is used, screening should occur for latent TB, Hep B and Hep C ^cac2c3
+- Leading cause of mortality with [[Rheumatoid Arthritis]] is [[#^a37ddb|coronary disease]]
 --- 
 # History
 ### Symptoms
@@ -78,6 +82,10 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 | ^^                        | Discharge             |                                                                                                                                                                     |
 | [[Sjogren's Syndrome]]    |                       | Common in patients with RA                                                                                                                                          |
 
+| Additional examinations | Explanations |
+| ----------------------- | ------------ |
+| Splenomegaly            | Due to [[#^f11b32\|Feltry syndrome]]             |
+
 ^7e02a2
 >[!Important]
 >![[#^2d22d0]]
@@ -92,6 +100,10 @@ Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invov
 | Antibodies to citrullinated peptides (ACPA) | Present        | More specific test                                                                                     |
 | Acute phase reactants                       | CRP (elevated) |                                                                                                        |
 | ^^                                          | ESR (elevated)               |                                                                                                        |
+
+| Additional tests | Result  | Explanation                          |
+| ---------------- | ------- | ------------------------------------ |
+| FBC              | Low WBC | Due to [[#^f11b32\|Feltry syndrome]] |
 
 ---
 
@@ -141,6 +153,13 @@ Following options are recommended:
 | *tsDMARD* | Tofacitinib (Non-[[Glossary#^af14cf\|TNFa]])             | Alternative to bDMARD                                                                                                                                       |
 
 ^c0787c
+If *bDMARD* or *tsDMARD* are used, it is recommended that the following screening occurs:
+1. Latent TB: Otherwise, biologics can cause a flare up
+2. Hepatitis B
+3. Hepatitis C
+
+>[!Important]
+>![[#^cac2c3]]
 
 **Pain control**:
 Pain control should be used until DMARDs take effect:
@@ -196,6 +215,9 @@ Cervical subluxaion management can need the following:
 2. Osteoporosis: Accelerates rate due to disease and the use of steroid treatment ^25f590
 	1. 30% increase risk of major fracture
 	2. 40% increase risk of hip fracture
+3. Increased risk of **coronary disease**, which is the **leading cause of mortality**. Due to helping produce plaque in vessels ^a37ddb
+4. Secondary (AA) Amyloidosis
+5. Felty syndrome: Syndrome of **splenomegaly** and **neutropenia** in RA ^f11b32
 
 ---
 
