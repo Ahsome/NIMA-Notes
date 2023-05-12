@@ -117,7 +117,7 @@ Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
 ## Migraine Headhache management:
 Treatment involves:
 1. Abortive therapy: Used in acute migraine
-2. Prophylactic therapy: Prevent further migraines
+2. Prophylactic therapy: Prevent further migraines, such as avoiding triggers, lifestyle, and certain drugs
 
 An important complication is that migraines and exogenous estrogen **increase the risk of stroke**. This is *especially* true with migraines and aura. As such, *women with migraines* ***should not use estrogen-containing OCPs***. They should use progesterone-containing pills
 
@@ -132,7 +132,11 @@ An important complication is that migraines and exogenous estrogen **increase th
 Other examples include:
 1. High dose NSAIDs
 2. Antiemetics: Dopamine antagonists
-	1. Improve nausea and pain. May cause dystonia, so can help sleep through
+	1. Improve nausea and pain.
+	2. Includes:
+		1. IV metoclopramide
+		2. IV or IM chlropromazine
+		3. IV or IM prochlorperazine
 
 #### Contraindications:
 **Triptans:**
@@ -145,7 +149,26 @@ Other examples include:
 	4. Uncontrolled [[Hypertension]]
 	5. Only exception is [[Lasmitidan]]: Selective serotonin 1F receptor agonist, no vasocontrictor activity
 
+**Antiemetics**
+1. Due to dopamine effects, it can cause dystonia
 
+### Prevetative Therapy:
+This is done for patients with >3 headaches per month. This includes:
+1. Avoid known triggers for headaches
+2. Healthy lifestyle, such as sleep, diet, and exercise
+3. Certain drugs to reduce migraine frequency:
+	1. Anticonvulsants (topiramate and valproate)
+		1. Topi
+	2. Beta-blockers (Propranalol)
+	3. Antidepressants (Amitriptyline and venlafaxine)
+
+| Drug class      | Name          | Explanation |
+| --------------- | ------------- | ----------- |
+| Anticonvulsants | Topiramate    |             |
+| ^^              | Valproate     |             |
+| Beta-blocker    | Propranalol   |             |
+| Antidepressants | Amitriptyline |             |
+| ^^              | Venlafaxine              |             |
 
 
 >[!Important]- No estrogen-containing OCPs
