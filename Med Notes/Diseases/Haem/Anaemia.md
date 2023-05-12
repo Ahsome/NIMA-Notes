@@ -29,7 +29,8 @@ flowchart TB
 211 --> 2112[Mentzer Index (MCV/RBC) < 13 - THalassemia]
 211 --> 2113 [Low/normal iron and low/normal feritin with low TIBC]
 
-2111 --> 21111[Iron defi]
+2111 --> 21111[Iron defieciency anaemia]
+2112
 
 class 21 internal-link
 class 31 internal-link
