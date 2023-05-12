@@ -24,7 +24,10 @@ Migraine headaches has episodic phases that goes through phases:
 2. Aura: Slow development of non-headache symptom. See [[#^d15b83|Aura symptoms]]
 3. Headache
 
-Pregnancies *reduce* headaches. However, management and drug use change for safty reasons.
+Pregnancies *reduce* headaches. However, management and drug use change for safety reasons. See [[#Migraine Headhache management:]]
+
+## Cluster Headache
+A vry rare headache disorder. It is poorly understood, seen primarily in men and smokers.
 
 ## Cluster headache
 
@@ -35,6 +38,7 @@ Pregnancies *reduce* headaches. However, management and drug use change for saft
 - Women with migraines *should not use estrogen-containing OCPs* due to risk of **stroke** ^be3ebf
 - Triptans can cause overuse headache if repeated >10 days/month
 - Triptans can cause serotonin syndrome if combined with MAOi. Use SSRI or SNRI
+- _In pregnancy_: **Avoid anticonvulants, especially valproate** as they cause *neural tube defects*
 
 --- 
 # History
@@ -42,11 +46,11 @@ Pregnancies *reduce* headaches. However, management and drug use change for saft
 Comparison over primary headaches:
 | Sign           | [[#Tension headache]]                 |[[#Migraine headache]]    | [[#Cluster headache]]   |
 | ----------- | -------------------------------- | ---------------------- | --------------------- |
-| Pain        |Constant, tightening around head |Pulsating, Throbbing|  |
-| Location    | Bilateral                        |Unilateral|                       |
-| Duration    | 30min to several hours           |Hours|  |
-|Aura| None                                 |Yes|                       |
-|Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|  |
+| Pain        |Constant, tightening around head |Pulsating, Throbbing|Excrutiating, behind eye|
+|Location|Bilateral|Unilateral |Unilateral|
+| Duration    | 30min to several hours           |Hours|15 min to several hours <br> <br> Clusters (daily for few weeks, same time of day)|
+|Aura| None                                 |Yes|None|
+|Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|Autonomic dysfunction: <br>- Lacrimation <br>- Rhinorrhea <br>- Ptosis <br>- Miosis |
 |Disabling|No|Yes|Yes|
 
 Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: ^1f7d8d
@@ -58,6 +62,7 @@ Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: 
 6. Neck stiffness
 
 Aura symptoms, mostly in [[#Migraine headache]]:
+
 | Category | Sign |
 | -------- | ---- |
 |Visual|- Bright, dark spots <br>- Also called "Scintillating scotoma"|
@@ -71,6 +76,9 @@ Aura symptoms, mostly in [[#Migraine headache]]:
 4. Weather changes
 5. Alcohol
 	1. Especially wine
+6. Woman, especially for [[#Migraine headache]]
+7. Men, especially for [[#Cluster Headache]]
+8. Smokers, especially for [[#Cluster Headache]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -177,7 +185,7 @@ This is done for patients with >3 headaches per month. This includes:
 >[!Danger]+ In Pregnancy
 *In pregnancy*: **Avoid anticonvulants, especially valproate** as they cause *neural tube defects*
 
->[!Important]- No estrogen-containing OCPs
+>[!Danger]+ No estrogen-containing OCPs
 >![[#^be3ebf]]
 
 ## Drug overview
