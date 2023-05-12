@@ -27,9 +27,11 @@ Migraine headaches has episodic phases that goes through phases:
 Pregnancies *reduce* headaches. However, management and drug use change for safety reasons. See [[#Migraine Headhache management:]]
 
 ## Cluster Headache
-A vry rare headache disorder. It is poorly understood, seen primarily in men and smokers.
+A very rare headache disorder. It is poorly understood, seen primarily in men and smokers.
 
-## Cluster headache
+## Paroxysmal Hemicrania
+A very, very rare headache. Even less understood than [[#Cluster Headache]] but with similar symptoms. See [[#^017128|Comparison between Paroxysmal Hemicrania and Cluster Headache]]
+
 
 > [!Important]
 - It is important with headaches to **rule out** life-threatening causes, even when it is unlikely
@@ -52,6 +54,14 @@ Comparison over primary headaches:
 |Aura| None                                 |Yes|None|
 |Extra|None|Nausea <br>Vomiting <br>Photophobia <br>Phonophobia|Autonomic dysfunction: <br>- Lacrimation <br>- Rhinorrhea <br>- Ptosis <br>- Miosis  <br> <br>No nausea/Vomiting. Contrast with [[#Migraine headache]]|
 |Disabling|No|Yes|Yes|
+
+Comparison between [[#Paroxysmal Hemicrania]] and [[#Cluster Headache]]
+| Factors                  | Paroxsmal Hemicrania | Cluster Headache   |
+| ------------------------ | -------------------- | ------------------ |
+| Gender predominance      | Females              | Males              |
+| Frequency                | >15 in 24 hours      | 1 to 4 in 24 hours |
+| Duration                 | ~15 minutes          | >30 minutes        |
+| Response to indomethacin | Good                 | Poor                   | ^017128
 
 Prodrome symptoms (1-2 days before headache). Mostly in [[#Migraine headache]]: ^1f7d8d
 1. Yawning
@@ -195,7 +205,7 @@ First line treatment include:
 
 Prophylaxis: Verapamil, highly effective
 
-Cluster headaches do *not* respond well to NSAIDs such as indomethacin
+Cluster headaches do *not* respond well to NSAIDs such as indomethacin, but it *is* useful for [[#Paroxysmal Hemicrania]]
 
 >[!Important]- NSAID ineffective
 >Cluster headaches do *not* respond well to NSAIDs such as indomethacin
