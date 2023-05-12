@@ -281,6 +281,9 @@ STROKE PREVENTION – LONG TERM MANAGEMENT
 -   ==**Blood pressure**== control
 -   ==**Smoking cessation**==
 - Diet, exercise
+- ==**All patients are unfit to drive after a stroke or TIA.**==
+	- After a stroke, a private vehicle driver cannot drive for at least 4 weeks, and a commercial vehicle driver cannot drive for at least 3 months—this applies even if the patient has no detectable neurological deficit.
+	- After a TIA, it is advised that private drivers do not drive for 2 weeks and commercial drivers do not drive for 4 weeks
 
 
 ## Criteria

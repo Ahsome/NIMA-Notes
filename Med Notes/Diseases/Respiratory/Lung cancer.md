@@ -32,7 +32,7 @@ Features include:
 ### Paraneoplastic Syndromes:
 Small cell lung cancer can result in production of:
 1. ACTH
-	1. [[Cushing Syndrome]]
+	1. [[Cushing's Syndrome]]
 	2. Progressive Obesity
 	3. Hyperglycemia
 2. ADH
@@ -238,7 +238,7 @@ The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* 
 # Complications
 1. Paraneoplastic Syndromes: Most likely to occur due to [[#Small cell lung cancer]]. Examples include: ^e2b308
 	1. ACTH
-		1. [[Cushing Syndrome]]
+		1. [[Cushing's Syndrome]]
 			1. Leads to Progressive Obesity
 			2. Leads to Hyperglycemia
 	2. ADH

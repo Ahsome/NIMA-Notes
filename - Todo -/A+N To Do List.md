@@ -1,4 +1,4 @@
-![[Pasted image 20230510153258.png]]
+![[Pasted image 20230513080326.png]]
 
 **ALSO ADD**:
 - [ ] Vertigo

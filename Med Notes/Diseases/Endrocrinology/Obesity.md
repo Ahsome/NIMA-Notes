@@ -1,4 +1,4 @@
-*Created on 12th May 2023*
+*Created on 13th May 2023*
 
 ---
 ```toc
@@ -6,9 +6,7 @@
 ---
 
 # Information
-Cushing Syndrome is a... 
-
-==Can be caused by [[Lung cancer#^e2b308|Paraneoplastic Syndromes from Small-cell Lung Cancer]]==
+Obesity is a... 
 
 > [!Important]
 - Important point
@@ -18,7 +16,6 @@ Cushing Syndrome is a...
 ### Symptoms
 
 ### Risk factors:
-==Can be caused by [[Lung cancer#^e2b308|Paraneoplastic Syndromes from Small-cell Lung Cancer]]==
 
 ### Questions to ask
 >*"Do you notice any ???"*
