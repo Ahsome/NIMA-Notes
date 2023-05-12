@@ -199,8 +199,11 @@ When pulmonary nodules are identified, following steps are warranted:
 
 Differentials include: <br>- Granuloma <br>- Hamartoma <br>- Malilgancy
 
-The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* or *high-risk*:
+The use of biopsy depends on the risk that the pulmonary nodules are *low-risk* or *high-risk*.
+- If considered low-risk, consider serial image testing and biopsy when size grows.
+- If high risk, biopsy immediately:
 ![[#^6df757]]
+
 
 ## Criteria
 ### Severity of Pulmonary Nodules:
