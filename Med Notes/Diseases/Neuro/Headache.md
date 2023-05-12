@@ -32,6 +32,13 @@ A very rare headache disorder. It is poorly understood, seen primarily in men an
 ## Paroxysmal Hemicrania
 A very, very rare headache. Even less understood than [[#Cluster Headache]] but with similar symptoms. See [[#^017128|Comparison between Paroxysmal Hemicrania and Cluster Headache]]
 
+## Low Pressure Headache:
+A headache due to a drop in CSF pressure. It clasically exhibits **postural headache**. It improves lying flat, and worsens sitting up
+Common causes include:
+- After *lumbar puncture*
+- After *epidular anaesthesia*
+
+---
 
 > [!Important]
 - It is important with headaches to **rule out** life-threatening causes, even when it is unlikely
@@ -59,7 +66,7 @@ Comparison between [[#Paroxysmal Hemicrania]] and [[#Cluster Headache]]
 | Factors                  | Paroxsmal Hemicrania | Cluster Headache   |
 | ------------------------ | -------------------- | ------------------ |
 | Gender predominance      | Females              | Males              |
-| Frequency                | >15 in 24 hours      | 1 to 4 in 24 hours |
+| Frequency                |Much higher:<br> 15 in 24 hours|Lower: <br> to 4 in 24 hours|
 | Duration                 | ~15 minutes          | >30 minutes        |
 | Response to indomethacin | Good                 | Poor                   | ^017128
 
@@ -98,7 +105,7 @@ Aura symptoms, mostly in [[#Migraine headache]]:
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+|Postural headache|Improve lying flat <br>Worse sitting up|Due to a drop in CSF pressure, leading to a [[#Low Pressure Headache]]|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -210,11 +217,8 @@ Cluster headaches do *not* respond well to NSAIDs such as indomethacin, but it *
 >[!Important]- NSAID ineffective
 >Cluster headaches do *not* respond well to NSAIDs such as indomethacin
 
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
+>[!Important]- Paroxysmal Hemicrania
+>Indomethacin is usefulr for Paroxysmal Hemicrania
 
 ^6df757
 
