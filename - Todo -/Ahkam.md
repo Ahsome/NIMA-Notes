@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] [[Breast Cancer]]
 - [ ] [[Dementia]]
 - [ ] [[Parkinsons]]
+- [ ] Gastroenteritis
 
 
 ## In Progress
