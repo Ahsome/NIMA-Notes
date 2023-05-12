@@ -27,9 +27,21 @@ flowchart TB
 
 class 21 internal-link
 class 31 internal-link
-class 41internal link
+class 41 internal-link
 
-style 1 fill #b8e1e1
+style 1 fill:#b8e1e1,color:#000000
+style 2 fill:#b8e1e1,color:#000000
+style 3 fill:#b8e1e1,color:#000000
+style 4 fill:#b8e1e1,color:#000000
+
+style 21 fill:#b8e1e1,color:#000000
+style 31 fill:#b8e1e1,color:#000000
+style 41 fill:#b8e1e1,color:#000000
+
+style 211 fill:#b8e1e1,color:#000000
+style 311 fill:#b8e1e1,color:#000000
+style 411 fill:#b8e1e1,color:#000000
+
 ```
 
 ## Pathophysiology
