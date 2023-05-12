@@ -15,7 +15,25 @@ It has usually advanced at presentation; it is unlikely to identify lung cancer 
 Small cell lung cancer occurs roughly 15% of time. It is rarely resectable (95% cases cannot), and has *poor* prognosis compared to [[#Non-small cell lung cancer]]. It is named after the small cells found on biopsy:
 ![[Pasted image 20230512202628.png]]
 
-It is fa
+Features include:
+1. It is fast growing, early metastasis.
+2. It is treated with **chemotherapy**
+3. Exhibitts *many* paraneoplastic syndromes.
+4. It occurs in smokers
+
+### Paraneoplastic Syndromes:
+Small cell lung cancer can result in production of:
+1. ACTH
+	1. [[Cushing Syndrome]]
+	2. Progressive Obesity
+	3. Hyperglycemia
+2. ADH
+	1. [[SIADH]]
+	2. Hyponatremia
+3. Antibodies
+	1. Creayes antibodies against pre-synaptic Ca2+ channels in neurons
+	2. Blocks Ach
+	3. Lambert-Eaton syndrom
 
 ### Non-small cell lung cancer
 Non-small cell lung cancer is the most common (85%), and it *can* be resected. It has a better progrnosis compared to [[#Small cell lung cancer]]. It has three main types:
@@ -41,6 +59,7 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 
 ### Risk factors:
 1. Ciagarette smoking
+	1. Leads to [[#Small cell lung cancer]]
 2. Radiation therapy
 	1. Hodgkin lymphoma
 	2. [[Breast Cancer]]
@@ -53,13 +72,7 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 ---
 
 ## Examination findings
-| Key Findings | Result                             | Explanation                                        |
-| ------------ | ---------------------------------- | -------------------------------------------------- |
-| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| Chest CT     |                                    | ![[Pasted image 20230512202457.png\|150]]                                                   |
-| Biopsy       |                                    |                                                    |
-
-| Additional Findings     | Result  | Explanation   |
+| Key Findings     | Result  | Explanation   |
 | ---------------- | ------- | ------------- |
 | Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
 
@@ -69,9 +82,11 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Findings | Result                             | Explanation                                        |
+| ------------ | ---------------------------------- | -------------------------------------------------- |
+| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+| Chest CT     |                                    | ![[Pasted image 20230512202457.png\|150]]                                                   |
+| Biopsy       |                                    |                                                    |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -81,6 +96,8 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 
 # Management
 ## Treatment
+Treatment depends on type of cancer:
+1. [[#Small cell lung cancer]]: Chemotherapy
 
 ## Drug overview
 
@@ -93,7 +110,18 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 ---
 
 # Complications
-1. Complications of disease
+1. Paraneoplastic Syndromes: Most likely to occur due to [[#Small cell lung cancer]]. Examples include:
+	1. ACTH
+		1. [[Cushing Syndrome]]
+		2. Progressive Obesity
+		3. Hyperglycemia
+	2. ADH
+		1. [[SIADH]]
+		2. Hyponatremia
+	3. Antibodies
+		1. Creayes antibodies against pre-synaptic Ca2+ channels in neurons
+		2. Blocks Ach
+		3. Lambert-Eaton syndrom
 
 ---
 
