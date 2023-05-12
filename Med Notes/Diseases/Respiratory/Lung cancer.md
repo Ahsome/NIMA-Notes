@@ -6,7 +6,7 @@
 ---
 
 # Information
-Lung cancer is  
+Lung cancer is cancer involving lu 
 
 > [!Important]
 - Important point
