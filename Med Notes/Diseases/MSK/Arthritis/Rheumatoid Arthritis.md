@@ -91,10 +91,6 @@ Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invov
 | Acute phase reactants                       | CRP (elevated) |                                                                                                        |
 | ^^                                          | ESR (elevated)               |                                                                                                        |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
 ---
 
 # Management
@@ -111,13 +107,27 @@ Inducing remission and paincontrol depend on the following:
 1. DMARD (Disease-Modifying antirheumatic drugs)
 2. Pain control
 
+##  Clinical remission
+Clinical remission requires the use of DMARDs. This is then followed by 12 weeks of observation. If no improvement is found, consider changing dosage, addition of new DMARDs
 **DMARDs**:
 1. Protects joints from destruction
 2. Provides long-term reduction in disease progression
 3. Slow onsent, effect over weeks
 4. Usually oral
 5. Split into three groups:
-	1. 
+	1. csDMARD: Conventional synthetic DMARD
+	2. bDMARD: Biological DMARD
+	3. tsDMARD: Targeted synthetic DMARD
+
+Following options are recommended:
+
+| Type      | Drug                    | Use case/Explanation                     |
+| --------- | ----------------------- | ---------------------------------------- |
+| *csDMARD* | Methotrexate+Folic Acid | First-line                               |
+| ^^        | Leflunomide             | Use if Methotrexate is not tolerated     |
+| ^^        | Sulfsazaline            | Can use in low-risk, few affected joints |
+| ^^        | Hydroxychloroquine      | ^^                                       |
+|           |                         |                                          |
 
 **Pain control**:
 1. Bridge until DMARDs take effect
