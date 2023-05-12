@@ -32,7 +32,7 @@ Hip involvement commonly affects:
 2. Proximal Interphalangeal (PIP) joints
 3. 1st. Carpometacarpal (CMC) joint
 
-It does ***not involve the MCP***
+It does ***not involve the MCP***, which is involved in [[Rheumatoid Arthritis]]
 
 ![[Pasted image 20230512013824.png]]
 
@@ -55,7 +55,7 @@ Over time, inflammatory signs subside and joints become less painful, but swelli
 | Features                     | Explanation                                                                                         |
 | ---------------------------- | --------------------------------------------------------------------------------------------------- |
 | Insidous onset of joint pain | Bone pain fibers irritated by movement<br>Deep, dull ache<br>Worsened by activity, improved by rest |
-| Stiffness                    | In morning or after inactivity, last <30 minutes                                                    |
+| Stiffness                    | In morning or after inactivity, last <30 minutes<br>If >30 minutes, see [[Rheumatoid Arthritis]]                                                    |
 | Restricted ROM               | Boney enlargement limits movement                                                                                                    |
 
 ### Risk factors:
@@ -74,11 +74,12 @@ Over time, inflammatory signs subside and joints become less painful, but swelli
 ---
 
 ## Examination findings
-| Key Findings      | Result                                           | Explanation                                                                |
-| ----------------- | ------------------------------------------------ | -------------------------------------------------------------------------- |
-| Nodes             | Heberden's Nodes (DIP)<br>Bouchard's Nodes (PIP) | Caused by boney overgrowth/osteophytes. More common at inex and middle fingers. Found in [[#Nodal Osteoarthritis]]<br><br>![[Pasted image 20230512014201.png\|250]]|
-| Range of movement | Restricted ROM                                   | Boney enlargement limits movement                                          |
-| Crepitus          | Increased crepitus                               | Commonly found in [[#Hip involvement:\|hip joints]]                        |
+| Key Findings          | Result                                           | Explanation                                                                                                                                                         |
+| --------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nodes                 | Heberden's Nodes (DIP)<br>Bouchard's Nodes (PIP) | Caused by boney overgrowth/osteophytes. More common at inex and middle fingers. Found in [[#Nodal Osteoarthritis]]<br><br>![[Pasted image 20230512014201.png\|250]] |
+| Range of movement     | Restricted ROM                                   | Boney enlargement limits movement                                                                                                                                   |
+| Crepitus              | Increased crepitus                               | Commonly found in [[#Hip involvement:\|hip joints]]                                                                                                                 |
+| Temperature, Swelling | **NOT** warm, **NO swelling**                   | It is a non-inflmmatory arthritis. If it is warm and has swelling, see [[Rheumatoid Arthritis]] or [[Septic Arthritis]]                                                                                                                                                                    |
 
 ---
 
@@ -89,7 +90,7 @@ Over time, inflammatory signs subside and joints become less painful, but swelli
 | ^^        | Subchondral sclerosis    | Thickening of subchondral bone due to increased collagen with abnormal mineralisation. Look at white stripe below:<br>![[Pasted image 20230512012817.png\|150]]                                                               |
 | ^^        | Osteophytes (bone spurs) | Thickening of subchondrla bone at joint margins. Often at insertion points of tendons or ligaments<br><br>![[Pasted image 20230512012941.png\|300]]                                                                           |
 | ^^        | Subchondral cyst         | Fluid filled sack. Occurs when bone crack, and synovial fluid accumulates![[Pasted image 20230512013043.png\|150]]<br><br>                                                                                                                                                                                                                              |
-| FBC       | Low WBC (<200)           | Non-inflammatory response:<br>- If 200-2000, see [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]]<br>- If >50,000, see [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] |
+| FBC       | Low WBC (200-2000)           | Non-inflammatory response:<br>- If 2000-50,000, see [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]]<br>- If >50,000, see [[Med Notes/Diseases/MSK/Arthritis/Septic Arthritis\|Septic Arthritis]] |
 | ^^        | Rest normal              | Other blood tests normal                                                                                                                                                                                                      |
 
 ---

@@ -8,7 +8,7 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [x] Anaemia
+- [x] [[Anaemia]], including [[Microcytic Anaemia]], [[Macrocytic Anaemia]] and [[Normocytic Anaemia]]
 - [ ] Common malignancies (breast, lung, colorectal & melanoma)
 
 #### Know principles

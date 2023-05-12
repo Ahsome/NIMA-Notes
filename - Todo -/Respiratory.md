@@ -8,10 +8,10 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Airways disease ([[Asthma]], bronchiectasis and COPD)
-- [x] Conditions relating to venous thrombo-embolic disease, particularly pulmonary embolism
+- [ ] Airways disease ([[Asthma]], bronchiectasis and [[COPD]])
+- [x] Conditions relating to venous thrombo-embolic disease, particularly [[Pulmonary Embolus]]
 - [ ] Thoracic tumours and lung nodules
-- [x] Common pulmonary infections
+- [x] Common pulmonary infections [[Pneumonia]]
 
 #### Know principles
 - [ ] Pneumothorax

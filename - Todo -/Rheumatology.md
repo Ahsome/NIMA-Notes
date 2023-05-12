@@ -8,9 +8,9 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Osteoarthritis
-- [ ] Rheumatoid arthritis
-- [ ] Acute monoarthritis (gout / septic arthritis)
+- [x] [[Osteoarhritis]]
+- [x] [[Rheumatoid Arthritis]]
+- [x] Acute monoarthritis ([[Gout]] / [[Septic Arthritis]])
 
 #### Know principles
 - [ ] Psoriatic arthritis
@@ -19,7 +19,7 @@
 - [ ] Giant cell arthritis & polymyalgia rheumatica
 - [ ] Scleroderma
 - [ ] Vasculitis
-- [ ] Reactive arthriti
+- [ ] Reactive arthritis
 
 #### Some Knowledge
 - [ ] Reactive arthritis

@@ -11,15 +11,15 @@
 - [ ] ACS and angina
 - [x] [[Heart Failure]]
 - [ ] Valvular heart disease
-- [ ] Arrhythmia
-- [x] Venous thromboembolism and pulmonary embolism
+- [ ] Arrhythmia, such as [[Atrial Fibrillation (AF)]]
+- [x] Venous thromboembolism and [[Pulmonary Embolus]]
 
 #### Know principles
 - [ ] Infective endocarditis
 - [ ] Cardiac arrest algorithm - BLS
 - [ ] Conduction disease
 - [ ] Rheumatic heart disease
-- [ ] Pericardial diseas
+- [ ] Pericardial disease
 
 #### Some Knowledge
 - [ ] Congenital heart disease
