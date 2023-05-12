@@ -32,7 +32,7 @@ Hip involvement commonly affects:
 2. Proximal Interphalangeal (PIP) joints
 3. 1st. Carpometacarpal (CMC) joint
 
-It does ***not involve the MCP***
+It does ***not involve the MCP***, which is involved in [[Rheumatoid Arthritis]]
 
 ![[Pasted image 20230512013824.png]]
 

@@ -10,7 +10,12 @@ Rheumatoid Arthritis is an autoimmune infammation of the synovium. The *synovium
 
 It results in a **systemic disease** with **extra-articular complications**. It may wax and wave with flares
 
-Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the body. It has a gradual onset of symptoms
+Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the body. It has a gradual onset of symptoms, and commonly involves the **wrists** and the **hands**. It classicly affects:
+1. Metacarpophalangeal (MCP) joints. Contrast with [[Osteoarhritis]], where MCP joints are spared
+2. Proximal Interphalangeal (PIP) joints
+
+It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It also *does not* involve the Lumbar spine, which is involved in [[Osteoarhritis]]
+
 
 > [!Important]
 - Important point
@@ -38,9 +43,9 @@ Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the 
 ---
 
 ## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Swelling an    | Result 1 | Explanation 1 |
+| Key Findings        | Result  | Explanation   |
+| ------------------- | ------- | ------------- |
+| Swelling and Warmth | Present | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]] |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
