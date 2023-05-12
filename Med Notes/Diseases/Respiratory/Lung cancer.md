@@ -8,11 +8,24 @@
 # Information
 Lung cancer is cancer involving lung tissue. It is the **most deadly** cancer, and *second* **most likely** cancer. 
 
-It has usually adbanced at presentation; it is unlikely to identify lung cancer in the earlier stages
+It has usually advanced at presentation; it is unlikely to identify lung cancer in the earlier stages
+
+## Subtypes
+### Small cell lung cancer
+Small cell lung cancer occurs roughly 15% of time. It is rarely resectable (95% cases cannot), and has *poor* prognosis compared to [[#Non-small cell lung cancer]]. It is named after the small cells found on biopsy:
+![[Pasted image 20230512202628.png]]
+
+It is fa
+
+### Non-small cell lung cancer
+Non-small cell lung cancer is the most common (85%), and it *can* be resected. It has a better progrnosis compared to [[#Small cell lung cancer]]. It has three main types:
+1. Squamous Cell Carcinoma
+2. Adenocarcinoma
+3. Large-cell Carcinoma
 
 > [!Important]
 - Most deadly cancer, second most likely cancer
-- 
+- When using CXR, always compare with previous CXR to identify new lesions ^fdb235
 
 --- 
 # History
@@ -40,16 +53,18 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 ---
 
 ## Examination findings
-| Key Findings | Result           | Explanation                                        |
-| ------------ | ---------------- | -------------------------------------------------- |
-| CXR          | Pulmonary Nodule | Compare with *previous* CXR to identify new lesion |
-| ^^           | "Coin lesion"    | ^^                                                 |
-| Chest CT     |                  |                                                    |
-| Biopsy             |                  |                                                    |
+| Key Findings | Result                             | Explanation                                        |
+| ------------ | ---------------------------------- | -------------------------------------------------- |
+| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+| Chest CT     |                                    | ![[Pasted image 20230512202457.png\|150]]                                                   |
+| Biopsy       |                                    |                                                    |
 
 | Additional Findings     | Result  | Explanation   |
 | ---------------- | ------- | ------------- |
 | Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
+
+>[!Important]
+>![[#^fdb235]]
 
 ---
 
