@@ -103,7 +103,7 @@ Management involves the following:
 -   Optimise patient's immune status, due to increase risk of infection
 	- e.g. Recommended vaccinations
 -   Continual monitoring of complications and drug issues.
-	- Includes monitoring of DMARD such as pp
+	- Includes monitoring of DMARD such as [[Methotrexate]]. See [[#^c0787c|Methotrexate use]]
 	- Includes cervical subluxation and increased [[Osteoporosis]]. See [[#Complications]]
 -  Educating patient about disease, and management. Recommend [[#Lifestyle:]]
 
@@ -128,18 +128,19 @@ Clinical remission requires the use of DMARDs. This is then followed by 12 weeks
 	3. tsDMARD: Targeted synthetic DMARD
 
 Following options are recommended:
-
 | Type      | Drug                    | Use case/Explanation                                                                                                                                        |
 | --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *csDMARD* | Methotrexate+Folic Acid | First-line<br>Can cause bone arrow supression, so requires monitoring:<br>- CBC<br>- LFT<br>- Creatinine                                                                                                                                                  |
+| *csDMARD* | Methotrexate+Folic Acid | First-line<br>Can cause bone arrow supression, so requires monitoring:<br>- CBC<br>- LFT<br>- Creatinine (as eliminated by Kidneys)                                                                                                                                                 |
 | ^^        | Leflunomide             | Use if Methotrexate is not tolerated                                                                                                                        |
 | ^^        | Sulfsazaline            | Can use in low-risk, few affected joints                                                                                                                    |
 | ^^        | Hydroxychloroquine      | ^^                                                                                                                                                          |
-| *bDMARD*  | Abatacerpt              | Used in addition if remission is not available or significant detirioration.<br> All equally effective<br><br>Important to consider increase risk infection |
-| ^^        | Etanercept              | ^^                                                                                                                                                          |
-| ^^        | Infliximab              | ^^                                                                                                                                                          |
-| ^^        | Rituximab               | Used if first-line bDMARD is not working                                                                                                                                                            |
-| *tsDMARD* | Tofacitinib             | Alternative to bDMARD                                                                                                                                       |
+| *bDMARD*  | Abatacerpt (Non-[[Glossary#^af14cf\|TNFa]])              | Used in addition if remission is not available or significant detirioration.<br> All equally effective<br><br>Important to consider increase risk infection |
+| ^^        | Etanercept (Anti-[[Glossary#^af14cf\|TNFa]])              | ^^                                                                                                                                                          |
+| ^^        | Infliximab (Anti-[[Glossary#^af14cf\|TNFa]])              | ^^                                                                                                                                                          |
+| ^^        | Rituximab (Non-[[Glossary#^af14cf\|TNFa]])               | Used if first-line bDMARD is not working                                                                                                                                                            |
+| *tsDMARD* | Tofacitinib (Non-[[Glossary#^af14cf\|TNFa]])             | Alternative to bDMARD                                                                                                                                       |
+
+^c0787c
 
 **Pain control**:
 Pain control should be used until DMARDs take effect:
