@@ -125,11 +125,11 @@ Lung cancer tests:
 
 Tests across variants:
 
-| Test     | [[#Squamous Cell Carcinoma]]                                              |   [[#Adenocarcinoma]]                                                               |
-| -------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Biopsy   | Keratin Production<br>("Pearls")                                          |                                                                  |
-| ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                  |
-| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] |Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca
+| Test     | [[#Squamous Cell Carcinoma]]                                              | [[#Adenocarcinoma]]                                                                              | [[#Large Cell Carcinoma]]        |
+| -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
+| Biopsy   | Keratin Production<br>("Pearls")                                          |                                                                                                  |         |
+| ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
+| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] | Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -138,9 +138,20 @@ Tests across variants:
 ---
 
 # Management
-## Treatment
-Treatment depends on type of cancer:
-1. [[#Small cell lung cancer]]: Chemotherapy
+## Overall treatment
+Treatment involves the following:
+1. Surgery
+2. Chemotherapy
+3. Radiation
+
+### Surgery:
+Surgery is not incidated in:
+1. Metastatic disease. This includes [[#Small cell lung cancer]], which are unresectable 95% time
+2. Bilateral disease
+3. Malignant pleural effusion
+
+**NOTE**: Size is *not* a major determinant for surgery
+
 
 ## Drug overview
 
@@ -175,7 +186,10 @@ Comparisons across different subtypes of [[#Non-small cell lung cancer]]:
 | Pathophys         | [[#Squamous Cell Carcinoma]] | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
 | ----------------- | ---------------------------- | ------------------- | ------------------------- |
 | Involves smoking? | Smoking                      | Non-Smoking         | Smoking                   |
-	| Prognosis                  |                              |                     |                           |
+| Prognosis         | Poor                         | Medium              | Poor                      |
+| Differentiation   | Squamous cell                | Glandular           | None                      |
+| Paraneoplastic    | ACTH, ADH, Antibodies        | PTHrP               | None                      |
+| Location          | Hilar mass                   | Peripheral          | Peripheral                          |
 
 ![[#^7246ca]]
 
