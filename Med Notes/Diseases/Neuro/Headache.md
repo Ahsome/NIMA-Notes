@@ -24,6 +24,8 @@ Migraine headaches has episodic phases that goes through phases:
 2. Aura: Slow development of non-headache symptom. See [[#^d15b83|Aura symptoms]]
 3. Headache
 
+Pregnancies *reduce* headaches. However, management and drug use change for safty reasons.
+
 ## Cluster headache
 
 > [!Important]
@@ -138,6 +140,9 @@ Other examples include:
 		2. IV or IM chlropromazine
 		3. IV or IM prochlorperazine
 
+>[!Warning]+ In Pregnancy
+*In pregnancy*: Acetaminophen is safest. NSAIDs are second line, with [[Triptans]] for moderate to severe symptoms
+
 #### Contraindications:
 **Triptans:**
 1. Use over 10 days per month is not recommended, as it can cause an *overuse headache*.
@@ -157,19 +162,20 @@ This is done for patients with >3 headaches per month. This includes:
 1. Avoid known triggers for headaches
 2. Healthy lifestyle, such as sleep, diet, and exercise
 3. Certain drugs to reduce migraine frequency:
-	1. Anticonvulsants (topiramate and valproate)
-		1. Topi
-	2. Beta-blockers (Propranalol)
-	3. Antidepressants (Amitriptyline and venlafaxine)
 
-| Drug class      | Name          | Explanation |
-| --------------- | ------------- | ----------- |
-| Anticonvulsants | Topiramate    |             |
-| ^^              | Valproate     |             |
-| Beta-blocker    | Propranalol   |             |
-| Antidepressants | Amitriptyline |             |
-| ^^              | Venlafaxine              |             |
+| Drug class      |Contraindications| Name          |Explanation|
+| --------------- | ----------- | ------------- | ----------- |
+| Anticonvulsants |Avoid in *pregnancy* <br>Can cause neural tube defects| Topiramate    |Very effective for migraine, leads to mental dulling/sensation <br> <br>Low risk of [[Kidney stones]] due to weak carbonic anhydrase inhibitor activity. <br>Patients need to hydrate|
+| ^^              |^^| Valproate     |             |
+| Beta-blocker    |   | Propranalol   |  |
+| Antidepressants |   | Amitriptyline |             |
+| ^^              |   | Venlafaxine              |             |
 
+>[!Warning]+ In Pregnancy
+*In pregnancy*: Beta-blockers are recommended for prevention
+
+>[!Danger]+ In Pregnancy
+*In pregnancy*: **Avoid anticonvulants, especially valproate** as they cause *neural tube defects*
 
 >[!Important]- No estrogen-containing OCPs
 >![[#^be3ebf]]
