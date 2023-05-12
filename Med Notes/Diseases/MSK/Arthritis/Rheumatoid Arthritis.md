@@ -109,7 +109,7 @@ Inducing remission and paincontrol depend on the following:
 1. DMARD (Disease-Modifying antirheumatic drugs)
 2. Pain control
 
-##  Clinical remission
+## Clinical remission
 Clinical remission requires the use of DMARDs. This is then followed by 12 weeks of observation. If no improvement is found, consider changing dosage, addition of new bDMARD or tsDMARD.
 
 >[!Important]
@@ -127,22 +127,33 @@ Clinical remission requires the use of DMARDs. This is then followed by 12 weeks
 
 Following options are recommended:
 
-| Type      | Drug                    | Use case/Explanation                                                                                                                            |
-| --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| *csDMARD* | Methotrexate+Folic Acid | First-line                                                                                                                                      |
-| ^^        | Leflunomide             | Use if Methotrexate is not tolerated                                                                                                            |
-| ^^        | Sulfsazaline            | Can use in low-risk, few affected joints                                                                                                        |
-| ^^        | Hydroxychloroquine      | ^^                                                                                                                                              |
-| *bDMARD*    | Abatacerpt              | Used if remission is not available or significant detirioration.<br> All equally effective<br><br>Important to consider increase risk infection |
-| ^^        | Etanercept              | ^^                                                                                                                                              |
-| ^^        | Infliximab              | ^^                                                                                                                                              |
-| *tsDMARD*   | Tofacitinib             | ^^                                                                                                                                                |
+| Type      | Drug                    | Use case/Explanation                                                                                                                                        |
+| --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *csDMARD* | Methotrexate+Folic Acid | First-line                                                                                                                                                  |
+| ^^        | Leflunomide             | Use if Methotrexate is not tolerated                                                                                                                        |
+| ^^        | Sulfsazaline            | Can use in low-risk, few affected joints                                                                                                                    |
+| ^^        | Hydroxychloroquine      | ^^                                                                                                                                                          |
+| *bDMARD*  | Abatacerpt              | Used in addition if remission is not available or significant detirioration.<br> All equally effective<br><br>Important to consider increase risk infection |
+| ^^        | Etanercept              | ^^                                                                                                                                                          |
+| ^^        | Infliximab              | ^^                                                                                                                                                          |
+| ^^        | Rituximab               | Used if first-line bDMARD is not working                                                                                                                                                            |
+| *tsDMARD* | Tofacitinib             | Alternative to bDMARD                                                                                                                                       |
 **
+
 **Pain control**:
 1. Bridge until DMARDs take effect
 2. NSAID: Drug of choice for pain control
 3. Corticosteroids: Use if NSAID is inadequate
 	1. Can use short-term for symptom flairs
+
+| Pain treatment | Explanation                                         |
+| -------------- | --------------------------------------------------- |
+| Oral NSAID     | Use if the pain is thought to be inflammatory-based |
+| Fish oil       | Mild anti-[[Rheumatoid Arthritis]] effect           |
+| Opiods         | Very limited use, should be only short-term due to risk                                                    |
+
+## Lifestyle:
+
 
 ## Cervical subluxation management:
 Cervical subluxaion management can need the following:
