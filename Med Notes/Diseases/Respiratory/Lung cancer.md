@@ -104,19 +104,19 @@ Symptoms across variants
 ---
 
 ## Examination findings
-| Key Findings     | Result  | Explanation   |
-| ---------------- | ------- | ------------- |
-| Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
+|Key Findings | Result  | Explanation   |
+|:-:| ------- | ------------- |
+|Digital clubbing| Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
 
 ---
 
 ## Investigations
 Lung cancer tests:
 
-| Key Findings | Result                             | Explanation                                                                                         |
-| ------------ | ---------------------------------- | --------------------------------------------------------------------------------------------------- |
-| CXR          | Pulmonary Nodule<br>"Coin lesions" | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| ^^           | Elevated hemidiaphram              | Due to [[#^2032c7\|Phrenic nerve compression]]<br><br>![[Pasted image 20230512211221.png\|150]]     |
+|Key Findings | Result                             | Explanation                                                                                         |
+|:-:|:--| --------------------------------------------------------------------------------------------------- |
+|CXR |Pulmonary Nodule<br>"Coin lesions"| Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+| ^^           | Elevated hemidiaphram              |Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the sniff test.<br><br>![[Pasted image 20230512211221.png\|150]]|
 | Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 
 
@@ -173,11 +173,14 @@ Surgery is not incidated in:
 			1. Blocks Ach
 			2. Leads to [[Lambert-Eaton syndrome]]
 			3. Main symptoms is muscle weakness
-2. [[Pleural Effusion]]: Tap fluid, send for cytology
+2. [[Pleural Effusion]]: 
+	1. Can cause fluid to leak into lungs
+	2. Tap fluid, send for cytology, before [[#Surgery:|surgery]]
 3. Phrenic nerve compression: ^2032c7
 	1. Leads to diaphragm paralysis
 	2. Dyspnea
 	3. Hemidiaphragm elevated on CXR
+	4. Can be tested with Sniff test. Make patient sniff under imaging, if hemidiaphargm does not elevate then phrenic nerve compression
 4. Recurrent laryngeal nerve compression ^93ef83
 	1. Hoarseness
 
@@ -186,13 +189,13 @@ Surgery is not incidated in:
 # Comparisons
 Comparisons across different subtypes of [[#Non-small cell lung cancer]]:
 
-| Pathophys         | [[#Squamous Cell Carcinoma]] | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
+|Pathophys| [[#Squamous Cell Carcinoma]] | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
 | ----------------- | ---------------------------- | ------------------- | ------------------------- |
-| Involves smoking? | Smoking                      | Non-Smoking         | Smoking                   |
-| Prognosis         | Poor                         | Medium              | Poor                      |
+| Involves smoking? | Smoking                      |Non-Smoking| Smoking                   |
+|Prognosis|Poor|Medium | Poor                      |
 | Differentiation   | Squamous cell                | Glandular           | None                      |
 | Paraneoplastic    | ACTH, ADH, Antibodies        | PTHrP               | None                      |
-| Location          | Hilar mass                   | Peripheral          | Peripheral                          |
+| Location          |Hilar mass| Peripheral          | Peripheral                          |
 
 ![[#^7246ca]]
 
