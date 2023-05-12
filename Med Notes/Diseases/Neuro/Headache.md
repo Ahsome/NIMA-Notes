@@ -131,14 +131,17 @@ Aura symptoms, mostly in [[#Migraine headache]]:
 ## Initial management:
 Initial management involves first identifying and ruling out serious but unlikely causes of headaches via history and neurological examination. These include:
 
-| Warning symptoms                                 | Possible diagnosis                   |
-| ------------------------------------------------ | ------------------------------------ |
-| Sudden onset                                     | Subarachnoid haemorrhage, Dissection |
-| First headache with neurological signs/confusion | Stroke,                                     |
-1. CNS tumors
-2. CNS bleeds
-3. Hydrocephalus
-4. Inflammation
+| Warning symptoms                                 | Possible diagnosis                                            |
+| ------------------------------------------------ | ------------------------------------------------------------- |
+| Sudden onset                                     | Subarachnoid haemorrhage, Dissection                          |
+| First headache with neurological signs/confusion | Stroke, thrombosis                                            |
+| Patient > 50yo                                   | Giant cell arteritis, mass leion, stroke                      |
+| After head trauma                                | SUbdural/EPidural haemorrhage                                 |
+| Frequency increases over weeks                   | Mass lesion, subdural haemorrhage                             |
+| New onset who has HIV/Cancer/Immunosupressed     | Meningitis, abscess, metastasis                               |
+| Signs of systemic illnesses                      | Systemic infection, meningitis, encephalitis, vasculitis      |
+| Papillodema                                      | Mass lesion, Idiopathic Intracranial Hypertension, Thrombosos |
+| Positional headahce and cough headache           | Space-occupyin lesion, chiari malformation                                                              |
 
 Treatment can then be provided assuming it's a primary headache.
 
@@ -179,9 +182,11 @@ Other examples include:
 2. Antiemetics: Dopamine antagonists
 	1. Improve nausea and pain.
 	2. Includes:
-		1. IV metoclopramide
-		2. IV or IM chlropromazine
-		3. IV or IM prochlorperazine
+		1. Metoclopromide
+		2. Ondansetron
+		3. Domperidone
+		4. Chlropromazine
+		5. Prochlorperazine
 
 >[!Warning]+ In Pregnancy
 *In pregnancy*: Acetaminophen is safest. NSAIDs are second line, with [[Triptans]] for moderate to severe symptoms
