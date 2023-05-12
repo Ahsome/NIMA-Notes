@@ -50,8 +50,10 @@ style 311 fill:#b8e1e1,color:#000000
 style 411 fill:#b8e1e1,color:#000000
 
 style 2111 fill:#b8e1e1,color:#000000
-style 2111 fill:#b8e1e1,color:#000000
-style 2111 fill:#b8e1e1,color:#000000
+style 2112 fill:#b8e1e1,color:#000000
+style 2113 fill:#b8e1e1,color:#000000
+
+style 21111 fill:#b8e1e1,color:#000000
 
 ```
 
