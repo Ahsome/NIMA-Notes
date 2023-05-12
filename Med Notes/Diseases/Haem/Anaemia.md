@@ -27,7 +27,7 @@ flowchart TB
 
 211 --> 2111[Low iron and erritin with high TIBC]
 211 --> 2112[Mentzer Index (MCV/RBC) < 13 - THalassemia]
-211 --> 2113
+211 --> 2113 [Low/normal ir]
 
 class 21 internal-link
 class 31 internal-link
