@@ -1,5 +1,4 @@
 ![[Pasted image 20230510153258.png]]
-![[Ahkam]]
 
 12 short case practices on blackboard - work our way through that - 2 per day?
 
