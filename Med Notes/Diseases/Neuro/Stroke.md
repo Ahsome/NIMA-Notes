@@ -222,7 +222,7 @@ Treatment – the aim is to re-perfuse EARLY. The earlier you treat, the higher 
 	 - **Labetalol
 	- **Nicardipine
 	- **Clevidipine**
--   ==**Aspirin + clopidogrel**== – only to be used once haemorrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
+-   ==**Aspirin + clopidogrel**== – only to be used once hae2341562313morrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
 	- Dual antiplatelet therapy for up to 3 months has been shown to prevent recurrent strokes.
 
 **==Clot retrieval==** – interventional treatment **WITHIN 6-8HR** of symptoms
@@ -274,10 +274,10 @@ STROKE PREVENTION – LONG TERM MANAGEMENT
 -   ==**Aspirin or clopidogrel**== – antiplatelet therapy is effective in reducing risk (start within 48hrs of stroke onset, and wait at least 24 hours after thrombolysis)
 	- Aspirin monotherapy – standard long-term Tx  
 	- Clopidogrel monotherapy – shown to be better than aspirin in reducing mortality and incidence of stroke. DAPT in first 3 months
--   ==**Warfarin or NOACs**== – if patient has AFIB, which is the cause of stroke.
+-   ==**Warfarin or NOACs**== – if patient has [[Atrial Fibrillation]], which is the cause of stroke.
 -   Carotid artery stenosis – ==**endarterectomy vs stenting**==.
 -   ==**Statins**== – all patients will receive high dose statins going home.
--   Management of ==**diabetes**==
+-   Management of [[Diabetes Mellitus]]**==
 -   ==**Blood pressure**== control
 -   ==**Smoking cessation**==
 - Diet, exercise
