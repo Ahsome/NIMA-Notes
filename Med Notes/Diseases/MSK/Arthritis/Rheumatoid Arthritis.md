@@ -55,7 +55,7 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 
 | Extra-articular findings  | Result | Explanation |
 | ------------------------- | ------ | ----------- |
-| Serositis                 |        | Inflam            |
+| Serositis                 |        | Inflammation of serosal surfaces            |
 | Parenchymal lung disease  |        |             |
 | Carpal tunnel syndrome    |        |             |
 | Anemia of chronic disease |        |             |
