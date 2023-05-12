@@ -26,7 +26,7 @@ flowchart TB
 41 --> 411[Megalocytes and segmented neutrophils]
 
 211 --> 2111[Low iron and erritin with high TIBC]
-211 --> 2112
+211 --> 2112[Mentzer Ind]
 
 class 21 internal-link
 class 31 internal-link
