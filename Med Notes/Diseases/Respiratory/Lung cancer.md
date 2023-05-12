@@ -12,6 +12,7 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 
 > [!Important]
 - Most deadly cancer, second most likely cancer
+- 
 
 --- 
 # History
@@ -20,13 +21,17 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 2. Dyspnea
 3. Hemoptosys
 4. Weight loss
+5. [[Pneumonia#*Recurrent pneumonia*:]]:
+	1. Specifically, if under CXR it shows the pneumonia consistently affects the same region
+	2. If migratory, then more likely to be an immune defiiency
+	3. Best scan is CT scan
 
 ### Risk factors:
 1. Ciagarette smoking
 2. Radiation therapy
-	1. Hodhkin lymphoma
+	1. Hodgkin lymphoma
 	2. [[Breast Cancer]]
-3. Environmentl toxins
+3. Environmental toxins
 	1. Asbestos
 	2. Radon
 ### Questions to ask
@@ -35,13 +40,16 @@ It has usually adbanced at presentation; it is unlikely to identify lung cancer 
 ---
 
 ## Examination findings
-| Key Findings     | Result  | Explanation   |
+| Key Findings | Result           | Explanation                                        |
+| ------------ | ---------------- | -------------------------------------------------- |
+| CXR          | Pulmonary Nodule | Compare with *previous* CXR to identify new lesion |
+| ^^           | "Coin lesion"    | ^^                                                 |
+| Chest CT     |                  |                                                    |
+| Biopsy             |                  |                                                    |
+
+| Additional Findings     | Result  | Explanation   |
 | ---------------- | ------- | ------------- |
 | Digital clubbing | Present | Most common oncological cause of clubbing. Other causes include:<br>- [[Idiopathic Pulmonary Fibrosis]]<br>- [[Cystic Fibrosis]]<br>- [[Congenital heart disease]] |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
 
 ---
 
