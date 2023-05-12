@@ -17,9 +17,19 @@ flowchart TB
 1---> 3[MCV 80-100]
 1--->4[MCV > 100]
 
-2 ---> 21[Microcytic Anemia]
+2 ---> 21[Microcytic Anaemia]
+3 ---> 31[Normocytic Anaemia]
+4 ---> 41[Macrocytic Anaemia]
 
-class 2 internal-link
+21 --> 211[Serum iron studies]
+31 --> 311[Reticulocyte count]
+41 --> 411[Megalocytes and segmented neutrophils]
+
+class 21 internal-link
+class 31 internal-link
+class 41internal link
+
+style 1 fill #b8e1e1
 ```
 
 ## Pathophysiology
