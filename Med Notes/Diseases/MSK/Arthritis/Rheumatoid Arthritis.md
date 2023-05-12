@@ -84,7 +84,7 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 
 | Additional examinations | Explanations |
 | ----------------------- | ------------ |
-| Splenomegaly            | Due to [[#^f11b32\|Feltry syndrome]]             |
+| Splenomegaly            | Due to [[#^f11b32\|Feltry syndrome]]. Causes abdominal pain             |
 
 ^7e02a2
 >[!Important]
@@ -140,6 +140,7 @@ Clinical remission requires the use of DMARDs. This is then followed by 12 weeks
 	3. tsDMARD: Targeted synthetic DMARD
 
 Following options are recommended:
+
 | Type      | Drug                    | Use case/Explanation                                                                                                                                        |
 | --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *csDMARD* | Methotrexate+Folic Acid | First-line<br>Can cause bone arrow supression, so requires monitoring:<br>- CBC<br>- LFT<br>- Creatinine (as eliminated by Kidneys)                                                                                                                                                 |
@@ -217,7 +218,10 @@ Cervical subluxaion management can need the following:
 	2. 40% increase risk of hip fracture
 3. Increased risk of **coronary disease**, which is the **leading cause of mortality**. Due to helping produce plaque in vessels ^a37ddb
 4. Secondary (AA) Amyloidosis
-5. Felty syndrome: Syndrome of **splenomegaly** and **neutropenia** in RA ^f11b32
+5. Felty syndrome: Syndrome of **splenomegaly** and **neutropenia** in RA. ^f11b32:
+	1. Leads to increase risk of bacterial infections
+	2. Classically occurs many years onset of RA
+	3. Improves with RA therapy
 
 ---
 
