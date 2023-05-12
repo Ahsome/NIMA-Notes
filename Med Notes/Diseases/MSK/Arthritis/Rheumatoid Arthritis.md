@@ -6,7 +6,11 @@
 ---
 
 # Information
- Rheumatoid Arthritis is a... 
+Rheumatoid Arthritis is an autoimmune infammation of the synovium. The *synovium* is a thin layer of tissues that line joints and tendon sheaths, and secretes hyaluronic acid to lubricate the joint space.
+
+It results in a **systemic disease** with **extra-articular complications**. It may wax and wave with flares
+
+Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the body. It has a gradual onset of symptoms
 
 > [!Important]
 - Important point
@@ -14,9 +18,20 @@
 --- 
 # History
 ### Symptoms
+| Joint Symptoms      | Explanation                                                                                                                                        |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pain                | Gradual onset of pain                                                                                                                              |
+| Stiffness           | Classically a *morning stiffness* that lasts >1 hour. It improves with use<br>If <30 minutes of *morning stiffness*, think about [[Osteoarhritis]] |                                                                                                                                                    |
+
+| Systemic symptoms | Explanation |
+| ---------------- | ----------- |
+| Fever            |             |
+| Weight loss      |             |
+| Fatigue                 |             |
 
 ### Risk factors:
-
+1. Woman
+2. Age 20-40
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -25,7 +40,7 @@
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+| Swelling an    | Result 1 | Explanation 1 |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |

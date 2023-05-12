@@ -79,7 +79,7 @@ Over time, inflammatory signs subside and joints become less painful, but swelli
 | Nodes                 | Heberden's Nodes (DIP)<br>Bouchard's Nodes (PIP) | Caused by boney overgrowth/osteophytes. More common at inex and middle fingers. Found in [[#Nodal Osteoarthritis]]<br><br>![[Pasted image 20230512014201.png\|250]] |
 | Range of movement     | Restricted ROM                                   | Boney enlargement limits movement                                                                                                                                   |
 | Crepitus              | Increased crepitus                               | Commonly found in [[#Hip involvement:\|hip joints]]                                                                                                                 |
-| Temperature, Swelling | **NOT** warm, **NOO swelling**                   | It is a non-inflmmatory arthritis. If it is warm and has swelling, see [[Rheumatoid Arthritis]] or [[Septic Arthritis]]                                                                                                                                                                    |
+| Temperature, Swelling | **NOT** warm, **NO swelling**                   | It is a non-inflmmatory arthritis. If it is warm and has swelling, see [[Rheumatoid Arthritis]] or [[Septic Arthritis]]                                                                                                                                                                    |
 
 ---
 
