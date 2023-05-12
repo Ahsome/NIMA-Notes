@@ -64,6 +64,20 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 
 ---
 
+### Pancoast tumor
+Pancoast tumor is a tumor at the **apex of the lung**. it involves the *superior sulcus*, the groove formed b subclavian vessels
+Symptoms include:
+1. Arm adema on affected side
+2. Shoulder pain
+3. Arm paresthesia
+4. Weakness
+5. Horner's syndrome (due to sympathetic nerve copression)
+		1. Miosis
+		2. Ptosis
+		3. Anhidrosis
+
+---
+
 > [!Important]
 - Most deadly cancer, second most likely cancer
 - When using CXR, always compare with previous CXR to identify new lesions ^fdb235
@@ -82,6 +96,15 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 	2. If migratory, then more likely to be an immune defiiency
 	3. Best scan is CT scan
 6. Hoarseness: Due to [[#^93ef83|recurrant laryngeal nerve compression]]
+7. Symptoms from [[#Pancoast tumor]]:
+	1. Arm edema
+	2. Shoulder pain
+	3. Arm paresthesia
+	4. Weakness
+	5. Horner's syndrome
+		1. Miosis
+		2. Ptosis
+		3. Anhidrosis
 
 Symptoms across variants
 
@@ -118,7 +141,8 @@ Lung cancer tests:
 |Key Findings | Result                             | Explanation                                                                                         |
 |:-:|:--| --------------------------------------------------------------------------------------------------- |
 |CXR |Pulmonary Nodule<br>"Coin lesions"| Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
-| ^^           | Elevated hemidiaphram              |Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
+| ^^           |Elevated hemidiaphram|Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
+|^^|  |  |
 | Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 
 
@@ -128,7 +152,7 @@ Tests across variants:
 | -------- | -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------- |
 | Biopsy   |   | Keratin Production<br>("Pearls")                                          |  |         |
 | ^^       |  | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                                                  |         |
-|Chest CT|Compression of SVC, leading to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
+|Chest CT|Compression of SVC<br>Leads to [[#^5de9bf\|SVC syndrome]] <br> <br>![[Pasted image 20230512213023.png\|150]] |Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]|Glandular tumor. Notice leasion is in periphery<br><br>![[Pasted image 20230512205427.png\|150]]| ^7246ca |
 
 >[!Important]
 >![[#^fdb235]]
@@ -192,6 +216,11 @@ Surgery is not incidated in:
 	4. Increased ICP
 		1. Leads to headaches, confusion coma
 		2. Cranial artery rupture
+	5. Treatment involves:
+		1. Anticoag for thrombus
+		2. Steroids (lymphoma)
+		3. ChemoRadiation
+		4. Endovascular stenting
 
 ---
 
