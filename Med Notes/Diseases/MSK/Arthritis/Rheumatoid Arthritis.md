@@ -102,10 +102,12 @@ Management involves the following:
 -   Produce a self-plan for identifying and managing pain
 -   Optimise patient's immune status, due to increase risk of infection
 	- e.g. Recommended vaccinations
--   Continual monitoring of complications and drug issues. Includes cervical subluxation and increased [[Osteoporosis]]. See [[#Complications]]
--  Educating patient about disease, and management
+-   Continual monitoring of complications and drug issues.
+	- Includes monitoring of DMARD such as pp
+	- Includes cervical subluxation and increased [[Osteoporosis]]. See [[#Complications]]
+-  Educating patient about disease, and management. Recommend [[#Lifestyle:]]
 
-Inducing remission and paincontrol depend on the following:
+Inducing remission and pain control depend on the following:
 1. DMARD (Disease-Modifying antirheumatic drugs)
 2. Pain control
 
@@ -129,7 +131,7 @@ Following options are recommended:
 
 | Type      | Drug                    | Use case/Explanation                                                                                                                                        |
 | --------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *csDMARD* | Methotrexate+Folic Acid | First-line                                                                                                                                                  |
+| *csDMARD* | Methotrexate+Folic Acid | First-line<br>Can cause bone arrow supression, so requires monitoring:<br>- CBC<br>- LFT<br>- Creatinine                                                                                                                                                  |
 | ^^        | Leflunomide             | Use if Methotrexate is not tolerated                                                                                                                        |
 | ^^        | Sulfsazaline            | Can use in low-risk, few affected joints                                                                                                                    |
 | ^^        | Hydroxychloroquine      | ^^                                                                                                                                                          |
@@ -138,13 +140,21 @@ Following options are recommended:
 | ^^        | Infliximab              | ^^                                                                                                                                                          |
 | ^^        | Rituximab               | Used if first-line bDMARD is not working                                                                                                                                                            |
 | *tsDMARD* | Tofacitinib             | Alternative to bDMARD                                                                                                                                       |
-**
 
 **Pain control**:
-1. Bridge until DMARDs take effect
-2. NSAID: Drug of choice for pain control
-3. Corticosteroids: Use if NSAID is inadequate
+Pain control should be used until DMARDs take effect:
+1. NSAID: Drug of choice for pain control
+2. Corticosteroids: Use if NSAID is inadequate
 	1. Can use short-term for symptom flairs
+
+If the disease is well managed via DMARDs, the cause of the pain is likely non-inflammatory. For this, following is recommended:
+1. Rest
+2. Exercise therapy
+3. CBT
+4. Meditation
+5. Nerve stimulation
+
+If pain is likely inflammatory in cause, the following can be used:
 
 | Pain treatment | Explanation                                         |
 | -------------- | --------------------------------------------------- |
@@ -152,8 +162,17 @@ Following options are recommended:
 | Fish oil       | Mild anti-[[Rheumatoid Arthritis]] effect           |
 | Opiods         | Very limited use, should be only short-term due to risk                                                    |
 
-## Lifestyle:
+## Lifestyle management:
+### Exercise
+Land- and water-based aerobic exercises are beneficial for patients with rheumatoid arthritis at all stages of disease. Regular aerobic exercise improves physical function, helps maintain ideal body weight and also benefits psychological and cardiovascular health. Low-impact land exercise (eg stationary cycling, walking) or low- to moderate-intensity water-based exercise is preferred for patients with painful joints or high disease activity. Strengthening (anaerobic) exercise is also recommended to prevent muscle wasting. Weightbearing exercise improves bone health.
 
+Patients may worry that rheumatoid arthritis disease activity is increased by exercise. Although some pain with exercise can be expected, patients should be reassured that the benefits of exercise significantly outweigh the risks.
+
+### Diet
+The role of diet in rheumatoid arthritis remains controversial. Several studies have shown that dietary modifications including strict vegan diets, gluten-free diets and the Mediterranean-style diet produce small reductions in rheumatoid arthritis symptoms. However, no single diet results in consistent improvement for all patients with rheumatoid arthritis. The Mediterranean-style diet, characterised by a high consumption of fruit, vegetables, cereals and legumes, a little red meat but more fish, olive oil as the main source of fat, and a moderate intake of wine, appears to be the most universally accepted dietary intervention; it has the added benefit of weight control and reducing cardiovascular risk.
+
+### Smoking cessation
+All patients with rheumatoid arthritis should be strongly advised to stop smoking. Not only is smoking linked to the development of rheumatoid arthritis, it is also linked to poor prognosis and is a predictor of poor response to therapy. Smoking also increases the risk of developing cardiovascular disease in a patient group already at increased risk. Patient resources and help for smoking cessation are available from the Quitnow website [URL]. See Smoking cessation for more information on assessment of patients' smoking and advice on smoking cessation.
 
 ## Cervical subluxation management:
 Cervical subluxaion management can need the following:
