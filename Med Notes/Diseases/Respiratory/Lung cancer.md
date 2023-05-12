@@ -43,7 +43,7 @@ Non-small cell lung cancer is the most common (85%), and it *can* be resected. I
 2. Adenocarcinoma
 3. Large-cell Carcinoma
 
-### Squamous Cell Carcinoma
+#### Squamous Cell Carcinoma
 This occurs due to *hilar mass arising from bronchus*. It is common in **male smokers**.
 Key pathologies include:
 1. Keratin production ("pearls") by tuor cells
@@ -53,10 +53,13 @@ It can creat PTHrP, leading to:
 1. Hypercalcemia
 2. Bone and abdominal pain, confusion
 
+#### Adenocarcinoma
+This is the most common lung cancer in non-smokers. It is a **glandular tumor**
 
 > [!Important]
 - Most deadly cancer, second most likely cancer
 - When using CXR, always compare with previous CXR to identify new lesions ^fdb235
+- [[#Adenocarcinoma]] is the cancer linked least to non-soking
 
 --- 
 # History
@@ -71,10 +74,11 @@ It can creat PTHrP, leading to:
 	3. Best scan is CT scan
 
 Symptoms across variants
+
 | Symptoms     | [[#Squamous Cell Carcinoma]]                          |
 | ------------ | ----------------------------------------------------- |
 | Pain         | Bone and Abdominal pain<br>Due to production of PTHrP |
-| Neurological | Confusion<br>Due to production of PTHrP                                                      |
+| Neurological | Confusion<br>Due to production of PTHrP                                                      | ^a1d5fa
 
 ### Risk factors:
 1. Cigarette smoking
@@ -107,17 +111,18 @@ Lung cancer tests:
 | ------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | CXR          | Pulmonary Nodule<br>"Coin lesions"                 | Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
 | Chest CT     | Mass                                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
-| ^^           | Hilar Mass from Bronchus                           | Caused by [[#Squamous Cell Carcinoma]]<br><br>![[Pasted image 20230512204548.png\|200]]                                                                                                    |
+| ^^           | Hilar Mass from Bronchus                           | Caused by [[#Squamous Cell Carcinoma]]<br><br>![[Pasted image 20230512204548.png\|200]]             |
+| ^^           | Glandular tumor                                    | Caused by [[#Adenocarcinoma]]<br><br>![[Pasted image 20230512205607.png\|150]]                                                                                                    |
 | Biopsy       | Keratin production ("pearls")                      | Caused by [[#Squamous Cell Carcinoma]]                                                              |
 | ^^           | Intercellular desmosomes ("intercellular bridges") | ^^                                                                                                  |
 
-Tests across variants::
+Tests across variants:
 
-| Test     | [[#Squamous Cell Carcinoma]]                         |
-| -------- | ---------------------------------------------------- |
-| Biopsy   | Keratin Production<br>("Pearls")                     |
-| ^^       | Interceullar desmosomes<br>("intercellular bridges") |
-| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]]                                                     |
+| Test     | [[#Squamous Cell Carcinoma]]                                              |   [[#Adenocarcinoma]]                                                               |
+| -------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Biopsy   | Keratin Production<br>("Pearls")                                          |                                                                  |
+| ^^       | Interceullar desmosomes<br>("intercellular bridges")                      |                                                                  |
+| Chest CT | Hilar mass from bronchus<br><br>![[Pasted image 20230512204651.png\|150]] |Glandular tumor<br><br>![[Pasted image 20230512205427.png\|150]] | ^7246ca
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -156,6 +161,13 @@ Treatment depends on type of cancer:
 			3. Main symptoms is muscle weakness
 
 ---
+
+# Comparisons
+Comparisons across different subtypes of [[#Non-small cell lung cancer]]:
+
+![[#^7246ca]]
+
+![[#^a1d5fa]]
 
 # Extra
 ## Relevant notes:
