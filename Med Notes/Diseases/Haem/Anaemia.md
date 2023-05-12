@@ -13,6 +13,13 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 
 ## Pathophysiology
+| [[Microcytic Anaemia]]<br>MCV < 80   | [[Normocytic Anaemia]]<br>MCV 80-100  | [[Macrocytic Anaemia]]<br>MCV > 100 |
+| ------------------------- | ------------------------- | ----------------------- |
+| Iron deficiency           | Anemia of Chronic Disease |                         |
+| THalassemia               | Hemolysis                 | Liver Disease           |
+| Anemia of Chronic DIsease | Aplastic Aneia            | Alcohol use             |
+| Sideroblastic ANemia      | Chronic Kidney Disease    | Reticulocytosis                        |
+| Lead Poisoning            |                           |                         |
 ![[Pasted image 20230509100344.png]]
 
 --- 
