@@ -53,12 +53,13 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 | Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
 | Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        | ^b3bc46
 
-| Extra-articular findings  | Result | Explanation |
-| ------------------------- | ------ | ----------- |
-| Serositis                 |        | Inflammation of serosal surfaces            |
-| Parenchymal lung disease  |        |             |
-| Carpal tunnel syndrome    |        |             |
-| Anemia of chronic disease |        |             |
+| Extra-articular findings  | Result                | Explanation                                                                                                                                        |
+| ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to Pericardial effusion |
+| Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                                                                   |
+| ^^                        | Pulmonary nodules     |                                                                                                                                                    |
+| Carpal tunnel syndrome    |                       |                                                                                                                                                    |
+| Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                                   |
 
 ---
 

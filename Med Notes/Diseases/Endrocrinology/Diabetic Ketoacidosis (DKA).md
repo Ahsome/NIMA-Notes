@@ -9,7 +9,7 @@
  
 Diabetic ketoacidosis (DKA) is a medical emergency requiring specialist care, and should generally be managed in hospital. DKA is characterised by dehydration, hyperglycaemia, polyuria, polydipsia and tachypnoea. 
 
-DKA occurs mainly in patients with type 1 diabetes. However, it is also seen in patients with type 2 diabetes, particularly patients taking sodium-glucose co-transporter 2 (SGLT2) inhibitors, when DKA may occur without hyperglycaemia.
+DKA occurs mainly in patients with [[Diabetes Mellitus#Type I DM]]. However, it is also seen in patients with type 2 diabetes, particularly patients taking sodium-glucose co-transporter 2 (SGLT2) inhibitors, when DKA may occur without hyperglycaemia.
 
 **DKA diagnostic criteria:**
 -  ==Hyperglycaemia – BGL > 11mmol/L== (BUT CAN BE NORMAL)
