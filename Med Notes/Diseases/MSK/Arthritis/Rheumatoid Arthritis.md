@@ -99,7 +99,15 @@ Diagnosis involves 3 or more joints lasting more than 6 weeks. Other tests invov
 
 # Management
 ## Overall management:
-Management involves the use of both:
+Management involves the following:
+-   Induce and maintain clinical remission as early as possible
+-   Produce a self-plan for identifying and managing pain
+-   Optimise patient's immune status, due to increase risk of infection
+	- e.g. Recommended vaccinations
+-   Continual monitoring of complications and drug issues. Includes cervical subluxation and increased [[Osteoporosis]]. See [[#Complications]]
+-  Educating patient about disease, and management
+
+Inducing remission and paincontrol depend on the following:
 1. DMARD (Disease-Modifying antirheumatic drugs)
 2. Pain control
 
@@ -108,6 +116,8 @@ Management involves the use of both:
 2. Provides long-term reduction in disease progression
 3. Slow onsent, effect over weeks
 4. Usually oral
+5. Split into three groups:
+	1. 
 
 **Pain control**:
 1. Bridge until DMARDs take effect
