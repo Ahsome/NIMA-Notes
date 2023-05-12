@@ -9,7 +9,7 @@
 ### *Expected knowledge*
 #### Know in depth
 - [x] [[Diabetes Mellitus]]
-	- [ ] DKA / HSS
+	- [ ] [[Diabetic Ketoacidosis (DKA)]] / HSS
 - [ ] Hyperthyroidism & Hypothyroidism
 - [ ] Osteoporosis
 - [ ] Obesity / Cushing's disease
