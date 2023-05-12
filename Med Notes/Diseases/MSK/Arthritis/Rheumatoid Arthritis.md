@@ -49,7 +49,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 | Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                             |
 | Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]] |
 | Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                      |
-| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724|Cervical subluxation]], a possile life-threatening spinal cord compression                                                                                                               |
+| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression                                                                                                               |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -71,6 +71,12 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 # Management
 ## Treatment
 
+## Cervical subluxation management:
+Cervical subluxaion management can need the following:
+1. Cervival spine X-ray before surgery: Liit risk of neurological injury
+2. Surgical treatment
+3. [[DMARD]] therapy
+
 ## Drug overview
 
 ## Criteria
@@ -82,7 +88,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ---
 
 # Complications
-1. Cervical subluxation: It is a possible life-threatening spinal cord compression occuring at the atlantoaxial joint ^7c1724
+1. Cervical subluxation: It is a possible life-threatening spinal cord compression occuring at the [[Glossary#^8e8608|Atlantoaxial joint]]. It may require surgery, and DMARD therapy. See [[#Cervical subluxation management:]] ^7c1724
 
 ---
 

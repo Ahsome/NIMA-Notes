@@ -20,6 +20,6 @@ Stress hyperglycemia: Increased levels of glucose due to the effect of cortisol 
 
 # Anatomy
 ## Neck:
-Atlantoaxial joint: Joint involving C1 and C2
+Atlantoaxial joint: Joint involving C1 and C2 ^8e8608
 ## Feet:
 Podagra: Base of great toe ^d61e39
