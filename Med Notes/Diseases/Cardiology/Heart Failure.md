@@ -28,7 +28,7 @@
 Most heart failure has an aeitiology behind the acute presentation, and needs to be treated to prevent further decompensation, as well as treating the acute symptoms of heart failure itself.
 
 ## Aeitiology 
--   Arrhythmia - [[Atrial Fibrillation (AF)]]!
+-   Arrhythmia - [[Atrial Fibrillation]]!
 -   Fluid overload - non-compliance with diuretics, drinking too much,etc.
 -   Infection - fevers? malaise? cough? [[pneumonia]]?
 -   **Ischaemic heart disease (post MI) –** 40%
@@ -36,7 +36,7 @@ Most heart failure has an aeitiology behind the acute presentation, and needs to
 -   **Primary valvular heart disease –** 12%
 -   **Hypertensive heart disease –** 11%
 -   **Left ventricular hypertrophy –** very prominent feature of evolving HF. This may be because of valvular disease, chronic HTN etc.
--   Anaemia - ask about fatigue? diet - red meats? functional MI
+-   [[Anaemia]] - ask about fatigue? diet - red meats? functional MI
 -   Thyrotoxicosis
 
 

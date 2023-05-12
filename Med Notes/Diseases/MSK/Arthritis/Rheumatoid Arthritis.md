@@ -37,6 +37,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ### Risk factors:
 1. Woman
 2. Age 20-40
+
 ### Questions to ask
 >*"Do you notice any stiffness or warmth in the joint?"*
 >"*Do you notice stiffness when you wake up? Does it last over one hour?*"
@@ -44,12 +45,13 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ---
 
 ## Examination findings
-| Key Findings               | Result                  | Explanation                                                                                                    |
-| -------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                             |
-| Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]] |
-| Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                      |
-| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression                                                                                                               |
+| Key Findings               | Result                  | Explanation                                                                                                                             |
+| -------------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| Swelling and Warmth        | Present                 | Due to inflammatory process. If no swelling and warmth, consider [[Osteoarhritis]]                                                      |
+| Ulnar deviation            | Present                 | Swelling of MCP joint results in deviation. Due to erosion of bone<br><br>![[Pasted image 20230512150236.png]]                          |
+| Swan neck deformity        | Present                 | Hyperextended PIP joint with flexed DIP joint<br><br>![[Pasted image 20230512150328.png]]                                               |
+| Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
+| Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -73,7 +75,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 
 ## Cervical subluxation management:
 Cervical subluxaion management can need the following:
-1. Cervival spine X-ray before surgery: Liit risk of neurological injury
+1. Cervival spine X-ray before surgery: Risk of neurological injury
 2. Surgical treatment
 3. [[DMARD]] therapy
 

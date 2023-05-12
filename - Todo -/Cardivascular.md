@@ -11,7 +11,7 @@
 - [ ] ACS and angina
 - [x] [[Heart Failure]]
 - [ ] Valvular heart disease
-- [ ] Arrhythmia, such as [[Atrial Fibrillation (AF)]]
+- [ ] Arrhythmia, such as [[Atrial Fibrillation]]
 - [x] Venous thromboembolism and [[Pulmonary Embolus]]
 
 #### Know principles
