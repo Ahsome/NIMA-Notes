@@ -82,7 +82,7 @@ It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It al
 ---
 
 # Complications
-1. Cervical subluxation: It is ^7c1724
+1. Cervical subluxation: It is a possible life-threatening spinal cord compression occuring at the atlantoaxial joint ^7c1724
 
 ---
 

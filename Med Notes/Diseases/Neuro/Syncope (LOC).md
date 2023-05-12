@@ -17,16 +17,22 @@ max_depth: 2
 
 
 # DDx:
-- Seizure
+- [[Seizure]]
 	- Tonic-clonic activity
 	- Tongue biting
 	- Incontinence
 	- Post-ictal state (confusion after LOC)
-- Mechanical fall +/- head trauma
+- Mechanical [[Falls]] +/- head trauma
 - Narcolepsy 
 
 > [!Important]
-- Important point
+- RARE causes NOT TO MISS
+	- [[Pulmonary Embolus]]
+	- Subarachnoid haemorrhage
+	- Shock
+	- Atrial myxoma (tumour of atrium)
+
+---
 
 # Vasovagal Syncope
 NEUROCARDIOGENIC - sudden increase in parasympathetic outflow, with reduced sympathetic input
@@ -68,8 +74,10 @@ Syncope with standing --> exaggerated fall in BP
 | Poor fluid intake | Diabetes          | Beta blockers |
 | Diuretics         | Parkinson's (especiallly with levodopa treatment)       | alpha blockers              |
 
+### Management:
 - Improves with IV fluids
 
+---
 
 # Cardiogenic Syncope
 
@@ -94,9 +102,3 @@ Syncope with standing --> exaggerated fall in BP
 ## Subtype - Carotid Sinus Syncope:
 - Carotid sinus hypersensitivty (baroreceptors)
 - Patient education is required 
-
-
-
----
-
----
