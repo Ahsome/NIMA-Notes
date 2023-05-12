@@ -16,22 +16,31 @@ Symptoms are **symmetrical**, as autoimmune conditions affect both sides of the 
 
 It does ***not involve the DIP***, which is involved in [[Osteoarhritis]]. It also *does not* involve the Lumbar spine, which is involved in [[Osteoarhritis]]. Exception is C1-C2, see [[#Examination findings]].
 
+If a patient has [[Osteoporosis]], it is ***accelerated by RA***:
+1. Disease itself accelerates [[Osteoporosis]]
+2. Steroid treatment for [[Rheumatoid Arthritis]] (See [[#Management]]) can worsen [[Osteoporosis]]
+3. Leads to 30% increase in major fracture, 40% increase hip fracture
+
 
 > [!Important]
-- Palpable nodules are ***Pathognomonic*** for
+- Palpable nodules are ***Pathognomonic*** for[[Rheumatoid Arthritis]]. See [[#^7e02a2|Extra-articular features]] ^2d22d0
+- 
 --- 
 # History
 ### Symptoms
-| Joint Symptoms      | Explanation                                                                                                                                        |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pain                | Gradual onset of pain                                                                                                                              |
-| Stiffness           | Classically a *morning stiffness* that lasts >1 hour. It improves with use<br>If <30 minutes of *morning stiffness*, think about [[Osteoarhritis]] |                                                                                                                                                    |
+| Joint Symptoms | Explanation                                                                                                                                        |     |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Pain           | Gradual onset of pain                                                                                                                              |     |
+| Stiffness      | Classically a *morning stiffness* that lasts >1 hour. It improves with use<br>If <30 minutes of *morning stiffness*, think about [[Osteoarhritis]] |     |               |                                                                                                                                                    |     |
 
-| Systemic symptoms | Explanation |
-| ---------------- | ----------- |
-| Fever            |             |
-| Weight loss      |             |
-| Fatigue                 |             |
+| Systemic symptoms | Explanation                         |
+| ----------------- | ----------------------------------- |                       
+| Fever             |                                     |
+| Weight loss       |                                     |
+| Fatigue           |                                     |
+| Red eye           | Signs of episcleritis and scleritis |
+| Eye pain          | ^^                                  |
+| Discharge         | ^^                                    |
 
 ### Risk factors:
 1. Woman
@@ -52,15 +61,22 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 | Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
 | Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        | ^b3bc46
 
-| Extra-articular findings  | Result                | Explanation                                                                                                                                        |
-| ------------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to [[Pericardial Effusion]] |
-| Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                          |
-| ^^                        | Pulmonary nodules     |                                                                                                                                                    |
-| Carpal tunnel syndrome    |                       |                                                                                                                                                    |
-| Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                    |
-| Palpable nodules          |                       | Pathognomonic for [[Rheumatoid Arthritis]], common in 20-35% of patients<br>Common on elbow, can occur anywhere<br><br>   ![[Pasted image 20230512161852.png\|200]]                                                                                                                                                |
+| Extra-articular findings  | Result                | Explanation                                                                                                                                                         |
+| ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Serositis                 |                       | Inflammation of serosal surfaces. Includes:<br>- [[Pleuritis]]: Leads to [[Pleural Effusion]]<br>- [[Pericarditis]]: Leads to [[Pericardial Effusion]]              |
+| Parenchymal lung disease  | Interstitial fibrosis | ![[Pasted image 20230512161231.png\|200]]                                                                                                                           |
+| ^^                        | Pulmonary nodules     |                                                                                                                                                                     |
+| Carpal tunnel syndrome    |                       |                                                                                                                                                                     |
+| Anemia of chronic disease |                       | See [[Anaemia]]                                                                                                                                                     |
+| Palpable nodules          |                       | Pathognomonic for [[Rheumatoid Arthritis]], common in 20-35% of patients<br>Common on elbow, can occur anywhere<br><br>   ![[Pasted image 20230512161852.png\|200]] |
+| Episcleritis/Scleritis    | Red eye               |                                                                                                                                                                     |
+| ^^                        | Eye pain              |                                                                                                                                                                     |
+| ^^                        | Discharge             |                                                                                                                                                                     |
+| [[Sjogren's Syndrome]]        |                       | Common in patients with RA                                                                                                                                                                    |
 
+^7e02a2
+>[!Important]
+>![[#^2d22d0]]
 ---
 
 ## Investigations
