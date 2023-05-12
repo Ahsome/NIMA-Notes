@@ -53,12 +53,12 @@ Due to its auto-immune nature, there are [[#^b3bc46|Articular]] findings of [[Rh
 | Atlantoaxial joint (C1-C2) | Neck pain and stiffness | Occurs with longstanding disease. It can lead to [[#^7c1724\|Cervical subluxation]], a possile life-threatening spinal cord compression |
 | Baker's cyst               | Present in popliteal    | Swelling of gastrocnemius-semiembranous bursa. Common in patients with [[Osteoarhritis\|OA]] ad [[Rheumatoid Arthritis\|RA]]<br><br>If it ruptures, causes symptoms similar to DVT:<br>- Posterior knee pain<br>- Swelling<br>- Ecchymosis<br><br>Important to rule out DVT                                                                                                                                        | ^b3bc46
 
-| Extra-articular findings | Result | Explanation |
-| ------------------------ | ------ | ----------- |
-| Serositis                |        |             |
-| Parenchymal lung disease |        |             |
-| Carpal tunnel syndrome   |        |             |
-| Anemia of chronic disease                         |        |             |
+| Extra-articular findings  | Result | Explanation |
+| ------------------------- | ------ | ----------- |
+| Serositis                 |        | Inflam            |
+| Parenchymal lung disease  |        |             |
+| Carpal tunnel syndrome    |        |             |
+| Anemia of chronic disease |        |             |
 
 ---
 
