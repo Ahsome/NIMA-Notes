@@ -15,6 +15,7 @@
 - Patinets can be treated outpatient, in hospital, and in ICU. Steps on choosing the right decision are in [[Pneumonia#*Hospitalisation choice*:]]
 - Patients treated outpatient require [[Pneumonia#*Low-severity treatment*]]. Patients hospitalised require [[Pneumonia#*Medium-severity treatment*]]. Patients in ICU require [[Pneumonia#*High-severity treatment*]]^efd571
 - Repeat CXR should *only* be done 4-6 weeks, since it takes that long for resolution. Repeat 4-6 weeks if >50yo for malignancy ^02ef4d
+- Recurrant pneumonia showcasing same area affected consistently should have a CT scan to eliminate malignancy, such as [[Lung cancer]]
 
 ## Pathophysiology
 ### *Community acquired pneumonia* (CAP):

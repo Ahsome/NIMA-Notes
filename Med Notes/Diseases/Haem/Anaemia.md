@@ -25,6 +25,13 @@ flowchart TB
 31 --> 311[Reticulocyte count]
 41 --> 411[Megalocytes and segmented neutrophils]
 
+211 --> 2111[Low iron and erritin with high TIBC]
+211 --> 2112[Mentzer Index MCV/RBC < 13 - THalassemia]
+211 --> 2113[Low or normal iron and low or normal feritin with low TIBC]
+
+2111 --> 21111[Iron defieciency anaemia]
+2112 --> 21121[Suggest a component of anaemia of chronic disease with iron deficiency anaemia]
+
 class 21 internal-link
 class 31 internal-link
 class 41 internal-link
@@ -41,6 +48,13 @@ style 41 fill:#b8e1e1,color:#000000
 style 211 fill:#b8e1e1,color:#000000
 style 311 fill:#b8e1e1,color:#000000
 style 411 fill:#b8e1e1,color:#000000
+
+style 2111 fill:#b8e1e1,color:#000000
+style 2112 fill:#b8e1e1,color:#000000
+style 2113 fill:#b8e1e1,color:#000000
+
+style 21111 fill:#b8e1e1,color:#000000
+style 21121 fill:#b8e1e1,color:#000000
 
 ```
 
