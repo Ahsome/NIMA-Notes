@@ -10,6 +10,12 @@ Lung cancer is cancer involving lung tissue. It is the **most deadly** cancer, a
 
 It has usually advanced at presentation; it is unlikely to identify lung cancer in the earlier stages
 
+More tumors of the lungs are *metastasis to lung*, rather than *primary lung tumors*. This leads to multiple lesions on imaging. Most comonly from:
+1. [[Breast Cancer]]
+2. Colon
+
+---
+
 ## Subtypes
 ### Small cell lung cancer
 Small cell lung cancer occurs roughly 15% of time. It is rarely resectable (95% cases cannot), and has *poor* prognosis compared to [[#Non-small cell lung cancer]]. It is named after the small cells found on biopsy:
@@ -81,7 +87,8 @@ Symptoms include:
 > [!Important]
 - Most deadly cancer, second most likely cancer
 - When using CXR, always compare with previous CXR to identify new lesions ^fdb235
-- [[#Adenocarcinoma]] is the cancer linked least to non-soking
+- [[#Adenocarcinoma]] is the cancer linked least to non-smoking
+- Most lung cancer come from metastatis, such as from [[Breast Cancer]] and [[Colon Cancer]]
 
 --- 
 # History
@@ -140,9 +147,10 @@ Lung cancer tests:
 
 |Key Findings | Result                             | Explanation                                                                                         |
 |:-:|:--| --------------------------------------------------------------------------------------------------- |
-|CXR |Pulmonary Nodule<br>"Coin lesions"| Compare with *previous* CXR to identify new lesion<br><br>![[Pasted image 20230512202432.png\|100]] |
+|CXR |Pulmonary Nodule (<3cm) <br>"Coin lesions"|Compare with *previous* CXR to identify new lesion <br> Further evaluation with Chest CT for size and location <br><br>![[Pasted image 20230512202432.png\|100]]|
 | ^^           |Elevated hemidiaphram|Due to [[#^2032c7\|Phrenic nerve compression]]<br>Can be tested with the [[#^7f0231\|Sniff test]].<br><br>![[Pasted image 20230512211221.png\|150]]|
-|^^|  |  |
+|^^|Tumor at apex of lung|[[#Pancoast tumor]] <br> <br>![[Pasted image 20230512213855.png\|150]]|
+|^^|Multiple lesions|More like metastasis to lungs than primary cancer <br> <br>![[Pasted image 20230512214212.png\|150]]|
 | Chest CT     | Mass                               | ![[Pasted image 20230512202457.png\|200]]                                                           |
 
 
