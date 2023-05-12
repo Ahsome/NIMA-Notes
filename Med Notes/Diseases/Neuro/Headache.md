@@ -139,6 +139,8 @@ Treatment can then be provided assuming it's a primary headache.
 
 ## Tension Headache management:
 First-line treatment is NSAIDS. This is often combined with caffeine.
+1. Aspirin, 600mg to 900mg
+2. Ibuprofin, 
 Prophylaxis for chronic tension can be given. This is often [[Amitriptyline]]
 
 ## Migraine Headhache management:
