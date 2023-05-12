@@ -198,11 +198,24 @@ Surgery is not incidated in:
 
 **NOTE**: Size is *not* a major determinant for surgery
 
+![[Pasted image 20230512221323.png]]
+![[Pasted image 20230512221653.png]]
+
+### Medical therapy:
+1. Chemotherapy: Indicated for most lung cancers, use [[Cisplastin]] plus a second agent like [[etoposide]]
+2. Targeted therapy: Can use tyrosine kinase inhibitors or monoclonal antibodies depending on mutation type
+	1. EGFR: EGFR TKI (osimertinib) or EGFR monoclonal (cetuximab)
+	2. ALK: ALK TKI (alectinib)
+	3. ROS1: Crizotinib
+	4. BRAF: Dabrafenib + Trametinib
+3. Radiation Therapy
+
 ### Pulmonary Nodules:
 When pulmonary nodules are identified, following steps are warranted:
-1. Check with previous CXR to see if nodules are new
-2. CT scan to check size and location
-3. Potential biopsy for differentials
+1. Perform detailed clinical evaluation
+2. Check with previous CXR to see if nodules are new
+3. CT scan to check size and location
+4. Potential biopsy for differentials
 
 Differentials include: <br>- Granuloma <br>- Hamartoma <br>- Malilgancy
 
