@@ -31,13 +31,13 @@ The most common *parasitic* causes of acute diarrhea are:
 3. Entameba histolytica
 
 ## Chronic Diarrhea
-Chronic diarrhea has two major subtypes:
+Chronic diarrhea has two major subtypes that cause watery doarrhea:
 1. Osmotic diarrhea
 2. Secretory diarrhea
 
 | Info        | Osmotic diarrhea                                | Secretory diarrhea               |
 | ----------- | ----------------------------------------------- | -------------------------------- |
-| Mechanism   | Osmotic substance draws out fluid               | Epithelial cells secrete fluid   |
+| Mechanism   | Osmotic substance draws out fluid<br><br>Always due to ingestion of osmole               | Epithelial cells secrete fluid   |
 | Stools      | Low volume watery stools                        | Large volume watery stools       |
 | Fasting     | Improves during fasting                         | Persits during fasting and sleep |
 | Osmotic gap | High stool gap                                  | Low stool gap                    |
