@@ -38,6 +38,26 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 5. Can disseminate, cause **arthritis**
 	1. Non STI form: N. Meningitidis, causes meningitis
 
+### Syphillis
+1. Caused by Trponema pallidum, a spirochete
+2. Can infect newborns (Called congenital syphilis)
+3. Three stages: Primary, Secondary and Tertiary
+	1. Primary: 2-3 weeks
+		1. Painless chancre
+		1. Ulcer, on penis
+		2. Raised, 1-2cm
+		3. Resolves spontaneously
+	2. Secondary: 25% of primary
+		1. Flu-like symptoms
+			1. Headache, malaise, sre throat
+		2. Rash, all extemities, maculopapular rash including palsm and soles
+		3. Resolves spontaneously
+		4. Diffuse lymphadenopathy
+			1. Classically in epitrochlear nodes (elbow), called sailor's handshae
+		5. Condylomata lata
+			1. Raised, large, gray regions
+			2. Found in moist areas, l
+
 > [!Important]
 - Important point
 
@@ -67,6 +87,13 @@ N. Gonorrhoea:
 3. Proctitis
 4. Pharyngitis
 5. Arthritis
+
+Syphillis:
+|          | Primary Syphilis                            | Secondary Syphilis                                        | Tertiary Syphilis                                                   |
+|----------|---------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------|
+| Symptoms | Painful, chancre at site of infection        | Non-itchy rash on trunk and extremities, fever, fatigue   | Gummas (lesions on skin and bones), cardiovascular and neurological symptoms |
+| Timeline | 10-90 days after infection                   | 2-10 weeks after infection                                | Years to decades after infection                                     |
+
 
 ### Risk factors:
 
@@ -125,7 +152,8 @@ N. Gonorrhoea:
 	1. Lowest frequency of treatment failure
 	2. Given as single IM dose
 2. Co-infection of [[#Chlamydia:]] is common
-	1. 
+	1. Test and treat chlamydia
+3. Evaluate and treat sexual partners
 
 ## Criteria
 ### Example severity/test score:
