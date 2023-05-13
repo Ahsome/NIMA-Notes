@@ -8,6 +8,24 @@
 # Information
 Colorectal Cancer is a... 
 
+
+Types of polyps:
+- Most are benign
+- Pedunculated - attacked via a stalk
+- Sessile - broad based attached to colon
+- Adenomatous polyps are most common type:
+	- Tubular (80%)
+	- Villous (often sessile) - "Villous is villain"
+		- Higher grade of dysplasia
+		- Size >10mm increases risk
+	- Tubulovillous  
+- Adenoma-Carcinoma sequence:
+	- More ccommon in left-sided colon, sigmoid, rectum
+	- Involves APC, KRAS, and p53 genes
+	- Familial adenomatous polyposis (AD) - always progress to colon cancer
+		- Colectomy or proctocolectomy 
+		- coloscopy every year beginning from age 10-12
+	
 > [!Important]
 - Important point
 

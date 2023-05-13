@@ -1,4 +1,4 @@
-*Created on 12th May 2023*
+*Created on 13th May 2023*
 
 ---
 ```toc
@@ -6,7 +6,7 @@
 ---
 
 # Information
-Pasted image 20230512163503.png200 is a... 
+Urinary Tract Infection (UTI) is a... 
 
 > [!Important]
 - Important point
