@@ -13,17 +13,36 @@
 ![[Pasted image 20230509140924.png]]
 
 A patient with shortness of breath and/or oedema:
+A patient with chest pain
+A patient with SOB and/or cough
+A patient with diabetes mellitus and complications
+A patient with hypertension
+A patient with acute confusion
+A patient with acute weakness
+A patient with anemia
+A patient with jaundice
+A patient with oliguria
+A patient with obseity and complications
+A patient with joint pain
+A patient with a fall
+A patient with fever
+A patient with transient LOC
+A patient with unintential weight loss
+
+A patient with shortness of breath and/or oedema:
 [[Heart Failure]]
 [[Pneumonia]]
 A patient with chest pain
 [[MI]]
 [[ACS]]
 [[Pulmonary Embolus]]
+[[GORD]]
 A patient with SOB and/or cough
 [[Asthma]]
 [[Chronic Pulmonary Disease (COPD)]]
 [[Bronchitis]]
 [[Pneumonia]]
+[[Lung cancer]]
 A patient with diabetes mellitus and complications
 [[Diabetes Mellitus]]
 [[Diabetic Ketoacidosis (DKA)]]
@@ -33,6 +52,7 @@ A patient with hypertension
 A patient with acute confusion
 [[Delirium]]
 [[Alcohol Toxicity]]
+[[Seizure]]
 A patient with acute weakness
 [[Stroke]]
 [[UMN Lesion]]
@@ -51,8 +71,23 @@ A patient with joint pain
 [[Osteoarhritis]]
 [[Rheumatoid Arthritis]]
 [[Septic Arthritis]]
-[[GO]]
+[[Gout]]
+[[Pseudogout]]
 A patient with a fall
+[[Falls]]
+[[Syncope]]
+[[Seizure]]
 A patient with fever
+[[Urinary Tract Infection (UTI)]]
+[[Cellulitis and Erysipelas]]
+[[Pneumonia]]
+[[Diarrhea]]
+[[STI]]
+[[Sepsis]]
 A patient with transient LOC
+[[Syncope]]
+[[Seizure]]
 A patient with unintential weight loss
+[[Breast Cancer]]
+[[Lung cancer]]
+[[Colorectal Cancer]]
