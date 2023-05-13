@@ -23,14 +23,25 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 1. Occurs in 20% to 60%
 2. More common with levodopa treatment
 
+Has simi
+
 ### Temor-Dominant Parkinson's:
 Has symptoms of tremor, but *no significant bradykinesia or gait problems*
 Better prognosis than other forms of Parkinson's
 
 
+
 > [!Important]
-- No imaging or blood test
-- Consider other diagnosis if three classical features aren't present, or not responding to treatment
+1. Parkinson's is a movement disorder caused by a loss of dopamine-containing neurons in the substantia nigra of the midbrain.
+2.  The clinical diagnosis of Parkinson's is based on the classical features of bradykinesia, tremor, and rigidity.
+3.  If the classical features are not present or not responding to treatment, consider other alternative diagnoses.
+4.  Parkinson's can lead to loss of the autonomic nervous system, which can cause orthostatic hypotension.
+5.  Tremor-dominant Parkinson's has symptoms of tremor but no significant bradykinesia or gait problems and has a better prognosis than other forms of Parkinson's.
+6.  There are no imaging or blood tests available to diagnose Parkinson's.
+7.  The main treatment for Parkinson's involves increasing dopamine activity and blocking ACh activity.
+8.  Treatments include Levodopa (the most effective medication for controlling the motor symptoms), COMT inhibitors (used to prevent off-symptoms of Levodopa), dopamine agonists, MAO-B inhibitors, and anticholinergics.
+9.  Patients with Parkinson's should be referred to a multidisciplinary team, including a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
+10.  Metoclopramide, prochlorperazine, and antipsychotics should be avoided in Parkinson's treatment, while quetiapine is the antipsychotic with the least movement side effects.
 
 --- 
 # History
@@ -89,7 +100,7 @@ Treatment management involves:
 - COnfusion and hallucinations
 
 ## Treatment:
-Overall treatment:
+### Overall treatment:
 - Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease
 	- Utilise with carbidopa, a  peripheral decarboxylase inhibitor
 	- Can use benserazide
@@ -109,8 +120,17 @@ Overall treatment:
 - Extra: 
 	- Amantadine: Used to control dyskinesias (involuntary movements) associated with levodopa therapy.**OR TREMOR-DOMINANT PARKINSON**
 	-   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
+		- Old surgeries include pallidotomy (partial ablation of globus pallidus) and thalamotomy (partial ablation of thalamus)
+		- Part of basal ganglia
 - Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
 
+#### Avoid:
+1. Metoclopramide: Blocks dopamine
+2. Prochloperazine: Blocks dopamine
+3. Antipsychotics: Many blocks dopamine
+	1. Least movement side effects: quetiapine
+
+### Drug Summaru
 **Carbidopa-Levodopa**:
 1. Levodopa crossess BBB, converted to dopamine in CNS by dopa ecarboxylase
 	1. This aids
@@ -171,6 +191,7 @@ Amantadine:
 	1. Also mild Parkinson
 
 **Summary:**
+![[Pasted image 20230514000106.png]]
 ![[Pasted image 20230513234737.png]]
 
 ## Drug overview
