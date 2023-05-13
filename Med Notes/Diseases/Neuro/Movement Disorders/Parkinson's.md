@@ -19,7 +19,9 @@ It is a clinical diagnosis, based on classical features:
 If not exhibited, then ***consider other alternativ diagnosis***
 If not responding to treatment, ***then consider other alternative diagnosis***
 
-Can have loss of autonomic nervous syst
+Can have loss of autonomic nervous system, leading to **orthostatic hypotension**:
+1. Occurs in 20% to 60%
+2. More common with levodopa treatment
 
 > [!Important]
 - No imaging or blood test
@@ -53,30 +55,28 @@ Other symptoms:
 
 ---
 
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
 # Management
-## Treatment
+## Overall management:
+Treatment management involves:
+1. Increase dopaine activity
+2. Block ACh activity
+3. Treatments include:
+	1. MAO type-B inhibitors
+	2. COMT inhibitors
+	3. Dopamine agnost
+
+###
+
+## Treatment:
+ETG:
+-   Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease, including tremor, rigidity, and bradykinesia.
+-   Levodopa is usually given in combination with a peripheral decarboxylase inhibitor (such as carbidopa or benserazide) to prevent the breakdown of levodopa before it reaches the brain.
+-   Dopamine agonists (such as pramipexole or ropinirole) can be used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease.
+-   Monoamine oxidase type B (MAO-B) inhibitors (such as selegiline or rasagiline) can be used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease.
+-   Anticholinergic medications (such as trihexyphenidyl) can be used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
+-   Amantadine can be used to control dyskinesias (involuntary movements) associated with levodopa therapy.
+-   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
+-   Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
 
 ## Drug overview
 
