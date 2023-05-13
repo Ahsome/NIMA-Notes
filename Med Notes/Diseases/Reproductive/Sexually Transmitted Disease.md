@@ -135,18 +135,25 @@ Syphillis:
 
 **Syphilis:**
 1. Non-treponemal serologic tests:
-	3. Semi-quantittive results reported as titer
-	4. Tests for reaction of serum to cardiolipin antigen
-	5. If syphillis antibodies present --> reaction
-	6. False positive occurs in viral infections, others
-	7. Examples:
+	1. Screening test, if positive do [[#^8e56c0|teppenemal serological test]]
+	2. Semi-quantittive results reported as titer
+	3. Tests for reaction of serum to cardiolipin antigen
+	4. If syphillis antibodies present --> reaction
+	5. False positive occurs in viral infections, others
+	6. Examples:
 		1. VDRL (Venereal Disease Research Laboratory) test
 		2. RPR (Rapid Plasma Reagin) test
-2. Teppnemal serologic tests
+3. Teppnemal serologic tests ^8e56c0
 	1. Detects antiboties against specific treponemal antigents
 	2. Examples:
 		1. Fluorescent reponemal antiody absorption FTA-ABS
-		2. T, pallidum enzyme immonaTP-EIA
+		2. T, pallidum enzyme immonaassay TP-EIA
+	3. Qualitative test: So shows "Reactive" or "Non-reactive"
+	4. Better test in primary disease with chancre
+4. Neurosyphillis:
+	1. Do Lumbar puncture
+	2. Blood test do not necessarily indicate CNS disease
+	3. CSF for VDRL is highly specific for neurosphill
 
 ---
 
@@ -177,14 +184,9 @@ Syphillis:
 
 ### Syphillis management:
 **Acute:**
-| Disease Stage | Treatment | Dose | Route | Duration | Penicillin Allergy |
-| --- | --- | --- | --- | --- | --- |
-| **Primary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Single dose | Consider desensitization or doxycycline if allergic |
-| **Secondary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
-| **Early Latent Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
-| **Late Latent Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
-| **Tertiary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
-| **Neurosyphilis** | Aqueous crystalline penicillin G | 18-24 million units | IV | 10-14 days | Desensitization required if allergic |
+1. Give them benzathine penicillin G IM. If cannot tolerate, give doxycycline or ceftriaxone
+2. If neurosyphillis, give aqueous crystalline penicillin G IV
+
 
 **Long-term:**
 1.  Regular monitoring: Patients with syphilis require regular blood tests to monitor the effectiveness of treatment and ensure that the infection is fully cleared.
