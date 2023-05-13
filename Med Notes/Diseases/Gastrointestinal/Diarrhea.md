@@ -56,24 +56,24 @@ The most common *parasitic* causes of acute diarrhea are:
 ---
 
 ## Investigations
-### Acute diarrhea:
+### Acute diarrhea investigations:
 | Key Tests                 |Result| Explanation                                                                                                                                                     |Indications      |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Stool culture |Potential bacteria|Identifies: <br> - Salmonella <br> - Campylobacter <br> - Shigella (inc. O15:H7) <br> <br> |- Severely-ill patients with acute diarrhea <br>- Bloody diarrhea <br> <br>Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>3. Fever > 38 degrees <br>4. High-risk patient |
 |Ova and parasites|Potential ova/parasites|Identifies: <br>- Giardia <br>- Cryptosporidium <br>- Entameba histolytica |Only ordered if you think patient has had exposure to a parasite. More often done in [[#Persistent diarrhea]] or [[#Chronic diarrhea]]|
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+| Additional Tests | Result                 | Explanation |
+| ---------------- | ---------------------- | ----------- |
+| Fecal fat        | Potential fat in stool | Identifies if it is due to             |
 
 ---
 
 # Management
 ## Overall management
 Management depends on whether the diarrhea is **acute, persistent or chronic**
-1. Acute: Normally 
+1. Acute: Normally viral, supportive treatment. Only testing and antibiotics if severe. See [[#Acute diarrhea management]]
 
-**Acute diarrhea:**
+## Acute diarrhea management
 Given most cases are viral infections and self limited (See [[#Acute Diarrhea:]]), treatment is usually supportive
 No stool testing or antibiotics, unless:
 1. Severe illness (hypovolemia, severe abdominal pain) ^d19a71
