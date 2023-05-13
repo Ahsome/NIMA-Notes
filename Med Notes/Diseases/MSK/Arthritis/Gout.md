@@ -21,7 +21,7 @@ It is urate crystals in *connective tissues*:
 ***Do not confuse with RA nodules*** [[#Tophaceous gout:]]. These come from longstanding hyperuricemia
 
 > [!Important]
-- It most commonly affects the [[Glossary#^d61e39|Podagra]] joint ^9e9d3e
+- It most commonly affects the [[Glossary#^d61e39|Podagra]] joint. If knee, consider [[Pseudogout]] ^9e9d3e
 - **Do not confuse** [[Med Notes/Diseases/MSK/Arthritis/Rheumatoid Arthritis\|Rheumatoid Arthritis]] nodules as [[#Tophaceous gout:]]. These come from longstanding hyperuricemia
 - Urate is mostly excreted via Kidneys and Urine. As such, reduction in GFR is a trigger for gout
 - Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]]) ^76ceac

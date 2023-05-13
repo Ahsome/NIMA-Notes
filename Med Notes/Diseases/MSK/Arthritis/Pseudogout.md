@@ -1,10 +1,5 @@
 *Created on 14th May 2023*
 
----
-```toc
-```
----
-
 # Information
 Pseudogout, also called [[Pseudogout|Calcium Pyrophosphate Deposition Disease]], is the deoposition of **calcium pyrophosphate** in joints. It occurs in *older patients*, and those with [[Hemochromatosis]]
 
@@ -24,9 +19,22 @@ It has **three** key manifestations:
 	3. Bony enlargement and tenderness, similar to [[Osteoarhritis]]
 
 > [!Important]
-- Important point
+1.  Pseudogout is the deposition of calcium pyrophosphate in joints.
+2.  It occurs in older patients and those with hemochromatosis.
+3.  Pseudogout is associated with hypercalcemia and hyperparathyroidism.
+4.  It has three key manifestations: asymptomatic, acute arthritis, and chronic joint disease.
+5.  Symptomatic pseudogout can cause pain, redness, warmth, and swelling.
+6.  Chronic joint disease can cause bony enlargement and tenderness similar to osteoarthritis.
+7.  Asymptomatic pseudogout can be discovered on imaging and involves chondrocalcinosis.
+8.  Polarised light microscopy can reveal rhomboid crystals that are blue when parallel.
+9.  Treatment for pseudogout attacks includes intraarticular glucocorticoid injection, NSAIDs, and colchicine.
+10.  Prophylaxis includes colchicine, and chronic joint disease management is similar to osteoarthritis.
 
---- 
+---
+```toc
+```
+---
+
 # History
 ### Symptoms
 1. Symptomatic pseudogout:
@@ -75,11 +83,16 @@ It has **three** key manifestations:
 # Management
 ## Treatment
 It is *only* treated when there is a pseudogout attack. This can involve:
-1. Intraarticular glucocorticoid injection
-2. NSAIDs
-3. Colchicine
+1. Intraarticular glucocorticoid injection: 
+	1. Preferred treatment for acute attacks in patients with a single affected joint.
+2. NSAIDs:
+	1. First-line treatment for patients with multiple affected joints or those who cannot tolerate glucocorticoids. They can be given orally or intravenously
+3. Colchicine:
+	1. Alternative treatment option in patients who cannot tolerate or do not respond to glucocorticoids or NSAIDs
 
-Prophylaxis includes: Colchicine
+Prophylaxis includes: 
+-   Colchicine is the preferred prophylactic agent for recurrent pseudogout attacks. It is usually given orally at a low dose (0.6 mg once or twice daily).
+-   Other prophylactic agents that can be considered include NSAIDs and hydroxychloroquine.
 
 >[!Note] Chronic joint disease management
 If chronic joint disease, treatment is the same as [[Osteoarhritis]]
