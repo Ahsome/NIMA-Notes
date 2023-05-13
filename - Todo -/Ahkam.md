@@ -11,12 +11,12 @@ kanban-plugin: basic
 - [ ] Gastroenteritis
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
-- [ ] Diarrhea
-- [ ] Upper GI
+- [ ] Upper GI bleeding
 
 
 ## In Progress
 
+- [ ] Diarrhea
 
 
 ## Completed
