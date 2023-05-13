@@ -1,8 +1,8 @@
 {
-  "enableButtonPanel": true,
-  "enableTableGenerator": true,
-  "enableFloatingToolbar": true,
-  "adjustTableCellHeight": true,
+  "enableButtonPanel": false,
+  "enableTableGenerator": false,
+  "enableFloatingToolbar": false,
+  "adjustTableCellHeight": false,
   "removeEditBlockButton": false,
   "defaultAlignmentForTableGenerator": "left",
   "defaultAlignmentWhenInsertNewCol": "follow",
