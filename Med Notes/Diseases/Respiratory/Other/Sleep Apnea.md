@@ -37,6 +37,7 @@ Two main types:
 ### Symptoms
 1. Unrestful sleep
 2. Daytime somnolence
+	1. Key symptoms, if overweight and daytime somnolence think of [[Sleep Apnea]]
 3. Loud snoring
 
 ### Risk factors:
@@ -60,13 +61,14 @@ Two main types:
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Test                          | Result | Explanation |
+| --------------------------------- | ------ | ----------- |
+|Polysomnography<br>"Sleep study"|Number of apnea episodes|Monitors patient sleep:<br>- EEG <br>- Eye movements <br>- O2 level <br>- HR <br>- RR|
+
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|FBC|Increased hematocrit|Due to [[Erythropoiesis]] from chronic hypoxia|
 
 ---
 
@@ -84,9 +86,14 @@ Two main types:
 ---
 
 # Complications
-1. [[Hypertension]]
-2. [[Pulmonary Hypertension]]
-3. [[Arrhythmias]]
+1. Low levels of oxygen at night, causes cardiac issues:
+	1. [[Hypertension]]
+	2. [[Pulmonary Hypertension]]
+	3. [[Arrhythmias]]
+	4. [[Erythropoiesis]]
+		1. Due to chronic hypoxia
+		2. Causes EPO release
+2. Sudden Death
 
 ---
 
