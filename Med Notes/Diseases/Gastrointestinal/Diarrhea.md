@@ -40,18 +40,18 @@ Other forms include:
 2. Inflammatory diarrhea
 
 Differences include:
-| Info        | Osmotic diarrhea                                | Secretory diarrhea               |
-| ----------- | ----------------------------------------------- | -------------------------------- |
-| Mechanism   | Osmotic substance draws out fluid<br><br>Always due to ingestion of osmole               | Epithelial cells secrete fluid   |
-| Stools      | Low volume watery stools                        | Large volume watery stools       |
-| Fasting     | Improves during fasting                         | Persits during fasting and sleep |
-| Osmotic gap | High stool gap                                  | Low stool gap                    |
-| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]]                                 | 
+| Info        | Osmotic diarrhea                                                           | Secretory diarrhea                                                                                                                       | Fatty diarrhea                            | Inflammatory diarrhea                    |
+| ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- |
+| Mechanism   | Osmotic substance draws out fluid<br><br>Always due to ingestion of osmole | Epithelial cells secrete fluid                                                                                                           | Fat malabsorption                         | Invasive bacteria or parasite infections |
+| Stools      | Low volume watery stools                                                   | Large volume watery stools                                                                                                               | Steatorrhea (bulky, aple, foul-smelling_) | Blood or pus in stool                    |
+| Fasting     | Improves during fasting                                                    | Persits during fasting and sleep                                                                                                         |                                           |                                          |
+| Osmotic gap | High stool gap                                                             | Low stool gap                                                                                                                            |                                           |                                          |
+| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose              | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]] | Fat malabsorption                         | Invasive bacteria or parasite                                         |
 
 
 ### Secretory diarrhea:
 Classic causes of secretory diarrhea include:
-1. CHolera
+1. Cholera
 2. Enterotoxigenic E> COli (ETEC)
 3. Bile acid malabsorption
 	1. Terminal ileum normally absorbs bile acids
@@ -76,8 +76,17 @@ Classic causes of secretory diarrhea include:
 ### Symptoms
 - Diarrhea. Number of times in weeks can affect the diagnosis. See [[#Information]]
 
-### Risk factors:
+| Info        | Osmotic diarrhea                                                           | Secretory diarrhea                                                                                                                       | Fatty diarrhea                            | Inflammatory diarrhea                    |
+| ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- |
+| Stools      |Low volume watery stools| Large volume watery stools                                                                                                               |Steatorrhea (bulky, pale, foul-smelling)|Blood or pus in stool|
+|Fever|No|No|No|**Yes**|
 
+### Risk factors:
+Fecal elastase	Low	Low in pancreatic insufficiency, causing Fat malabsorptionFecal elastase	Low	Low in pancreatic insufficiency, causing Fat malabsorptionFecal elastase
+
+Low
+
+Low in pancreatic insufficiency, causing [Fat malabsorption](app://obsidian.md/Fat%20malabsorption)
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -106,15 +115,16 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | --------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Fecal fat                   | Potential fat in stool                   | Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain |
 | 72-hour fecal fat excretion | Normal: <7g/day<br>Elevated:>7g/day      | Increased in [[Fat malabsorption]] of any cause                                                |
-| Fecal elastase              | Low                                      | Low in pancreatic insufficiency, causing [[Fat malabsorption]]                                 |
-| Stool pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
+|Fecal elastase| Low                                      | Low in pancreatic insufficiency, causing [[Fat malabsorption]]                                 |
+|Stool pH| Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ### Chronic diarrhea investigations:
 | Key tests           | Result                                   | Explanation                                                                       | Indication                                                                  |
 | ------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Fecal electrolytes  | >50: Osmotic<br><50: Secretory           |                                                                                   | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
-| Fecal pH            | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars                                                   | Useful to identify Osmotic diarrhea                                         |
-| Reducing substances |                                          | Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose) | Presence suggest carboydrate malabsoprtion, (Osmotic diarrhea)                                                                            |
+|Fecal pH| Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars                                                   | Useful to identify Osmotic diarrhea                                         |
+|Reducing substances |  |Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose)| Presence suggest carboydrate malabsoprtion, (Osmotic diarrhea)                                                                            |
+|  |  |  |  |
 
 
 | Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
