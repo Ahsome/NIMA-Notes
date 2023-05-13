@@ -23,7 +23,10 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 1. Occurs in 20% to 60%
 2. More common with levodopa treatment
 
-Has simi
+Has similar symptoms to [[Lewy Body Dementia]]:
+1. However, dementia develops before or safe time as movement symptoms
+2. In Parkinsons, dementia happens years after symptoms
+3. Likely a continuum of same disorder
 
 ### Temor-Dominant Parkinson's:
 Has symptoms of tremor, but *no significant bradykinesia or gait problems*

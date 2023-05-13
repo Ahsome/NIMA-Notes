@@ -6,19 +6,18 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] Pseudogout
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
 - [ ] Bronchiectasis
 - [ ] [[Breast Cancer]]
 - [ ] Urinary Incontinence
 - [ ] Upper GI bleeding
-- [ ] Pseudogout
-- [ ] Sleep Apnea
 
 
 ## In Progress
 
-- [ ] [[Parkinsons]]
+- [ ] Sleep Apnea
 
 
 ## Completed
@@ -26,6 +25,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Headaches]]
 - [x] STI
+- [x] [[Parkinsons]]
 - [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
 - [x] Diarrhea
