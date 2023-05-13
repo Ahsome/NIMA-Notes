@@ -35,6 +35,10 @@ Chronic diarrhea has two major subtypes that cause watery diarrhea. You can calc
 1. Osmotic diarrhea: >50
 2. Secretory diarrhea <50
 $$Gap=290-(2[Na]]+2[K])_{stool} $$
+Other forms include:
+1. Fatty diarrhea
+2. Inflammatory diarrhea
+
 Differences include:
 | Info        | Osmotic diarrhea                                | Secretory diarrhea               |
 | ----------- | ----------------------------------------------- | -------------------------------- |
@@ -43,6 +47,7 @@ Differences include:
 | Fasting     | Improves during fasting                         | Persits during fasting and sleep |
 | Osmotic gap | High stool gap                                  | Low stool gap                    |
 | Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]]                                 | 
+
 
 ### Secretory diarrhea:
 Classic causes of secretory diarrhea include:
@@ -56,9 +61,12 @@ Classic causes of secretory diarrhea include:
 	1. Carcinoid syndrome
 	2. VIPoma
 	3. Gastrinoma
-5. Microscopic colitis
+5. Microscopic colitis ^548b4f
 	1. Chronic, inflammatory disease of colon
 	2. Causes *watery, non-bloody secretory diarrhea*
+	3. Has two forms:
+		1. Collagenous colitis
+		2. Lymphocytic collitis
 
 > [!Important]
 - Stool culture not needed in [[#Acute Diarrhea:]] unless for high-risk patients. See [[#Investigations]] or [[#Overall management]]
@@ -112,7 +120,8 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
 | --------------- | ------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | Cholestyramine  | Potential reduction in symptoms | Used to treat [[#Secretory diarrhea:\|bile acid cause]] cause of secretory diarrhea | Can be used to test presence of bile acid malabsoprtion as cause of secretory diarrhea |
-| Biopsy          | Subepitheial collagen bands     | Found in Collagenous                                                                                     |                                                                                        |
+| Biopsy          | Subepitheial collagen bands     | Found in Collagenous [[#^548b4f\|Microscopic collitis]]                             | |
+| ^^              | Subepitheial collagen bands     | Found in Lymphocytic [[#^548b4f\|Microscopic collitis]]                                    |                                                                                     |                                                                                        |
 
 ---
 
@@ -141,9 +150,12 @@ Supportive treatent includes:
 ## Chronic diarrhea management
 ## Secretory Diarrhea
 Treatment depends on the cause of the secretory diarreha:
-| Cause                   | Treatment      | Explanation |
-| ----------------------- | -------------- | ----------- |
-| Bile acid alabsooprtion | [[Cholestyramine]] |    Binds to bile acid, prevents them from triggering treatment        |
+
+| Cause                   | Treatment          | Explanation                                                 |
+| ----------------------- | ------------------ | ----------------------------------------------------------- |
+| Bile acid alabsooprtion | [[Cholestyramine]] | Binds to bile acid, prevents them from triggering treatment |
+| Microscopic Colitis     | Budesonide         |                                                             |
+| ^^                      | Antidiarrheal drugs                   |                                                             |
 
 ## Drug overview
 
