@@ -105,6 +105,7 @@ Low in pancreatic insufficiency, causing [Fat malabsorption](app://obsidian.md/
 
 ## Investigations
 ### Acute diarrhea investigations:
+Only done in *severe patients*, not routine:
 
 | Key Tests                 |Result| Explanation                                                                                                                                                     |Indications      |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -133,7 +134,7 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 |72-hour fecal fat excretion|Normal: <7g/day<br>Elevated:>7g/day|^^|Increased in [[Fat malabsorption]] of any cause|
 |Fecal WBC |Elevated |Identify [[Inflammatory diarrhea]] in chronic patients|Due to infection|
 |Stool culture|Identify pathogens|^^|Due to infection|
-|Fecal calprotectin|  |^^|  |
+|Fecal calprotectin|  |^^|Produced by WBC|
 
 
 | Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
@@ -167,6 +168,7 @@ Supportive treatent includes:
 2. Anti-diarrheal agents, such as [[Lopiramide]]
 
 ## Chronic diarrhea management
+Management involves initial diagnosis of cause
 ## Secretory Diarrhea
 Treatment depends on the cause of the secretory diarreha:
 
