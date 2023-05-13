@@ -14,6 +14,11 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 2. Toxin B: Cytotoxin
 	1. Causes cell necrosis and fibrin deposition
 
+There are numerous severity (See [[#Investigations|Investigation differences for severity]]):
+1. Non-severe
+2. Severe
+3. Fulminant
+
 > [!Important]
 - Not possible with normal GI flora, only after antibiotics
 
@@ -77,6 +82,11 @@ Treatments depends on severity:
 | Lactate |       |      |Increased |
 | Others  |  |  |Hypotension <br>Shock <br>Ileus|
 
+| Severity         | Treatment           | Explanation |
+| ---------------- | ------------------- | ----------- |
+| Non-severe       | **ORAL vancomycin** |             |
+| ^^               | Fidaxomicin         |             |
+| Severe/recurrant |                     |             |
 
 ## Drug overview
 
