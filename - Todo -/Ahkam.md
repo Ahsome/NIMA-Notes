@@ -19,7 +19,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Diarrhea
 
 
 ## Completed
@@ -28,6 +27,7 @@ kanban-plugin: basic
 - [x] [[Headaches]]
 - [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
+- [x] Diarrhea
 - [x] [[Gout]]
 - [x] [[Septic Arthritis]]
 - [x] [[Dementia]]

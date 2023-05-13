@@ -13,7 +13,7 @@ It occurs due to nitrix oxide inhibiting smooth muscle tone, leading to intestit
 The thinning of the walls can lead to perforation
 
 > [!Important]
-- Diagnosis from **diarrhea** and **distension**
+- Diagnosis comes from **diarrhea** and **distension**
 
 --- 
 # History
@@ -25,6 +25,8 @@ The thinning of the walls can lead to perforation
 	2. Shock
 
 ### Risk factors:
+1. [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative colitis]]
+2. [[Infectious Colitis]]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -38,10 +40,6 @@ The thinning of the walls can lead to perforation
 |Temperature |38 degrees|^^|
 |Volume depletion|  |^^|
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
 ---
 
 ## Investigations
@@ -51,10 +49,6 @@ The thinning of the walls can lead to perforation
 | Blood pressure | Hypotension                | ^^                                     |
 | CXR            | Large abdominal distension | ![[Pasted image 20230513181547.png]] |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
 ---
 
 # Management
@@ -62,15 +56,7 @@ The thinning of the walls can lead to perforation
 1. NPO
 2. Nasograstic decompression
 3. Antibiotics: Prevent systemic effects
-4. Surgery: If
-
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
+4. Surgery: If not improved
 
 ---
 
