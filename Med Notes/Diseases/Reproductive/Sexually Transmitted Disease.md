@@ -92,6 +92,10 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 	1. Rare, sexually transmitted infection due to Haemophilus ducreyi
 	2. Small, gram negative rod
 
+### Anogenital Warts
+1. Caused by **papillomavirus (6, 11)**
+2. Has low risk for cancer. 6 and 11
+
 > [!Important]
 - Important point
 
@@ -141,6 +145,14 @@ Syphillis:
 	2. Less severe than primary infection
 
 **Chancroid:**
+1. Painful, genital ulcer
+2. Painful inguinal lymphadenitis
+
+**Anogenital warts:**
+1. Soft, tan, cauliflower lesions
+	1. Also called wart-like
+	2. On Penis, vulva, or perianal
+	3. Rectal bleeding if perianal
 
 ### Risk factors:
 
@@ -194,6 +206,13 @@ Syphillis:
 	1. Useful when lesions have resolved
 	2. Not for primary disease
 	3. As such, Negative serology + PCR = primary disease
+
+**Chancroid**:
+1. Testing not often evailable
+2. Normally found if symptoms are similar to chancroid, but negative testing for HSV
+
+**Summary:**
+![[Pasted image 20230513230008.png]]
 
 ---
 
@@ -250,6 +269,10 @@ Syphillis:
 | Recurrent Episodes                                                     |People with recurrent episodes of genital herpes may benefit from suppressive antiviral therapy to reduce the frequency and severity of outbreaks.|
 1. Important to note, it does not eliminate  latent viral infection
 2. Chronic suppressive therapy can be used if >6 episodes per year
+
+### Chancroid:
+1. Azithromycin is the recommended first-line treatment, given as a single dose of 1 gram orally. Alternatively, a 7-day course of erythromycin can be used.
+-   Ceftriaxone is an alternative option for severe or complicated infections:  Single IM of 250mg.
 
 ## Criteria
 ### Example severity/test score:
