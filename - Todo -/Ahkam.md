@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[Parkinsons]]
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
 - [ ] Bronchiectasis
@@ -19,13 +18,14 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] STI
+- [ ] [[Parkinsons]]
 
 
 ## Completed
 
 **Complete**
 - [x] [[Headaches]]
+- [x] STI
 - [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
 - [x] Diarrhea

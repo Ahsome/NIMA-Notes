@@ -228,7 +228,10 @@ Syphillis:
 ---
 
 # Management
-## Treatment
+### Overall management:
+
+>[!Important] ALWAYS TEST FOR STI
+**ALWAYS, TEST FOR OTHER STI. HAVING ONE INCREASE RISK OF OTHER**
 
 ### Chlamydia management:
 1. Special cell walls, lack peptidoglycan
@@ -294,7 +297,7 @@ Sure, here are the key points for treating genital warts according to the Austra
 	- podophyllotoxin solution or gel
 		- Cytotoxic agent that works by binding to and inhibiting microtubule formation, which is essential for cell division and growth.
 	- sinecatechins ointment.
-		- 
+		- Sinecatechins is a mixture of catechin and epicatechin derivatives that are extracted from green tea leaves. These compounds have been shown to have antiviral and immunomodulatory properties, and they work by stimulating the immune system to attack the virus causing the warts
 - Physical treatments include:
 	- cryotherapy (freezing the warts with liquid nitrogen),:
 	- surgical excision
