@@ -13,7 +13,7 @@ kanban-plugin: basic
 - [ ] [[LMN Lesion]]
 - [ ] Upper GI bleeding
 - [ ] STI
-- [ ] Incontinence
+- [ ] Urinary Incontinence
 - [ ] Bronchiectasis
 
 
