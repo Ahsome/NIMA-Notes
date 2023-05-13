@@ -35,6 +35,9 @@ e.g. If patientis diabetic, consider: SGLT-2 inhibitor (esp for CVD or renal ris
 ## 6. Bariatric Surgery
 Bariatric surgery should be considered for patients with a BMI >40 or with a BMI >35 with obesity related comorbidities. The three most commonly performed procedures in Australia include laparoscopic adjustable gastric banding (LAGB), Roux-en-Y gastric bypass (RYGB) and sleeve gastrectomy (SG).
 
+## Comorbidities
+![[Pasted image 20230513133306.png]]
+
 ---
 # Complications
 1. Worsening of comorbidities
