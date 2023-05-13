@@ -23,7 +23,9 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 1. Occurs in 20% to 60%
 2. More common with levodopa treatment
 
-### Temor-DOminant Parkinson's
+### Temor-DOminant Parkinson's:
+Has symptoms of tremor, but *no significant bradykinesia or gait problems*
+Better prognosis than other forms of Parkinson's
 
 > [!Important]
 - No imaging or blood test
@@ -100,10 +102,11 @@ Overall treatment:
 - MAO-B inhibitors: early-stage disease or as an adjunct to levodopa in advanced disease
 	- Selegiline
 	- Rasagiline
-- Anticholinergic used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
+- Anticholinergic used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment. **OR TREMOR-DOMINANT PARKINSON**
 	- Trihexyphenidyl
+	- Benztropine
 - Extra: 
-	- Amantadinecan: Used to control dyskinesias (involuntary movements) associated with levodopa therapy.
+	- Amantadine: Used to control dyskinesias (involuntary movements) associated with levodopa therapy.**OR TREMOR-DOMINANT PARKINSON**
 	-   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
 - Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
 
@@ -153,6 +156,18 @@ Overall treatment:
 		2. Ropinirole
 	2. Transdermal patch:
 		1. Rotigotine
+
+ACh receptor antagonist:
+1. Speciiclaly, M1 muscurinic
+2. Trihyexpheidyl and beztropine
+3. Side effects: Sedation and dry mout
+4. **USED IN TREMOR-DOMINANT PARKINSON**
+
+Amantadine:
+1. Antiviral drug
+2. Has dopamine agonist, anticholinergic activity
+3. **USED IN TREMOR-DOMINANT PARKINSON**
+	1. Also mild Parkinson
 
 **Summary:**
 ![[Pasted image 20230513234737.png]]
