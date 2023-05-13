@@ -27,6 +27,7 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 Has symptoms of tremor, but *no significant bradykinesia or gait problems*
 Better prognosis than other forms of Parkinson's
 
+
 > [!Important]
 - No imaging or blood test
 - Consider other diagnosis if three classical features aren't present, or not responding to treatment
