@@ -54,6 +54,7 @@ Very important, start with a bang
 		1. If SOB, health issue
 2. Issue can be how to diagnose and issue
 	1. Only say if you know the diagnose
+3. NEVER say its specific NSTEMI/STEMI/Unstable angina. Just say cardiac chest pain
 
 # Disease
 ## heart failure
