@@ -21,9 +21,6 @@ Urinary Tract Infection (UTI) is a...
 - Enterococcus faecalis
 - Pseudomonas
 
-> [!Important]
-- Important point
-
 --- 
 # History
 ### Symptoms
@@ -53,21 +50,15 @@ Urinary Tract Infection (UTI) is a...
 
 ---
 
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-
----
-
 ## Investigations
-| Key Tests  | Result             | Explanation                                    |
-| ---------- | ------------------ | ---------------------------------------------- |
-| Urinalysis | Cloudy urine       | Presence of cells                              |
-|            | Leukocyte esterase | Produced by WBC in urine                       |
-|            | Nitrites           | 90% of UTI bugs convert nitrates into nutrites |
-|            |                    |                                                |
+| Key Tests                   | Result                                          | Explanation                                    |
+| --------------------------- | ----------------------------------------------- | ---------------------------------------------- |
+| Urinalysis                  | Cloudy urine                                    | Presence of cells                              |
+| ^^                          | Leukocyte esterase                              | Produced by WBC in urine                       |
+| ^^                          | Nitrites                                        | 90% of UTI bugs convert nitrates into nutrites |
+| ^^                          | Epithelial cells                                | Contamination                                  |
+| FBC, CRP, electrolytes, LFT | Show signs of infection                         |                                                |
+| USS / Xray / CT KUB        | Structural changes which may have caused issues |                                                |
 
 Diagnosis: clinical findings + urinalysis
 
@@ -76,23 +67,25 @@ Diagnosis: clinical findings + urinalysis
 # Management
 ## Treatment Categories
 
-| Uncomplicated Cystitis                                                           | Complicated Cystitis                                                                                                                          | Pyelonephritis |
-| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| - No systemic signs or symptoms (fever)<br> - Presumed to be confined to bladder | - Systemic signs and symptoms (fever, tachycardia)<br>- Immunosuppression<br>- Catheter<br>- Hospital acquired <br>- Pregnancy, diabetes, CKD | Chronic pyelonephritis (recurrent --> scarring in kidneys) <br>- Xanthogranulomatous pyelonephritis (usually unilateral, multiple dark areas on CT - "bear paws")<br>- Peri-renal abscess              |
-| Tx: TMP-SMX (Bactrim) for 3days                                                  | Tx:   IM dose ceftriaxone plus TMP-SMX<br>- Augmentin<br>- Fluoroquinolones                                                                   | Tx: nephrectomy for xanthomatous, drainage plus antibiotics if abscess           |
-| Urine culture not routinely done unless treatment fails                          |                                                                                                                                               |                |
-|                                                                                  |                                                                                                                                               |                |
+| Uncomplicated Cystitis                                                           | Complicated Cystitis                                                                                                                          | Pyelonephritis                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - No systemic signs or symptoms (fever)<br> - Presumed to be confined to bladder | - Systemic signs and symptoms (fever, tachycardia)<br>- Immunosuppression<br>- Catheter<br>- Hospital acquired <br>- Pregnancy, diabetes, CKD | - Chronic pyelonephritis (recurrent --> scarring in kidneys) <br>- Xanthogranulomatous pyelonephritis (usually unilateral, multiple dark areas on CT - "bear paws")<br>- Peri-renal abscess                                                              |
+| Tx: TMP-SMX (Bactrim) 300mg for 3days                                            | Tx:   Cefalexin, 500mg, 12hr, 5 days<br>-  Amoxycillin + clavulanate, 500+125mg, 12hr, 5 days                                                 | Tx for mild infection:<br>- Amoxycillin + clavulanate, oral 875+125mg, 12hr, 10-14days<br>- Cephalexin, oral 500mg, 6h, 10-14 days<br>- Trimethoprim, oral 300mg, dailly 10-14 days <br>- IF RESISTANT ( pseudomonas), Ciprofloxacin, 500mg, 12hr, 7 days |
+| Urine culture not routinely done unless treatment fails                          |                                                                                                                                               | Tx: nephrectomy for xanthomatous, drainage plus antibiotics if abscess                                                                                                                                                                                   |
+|                                                                                  |                                                                                                                                               |                                                                                                                                                                                                                                                          |
 
+For patients with UTI and septis shock:
+1. Gentamicin intravenously over 3 to 5 minutes, plus amoxicillin 2 g intravenously, 6-hourly
+2. If gentamycin is contraindicated: ceftriaxone 1 g intravenously, daily
+3. If multi-drug resistant gram -ve bacteria: meropenem 1 g intravenously, 8-hourly
 
 ---
 
 # Complications
-1. Complications of disease
+1. Septic shock and death
 
 ---
 
 # Extra
 ## Relevant notes:
-1. 
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. BnB - UTI
