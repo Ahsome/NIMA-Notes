@@ -40,7 +40,7 @@ Both have relapsing, remitting courses, where flares require medication therapy.
 |Pseudopolyps (healing of polyps) - Colonoscopy                                  | Right lower quadrant pain (TI)                            |
 | Lead pipe appeaarance on X-ray / CT (loss of haustra)                           |Weight loss / malabsoption|
 | Biopsy findings - ccrypt abscesses + neutrophillic infiltration of crypts       |Fistulas - peri-anal, absominal, bladder fistulas|
-|Toxic megacolon - cessation of colonicc contractions --> perforations --> shock|Kidney stones (high calcium oxalate due to malabsorption)|
+|Toxic megacolon - cessation of colonicc contractions --> perforations --> shock --> severe bloody diarrhea|Kidney stones (high calcium oxalate due to malabsorption)|
 
 >[!Important] Rule out infection:
 >-  C.difficile toxin
