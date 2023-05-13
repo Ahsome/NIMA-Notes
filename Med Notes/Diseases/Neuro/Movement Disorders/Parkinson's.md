@@ -64,19 +64,38 @@ Treatment management involves:
 	1. MAO type-B inhibitors
 	2. COMT inhibitors
 	3. Dopamine agnost
+4. Consider [[#Side Effects:]]
 
-###
+### Side Effects:
+**Dopamine drugs**:
+- Nausea and vomiting
+- Orthostatic hypotension
+- Excessive sleepiness
+- Dyskinesia
+- COnfusion and hallucinations
 
 ## Treatment:
-ETG:
--   Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease, including tremor, rigidity, and bradykinesia.
--   Levodopa is usually given in combination with a peripheral decarboxylase inhibitor (such as carbidopa or benserazide) to prevent the breakdown of levodopa before it reaches the brain.
--   Dopamine agonists (such as pramipexole or ropinirole) can be used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease.
--   Monoamine oxidase type B (MAO-B) inhibitors (such as selegiline or rasagiline) can be used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease.
+Overall treatment:
+- Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease
+	- Often applied with a carbidopa, a  peripheral decarboxylase inhibitor
+	- Can use benserazide
+- Dopamine agonists: Used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease  
+	- Pramipexole
+	- Ropinirole
+- MAO-B inhibitors: early-stage disease or as an adjunct to levodopa in advanced disease
+	- Selegiline
+	- rasagiline) can be used as monotherapy in .
 -   Anticholinergic medications (such as trihexyphenidyl) can be used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
 -   Amantadine can be used to control dyskinesias (involuntary movements) associated with levodopa therapy.
 -   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
 -   Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
+
+**Carbidopa-Levodopa**:
+1. Levodopa crossess BBB, converted to dopamine in CNS by dopa ecarboxylase
+	1. This aids
+2. Limited benefit as peripheral decarboxylase breaks down L-dopa
+	1. Also increases CVS side effects if broken down in periphery
+	2. Use crbidopa to block peripheral decarboxylase
 
 ## Drug overview
 
