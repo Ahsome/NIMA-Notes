@@ -84,6 +84,6 @@ Example for [[Asthma]]:
 
 # Extra
 ## Relevant notes:
-1. [[Comparison between Spiromotry and PFM]]
+
 ## References:
 1. *Boads and Beyond - STEP 2:* Etc...

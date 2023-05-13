@@ -11,8 +11,61 @@ Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symp
 
 ![[Pasted image 20230509094418.png]] ^d5658c
 
+```mermaid
+flowchart TB
+1[Examination of FBC and Peripheral Blood Smear]--->2[MCV <80]
+1---> 3[MCV 80-100]
+1--->4[MCV > 100]
+
+2 ---> 21[Microcytic Anaemia]
+3 ---> 31[Normocytic Anaemia]
+4 ---> 41[Macrocytic Anaemia]
+
+21 --> 211[Serum iron studies]
+31 --> 311[Reticulocyte count]
+41 --> 411[Megalocytes and segmented neutrophils]
+
+211 --> 2111[Low iron and erritin with high TIBC]
+211 --> 2112[Mentzer Index MCV/RBC < 13 - THalassemia]
+211 --> 2113[Low or normal iron and low or normal feritin with low TIBC]
+
+2111 --> 21111[Iron defieciency anaemia]
+2112 --> 21121[Suggest a component of anaemia of chronic disease with iron deficiency anaemia]
+
+class 21 internal-link
+class 31 internal-link
+class 41 internal-link
+
+style 1 fill:#b8e1e1,color:#000000
+style 2 fill:#b8e1e1,color:#000000
+style 3 fill:#b8e1e1,color:#000000
+style 4 fill:#b8e1e1,color:#000000
+
+style 21 fill:#b8e1e1,color:#000000
+style 31 fill:#b8e1e1,color:#000000
+style 41 fill:#b8e1e1,color:#000000
+
+style 211 fill:#b8e1e1,color:#000000
+style 311 fill:#b8e1e1,color:#000000
+style 411 fill:#b8e1e1,color:#000000
+
+style 2111 fill:#b8e1e1,color:#000000
+style 2112 fill:#b8e1e1,color:#000000
+style 2113 fill:#b8e1e1,color:#000000
+
+style 21111 fill:#b8e1e1,color:#000000
+style 21121 fill:#b8e1e1,color:#000000
+
+```
 
 ## Pathophysiology
+| [[Microcytic Anaemia]]<br>MCV < 80   | [[Normocytic Anaemia]]<br>MCV 80-100  | [[Macrocytic Anaemia]]<br>MCV > 100 |
+| :-------------------------: | :-------------------------: | :-----------------------: |
+| Iron deficiency           | Anemia of Chronic Disease |  Folate/B12 deficiency                       |
+| THalassemia               | Hemolysis                 | Liver Disease           |
+| Anemia of Chronic DIsease | Aplastic Aneia            | Alcohol use             |
+| Sideroblastic ANemia      | Chronic Kidney Disease    | Reticulocytosis                        |
+| Lead Poisoning            |                           |                         |
 ![[Pasted image 20230509100344.png]]
 
 --- 

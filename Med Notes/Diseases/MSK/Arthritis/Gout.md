@@ -179,4 +179,4 @@ It is important to note that Xanthine oxidase inhibotrs prevent the metabolis of
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. [*Boads and Beyond - STEP 2:* MSK > Gout](http://10.243.109.99:8080/BnB%20Step%202/MSK%20March%20Update/3.Gout%20atf.mp4)

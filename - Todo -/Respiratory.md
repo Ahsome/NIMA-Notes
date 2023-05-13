@@ -8,17 +8,17 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Airways disease ([[Asthma]], bronchiectasis and COPD)
-- [x] Conditions relating to venous thrombo-embolic disease, particularly pulmonary embolism
-- [ ] Thoracic tumours and lung nodules
-- [x] Common pulmonary infections
+- [ ] Airways disease ([[Asthma]], bronchiectasis and [[COPD]])
+- [x] Conditions relating to venous thrombo-embolic disease, particularly [[Pulmonary Embolus]]
+- [ ] Thoracic tumours and [[Lung cancer|lung nodules]]
+- [x] Common pulmonary infections [[Pneumonia]]
 
 #### Know principles
 - [ ] Pneumothorax
 - [ ] Pleural effusion
 - [ ] Sleep disordered breathing
 - [ ] Respiratory failure with application of oxygen therapy and non-invasive ventilation
-- [ ] Cystic fibrosi
+- [ ] Cystic fibrosis
 
 #### Some Knowledge
 - [ ] Extra-pulmonary causes of hypoventilation (such as obesity, chest wall disorders, respiratory muscles weakness)

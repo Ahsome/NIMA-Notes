@@ -18,7 +18,11 @@ Arthrotomy:??? ^c75edf
 # Endocrinology
 Stress hyperglycemia: Increased levels of glucose due to the effect of cortisol and adrenaline, normally due to a stressor or illness ^8fbeef
 
+# Drugs
+TNFa: Tumor necrosis factor alpha factors ^af14cf
 
 # Anatomy
+## Neck:
+Atlantoaxial joint: Joint involving C1 and C2 ^8e8608
 ## Feet:
 Podagra: Base of great toe ^d61e39

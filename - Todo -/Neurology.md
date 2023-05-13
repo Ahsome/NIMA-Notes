@@ -13,6 +13,7 @@
 - [ ] Central nervous system infections
 - [ ] Primary and secondary headache
 - [ ] Peripheral neuropathy
+- [x] [[Syncope]]
 
 #### Know principles
 - [ ] Neurological emergencies e.g. Status epilepticus, Guillain-Barre Syndrome, spinal cord compression and altered level of consciousness
