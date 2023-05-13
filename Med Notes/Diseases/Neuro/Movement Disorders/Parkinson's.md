@@ -23,7 +23,7 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 1. Occurs in 20% to 60%
 2. More common with levodopa treatment
 
-### Temor-DOminant Parkinson's:
+### Temor-Dominant Parkinson's:
 Has symptoms of tremor, but *no significant bradykinesia or gait problems*
 Better prognosis than other forms of Parkinson's
 
