@@ -185,7 +185,10 @@ Syphillis:
 1. Preferred test: PCR for viral DNA
 	1. Requires samlpe of vesicular fluid
 	2. Alternative: Viral culture
-2. S
+2. Serological antibody testing:
+	1. Useful when lesions have resolved
+	2. Not for primary disease
+	3. As such, Negative serology + PCR = primary disease
 
 ---
 
