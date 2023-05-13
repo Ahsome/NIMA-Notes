@@ -144,6 +144,11 @@ Syphillis:
 | Possible outcomes     | May lead to infertility, ectopic pregnancy, or PID     | May lead to infertility, ectopic pregnancy, or PID           |
 | Prevention            | Using condoms during sex and getting regular testing   | Using condoms during sex and getting regular testing         |
 
+**Syphilis:**
+1. Non-treponemal serologic tests:
+	1. Tests for reaction o serum to cardiolipin antigen
+	2. 
+
 ---
 
 # Management
@@ -170,6 +175,24 @@ Syphillis:
 2. Co-infection of [[#Chlamydia:]] is common
 	1. Test and treat chlamydia
 3. Evaluate and treat sexual partners
+
+### Syphillis management:
+**Acute:**
+| Disease Stage | Treatment | Dose | Route | Duration | Penicillin Allergy |
+| --- | --- | --- | --- | --- | --- |
+| **Primary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Single dose | Consider desensitization or doxycycline if allergic |
+| **Secondary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
+| **Early Latent Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
+| **Late Latent Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
+| **Tertiary Syphilis** | Benzathine penicillin G | 2.4 million units | IM | Weekly for 3 weeks | Consider desensitization or doxycycline if allergic |
+| **Neurosyphilis** | Aqueous crystalline penicillin G | 18-24 million units | IV | 10-14 days | Desensitization required if allergic |
+
+**Long-term:**
+1.  Regular monitoring: Patients with syphilis require regular blood tests to monitor the effectiveness of treatment and ensure that the infection is fully cleared.
+2.  Partner notification: Sexual partners of patients diagnosed with syphilis should be notified and offered testing and treatment if necessary.
+3.  Safe sex practices: Patients with syphilis should be advised to practice safe sex to prevent re-infection or transmission to others.
+4.  Avoiding alcohol and drug use: Substance abuse can interfere with treatment and exacerbate symptoms of syphilis.
+5.  Vaccinations: Patients with syphilis may be advised to receive vaccinations against hepatitis A and B, as well as human papillomavirus (HPV).
 
 ## Criteria
 ### Example severity/test score:
