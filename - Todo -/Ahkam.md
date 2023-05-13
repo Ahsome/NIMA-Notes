@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
 - [ ] Diarrhea
+- [ ] Upper GI
 
 
 ## In Progress
