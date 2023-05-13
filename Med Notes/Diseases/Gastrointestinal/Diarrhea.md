@@ -30,6 +30,19 @@ The most common *parasitic* causes of acute diarrhea are:
 2. Cryptosporidium
 3. Entameba histolytica
 
+## Chronic Diarrhea
+Chronic diarrhea has two major subtypes:
+1. Osmotic diarrhea
+2. Secretory diarrhea
+
+| Info        | Osmotic diarrhea                                | Secretory diarrhea               |
+| ----------- | ----------------------------------------------- | -------------------------------- |
+| Mechanism   | Osmotic substance draws out fluid               | Epithelial cells secrete fluid   |
+| Stools      | Low volume watery stools                        | Large volume watery stools       |
+| Fasting     | Improves during fasting                         | Persits during fasting and sleep |
+| Osmotic gap | High stool gap                                  | Low stool gap                    |
+| Cause       | - Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- VIPomas<br>- Bile acid malabsorption                                 | 
+
 > [!Important]
 - Stool culture not needed in [[#Acute Diarrhea:]] unless for high-risk patients. See [[#Investigations]] or [[#Overall management]]
 
