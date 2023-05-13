@@ -1,4 +1,4 @@
-![[Pasted image 20230513095329.png]]
+![[Pasted image 20230513190458.png]]
 
 **ALSO ADD**:
 - [ ] Vertigo
@@ -13,6 +13,20 @@
 12 short case practices on blackboard - work our way through that - 2 per day?
 
 ![[Pasted image 20230509140924.png]]
+
+Geeky Medics:
+- Patient with blood in their urine
+- Lady with headache
+- Lady with jaundice
+- Lady with haematemesis
+- Collapse on the beach
+- "He's just not himself"
+- Lady with LOC
+- Man with headache
+- Lady with SOB
+- Lady with drooping face
+- Man with chest pain
+- Man with back pain
 
 A patient with shortness of breath and/or oedema:
 A patient with chest pain
