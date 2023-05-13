@@ -30,7 +30,16 @@ Two main types:
 2. Strongest risk factor is obesity
 
 > [!Important]
-- Important point
+1. Sleep apnea is a condition where breathing stops during sleep for more than 10 seconds.
+2.  Obstructive sleep apnea, which involves decreased airflow despite effort to breathe, is much more common than central sleep apnea.
+3.  Central sleep apnea is often caused by CNS disease, neuromuscular disease, severe kyphoscoliosis, or narcotics, while obesity is the strongest risk factor for obstructive sleep apnea.
+4.  Symptoms of sleep apnea include unrestful sleep, daytime somnolence, and loud snoring.
+5.  Risk factors for obstructive sleep apnea include obesity, while central sleep apnea is often related to marginal ventilation when awake.
+6.  Polysomnography (sleep study) is a key examination to identify the number of apnea episodes.
+7.  Management of sleep apnea involves weight loss, CPAP, upper airway surgery, and regularly monitoring for changes in symptoms and comorbidities.
+8.  Low oxygen levels during sleep can cause complications such as hypertension, pulmonary hypertension, arrhythmias, and erythropoiesis due to chronic hypoxia and EPO release.
+9.  Oral appliances are an alternative to CPAP for symptomatic patients.
+10.  Regularly monitoring for changes in symptoms and comorbidities is crucial for the management of sleep apnea.
 
 --- 
 # History
