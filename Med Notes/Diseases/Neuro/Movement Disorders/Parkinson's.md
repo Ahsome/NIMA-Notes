@@ -95,7 +95,28 @@ Overall treatment:
 	1. This aids
 2. Limited benefit as peripheral decarboxylase breaks down L-dopa
 	1. Also increases CVS side effects if broken down in periphery
-	2. Use crbidopa to block peripheral decarboxylase
+	2. Use carbidopa to block peripheral decarboxylase
+3. On-off phenomena:
+	1. Can be dependent, depleting natural dopamine
+	2. Levodopa has short half life, so high response initially due to no dopamine, crash after half life
+	3. Symptoms:
+		1. Off: Freezing or gait
+		2. On: Dyskinesia, abnormal, involuntary movements
+	4. Other side effects:
+		1. Headache
+		2. Nausea
+		3. Sleepiness
+		4. Dizzines
+	5. Older patients (due to dopamine excess):
+		1. Confusion
+		2. Hallucinations
+		3. Delusions
+
+**COMT Inhibitor**:
+1. Inhibits catechol-O-methyltransferase (COMT)
+	1. Enzyme that breaks down levodopa
+	2. As such, only use in combination with levodop
+	3. Boost to prevent off-effects of levodopa
 
 ## Drug overview
 
