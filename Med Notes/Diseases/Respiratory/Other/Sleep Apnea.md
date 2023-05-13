@@ -74,6 +74,12 @@ Two main types:
 
 # Management
 ## Treatment
+Overall treatment involves:
+1. Weight loss: Takes time, not best for exhausted patients
+2. CPAP: First line for symptomatic patients
+	1. Alternative: Oral appliances are devices that are worn in the mouth during sleep to reposition the jaw and tongue to keep the airway open
+3. Upper airway surgery: Severe disease
+4. Regularly monitoring for changes in symptoms and comorbidities such as hypertension and diabetes.
 
 ## Drug overview
 
