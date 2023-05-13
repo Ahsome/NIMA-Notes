@@ -6,7 +6,7 @@
 ---
 
 # Information
-Sexually Transmitted Disease is a... 
+Sexually Transmitted Disease is infections sprea
 
 > [!Important]
 - Important point
