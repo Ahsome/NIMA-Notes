@@ -85,11 +85,11 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | Stool pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ### Chronic diarrhea investigations:
-| Key tests          | Result                                   | Explanation                     | Indication                                                                  |
-| ------------------ | ---------------------------------------- | ------------------------------- | --------------------------------------------------------------------------- |
-| Fecal electrolytes | >50: Osmotic<br><50: Secretory           |                                 | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
-| Fecal pH           | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars | Useful to identify Osmotic diarrhea                                         |
-| Reducing subst                   |                                          |                                 |                                                                             |
+| Key tests           | Result                                   | Explanation                     | Indication                                                                  |
+| ------------------- | ---------------------------------------- | ------------------------------- | --------------------------------------------------------------------------- |
+| Fecal electrolytes  | >50: Osmotic<br><50: Secretory           |                                 | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
+| Fecal pH            | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars | Useful to identify Osmotic diarrhea                                         |
+| Reducing substances |                                          |                                 |                                                                             |
 
 ---
 
