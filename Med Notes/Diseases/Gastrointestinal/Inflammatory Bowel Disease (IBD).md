@@ -128,6 +128,7 @@ Maintenance treatment – maintains remission once initial insult resolves.
 	- Increased risk with UC - especially is >10yr duration and involvement of the right colon (more disease progression)
 	- Colonoscopy repeated every 2-3 years
 2. Smoking improved outcomes in UC, but worsens outcomes in Crohn's (modifiable)
+3. [[Toxic Megacolon]]: See toxic megacolon
 
 ---
 

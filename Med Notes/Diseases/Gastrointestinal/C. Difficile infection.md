@@ -82,11 +82,15 @@ Treatments depends on severity:
 | Lactate |       |      |Increased |
 | Others  |  |  |Hypotension <br>Shock <br>Ileus|
 
-| Severity         | Treatment           | Explanation |
-| ---------------- | ------------------- | ----------- |
-| Non-severe       | **ORAL vancomycin** |             |
-| ^^               | Fidaxomicin         |             |
-| Severe/recurrant |                     |             |
+| Severity         | Treatment                       | Explanation |
+| ---------------- | ------------------------------- | ----------- |
+| Non-severe       | **ORAL vancomycin**             |Vancomycin is *normally* IV due to poor absorption. <br> However, in C. Difficile infection, this allows it to work in the gut|
+| ^^               | Fidaxomicin                     |             |
+| Severe/recurrant | Oral vancomycin                 |             |
+| ^^               | Fidaxomicin                     |             |
+| ^^               | Stool transplant                |Injecting healthy bacteria into population|
+| Fulminant        | Oral vancomycin + metronidazole |             |
+| ^^               | Surgery (colectomy)                                |             |
 
 ## Drug overview
 
