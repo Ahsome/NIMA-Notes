@@ -16,12 +16,19 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 2. 3 forms
 	1. C. trachomatis
 		1. Most common STI form
-		2. EYe infection and pneumonia in babies
+		2. Conjuctivitis and pneumonia in babies. Spread through birth canal
 		3. Causes [[Lymphogranuloma venereum]] and [[Trachoma]]
+			1. ![[Pasted image 20230513215402.png]]
 	2. C pneumonia
 		1. Atypical pneumonia by aerosol
 	3. C psittaci
 		1. Parrot fever, infection from birds
+
+#### Lymphogranuloma Venereum:
+1. Sexually transmitted chlamydia infection, spreads through lymphacs
+2. Serotype L1, L2, L3
+3. Initially painless genital ulcer, becomes tender inguinal or femoral lymph nodes
+	1. Called "Buboes"
 
 > [!Important]
 - Important point
@@ -32,8 +39,14 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 Chlamydia:
 1. Woman: Cervicitis
 	1. Discharge, post-coital beeding
-	2. Can progress to PID
-2. 
+	2. ![[Pasted image 20230513215200.png|100]]
+	3. Can progress to PID
+2. Men: Urethritis, epididymitis, Prostatitis
+	1. May lead to discharge from penis or dysuria
+	2. Proctitis
+3. Lymphogranuloma:
+	1. Initially, painless genital ulcer
+	2. Later, painful inguinal or femoral lymph nodes: Burboes
 
 ### Risk factors:
 
@@ -59,6 +72,12 @@ Chlamydia:
 1. Gram stain: Not well
 2. Special stains: GIemsa
 3. Normally identified by Nucleic acid amplification tests (NAAT) as poorly stained
+	1. Vaginal test, urine
+	2. PR of CHlamydia DNA/RNA
+4. Microscope does not show bacteria
+	1. THey live inside cells
+5. **Lymphogranuloma**:
+	1.  NAAT test
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
@@ -76,6 +95,13 @@ Chlamydia:
 1. Special cell walls, lack peptidoglycan
 	1. Do not respond to antibiotics.
 	2. Treatment is azithromycin and doxycycline
+		1. Pregnancy: Azithromycin, as doxy is bad for pregnancy
+2. Test of N. Gonorrhoeae as often co-infected
+3. Must treat partners or reinfection occurs
+
+**Lymphogranuloma Venereum**:
+1. Drain buboes
+2. Tr
 
 ## Drug overview
 
