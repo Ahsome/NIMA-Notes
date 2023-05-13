@@ -68,7 +68,7 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | Fecal fat                   | Potential fat in stool                   | Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain |
 | 72-hour fecal fat excretion | Normal: <7g/day<br>Elevated:>7g/day      | Increased in [[Fat malabsorption]] of any cause                                                |
 | Fecal elastase              | Low                                      | Low in pancreatic insufficiency, causing [[Fat malabsorption]]                                 |
-| Stoo pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
+| Stool pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ---
 
