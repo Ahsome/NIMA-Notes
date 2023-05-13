@@ -119,13 +119,6 @@ Syphillis:
 ---
 
 ## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
 
 ---
 
@@ -139,19 +132,21 @@ Syphillis:
 | Test samples          | Vaginal swab, urine, rectal swab                       | Urine, urethral swab (men), vaginal or cervical swab (women) |
 | Culture               | Not routinely done                                     | Done only for antibiotic resistance testing                  |
 | Microscopic view      |No visible bacteria, as they live inside cells|Visible intacellular gram-negatve diplococci, often found in pairs or clusters|
-| Complications         | Lymphogranuloma, pelvic inflammatory disease (PID)     | PID, infertility, sepsis                                    |
-| Treatment             | Antibiotics, such as azithromycin and doxycycline      | Antibiotics, such as ceftriaxone and azithromycin            |
-| Possible outcomes     |May lead to infertility, ectopic pregnancy, or PID| May lead to infertility, ectopic pregnancy, or PID           |
-| Prevention            | Using condoms during sex and getting regular testing   | Using condoms during sex and getting regular testing         |
 
 **Syphilis:**
 1. Non-treponemal serologic tests:
-	1. VDRL (Venereal Disease Research Laboratory) test
-	2. RPR (Rapid Plasma Reagin) test
 	3. Semi-quantittive results reported as titer
-	4. Tests for reaction ofo serum to cardiolipin antigen
+	4. Tests for reaction of serum to cardiolipin antigen
 	5. If syphillis antibodies present --> reaction
 	6. False positive occurs in viral infections, others
+	7. Examples:
+		1. VDRL (Venereal Disease Research Laboratory) test
+		2. RPR (Rapid Plasma Reagin) test
+2. Teppnemal serologic tests
+	1. Detects antiboties against specific treponemal antigents
+	2. Examples:
+		1. Fluorescent reponemal antiody absorption FTA-ABS
+		2. T, pallidum enzyme immonaTP-EIA
 
 ---
 
