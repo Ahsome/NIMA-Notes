@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
 - [ ] Upper GI bleeding
+- [ ] STI
 
 
 ## In Progress
