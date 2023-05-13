@@ -42,7 +42,7 @@ Differences include:
 | Stools      | Low volume watery stools                        | Large volume watery stools       |
 | Fasting     | Improves during fasting                         | Persits during fasting and sleep |
 | Osmotic gap | High stool gap                                  | Low stool gap                    |
-| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- VIPomas<br>- Bile acid malabsorption                                 | 
+| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]]                                 | 
 
 ### Secretory diarrhea:
 Classic causes of secretory diarrhea include:
@@ -52,6 +52,13 @@ Classic causes of secretory diarrhea include:
 	1. Terminal ileum normally absorbs bile acids
 	2. Post-surgy or [[Crohn's Disease]] can cause excess acids to colon, triggering fluid secretion
 	3. Treatment: [[cholestyramine]]
+4. Neuroendocrine tumors:
+	1. Carcinoid syndrome
+	2. VIPoma
+	3. Gastrinoma
+5. Microscopic colitis
+	1. Chronic, inflammatory disease of colon
+	2. Causes *watery, non-bloody secretory diarrhea*
 
 > [!Important]
 - Stool culture not needed in [[#Acute Diarrhea:]] unless for high-risk patients. See [[#Investigations]] or [[#Overall management]]
@@ -59,7 +66,7 @@ Classic causes of secretory diarrhea include:
 --- 
 # History
 ### Symptoms
-- Diarrhea. Number of times in a
+- Diarrhea. Number of times in weeks can affect the diagnosis. See [[#Information]]
 
 ### Risk factors:
 
@@ -101,6 +108,12 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | Fecal pH            | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars                                                   | Useful to identify Osmotic diarrhea                                         |
 | Reducing substances |                                          | Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose) | Presence suggest carboydrate malabsoprtion, (Osmotic diarrhea)                                                                            |
 
+
+| Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
+| --------------- | ------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| Cholestyramine  | Potential reduction in symptoms | Used to treat [[#Secretory diarrhea:\|bile acid cause]] cause of secretory diarrhea | Can be used to test presence of bile acid malabsoprtion as cause of secretory diarrhea |
+| Biopsy          | Subepitheial collagen bands     | Found in Collagenous                                                                                     |                                                                                        |
+
 ---
 
 # Management
@@ -124,6 +137,13 @@ Acute antibiotics *can* be given in severe disease (See [[#^d19a71|Severe acute 
 Supportive treatent includes:
 1. Provide fluid
 2. Anti-diarrheal agents, such as [[Lopiramide]]
+
+## Chronic diarrhea management
+## Secretory Diarrhea
+Treatment depends on the cause of the secretory diarreha:
+| Cause                   | Treatment      | Explanation |
+| ----------------------- | -------------- | ----------- |
+| Bile acid alabsooprtion | [[Cholestyramine]] |    Binds to bile acid, prevents them from triggering treatment        |
 
 ## Drug overview
 
