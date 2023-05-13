@@ -59,7 +59,7 @@ The most common *parasitic* causes of acute diarrhea are:
 ### Acute diarrhea investigations:
 | Key Tests                 |Result| Explanation                                                                                                                                                     |Indications      |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Stool culture |Potential bacteria|Identifies: <br> - Salmonella <br> - Campylobacter <br> - Shigella (inc. O15:H7) <br> <br> |- Severely-ill patients with acute diarrhea <br>- Bloody diarrhea <br> <br>Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>3. Fever > 38 degrees <br>4. High-risk patient |
+|Stool culture |Potential bacteria|Identifies: <br> - Salmonella <br> - Campylobacter <br> - Shigella (inc. O15:H7) <br> <br> |- Severely-ill patients with acute diarrhea <br>- Bloody diarrhea <br> <br>Not needed in [[#Acute Diarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>3. Fever > 38 degrees <br>4. High-risk patient |
 |Ova and parasites|Potential ova/parasites|Identifies: <br>- Giardia <br>- Cryptosporidium <br>- Entameba histolytica |Only ordered if you think patient has had exposure to a parasite. More often done in [[#Persistent diarrhea]] or [[#Chronic diarrhea]]|
 
 Additional tests, although more normally done in [[#Persistent diarrhea]] and [[#Chronic diarrhea]]
@@ -93,8 +93,6 @@ Acute antibiotics *can* be given in severe disease (See [[#^d19a71|Severe acute 
 Supportive treatent includes:
 1. Provide fluid
 2. Anti-diarrheal agents, such as [[Lopiramide]]
-
-
 
 ## Drug overview
 
