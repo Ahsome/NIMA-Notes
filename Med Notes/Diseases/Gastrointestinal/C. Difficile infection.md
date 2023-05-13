@@ -55,11 +55,12 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 |Stool sample |Toxin A/B detection|Detects toxin produced by C. difficile|
 |PCR|Test for Toxin B gene|Used if equivocal toxin testing|
 
-| Additional Tests               |  Result   | Explanation                |
+| Additional Tests               |  Result     | Explanation                           |
 | ------------------------------ | --- | --------------------- |
-|Colonoscopy |Pseudomembranous colitis|Rarely done|
-|WBC|<15k (non-severe) <br> \>15k (severe)|Used to identify severity|
-|  |  |  |
+|Colonoscopy |Pseudomembranous colitis |Rarely done |
+|WBC|<15k (non-severe) <br> \>15k (severe)|Used to identify severity |
+|Creatinine|<1.5mg/dL (non-severe) <br>>1.5mg/dL (severe)|^^ |
+|Lactate|Normal (non-severe) <br>Increase (Fulminant)|^^|
 
 ---
 
@@ -68,9 +69,10 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 Management involves initial diagnosis through stool samples of toxin A/B, as well as elimination of other [[Diarrhea]] causes
 
 Treatments depends on severity:
+
 | Test    | Non-severe | Severe    | Fulminant |
 | ------- | ---------- | --------- | --------- |
-| WBC     | <15k       | >15k      |       |
+| WBC     | <15k       |\>>15k|       |
 | Cr      | <1.5 mg/dL | 1.5 mg/dL |       |
 | Lactate |       |      |Increased |
 | Others  |  |  |Hypotension <br>Shock <br>Ileus|
