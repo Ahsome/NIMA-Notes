@@ -123,10 +123,12 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 
 ### Chronic diarrhea investigations:
 Testing overview: ^688bf9
->1. Osmotic diarrhea: Fecal electrolytes, pH and reducing substances
-:2. Secretory diarrhea: Fecal electrolytes, cholestyramine, test for miscroscopic collitis
-?3. Fatty diarrhea: Fecal fat, elastase
-?4. Inflammatory diarrhea: Fecal WBC, stool culture, calprotectin
+1. Osmotic diarrhea: Fecal electrolytes, pH and reducing substances
+2. Secretory diarrhea: Fecal electrolytes, cholestyramine, test for miscroscopic collitis
+3. Fatty diarrhea: Fecal fat, elastase
+4. Inflammatory diarrhea: Fecal WBC, stool culture, calprotectin
+^bbcc31
+![[Pasted image 20230513162648.png]]
 
 | Key tests           | Result                                   | Indication                                                                  | Explanation                                                                       |
 | ------------------- | ---------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -174,7 +176,10 @@ Supportive treatent includes:
 
 ## Chronic diarrhea management
 Management involves initial diagnosis of cause. This includes:
-![[#^688bf9]]
+![[#^bbcc31]]
+
+![[Pasted image 20230513162644.png]]
+
 ## Secretory Diarrhea
 Treatment depends on the cause of the secretory diarreha:
 
