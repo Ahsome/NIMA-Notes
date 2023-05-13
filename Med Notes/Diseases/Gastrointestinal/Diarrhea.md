@@ -31,13 +31,11 @@ The most common *parasitic* causes of acute diarrhea are:
 3. Entameba histolytica
 
 ## Chronic Diarrhea
-Chronic diarrhea has two major subtypes that cause watery diarrhea. You can calculate the *osmotic gap*, which helps identify the cause
-
-1. Osmotic diarrhea
-2. Secretory diarrhea
-
-
-
+Chronic diarrhea has two major subtypes that cause watery diarrhea. You can calculate the *osmotic gap*, which helps identify the cause:
+1. Osmotic diarrhea: >50
+2. Secretory diarrhea <50
+$$Gap=290-(2[Na]]+2[K])_{stool} $$
+Differences include:
 | Info        | Osmotic diarrhea                                | Secretory diarrhea               |
 | ----------- | ----------------------------------------------- | -------------------------------- |
 | Mechanism   | Osmotic substance draws out fluid<br><br>Always due to ingestion of osmole               | Epithelial cells secrete fluid   |
@@ -85,6 +83,12 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | 72-hour fecal fat excretion | Normal: <7g/day<br>Elevated:>7g/day      | Increased in [[Fat malabsorption]] of any cause                                                |
 | Fecal elastase              | Low                                      | Low in pancreatic insufficiency, causing [[Fat malabsorption]]                                 |
 | Stool pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
+
+### Chronic diarrhea investigations:
+| Key tests          | Result                                   | Explanation                     | Indication                          |
+| ------------------ | ---------------------------------------- | ------------------------------- | ----------------------------------- |
+| Fecal electrolytes | >50: Osmotic<br><50: Secretory           |                                 | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea                                    |
+| Fecal pH           | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars | Useful to identify Osmotic diarrhea |
 
 ---
 
