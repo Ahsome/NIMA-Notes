@@ -8,8 +8,26 @@
 # Information
 Sleep Apnea is cessation of breathing during sleep, usually > 10 seconds
 Two main types:
-1. Central sleep apnea; No effort to breath
+1. Central sleep apne:; No effort to breath
 2. Obstructive sleep apnea: Decreased air flow despite effort to breath
+	1. ***Much more common*
+
+### Central sleep apnea:
+1. Patients with marginal ventilation when awake
+	1. Hypoventilate when awake, ceases when sleep
+	2. Causes:
+		1. CNS disease (encephalitis)
+		2. Neuromuscular disease (polio, ALS)
+		3. Severe kyphoscoliosis
+		4. Narcotics
+2. Cheyne-Stoes breathing
+	1. Common in [[Heart Failure]] and [[Stroke]]
+	2. Due to delayed detecting/responce to changes in PaCO2
+	3. ![[Pasted image 20230514001916.png|600]]
+
+### Obstructive sleep apnea:
+1. Recurrent soft tissue collapse in the pharynx
+2. Strongest risk factor is obesity
 
 > [!Important]
 - Important point
@@ -22,6 +40,8 @@ Two main types:
 3. Loud snoring
 
 ### Risk factors:
+**Obstructive**:
+1. Obesity, strongest risk factor
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -64,7 +84,9 @@ Two main types:
 ---
 
 # Complications
-1. Complications of disease
+1. [[Hypertension]]
+2. [[Pulmonary Hypertension]]
+3. [[Arrhythmias]]
 
 ---
 

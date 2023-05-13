@@ -154,7 +154,9 @@ More questions
 
 
 # Complications
-Chronic pulmonary disease
+1. [[Chronic Pulmonary Disease (COPD)]]
+2. [[Sleep Apnea]]: Central sleep anea due to causing Cheyne-Stokes breathing
+	1. Cyclic breathing due to delayed detection to changes in PaCO2
 
 
 # Extra
