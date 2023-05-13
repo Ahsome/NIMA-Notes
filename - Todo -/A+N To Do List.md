@@ -1,4 +1,4 @@
-![[Pasted image 20230513190458.png]]
+![[Pasted image 20230513220746.png]]
 
 **ALSO ADD**:
 - [ ] Vertigo
@@ -103,7 +103,7 @@ A patient with fever
 [[Pneumonia]]
 [[Diarrhea]]
 [[STI]]
-[[Sepsis]]
+[[Sepsis (and SIRS)]]
 A patient with transient LOC
 [[Syncope]]
 [[Seizure]]

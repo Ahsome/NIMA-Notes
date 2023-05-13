@@ -74,6 +74,9 @@ Diagnosis: clinical findings + urinalysis
 | Urine culture not routinely done unless treatment fails                          |                                                                                                                                               | Tx: nephrectomy for xanthomatous, drainage plus antibiotics if abscess                                                                                                                                                                                   |
 |                                                                                  |                                                                                                                                               |                                                                                                                                                                                                                                                          |
 
+>[!Warning] 
+>DO NOT GIVE TRIMETHOPRIM TO PREGNANT WOMEN
+
 For patients with UTI and septis shock:
 1. Gentamicin intravenously over 3 to 5 minutes, plus amoxicillin 2 g intravenously, 6-hourly
 2. If gentamycin is contraindicated: ceftriaxone 1 g intravenously, daily
