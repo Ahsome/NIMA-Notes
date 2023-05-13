@@ -41,20 +41,26 @@ Colorectal Cancer is the 3rd most common cancer and is very deadly. It
 --- 
 # History
 ### Symptoms
- Occurs anywhere in colon
+ - Occurs anywhere in colon
 - Asymtpomatic and detected by screening (colonoscopy + biopsy)
-| Right-sided (proximal/ascending) | Left-sided (distal/descending)        |
+- Unintentional weight loss, fevers, night sweats, loss in appetite
+- PR bleeding (haematochezia)
+- Abdominal pain
+- Anaemia
+- Metastasis - early satiety, abdominal distention, RUQ tenderness (liver mets), LHS supracvlavicular lymphadenopathy
+
+| Right-sided (proximal/ascending) |Left-sided (distal/descending)|
 | -------------------------------- | ------------------------------------- |
 | Iron-deficiency anaemia          | Haematochezia                         |
 | Weight loss                      | Blood-streaked stool                  |
-|                                  | Change in stool "caliber"  - narrower |                                 |                                       |
+|                                  |Change in stool "caliber" - narrower and liquid|                                 |                                       |
 
 ### Risk factors:
 - >50 years age
-
-
-### Questions to ask
->*"Do you notice any ???"*
+- FHx of colon cancer
+- Adenomatous villous polyps
+- FAP
+- Lynch Syndrome
 
 ---
 
@@ -63,22 +69,26 @@ Colorectal Cancer is the 3rd most common cancer and is very deadly. It
 - Fatigue
 - Night sweats
 - Bloody stools 
+- Adbominal distention
+- RUQ tenderness (liver mets)
+- Left supraclavicular lymphadenopathy
 
 ---
 
 ## Investigations
 | Key Tests                            | Result                          | Explanation                                                                          |
 | ------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------ |
-|Colonoscopy + biopsy| High-grade dysplasia + invasion | Cancer VS benign polyp                                                               |
-| CEA (carcinoembryonic antigen)                                  | High                            | Not for diagnpsis purposes, but used every year to track disease burden and progress |
+| Colonoscopy + biopsy                 | High-grade dysplasia + invasion | Cancer VS benign polyp                                                               |
+| CEA (carcinoembryonic antigen)       | High                            | Not for diagnpsis purposes, but used every year to track disease burden and progress |
 | Fecal occult blood testing (FOBT)    | High                            | Performed annually                                                                   |
-|Fecal immunohistochemical test (FIT)| Haemoglobin and DNA high        | Performed annually                                                                                     |
+| Fecal immunohistochemical test (FIT) | Haemoglobin and DNA high        | Performed annually                                                                   |
+| Barium enema Xray                    | Visualise obstruction                                |                                                                                      |
 
-Other investigations
+*Other investigations:*
 | Additional Tests       | Result                           |
 | ---------------------- | -------------------------------- |
 | Flexible sigmoidoscopy | Visualises descending colon only |
-| CT colonography        | Bowel prep required              |
+| CT colonography        |Bowel prep required, but less invasive than a colonoscopy|
 
 ---
 
@@ -92,15 +102,16 @@ Other investigations
 	- Some patients with limited mets receive surgery
 - After remission: annual CT, colonoscopy and CEA level (carcinoembryonic antigen)
 	- Note: CEA level is not used for diagnosis purposes, but rather for disease burden and prognosis 
+
 ---
 
 # Complications
-1. Complications of disease
+1. Bacteraemia and sepsis
+	- Strep Bovis - normal colonic bacteria but can cause bacteraemia in colon cancer
+	- Clostridium septicum - causes gangrene / myonecrosis
 
 ---
 
 # Extra
 ## Relevant notes:
-1. 
-## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. BnB - Colon Cancer
