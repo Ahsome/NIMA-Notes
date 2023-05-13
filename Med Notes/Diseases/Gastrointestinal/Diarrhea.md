@@ -22,7 +22,7 @@ Diarrhea is the symptom of loose, watery stools that occur more frequently than 
 **Most common** form of diarrhea. Cases are mostly **viral** and **self-limited**
 
 > [!Important]
-- Important point
+- Stool culture not needed in [[#Acute Diarrhea:]] unless for high-risk patients. See [[#Investigations]] or [[#Overall management]]
 
 --- 
 # History
@@ -47,9 +47,10 @@ Diarrhea is the symptom of loose, watery stools that occur more frequently than 
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Stool culture|Potential bacteria|Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>Fever > 38 degrees <br>4. High-risk patient|
+| Key Tests                 |Result| Explanation                                                                                                                                                     |Indications      |
+| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Stool culture |Potential bacteria|Identifies: <br> - Salmonella <br> - Campylobacter <br> - Shigella (inc. O15:H7) <br> <br> |- Severely-ill patients with acute diarrhea <br>- Bloody diarrhea <br> <br>Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>3. Fever > 38 degrees <br>4. High-risk patient |
+|Ova and parasites|Potential ova/parasites|Identifies: <br>- Giardia <br>- Cryptosporidium <br>- Entameba histolytica |  |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
