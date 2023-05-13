@@ -24,6 +24,7 @@ The most common *bacterial* causes of acute diarrhea are:
 1. Salmonella
 2. Campylobacter
 3. Shigella
+4. C. difficile
 
 The most common *parasitic* causes of acute diarrhea are:
 1. Giardia
@@ -44,9 +45,9 @@ Differences include:
 | ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- |
 | Mechanism   | Osmotic substance draws out fluid<br><br>Always due to ingestion of osmole | Epithelial cells secrete fluid                                                                                                           | Fat malabsorption                         | Invasive bacteria or parasite infections |
 | Stools      | Low volume watery stools                                                   | Large volume watery stools                                                                                                               | Steatorrhea (bulky, aple, foul-smelling_) | Blood or pus in stool                    |
-| Fasting     | Improves during fasting                                                    | Persits during fasting and sleep                                                                                                         |                                           |                                          |
+| Fasting     | Improves during fasting                                                    | Persits during fasting and sleep                                                                                                         |                                           |  |
 | Osmotic gap | High stool gap                                                             | Low stool gap                                                                                                                            |                                           |                                          |
-| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose              | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]] | Fat malabsorption                         | Invasive bacteria or parasite                                         |
+| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose              | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]] | Fat malabsorption                         |Invasive bacteria or parasite: <br>- C. difficile|
 
 Other causes include:
 1. [[Irritable bowel syndrome]]

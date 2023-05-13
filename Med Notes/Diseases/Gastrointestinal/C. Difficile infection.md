@@ -6,23 +6,16 @@
 ---
 
 # Information
-Irritable bowel syndrome is chronic, *functional* bowel disorder. The cause is *poorly understood* and has *few reliable treatments*:
-- Functional: Anatomy and testing look normal
+C. Difficile infection is an infection caused by *Clostridioides difficile*. It is a ubiquitious spore, that is *not harmful with normal GI flora*
 
 > [!Important]
-- It is more likely to affect woman than men
-- It is diagnosed via the ROME IV criteria. See [[#Diagnosis]]
+- Not possible with normal GI flora
 
 --- 
 # History
 ### Symptoms
-1. Abdominal pain
-2. Potentially:
-	1. Constipation
-	2. [[Diarrhea]]
 
 ### Risk factors:
-1. **Woman**
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -52,14 +45,7 @@ Irritable bowel syndrome is chronic, *functional* bowel disorder. The cause is *
 ---
 
 # Management
-## Diagnosis
-Diagnosis requires the **ROME IV criteria**:
-1. Abdominal pain, 1 day per week over 3 moths
-2. One of the following:
-	1. Better or worse with defecation
-	2. Change in stool frequency
-	3. Change in stool appearance
-
+## Treatment
 
 ## Drug overview
 
