@@ -19,6 +19,9 @@ It has **three** key manifestations:
 2. Acute arthritis: Similar to [[Gout]]
 	1. Result after **parathyroidectomy**, due to fluctuations in calcium levels
 3. Chronic joint disease: Similar to [[Osteoarhritis]]
+	1. Progressive joint and cartilage degeneration
+	2. Occurs in 50% of patients with CPPD
+	3. Bony enlargement and tenderness, similar to [[Osteoarhritis]]
 
 > [!Important]
 - Important point
@@ -26,9 +29,14 @@ It has **three** key manifestations:
 --- 
 # History
 ### Symptoms
-1. Pain, redness, warmth, swelling
-2. 50% cases involve Knee
-	1. Contrast with [[Gout]], where it is commonly in the [[Glossary#^d61e39|Podagra]]
+1. Symptomatic pseudogout:
+	1. Pain, redness, warmth, swelling
+	2. 50% cases involve Knee
+		1. Contrast with [[Gout]], where it is commonly in the [[Glossary#^d61e39|Podagra]]
+2. Chronic joint disease:
+	1. Bony enlargement
+	2. Tenderness
+	3. Similar to [[Osteoarhritis]]
 
 ### Risk factors:
 1. Older patients
@@ -66,12 +74,18 @@ It has **three** key manifestations:
 
 # Management
 ## Treatment
+It is *only* treated when there is a pseudogout attack. This can involve:
+1. Intraarticular glucocorticoid injection
+2. NSAIDs
+3. Colchicine
+
+Prophylaxis includes: Colchicine
+
+>[!Note] Chronic joint disease management
+If chronic joint disease, treatment is the same as [[Osteoarhritis]]
 
 ## Drug overview
 
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
 
 ^6df757
 

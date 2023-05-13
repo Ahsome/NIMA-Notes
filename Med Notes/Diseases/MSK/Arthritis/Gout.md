@@ -1,10 +1,5 @@
 *Created on 10th May 2023*
 
----
-```toc
-```
----
-
 # Information
 Gout is a joint disorder where **Monosodium urate** is deposited in joints, most commonly the **base of great toe (podagra)**. They come from uric acid in the blood binding to sodium, forming crystals. This triggers an **inflammatorary response**, and causes *acute recurrent attacks of arthritis*
 
@@ -32,6 +27,9 @@ It is urate crystals in *connective tissues*:
 - Not useful to measure uric acid levels for hyperuriemia for gout given most hyperuricemic patines never develop gout, they require a genetic disposition (See [[#Information]]) ^76ceac
 - Allopurinol/Febuxostat can increase toxicity of chemo agents ([[Azathioprine]], [[6-MP]]) as they prevent their breakdown ^23da28
 
+---
+```toc
+```
 --- 
 # History
 ### Symptoms
