@@ -122,6 +122,11 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 |Stool pH| Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ### Chronic diarrhea investigations:
+Testing overview: ^688bf9
+>1. Osmotic diarrhea: Fecal electrolytes, pH and reducing substances
+:2. Secretory diarrhea: Fecal electrolytes, cholestyramine, test for miscroscopic collitis
+?3. Fatty diarrhea: Fecal fat, elastase
+?4. Inflammatory diarrhea: Fecal WBC, stool culture, calprotectin
 
 | Key tests           | Result                                   | Indication                                                                  | Explanation                                                                       |
 | ------------------- | ---------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -168,7 +173,8 @@ Supportive treatent includes:
 2. Anti-diarrheal agents, such as [[Lopiramide]]
 
 ## Chronic diarrhea management
-Management involves initial diagnosis of cause
+Management involves initial diagnosis of cause. This includes:
+![[#^688bf9]]
 ## Secretory Diarrhea
 Treatment depends on the cause of the secretory diarreha:
 
