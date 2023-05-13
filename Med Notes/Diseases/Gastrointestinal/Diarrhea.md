@@ -102,7 +102,7 @@ Low in pancreatic insufficiency, causing [Fat malabsorption](app://obsidian.md/
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+|Abdomen|Distension|If, combined with large and bloody diarrhea, consider [[Toxic Megacolon]]|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |

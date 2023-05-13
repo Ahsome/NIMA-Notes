@@ -13,11 +13,16 @@ It occurs due to nitrix oxide inhibiting smooth muscle tone, leading to intestit
 The thinning of the walls can lead to perforation
 
 > [!Important]
-- Important point
+- Diagnosis from **diarrhea** and **distension**
 
 --- 
 # History
 ### Symptoms
+1. Severe, bloody diarrhea
+2. Abdominal pain and distension
+3. Systemic toxicity
+	1. Fever
+	2. Shock
 
 ### Risk factors:
 
@@ -29,7 +34,9 @@ The thinning of the walls can lead to perforation
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+|Heart rate|>120|Systemic distension|
+|Temperature |38 degrees|^^|
+|Volume depletion|  |^^|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -38,9 +45,11 @@ The thinning of the walls can lead to perforation
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Tests      | Result                     | Explanation                          |
+| -------------- | -------------------------- | ------------------------------------ |
+| FBC            | Neutrophils >10.5k         | Systemic signs                       |
+| Blood pressure | Hypotension                | ^^                                     |
+| CXR            | Large abdominal distension | ![[Pasted image 20230513181547.png]] |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -49,7 +58,11 @@ The thinning of the walls can lead to perforation
 ---
 
 # Management
-## Treatment
+## Mangement:
+1. NPO
+2. Nasograstic decompression
+3. Antibiotics: Prevent systemic effects
+4. Surgery: If
 
 ## Drug overview
 
