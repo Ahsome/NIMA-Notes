@@ -123,8 +123,8 @@ Syphillis:
 | Stage | Duration | Symptoms |
 |-------|----------|----------|
 | Primary | 2-3 weeks | - Painless chancre<br>- Ulcer, on penis<br>- Raised, 1-2cm<br>- Resolves spontaneously |
-| Secondary | Several weeks to months | - Flu-like symptoms (headache, malaise, sore throat)<br>- Rash on all extremities, maculopapular rash including palms and soles<br>- Resolves spontaneously<br>- Diffuse lymphadenopathy (classically in epitrochlear nodes, called sailor's handshake)<br>- Condylomata lata: raised, large, gray regions found in moist areas, like mouth and perineum |
-| Tertiary | Years after infection | - Aortitis: aortic dilation and dissection<br>- Gummas: nodules/ulcers in skin, bones, other organs<br>- Neurosyphilis: meningitis, progressive dementia<br>- Tabes dorsalis: demyelination of posterior columns, wide-based gait, ataxia, falls and loss of balance<br>- Argyll Robertson pupil: small, irregular pupils that do not constrict to light, but do constrict to accommodation |
+| Secondary |Several weeks to months| - Flu-like symptoms (headache, malaise, sore throat)<br>- Rash on all extremities, maculopapular rash including palms and soles<br>- Resolves spontaneously<br>- Diffuse lymphadenopathy (classically in epitrochlear nodes, called sailor's handshake)<br>- Condylomata lata: raised, large, gray regions found in moist areas, like mouth and perineum |
+| Tertiary | Years after infection |- Aortitis: aortic dilation and dissection<br>- Gummas: nodules/ulcers in skin, bones, other organs<br>- Neurosyphilis: meningitis, progressive dementia<br>- T**abes dorsalis:** demyelination of posterior columns, wide-based gait, ataxia, falls and loss of balance<br>- **Argyll Robertson** pupil: small, irregular pupils that do not constrict to light, but do constrict to accommodation|
 
 **Genital Herpes**:
 3. Primary infection:
@@ -132,7 +132,7 @@ Syphillis:
 	2. May lead to painful vesicles on erythematous base
 	3. Can cause fever and lymphadenopathy
 4. Latent phase:
-	1. ???
+	1. Virus enters in lumbar sacra nerves
 5. Recurrent eruptions:
 	1. Vesicles and ulcers
 	2. Less severe than primary infection
@@ -180,6 +180,12 @@ Syphillis:
 	1. Do Lumbar puncture
 		1. This is because Blood test do not necessarily indicate CNS disease
 	2. CSF for VDRL is highly specific for neurosphillys
+
+**Genital Herpes**:
+1. Preferred test: PCR for viral DNA
+	1. Requires samlpe of vesicular fluid
+	2. Alternative: Viral culture
+2. S
 
 ---
 
