@@ -2,9 +2,11 @@
 
 **ALSO ADD**:
 - [ ] Vertigo
-- [ ] Altered mental status
+- [ ] Hyper/hypo-thyroid
+- [ ] Delirium tremens
+- [ ] BPH
+- [ ] Sleep apnoea
 - [ ] Multiple sclerosis
-- [ ] STI
 - [ ] TB
 - [ ] Meningitis
 
