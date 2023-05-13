@@ -131,7 +131,7 @@ Syphillis:
 
 ## Investigations
 
-|Test| Chlamydia                                             | Gonorrhea                                                   |
+|Test | Chlamydia                                             | Gonorrhea                                                   |
 |-----------------------|-------------------------------------------------------|-------------------------------------------------------------|
 | Gram stain            | Not well                                              | Positive                                                    |
 | Special stains        | Giemsa                                                | None                                                        |
@@ -141,13 +141,17 @@ Syphillis:
 | Microscopic view      |No visible bacteria, as they live inside cells|Visible intacellular gram-negatve diplococci, often found in pairs or clusters|
 | Complications         | Lymphogranuloma, pelvic inflammatory disease (PID)     | PID, infertility, sepsis                                    |
 | Treatment             | Antibiotics, such as azithromycin and doxycycline      | Antibiotics, such as ceftriaxone and azithromycin            |
-| Possible outcomes     | May lead to infertility, ectopic pregnancy, or PID     | May lead to infertility, ectopic pregnancy, or PID           |
+| Possible outcomes     |May lead to infertility, ectopic pregnancy, or PID| May lead to infertility, ectopic pregnancy, or PID           |
 | Prevention            | Using condoms during sex and getting regular testing   | Using condoms during sex and getting regular testing         |
 
 **Syphilis:**
 1. Non-treponemal serologic tests:
-	1. Tests for reaction o serum to cardiolipin antigen
-	2. 
+	1. VDRL (Venereal Disease Research Laboratory) test
+	2. RPR (Rapid Plasma Reagin) test
+	3. Semi-quantittive results reported as titer
+	4. Tests for reaction ofo serum to cardiolipin antigen
+	5. If syphillis antibodies present --> reaction
+	6. False positive occurs in viral infections, others
 
 ---
 
