@@ -88,6 +88,9 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 	1. Vesicles and ulcers
 	2. Less severe than primary infection
 	3. Antivody testing is positive in non-primary disease
+6. Chancroid:
+	1. Rare, sexually transmitted infection due to Haemophilus ducreyi
+	2. Small, gram negative rod
 
 > [!Important]
 - Important point
@@ -136,6 +139,8 @@ Syphillis:
 5. Recurrent eruptions:
 	1. Vesicles and ulcers
 	2. Less severe than primary infection
+
+**Chancroid:**
 
 ### Risk factors:
 
@@ -227,13 +232,24 @@ Syphillis:
 	2. Due to killed bacteria causing immune response
 	3. Self-limited
 
-
 **Long-term:**
 1.  Regular monitoring: Patients with syphilis require regular blood tests to monitor the effectiveness of treatment and ensure that the infection is fully cleared.
 2.  Partner notification: Sexual partners of patients diagnosed with syphilis should be notified and offered testing and treatment if necessary.
 3.  Safe sex practices: Patients with syphilis should be advised to practice safe sex to prevent re-infection or transmission to others.
 4.  Avoiding alcohol and drug use: Substance abuse can interfere with treatment and exacerbate symptoms of syphilis.
 5.  Vaccinations: Patients with syphilis may be advised to receive vaccinations against hepatitis A and B, as well as human papillomavirus (HPV).
+
+### Genitel Herpes:
+| Acute Treatment of Genital Herpes According to Australian ETG         | Recommendations                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Timing of Treatment                                                   | Treatment should be initiated as soon as possible for people experiencing their first episode of genital herpes, or those who have experienced previous episodes but have not yet been diagnosed.                                                                                                                                                                                                                             |
+| First-Line Treatment                                                  | Oral aciclovir 400mg, three times daily for 7-10 days or until lesions have healed.                                                                                                                                                                                                                                                                                                                                       |
+| Alternative Treatments                                                |Valaciclovir and famciclovir can be used in place of aciclovir.|
+| Additional Treatments                                                 |Topical treatments such as lidocaine gel or topical anaesthetic creams may be used to relieve pain and discomfort associated with lesions. Systemic analgesics such as paracetamol or non-steroidal anti-inflammatory drugs (NSAIDs) can also be used to manage pain. |
+| Sexual Contact                                                        |Patients with genital herpes should be advised to avoid sexual contact during the acute phase of the illness or until all lesions have healed in order to reduce the risk of transmission to others. |
+| Recurrent Episodes                                                     |People with recurrent episodes of genital herpes may benefit from suppressive antiviral therapy to reduce the frequency and severity of outbreaks.|
+1. Important to note, it does not eliminate  latent viral infection
+2. Chronic suppressive therapy can be used if >6 episodes per year
 
 ## Criteria
 ### Example severity/test score:
