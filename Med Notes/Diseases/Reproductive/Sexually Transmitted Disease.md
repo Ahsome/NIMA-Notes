@@ -74,6 +74,21 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 				3. Constrict to accomodation
 				4. ![[Pasted image 20230513221434.png]]
 
+### Genital herpes:
+1. Sexually transmitted infection due to herpes simplex virus.
+2. Normally HSV-2, sometimes HSV-1
+3. Primary infection:
+	1. Sometimes asymptomatic
+	2. May lead to painful vesicles on erythematous base
+	3. Can cause fever and lymphadenopathy
+	4. Antibody testing is negative
+4. Latent phase:
+	1. Virus enters in lumbar sacra nerves
+5. Recurrent eruptions:
+	1. Vesicles and ulcers
+	2. Less severe than primary infection
+	3. Antivody testing is positive in non-primary disease
+
 > [!Important]
 - Important point
 
@@ -111,6 +126,17 @@ Syphillis:
 | Secondary | Several weeks to months | - Flu-like symptoms (headache, malaise, sore throat)<br>- Rash on all extremities, maculopapular rash including palms and soles<br>- Resolves spontaneously<br>- Diffuse lymphadenopathy (classically in epitrochlear nodes, called sailor's handshake)<br>- Condylomata lata: raised, large, gray regions found in moist areas, like mouth and perineum |
 | Tertiary | Years after infection | - Aortitis: aortic dilation and dissection<br>- Gummas: nodules/ulcers in skin, bones, other organs<br>- Neurosyphilis: meningitis, progressive dementia<br>- Tabes dorsalis: demyelination of posterior columns, wide-based gait, ataxia, falls and loss of balance<br>- Argyll Robertson pupil: small, irregular pupils that do not constrict to light, but do constrict to accommodation |
 
+**Genital Herpes**:
+3. Primary infection:
+	1. Sometimes asymptomatic
+	2. May lead to painful vesicles on erythematous base
+	3. Can cause fever and lymphadenopathy
+4. Latent phase:
+	1. ???
+5. Recurrent eruptions:
+	1. Vesicles and ulcers
+	2. Less severe than primary infection
+
 ### Risk factors:
 
 ### Questions to ask
@@ -135,7 +161,7 @@ Syphillis:
 
 **Syphilis:**
 1. Non-treponemal serologic tests:
-	1. Screening test, if positive do [[#^8e56c0|teppenemal serological test]]
+	1. Screening test, if positive do [[#^8e56c0|teppenemal serological test]]. Do Teppnemal first if primary
 	2. Semi-quantittive results reported as titer
 	3. Tests for reaction of serum to cardiolipin antigen
 	4. If syphillis antibodies present --> reaction
@@ -152,8 +178,8 @@ Syphillis:
 	4. Better test in primary disease with chancre
 4. Neurosyphillis:
 	1. Do Lumbar puncture
-	2. Blood test do not necessarily indicate CNS disease
-	3. CSF for VDRL is highly specific for neurosphill
+		1. This is because Blood test do not necessarily indicate CNS disease
+	2. CSF for VDRL is highly specific for neurosphillys
 
 ---
 
@@ -185,7 +211,12 @@ Syphillis:
 ### Syphillis management:
 **Acute:**
 1. Give them benzathine penicillin G IM. If cannot tolerate, give doxycycline or ceftriaxone
-2. If neurosyphillis, give aqueous crystalline penicillin G IV
+2. If neurosyphillis, give aqueous crystalline penicillin G IV. Can also give probenecid as it inhibits renal from excreting penicillin
+3. VDRL and RPR titers will fall
+4. Treatment can cause Jarish-Herxheimer reaction:
+	1. FLu-like syndorme after startig antibiotics
+	2. Due to killed bacteria causing immune response
+	3. Self-limited
 
 
 **Long-term:**
@@ -206,6 +237,10 @@ Syphillis:
 # Complications
 1. Chlamydia: Lymphogranuloma and Trachoma
 2. Pelvic Inflammatory Disease: Caused by [[#Chlamydia:]] and [[#N. Gonorrhoea:]]
+3. Treatment can cause Jarish-Herxheimer reaction:
+	1. Flu-like syndorme after startig antibiotics
+	2. Due to killed bacteria causing immune response
+	3. Self-limited
 
 ---
 
