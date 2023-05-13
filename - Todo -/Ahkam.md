@@ -25,7 +25,7 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Headaches]]
 - [x] STI
-- [x] [[Parkinsons]]
+- [x] [[Parkinson's]]
 - [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
 - [x] Diarrhea

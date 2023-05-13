@@ -13,7 +13,9 @@ It is associated with:
 2. Hyperparathyroidism
 
 It has **three** key manifestations:
-1. Asymptomatic: Only discovered on imaging
+1. Asymptomatic:
+	1. Only discovered on imaging
+	2. Specifically, **chondrocalcinosis**: calcification of cartilage
 2. Acute arthritis: Similar to [[Gout]]
 3. Chronic joint disease: Similar to [[Osteoarhritis]]
 

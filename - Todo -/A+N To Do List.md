@@ -96,7 +96,7 @@ A patient with a fall
 [[Syncope]]
 [[Seizure]]
 [[Hypolgycemia]]
-[[Parkinsons]]
+[[Parkinson's]]]
 A patient with fever
 [[Urinary Tract Infection (UTI)]]
 [[Cellulitis and Erysipelas]]
