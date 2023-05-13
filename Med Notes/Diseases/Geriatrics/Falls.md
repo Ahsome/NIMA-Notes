@@ -16,6 +16,8 @@ A 90 year old female presented after an episode of a falll at home and was found
 - Anxiety
 - Visual acuity
 - Poor balance + mobility 
+- Low weight / BMI
+- Low calcium and Vitamin D intake 
 
 ***Intrinsic factors:***
 - Medical / neuropsychiatric conditions
@@ -58,32 +60,36 @@ A 90 year old female presented after an episode of a falll at home and was found
 # Management
 ### *Acute management*
 1. Medication review - polypharmacy / meds that can cause postual drop
-2. If fracture, manage it using a splint / immbolise and analgesia
-3. Falls risk assessment
-4. Treat osteoporosis 
+2. Ensure total calcium intake of 1300mg daily
+3. Ensure vitamin D concentration of 75nmol/L or more
+4. If fracture, manage it using a splint / immbolise and analgesia
+5. Falls risk assessment
+7. Treat osteoporosis 
 	1. ==Bisphosphonates== - reduces osteoclasts
-	2. ==Denosumab== - Inhibits RANKLL which stops development of osteoclasts 
-	3. ==HRT== 
+		- SE: OSTEONECROSIS OF THE JAW
+	2. ==Denosumab== - Inhibits RANKL which stops development of osteoclasts 
+		- Dose – 60mg SC, once every 6 months
+	1. ==HRT== 
 
 ### *Long-term management*
 1. Fall prevention strategies
 	- Falls bracelet
-	- Exercise (e.g. Tai Chi)
+	- Exercise (e.g. Tai Chi) - to strengthen muscles
 	- Redication review
 	- OT assessment of home 
 	- Podiatry interventions
 	- Hip protectors to prevent fractures if future falls 
 	- Walking stick / 4-wheely walker
 	- Optometrist to check-up on vision
-1. Treatment for osteoporosis
+2. Treatment for osteoporosis
 	- Reduce risk - cease smoking, alcohol, med review
 	- Weight bearing exercises
 	- Good nutrition 
 	- Calcium and Vitamin D supplementation
-2. Physio assessment
+3. Physio assessment
 	- Walking aids if needed 
 	- OT assessment for home
-3. GP for ongoing care
+4. GP for ongoing care
 
 
 ---
