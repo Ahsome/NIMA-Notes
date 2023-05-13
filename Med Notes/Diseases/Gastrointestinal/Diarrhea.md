@@ -62,9 +62,13 @@ The most common *parasitic* causes of acute diarrhea are:
 |Stool culture |Potential bacteria|Identifies: <br> - Salmonella <br> - Campylobacter <br> - Shigella (inc. O15:H7) <br> <br> |- Severely-ill patients with acute diarrhea <br>- Bloody diarrhea <br> <br>Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>3. Fever > 38 degrees <br>4. High-risk patient |
 |Ova and parasites|Potential ova/parasites|Identifies: <br>- Giardia <br>- Cryptosporidium <br>- Entameba histolytica |Only ordered if you think patient has had exposure to a parasite. More often done in [[#Persistent diarrhea]] or [[#Chronic diarrhea]]|
 
-| Additional Tests | Result                 | Explanation |
-| ---------------- | ---------------------- | ----------- |
-| Fecal fat        | Potential fat in stool | Identifies if it is due to             |
+Additional tests, although more normally done in [[#Persistent diarrhea]] and [[#Chronic diarrhea]]
+| Additional Tests            | Result                                   | Explanation                                                                                    |
+| --------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Fecal fat                   | Potential fat in stool                   | Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain |
+| 72-hour fecal fat excretion | Normal: <7g/day<br>Elevated:>7g/day      | Increased in [[Fat malabsorption]] of any cause                                                |
+| Fecal elastase              | Low                                      | Low in pancreatic insufficiency, causing [[Fat malabsorption]]                                 |
+| Stoo pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ---
 
