@@ -7,15 +7,17 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] [[Breast Cancer]]
-- [ ] [[Dementia]]
 - [ ] [[Parkinsons]]
 - [ ] Gastroenteritis
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
+- [ ] Upper GI bleeding
+- [ ] STI
 
 
 ## In Progress
 
+- [ ] Diarrhea
 
 
 ## Completed
@@ -26,6 +28,7 @@ kanban-plugin: basic
 - [x] [[Diabetes Mellitus]]
 - [x] [[Gout]]
 - [x] [[Septic Arthritis]]
+- [x] [[Dementia]]
 - [x] [[Osteoarhritis]]
 - [x] [[Lung Cancer]]
 - [x] [[Rheumatoid Arthritis]]
