@@ -59,7 +59,7 @@ Classic causes of secretory diarrhea include:
 --- 
 # History
 ### Symptoms
--
+- Diarrhea. Number of ti
 
 ### Risk factors:
 
