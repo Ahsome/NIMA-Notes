@@ -46,39 +46,31 @@ Cellulitis is a bacterial skin infection, and can commonly be confused with erys
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Tests       | Result                 | Explanation   |
+| --------------- | ---------------------- | ------------- |
+| FBC, U+E, LFTs  | Increased           | Infection and inflammation |
+| Skin swab + MCS | S.pyogenes VS S.aureus | Affects the management              |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
 # Management
 ## Treatment
-For erysipelas (S.pyogenes)
-1. Phenoxymethylpenicillin 500 mg or cefalexin 500 mg orally 6hr, for 5 days
-2. Systemic symptoms: benzylpenicillin 1.2 g (child: 50 mg/kg up to 1.2 g) intravenously, 6-hourly.
 
-For cellulitis (S.aureus)
-1. Flucloxacillin 500 mg orally 6hr, for 5 days or clindamycin 450 mg
-2. Systemic symptoms: flucloxacillin 2 g (child: 50 mg/kg up to 2 g) intravenously, 6-hourly.
-3. MRSA: vancomycin intravenously
+| Erysipelas (S.pyogenes)                                                                              | Cellulitis (S.aureus)                                                                          |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Phenoxymethylpenicillin 500 mg or if allergic, cefalexin 500 mg orally 6hr, for 5 days               | Flucloxacillin 500 mg orally 6hr, for 5 days or if allergic, clindamycin 450 mg                |
+| **Systemic symptoms**: benzylpenicillin 1.2 g (child: 50 mg/kg up to 1.2 g) intravenously, 6-hourly. | **Systemic symptoms:** flucloxacillin 2 g (child: 50 mg/kg up to 2 g) intravenously, 6-hourly. |
+|                                                                                                      | MRSA: vancomycin intravenously                                                                 |                                                                                                     |                                                                                                |
 
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
 
 ---
 
 # Complications
-1. Complications of disease
+- Necrotising fascitis - deeper infection of muscle and fascia 
+	- Can have bullae (gas from bacteria)
+	- Total obliteration of nerves and vessels
+	- Dead tissue - gangrenous 
 
 ---
 
