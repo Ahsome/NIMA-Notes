@@ -153,6 +153,17 @@ Syphillis:
 	1. Also called wart-like
 	2. On Penis, vulva, or perianal
 	3. Rectal bleeding if perianal
+	4. ![[Pasted image 20230513230425.png|100]]
+
+**Summary**:
+
+| STI        | Symptoms                                             | Asymptomatic | Testing                                      |
+|------------|------------------------------------------------------|--------------|----------------------------------------------|
+| Chlamydia  | Men: pain/burning during urination, penile discharge, pain/swelling in testicles; Women: abnormal vaginal discharge, bleeding between periods/after sex, pelvic pain, pain/burning during urination | Common       | NAATs on urine/swab samples, culture tests on swab samples |
+| Syphilis   | Early stage: small painless sore (chancre) at site of infection, swollen lymph nodes, rash; Late stage: damage to brain, nerves, eyes, heart, blood vessels, liver, bones, joints | Rare         | Blood tests (TPPA, FTA-ABS)                  |
+| Herpes (HSV1/HSV2) | Painful blisters/sores on or around genitals/anus/mouth, fever, headache, muscle aches | Some cases   | Viral culture/PCR tests on swab samples from sores, blood tests for antibodies to HSV |
+| Gonorrhea  | Men: pain/burning during urination, penile discharge, pain/swelling in testicles; Women: abnormal vaginal discharge, bleeding between periods/after sex, pelvic pain, pain/burning during urination | Common       | NAATs on urine/swab samples, culture tests on swab samples |
+| Condylomata (genital warts) | Flesh-colored/gray growths in genital area, itching/discomfort in genital area | Common       | Visual examination by healthcare provider, biopsy of growths in some cases |
 
 ### Risk factors:
 
@@ -273,6 +284,25 @@ Syphillis:
 ### Chancroid:
 1. Azithromycin is the recommended first-line treatment, given as a single dose of 1 gram orally. Alternatively, a 7-day course of erythromycin can be used.
 -   Ceftriaxone is an alternative option for severe or complicated infections:  Single IM of 250mg.
+
+### Anogential warts:
+Sure, here are the key points for treating genital warts according to the Australian Therapeutic Guidelines:
+- Treatment should be guided by the size, number, and location of warts
+- Topical treatments include:
+	- imiquimod cream
+		- toll-like receptor 7 (TLR7) agonist that activates immune cells to produce cytokines, chemokines, and other molecules that stimulate the immune system to attack the virus causing the warts
+	- podophyllotoxin solution or gel
+		- Cytotoxic agent that works by binding to and inhibiting microtubule formation, which is essential for cell division and growth.
+	- sinecatechins ointment.
+		- 
+- Physical treatments include:
+	- cryotherapy (freezing the warts with liquid nitrogen),:
+	- surgical excision
+	- laser therapy.
+- Combination therapy may be more effective than monotherapy.
+- Treatment may need to be repeated, and follow-up should occur until the warts have resolved.
+- Treatment does not cure HPV infection, and patients should be advised on safe sex practices and regular screening for STIs.
+- Referral to a specialist may be necessary for complex cases.
 
 ## Criteria
 ### Example severity/test score:
