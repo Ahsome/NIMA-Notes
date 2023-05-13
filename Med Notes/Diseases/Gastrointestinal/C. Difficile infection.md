@@ -21,11 +21,20 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 # History
 ### Symptoms
 1. Massive watery diarrhea (>3 per day)
+2. Abdominal pain and cramping
+3. Fever and leukocytosis
 
 ### Risk factors:
+1. Recent antibiotic use. Commonly: 
+	1. Clindamycin
+	2. FLuoroquinolones
+	3. Broad spectrum penicillin/cephalosoporin
+2. CHronic PPI
+	1. Loss of protection from H+
 
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Any recent antibiotic use?"*
+>*"Any recent antibiotic use?"*
 
 ---
 
