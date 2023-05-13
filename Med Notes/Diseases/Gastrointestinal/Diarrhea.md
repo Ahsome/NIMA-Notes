@@ -48,6 +48,10 @@ Differences include:
 | Osmotic gap | High stool gap                                                             | Low stool gap                                                                                                                            |                                           |                                          |
 | Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose              | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- Neuroendocrine tumors<br>- Bile acid malabsorption<br><br>See [[#Secretory diarrhea:]] | Fat malabsorption                         | Invasive bacteria or parasite                                         |
 
+Other causes include:
+1. [[Irritable bowel syndrome]]
+2. [[Celiac disease]]
+3. [[Inflammatory Bowel Disease (IBD)]]
 
 ### Secretory diarrhea:
 Classic causes of secretory diarrhea include:
@@ -80,6 +84,8 @@ Classic causes of secretory diarrhea include:
 | ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- |
 | Stools      |Low volume watery stools| Large volume watery stools                                                                                                               |Steatorrhea (bulky, pale, foul-smelling)|Blood or pus in stool|
 |Fever|No|No|No|**Yes**|
+
+^44ce3e
 
 ### Risk factors:
 Fecal elastase	Low	Low in pancreatic insufficiency, causing Fat malabsorptionFecal elastase	Low	Low in pancreatic insufficiency, causing Fat malabsorptionFecal elastase
@@ -127,7 +133,9 @@ Testing overview: ^688bf9
 2. Secretory diarrhea: Fecal electrolytes, cholestyramine, test for miscroscopic collitis
 3. Fatty diarrhea: Fecal fat, elastase
 4. Inflammatory diarrhea: Fecal WBC, stool culture, calprotectin
-^bbcc31
+
+^d9cc10
+
 ![[Pasted image 20230513162648.png]]
 
 | Key tests           | Result                                   | Indication                                                                  | Explanation                                                                       |
@@ -141,7 +149,7 @@ Testing overview: ^688bf9
 |72-hour fecal fat excretion|Normal: <7g/day<br>Elevated:>7g/day|^^|Increased in [[Fat malabsorption]] of any cause|
 |Fecal WBC |Elevated |Identify [[Inflammatory diarrhea]] in chronic patients|Due to infection|
 |Stool culture|Identify pathogens|^^|Due to infection|
-|Fecal calprotectin|  |^^|Produced by WBC|
+|Fecal calprotectin|  |^^ |Produced by WBC|
 
 
 | Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
@@ -176,7 +184,7 @@ Supportive treatent includes:
 
 ## Chronic diarrhea management
 Management involves initial diagnosis of cause. This includes:
-![[#^bbcc31]]
+![[#^d9cc10]]
 
 ![[Pasted image 20230513162644.png]]
 
