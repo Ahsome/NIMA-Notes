@@ -42,7 +42,16 @@ Differences include:
 | Stools      | Low volume watery stools                        | Large volume watery stools       |
 | Fasting     | Improves during fasting                         | Persits during fasting and sleep |
 | Osmotic gap | High stool gap                                  | Low stool gap                    |
-| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- VIPomas<br>- Bile acid malabsorption                                 | 
+| Cause       | Osmoles:<br>- Lactose intolerance<br>- Sorbitol<br>- Latulose | - Cholera<br>- Enterotoxigenic E.Coli (ETEC)<br>- VIPomas<br>- Bile acid malabsorption                                 | 
+
+### Secretory diarrhea:
+Classic causes of secretory diarrhea include:
+1. CHolera
+2. Enterotoxigenic E> COli (ETEC)
+3. Bile acid malabsorption
+	1. Terminal ileum normally absorbs bile acids
+	2. Post-surgy or [[Crohn's Disease]] can cause excess acids to colon, triggering fluid secretion
+	3. Treatment: [[cholestyramine]]
 
 > [!Important]
 - Stool culture not needed in [[#Acute Diarrhea:]] unless for high-risk patients. See [[#Investigations]] or [[#Overall management]]
@@ -85,11 +94,11 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 | Stool pH                     | Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ### Chronic diarrhea investigations:
-| Key tests           | Result                                   | Explanation                     | Indication                                                                  |
-| ------------------- | ---------------------------------------- | ------------------------------- | --------------------------------------------------------------------------- |
-| Fecal electrolytes  | >50: Osmotic<br><50: Secretory           |                                 | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
-| Fecal pH            | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars | Useful to identify Osmotic diarrhea                                         |
-| Reducing substances |                                          | Detects carbohydrates metabolsied to reducing sugars (glucose, lactos,)                                |                                                                             |
+| Key tests           | Result                                   | Explanation                                                                       | Indication                                                                  |
+| ------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Fecal electrolytes  | >50: Osmotic<br><50: Secretory           |                                                                                   | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
+| Fecal pH            | Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars                                                   | Useful to identify Osmotic diarrhea                                         |
+| Reducing substances |                                          | Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose) | Presence suggest carboydrate malabsoprtion, (Osmotic diarrhea)                                                                            |
 
 ---
 
