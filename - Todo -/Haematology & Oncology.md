@@ -9,7 +9,7 @@
 ### *Expected knowledge*
 #### Know in depth
 - [x] [[Anaemia]], including [[Microcytic Anaemia]], [[Macrocytic Anaemia]] and [[Normocytic Anaemia]]
-- [ ] Common malignancies (breast, lung, colorectal & melanoma)
+- [ ] Common malignancies (breast, [[Lung cancer|lung]], colorectal & melanoma)
 
 #### Know principles
 - [ ] Disorders of haemostasis (e.g. thromboembolic disease, haemophilia)

@@ -12,7 +12,7 @@
 	- [x] [[Diabetic Ketoacidosis (DKA)]] / [[Hyperglycaemic Hyperosmolar State (HHS)]]
 - [ ] Hyperthyroidism & Hypothyroidism
 - [ ] Osteoporosis
-- [ ] Obesity / Cushing's disease
+- [x] Obesity / Cushing's disease
 
 #### Know principles
 - [ ] Hyponatraemia 

@@ -8,11 +8,11 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Delirium
+- [x] Delirium
 - [x] [[Falls]]
 
 #### Know principles
-- [ ] Dementia
+- [x] Dementia
 - [ ] Hospital associated functional decline
 - [ ] Incontinence
 

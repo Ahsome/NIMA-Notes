@@ -6,20 +6,20 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[Breast Cancer]]
 - [ ] [[Parkinsons]]
-- [ ] Gastroenteritis
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
-- [ ] Upper GI bleeding
-- [ ] STI
-- [ ] Urinary Incontinence
 - [ ] Bronchiectasis
+- [ ] [[Breast Cancer]]
+- [ ] Urinary Incontinence
+- [ ] Upper GI bleeding
+- [ ] Pseudogout
+- [ ] Sleep Apnea
 
 
 ## In Progress
 
-- [ ] Diarrhea
+- [ ] STI
 
 
 ## Completed
@@ -28,12 +28,14 @@ kanban-plugin: basic
 - [x] [[Headaches]]
 - [x] [[Migranes]]
 - [x] [[Diabetes Mellitus]]
+- [x] Diarrhea
 - [x] [[Gout]]
 - [x] [[Septic Arthritis]]
 - [x] [[Dementia]]
 - [x] [[Osteoarhritis]]
 - [x] [[Lung Cancer]]
 - [x] [[Rheumatoid Arthritis]]
+- [x] Gastroenteritis
 
 
 

@@ -13,7 +13,7 @@
 - [ ] Upper and lower GI bleeding
 
 #### Know principles
-- [ ] Inflammatory bowel disease
+- [x] Inflammatory bowel disease
 - [ ] Colorectal carcinoma
 - [ ] Oncology GORD, peptic ulcer disease & *H.pylori*, Barrett’s oesophagus
 - [ ] Haemochromatosis

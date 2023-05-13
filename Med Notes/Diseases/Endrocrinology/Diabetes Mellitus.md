@@ -202,6 +202,7 @@ A typical regiment includes:
 | Aspart   | Rapid-acting | 3-5hr    |
 | Neutral  | Short-acting | 6.5hr         |
 
+![[Pasted image 20230513184408.png]]
 ##### Lifestyle
 Lifestyle modifications that can be recommended include:
 1. Improve dietary intake

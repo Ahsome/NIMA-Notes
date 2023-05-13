@@ -12,7 +12,7 @@
 - [ ] Bacterial meningitis
 - [x] [[Pneumonia]] and other respiratory tract infections
 - [ ] Urinary tract infections
-- [ ] Skin and soft tissue infections (e.g. cellulitis)
+- [ ] Skin and soft tissue infections (e.g. [[Cellulitis and Erysipelas]])
 - [ ] Diabetic foot infections
 
 #### Know principles

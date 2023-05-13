@@ -40,7 +40,7 @@ Both have relapsing, remitting courses, where flares require medication therapy.
 |Pseudopolyps (healing of polyps) - Colonoscopy                                  | Right lower quadrant pain (TI)                            |
 | Lead pipe appeaarance on X-ray / CT (loss of haustra)                           |Weight loss / malabsoption|
 | Biopsy findings - ccrypt abscesses + neutrophillic infiltration of crypts       |Fistulas - peri-anal, absominal, bladder fistulas|
-|Toxic megacolon - cessation of colonicc contractions --> perforations --> shock|Kidney stones (high calcium oxalate due to malabsorption)|
+|Toxic megacolon - cessation of colonicc contractions --> perforations --> shock --> severe bloody diarrhea|Kidney stones (high calcium oxalate due to malabsorption)|
 
 >[!Important] Rule out infection:
 >-  C.difficile toxin
@@ -128,6 +128,7 @@ Maintenance treatment – maintains remission once initial insult resolves.
 	- Increased risk with UC - especially is >10yr duration and involvement of the right colon (more disease progression)
 	- Colonoscopy repeated every 2-3 years
 2. Smoking improved outcomes in UC, but worsens outcomes in Crohn's (modifiable)
+3. [[Toxic Megacolon]]: Leads to severe, bloody diarrhea, abdominal pain and distension. See toxic megacolon
 
 ---
 
