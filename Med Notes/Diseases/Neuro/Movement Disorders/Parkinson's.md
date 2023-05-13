@@ -55,6 +55,15 @@ Other symptoms:
 
 ---
 
+# Investigation
+## Drug management
+
+| Test | Explanation |
+| ---- | ----------- |
+| LFTs | Used to monitor due to Tolcapone's liver toxicity. See [[#Treatment:]]            |
+
+---
+
 # Management
 ## Overall management:
 Treatment management involves:
@@ -79,6 +88,10 @@ Overall treatment:
 - Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease
 	- Utilise with carbidopa, a  peripheral decarboxylase inhibitor
 	- Can use benserazide
+- COMT inhibitors can be used to prevent off-symptoms of Levodopa
+	- Only use with Levodopa, useless by itself
+	- Entacapone
+	- Avoid Tolcapone due to liver toxicity
 - Dopamine agonists: Used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease  
 	- Pramipexole
 	- Ropinirole
@@ -117,6 +130,10 @@ Overall treatment:
 	1. Enzyme that breaks down levodopa
 	2. As such, only use in combination with levodop
 	3. Boost to prevent off-effects of levodopa
+		1. Entocapone: Peripheral
+		2. Tolcapone: Peripheral, Central. Associate with liver toxicity so need LFT
+
+**MOA-B**
 
 ## Drug overview
 
