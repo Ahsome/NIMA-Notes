@@ -53,6 +53,7 @@ A patient with acute confusion
 [[Delirium]]
 [[Alcohol Toxicity]]
 [[Seizure]]
+[[Hypolgy]]
 A patient with acute weakness
 [[Stroke]]
 [[UMN Lesion]]
