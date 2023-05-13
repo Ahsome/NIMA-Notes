@@ -293,4 +293,4 @@ Comparisons across different subtypes of [[#Non-small cell lung cancer]]:
 ## Relevant notes:
 1. 
 ## References:
-1. 1[*Boads and Beyond - STEP 2:* MSK > Pulmonary Disease > Lung Cancer](http://10.243.109.99:8080/BnB%20Step%202/Pulmonary/1.%20Pulmonary%20Disease/7.%20Lung%20Cancer%20ATF.mkv)
+1. [*Boads and Beyond - STEP 2:* MSK > Pulmonary Disease > Lung Cancer](http://10.243.109.99:8080/BnB%20Step%202/Pulmonary/1.%20Pulmonary%20Disease/7.%20Lung%20Cancer%20ATF.mkv)
