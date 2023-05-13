@@ -29,6 +29,11 @@ Very important, start with a bang
 	1. I heard a systolic murmur
 		1. I will have to check the guidelines/seniors for help, not sure what murmur it is
 
+## Differentials:
+1. If you list differentials, you need to be able to differentiate them
+	1. e.g. Asthma, Pneumonia, Pneumathorax
+		1. Do FBC, CXR, Salbutamol challenge
+
 ## Closing statement:
 1. ...present to hospital...BG of...
 2. The patient has a poor insight of the issue and needs help with ongoing issue
@@ -54,6 +59,9 @@ Very important, start with a bang
 ## heart failure
 - Use New York heart failure association
 	- Example: HF class 2 due to midly symptomatic over past few weeks
+
+## pancreatitis
+- The criteria
 
 # Overall:
 Only bring up informstion you are *ready* to discuss
