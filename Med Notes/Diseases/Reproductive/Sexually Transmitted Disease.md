@@ -6,7 +6,7 @@
 ---
 
 # Information
-Sexually Transmitted Disease is infections sprea
+Sexually Transmitted Disease is infections spread by specifi
 
 > [!Important]
 - Important point
