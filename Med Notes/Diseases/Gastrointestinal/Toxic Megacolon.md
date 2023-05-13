@@ -62,7 +62,7 @@ The thinning of the walls can lead to perforation
 ---
 
 # Complications
-1. Perforation" 
+1. Perforation: Due to rapid distension and thinning of the walls
 
 ---
 
