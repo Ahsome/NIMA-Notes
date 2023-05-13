@@ -98,10 +98,12 @@ Overall treatment:
 - MAO-B inhibitors: early-stage disease or as an adjunct to levodopa in advanced disease
 	- Selegiline
 	- Rasagiline
--   Anticholinergic medications (such as trihexyphenidyl) can be used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
--   Amantadine can be used to control dyskinesias (involuntary movements) associated with levodopa therapy.
--   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
--   Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
+- Anticholinergic used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
+	- Trihexyphenidyl
+- Extra: 
+	- Amantadinecan: Used to control dyskinesias (involuntary movements) associated with levodopa therapy.
+	-   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
+- Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.
 
 **Carbidopa-Levodopa**:
 1. Levodopa crossess BBB, converted to dopamine in CNS by dopa ecarboxylase
@@ -133,7 +135,25 @@ Overall treatment:
 		1. Entocapone: Peripheral
 		2. Tolcapone: Peripheral, Central. Associate with liver toxicity so need LFT
 
-**MOA-B**
+**MOA-B** Inhibitor:
+1. Inhibits monoamin oxidase type B
+	1. Centrally breaks down dopamine, moreso than 5HT (MAO-A is more 5HT)
+2. Inhibition increases central dopamine levels
+3. Used alone or added to carbidopa-levodopa
+4. Can cause serotonin syndrome, but rare
+
+**Dopamine Agnosits**:
+1. Used as monotherapy in early disease
+2. Adverse effects similar to levodopa
+3. Examples:
+	1. Oral:
+		1. Pramipexole
+		2. Ropinirole
+	2. Transdermal patch:
+		1. Rotigotine
+
+**Summary:**
+![[Pasted image 20230513234737.png]]
 
 ## Drug overview
 
