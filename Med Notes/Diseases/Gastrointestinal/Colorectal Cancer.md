@@ -9,7 +9,7 @@
 Colorectal Cancer is the 3rd most common cancer and is very deadly. It
 
 
-Types of polyps:
+***Types of polyps:***
 - Most are benign
 - Pedunculated - attacked via a stalk
 - Sessile - broad based attached to colon
@@ -29,6 +29,7 @@ Types of polyps:
 	- Leads to colon cancer via microsatellite instability (80% risk)
 	- Also increased risk of endometrial cancer
 	- Colonoscopy every 1-2 years beginning from age 20-25 
+
 
 > [!Important] Colonoscopy = standard screening test
 > - Requires bowel prep and sedation
