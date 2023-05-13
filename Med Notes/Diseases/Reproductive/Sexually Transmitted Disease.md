@@ -87,33 +87,19 @@ N. Gonorrhoea:
 ---
 
 ## Investigations
-### Chlamydia:
-1. Gram stain: Not well
-2. Special stains: GIemsa
-3. Normally identified by Nucleic acid amplification tests (NAAT) as poorly stained
-	1. Vaginal test, urine
-	2. PR of CHlamydia DNA/RNA
-4. Microscope does not show bacteria
-	1. THey live inside cells
-5. **Lymphogranuloma**:
-	1.  NAAT test
 
-### Gonorrhea:
-1. Nucleic Acid Amplification Test (NAAT)
-	1. Men: Urine or urethral swab
-	2. Women, vaginal or ervical swab
-2. Gram stain:
-	1. Mainly on urethral swab in men
-	2. Low specificity in women
-3. Culture:
-	1. Only when antibiotic resistance is concern
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|Test| Chlamydia                                             | Gonorrhea                                                   |
+|-----------------------|-------------------------------------------------------|-------------------------------------------------------------|
+| Gram stain            | Not well                                              | Positive                                                    |
+| Special stains        | Giemsa                                                | None                                                        |
+| Identification        | Nucleic acid amplification tests (NAAT)                | Nucleic acid amplification tests (NAAT)                      |
+| Test samples          | Vaginal swab, urine, rectal swab                       | Urine, urethral swab (men), vaginal or cervical swab (women) |
+| Culture               | Not routinely done                                     | Done only for antibiotic resistance testing                  |
+| Microscopic view      |No visible bacteria, as they live inside cells|Visible intacellular gram-negatve diplococci, often found in pairs or clusters|
+| Complications         | Lymphogranuloma, pelvic inflammatory disease (PID)     | PID, infertility, sepsis                                    |
+| Treatment             | Antibiotics, such as azithromycin and doxycycline      | Antibiotics, such as ceftriaxone and azithromycin            |
+| Possible outcomes     | May lead to infertility, ectopic pregnancy, or PID     | May lead to infertility, ectopic pregnancy, or PID           |
+| Prevention            | Using condoms during sex and getting regular testing   | Using condoms during sex and getting regular testing         |
 
 ---
 
@@ -128,11 +114,18 @@ N. Gonorrhoea:
 2. Test of N. Gonorrhoeae as often co-infected
 3. Must treat partners or reinfection occurs
 
-**Lymphogranuloma Venereum**:
+**Lymphogranuloma Venereum** management:
 1. Drain buboes
 2. Treat with antibiotics
 	1. Doxycycline
 	2. Azithromycin
+
+### Gonorrhea management:
+1. Ceftriaxone:
+	1. Lowest frequency of treatment failure
+	2. Given as single IM dose
+2. Co-infection of [[#Chlamydia:]] is common
+	1. 
 
 ## Criteria
 ### Example severity/test score:
