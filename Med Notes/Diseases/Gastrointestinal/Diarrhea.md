@@ -18,6 +18,9 @@ Diarrhea is the symptom of loose, watery stools that occur more frequently than 
 | Persistent | \> 3 loose bowel movements per day for 14-30 days |
 | CHornic    | \> 3 loose bowel movements per day for >4 weeks                                                  |
 
+## Acute Diarrhea:
+**Most common** form of diarrhea. Cases are mostly **viral** and **self-limited**
+
 > [!Important]
 - Important point
 
@@ -46,7 +49,7 @@ Diarrhea is the symptom of loose, watery stools that occur more frequently than 
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|Stool culture|Potential bacteria|Not needed in [[#Acute DIarrhea]] unless: <br>1. Severe illness <br>2. Blood or mucous in stool <br>Fever > 38 degrees <br>4. High-risk patient|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -55,7 +58,20 @@ Diarrhea is the symptom of loose, watery stools that occur more frequently than 
 ---
 
 # Management
-## Treatment
+## Overall management
+Management depends on whether the diarrhea is **acute, persistent or chronic**
+
+**Acute diarrhea:**
+Given most cases are viral infections and self limited (See [[#Acute Diarrhea:]]), treatment is usually supportive
+No stool testing for pathogens, unless:
+1. Severe illness (hypovolemia, severe abdominal pain)
+2. Blood or mucous in stool
+3. Fever over 38 degrees
+4. High-risk patient (immunocompromised)
+
+Supportive treatent includes:
+1. Provide fluid
+2. Anti-diarrheal agents, such as [[Lopiramide]]
 
 ## Drug overview
 
