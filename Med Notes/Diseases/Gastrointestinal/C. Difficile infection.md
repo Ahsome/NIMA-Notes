@@ -34,7 +34,7 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 
 ### Questions to ask
 >*"Any recent antibiotic use?"*
->*"Any recent antibiotic use?"*
+>*"Do you consistently use PPI?"*
 
 ---
 
@@ -52,16 +52,29 @@ Infection is *not* due to invasion into the blood stream, but due to **toxin pro
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|Stool sample |Toxin A/B detection|Detects toxin produced by C. difficile|
+|PCR|Test for Toxin B gene|Used if equivocal toxin testing|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|Colonoscopy |Pseudomembranous colitis|Rarely done|
+|WBC|<15k (non-severe) <br> \>15k (severe)|Used to identify severity|
+|  |  |  |
 
 ---
 
 # Management
-## Treatment
+## Overall management:
+Management involves initial diagnosis through stool samples of toxin A/B, as well as elimination of other [[Diarrhea]] causes
+
+Treatments depends on severity:
+| Test    | Non-severe | Severe    | Fulminant |
+| ------- | ---------- | --------- | --------- |
+| WBC     | <15k       | >15k      |       |
+| Cr      | <1.5 mg/dL | 1.5 mg/dL |       |
+| Lactate |       |      |Increased |
+| Others  |  |  |Hypotension <br>Shock <br>Ileus|
+
 
 ## Drug overview
 
