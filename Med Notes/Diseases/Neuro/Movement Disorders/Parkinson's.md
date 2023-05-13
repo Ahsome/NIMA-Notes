@@ -77,14 +77,14 @@ Treatment management involves:
 ## Treatment:
 Overall treatment:
 - Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease
-	- Often applied with a carbidopa, a  peripheral decarboxylase inhibitor
+	- Utilise with carbidopa, a  peripheral decarboxylase inhibitor
 	- Can use benserazide
 - Dopamine agonists: Used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease  
 	- Pramipexole
 	- Ropinirole
 - MAO-B inhibitors: early-stage disease or as an adjunct to levodopa in advanced disease
 	- Selegiline
-	- rasagiline) can be used as monotherapy in .
+	- Rasagiline
 -   Anticholinergic medications (such as trihexyphenidyl) can be used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment.
 -   Amantadine can be used to control dyskinesias (involuntary movements) associated with levodopa therapy.
 -   Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
