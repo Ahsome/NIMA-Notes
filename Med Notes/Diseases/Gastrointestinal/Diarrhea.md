@@ -115,22 +115,25 @@ Additional tests, although more normally done in [[#Persistent diarrhea]] and [[
 
 | Additional Tests            | Result                                   | Explanation                                                                                    |
 | --------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Fecal fat                   | Potential fat in stool                   | Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain |
-| 72-hour fecal fat excretion | Normal: <7g/day<br>Elevated:>7g/day      | Increased in [[Fat malabsorption]] of any cause                                                |
+|Fecal fat|Potential fat in stool|Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain|
+|72-hour fecal fat excretion|Normal: <7g/day<br>Elevated:>7g/day|Increased in [[Fat malabsorption]] of any cause|
 |Fecal elastase | Low                                      |Low in pancreatic insufficiency, causing [[Fat malabsorption]]|
 |Stool pH| Low (<6.0) in carbohydrate malabsorption | Decrease due to acidity of sugars                                                                                               |
 
 ### Chronic diarrhea investigations:
 
-| Key tests           | Result                                   | Explanation                                                                       | Indication                                                                  |
-| ------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| Fecal electrolytes  | >50: Osmotic<br><50: Secretory           |                                                                                   | Calculation can aid in whether it is Osmotic diarrhea or Secretory diarrhea |
-|Fecal pH| Low (<6.0) in carbohydrate malabsroption | Decreased acidity due to sugars                                                   |[[Osmotic diarrhea]]|
-|Reducing substances |  |Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose)|^^|
-|Fecal elastate|Low|Low in pancreating insufficiency, causing [[Fat malabsorption]]|Used to identify [[Fatty diarrhea]] in chroniic patients|
-|Fecal WBC |Elevated |Due to infection|Identify [[Inflammatory diarrhea]] in chronic patients|
-|Stool culture|Identify pathogens|Due to infection|^^|
-|Fecal calprotectin|  |  |^^|
+| Key tests           | Result                                   | Indication                                                                  | Explanation                                                                       |
+| ------------------- | ---------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Fecal electrolytes  |<50: Secretory|[[Secretory diarrhea]]|  |
+|^^|>50: Osmotic|[[Osmotic diarrhea]]|  |
+|Fecal pH| Low (<6.0) in carbohydrate malabsroption |[[Osmotic diarrhea]]| Decreased acidity due to sugars                                                   |
+|Reducing substances |Present|^^|Detects carbohydrates metabolsied to reducing sugars (glucose, lactose, fructose)|
+|Fecal elastate|Low|Used to identify [[Fatty diarrhea]] in chroniic patients|Low in pancreating insufficiency, causing [[Fat malabsorption]]|
+|Fecal fat|Potential fat in stool|^^|Identifies if it is due to [[Fat malabsorption]]<br><br>Can also be tested via Sudan III stain|
+|72-hour fecal fat excretion|Normal: <7g/day<br>Elevated:>7g/day|^^|Increased in [[Fat malabsorption]] of any cause|
+|Fecal WBC |Elevated |Identify [[Inflammatory diarrhea]] in chronic patients|Due to infection|
+|Stool culture|Identify pathogens|^^|Due to infection|
+|Fecal calprotectin|  |^^|  |
 
 
 | Additional test | Result                          | Explanation                                                                         | Indication                                                                             |
