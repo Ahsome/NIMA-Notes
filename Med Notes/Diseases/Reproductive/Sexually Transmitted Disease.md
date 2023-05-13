@@ -30,6 +30,14 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 3. Initially painless genital ulcer, becomes tender inguinal or femoral lymph nodes
 	1. Called "Buboes"
 
+### N. Gonorrhoea:
+1. Stain: Gram neg diplococci
+2. Second most common STI
+3. Causes urethritis and cervicitis
+4. Causes proctitis and **pharyngitis**
+5. Can disseminate, cause **arthritis**
+	1. Non STI form: N. Meningitidis, causes meningitis
+
 > [!Important]
 - Important point
 
@@ -47,6 +55,18 @@ Chlamydia:
 3. Lymphogranuloma:
 	1. Initially, painless genital ulcer
 	2. Later, painful inguinal or femoral lymph nodes: Burboes
+
+N. Gonorrhoea:
+1. Men:
+	1. Urethritis and epididymitis
+	2. Dysuria, discharg
+2. Women:
+	1. Cervicitis
+	2. Itching, discharge
+	3. Not painful
+3. Proctitis
+4. Pharyngitis
+5. Arthritis
 
 ### Risk factors:
 
@@ -67,7 +87,6 @@ Chlamydia:
 ---
 
 ## Investigations
-
 ### Chlamydia:
 1. Gram stain: Not well
 2. Special stains: GIemsa
@@ -78,6 +97,16 @@ Chlamydia:
 	1. THey live inside cells
 5. **Lymphogranuloma**:
 	1.  NAAT test
+
+### Gonorrhea:
+1. Nucleic Acid Amplification Test (NAAT)
+	1. Men: Urine or urethral swab
+	2. Women, vaginal or ervical swab
+2. Gram stain:
+	1. Mainly on urethral swab in men
+	2. Low specificity in women
+3. Culture:
+	1. Only when antibiotic resistance is concern
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
@@ -101,9 +130,9 @@ Chlamydia:
 
 **Lymphogranuloma Venereum**:
 1. Drain buboes
-2. Tr
-
-## Drug overview
+2. Treat with antibiotics
+	1. Doxycycline
+	2. Azithromycin
 
 ## Criteria
 ### Example severity/test score:
@@ -114,7 +143,8 @@ Chlamydia:
 ---
 
 # Complications
-1. Complications of disease
+1. Chlamydia: Lymphogranuloma and Trachoma
+2. Pelvic Inflammatory Disease: Caused by [[#Chlamydia:]] and [[#N. Gonorrhoea:]]
 
 ---
 
