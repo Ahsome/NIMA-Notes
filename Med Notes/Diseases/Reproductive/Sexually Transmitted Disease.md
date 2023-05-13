@@ -56,7 +56,23 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 			1. Classically in epitrochlear nodes (elbow), called sailor's handshae
 		5. Condylomata lata
 			1. Raised, large, gray regions
-			2. Found in moist areas, l
+			2. Found in moist areas, like mouth and periniom
+	3. Late: YEars after
+		1. Tertiary syphillis
+			1. Aortitis - aortic dilation and dissection
+			2. Gummas - Nodules/ulcers in skin, bones, other organs
+		2. Neurosyphillis
+			1. Meningitis
+			2. Progressive dementia
+			3. **Tabes dorsalis**
+				1. Demyelination of osterior columns
+				2. Wide-based gate
+				3. Ataxia, falls and loss of balance
+			4. Argyl Robertson pupil
+				1. Small, irregular pupils
+				2. Do not constrict ligt
+				3. Constrict to accomodation
+				4. ![[Pasted image 20230513221434.png]]
 
 > [!Important]
 - Important point
@@ -89,11 +105,11 @@ N. Gonorrhoea:
 5. Arthritis
 
 Syphillis:
-|          | Primary Syphilis                            | Secondary Syphilis                                        | Tertiary Syphilis                                                   |
-|----------|---------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------|
-| Symptoms | Painful, chancre at site of infection        | Non-itchy rash on trunk and extremities, fever, fatigue   | Gummas (lesions on skin and bones), cardiovascular and neurological symptoms |
-| Timeline | 10-90 days after infection                   | 2-10 weeks after infection                                | Years to decades after infection                                     |
-
+| Stage | Duration | Symptoms |
+|-------|----------|----------|
+| Primary | 2-3 weeks | - Painless chancre<br>- Ulcer, on penis<br>- Raised, 1-2cm<br>- Resolves spontaneously |
+| Secondary | Several weeks to months | - Flu-like symptoms (headache, malaise, sore throat)<br>- Rash on all extremities, maculopapular rash including palms and soles<br>- Resolves spontaneously<br>- Diffuse lymphadenopathy (classically in epitrochlear nodes, called sailor's handshake)<br>- Condylomata lata: raised, large, gray regions found in moist areas, like mouth and perineum |
+| Tertiary | Years after infection | - Aortitis: aortic dilation and dissection<br>- Gummas: nodules/ulcers in skin, bones, other organs<br>- Neurosyphilis: meningitis, progressive dementia<br>- Tabes dorsalis: demyelination of posterior columns, wide-based gait, ataxia, falls and loss of balance<br>- Argyll Robertson pupil: small, irregular pupils that do not constrict to light, but do constrict to accommodation |
 
 ### Risk factors:
 
