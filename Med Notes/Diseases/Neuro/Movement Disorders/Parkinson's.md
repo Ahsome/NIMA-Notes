@@ -23,6 +23,8 @@ Can have loss of autonomic nervous system, leading to **orthostatic hypotension*
 1. Occurs in 20% to 60%
 2. More common with levodopa treatment
 
+### Temor-DOminant Parkinson's
+
 > [!Important]
 - No imaging or blood test
 - Consider other diagnosis if three classical features aren't present, or not responding to treatment
