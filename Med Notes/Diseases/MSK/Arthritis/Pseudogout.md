@@ -17,6 +17,7 @@ It has **three** key manifestations:
 	1. Only discovered on imaging
 	2. Specifically, **chondrocalcinosis**: calcification of cartilage
 2. Acute arthritis: Similar to [[Gout]]
+	1. Result after **parathyroidectomy**, due to fluctuations in calcium levels
 3. Chronic joint disease: Similar to [[Osteoarhritis]]
 
 > [!Important]
@@ -25,6 +26,9 @@ It has **three** key manifestations:
 --- 
 # History
 ### Symptoms
+1. Pain, redness, warmth, swelling
+2. 50% cases involve Knee
+	1. Contrast with [[Gout]], where it is commonly in the [[Glossary#^d61e39|Podagra]]
 
 ### Risk factors:
 1. Older patients
@@ -50,7 +54,8 @@ It has **three** key manifestations:
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|X-Ray|**Chondrocalcinosis** |Calcification of cartilage. Common in Asymptomatic Pseudogout <br> <br> ![[Pasted image 20230514005741.png\|150]] |
+|Polarised Light Microscopy|Rhomboid crystals <br>- "Positively birefringent" <br>- Blue when parallel|Characteristics of acute symptomatic form. Blue when parallel <br> <br>Contrast with [[Gout]]: <br>- Needle crystals <br>- "Negatively birefringent' <br>- Yellow when parallel|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
