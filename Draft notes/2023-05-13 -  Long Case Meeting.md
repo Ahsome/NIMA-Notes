@@ -1,4 +1,9 @@
 # Long Case:
+Structure:
+https://www.fracpractice.co.nz/longcasetemplate.html
+https://drive.google.com/drive/folders/1W5oZ92Y7iqdsnOD6FIhjtA0r2yjInM87 - UQMS Long Case
+https://drive.google.com/drive/folders/1DCf3NGS4b4zaJKCAg_P5pscD1MldzOpT - UQMS Short Case
+
 ## Opening statement:
 Very important, start with a bang
 1. Initial, age, gender
@@ -17,6 +22,8 @@ Very important, start with a bang
 	2. Have you had checkups for each complication
 6. If they take their own blood sugar, what it is
 7. Ask how many hypoglycemic episodes do they have, and if they have been hospitalised for it
+8. Put medications with PMHx
+	1. Only put if you know what is used for
 
 ## Social history:
 1. Important to ask
@@ -55,6 +62,8 @@ Very important, start with a bang
 2. Issue can be how to diagnose and issue
 	1. Only say if you know the diagnose
 3. NEVER say its specific NSTEMI/STEMI/Unstable angina. Just say cardiac chest pain
+4. If possible say the issues need a multi-disciplinary team
+	1. List all the people they need
 
 # Disease
 ## heart failure
@@ -63,6 +72,14 @@ Very important, start with a bang
 
 ## pancreatitis
 - The criteria
+
+# Short Case
+## Management:
+1. For Stable PE, give anticoag like LMWH or Rivaroxoban
+2. For Unstable PE, give thrombolytic therapy
+3. Be careful:
+	1. Do not say go on Aspirin, they ask how long, how much
+	2. Focus on non-pharmacological issue
 
 # Overall:
 Only bring up informstion you are *ready* to discuss
