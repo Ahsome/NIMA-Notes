@@ -5,7 +5,7 @@
 - [ ] Hyper/hypo-thyroid
 - [ ] Delirium tremens
 - [ ] BPH
-- [ ] Sleep apnoea
+- [x] Sleep apnoea
 - [ ] Multiple sclerosis
 - [ ] TB
 - [ ] Meningitis
