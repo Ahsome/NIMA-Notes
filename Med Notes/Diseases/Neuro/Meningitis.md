@@ -141,7 +141,14 @@ If meningococcaemia is suspected in **community** setting, use:
 	1. Useful if penicillin allergy
 
 If meningococcaemia is suspected in **hospital** setting, use:
-1. Adults and child
+1. Neonates
+	1. Most likely due to *Listeria*
+	2. As such, use Benzylpenicillin
+2. Adults and children >2mo
+	1. Ceftriaxone
+	2. Cefotaxime + [[Dexamethasone]]
+	3. If risk of *Listeria*, such as old patient or immunocompramised, add [[Benzylpenicillin]]
+		1. If severe allergy, consider  [[Bactrim]] ([[Trimethoprim]]+[[Sulfamethaxole]] )
 
 >[!Important]
 >![[Meningitis#^rzqcos]]
