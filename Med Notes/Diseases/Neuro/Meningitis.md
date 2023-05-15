@@ -36,6 +36,13 @@ Suspected based on CSF [[#Investigations|results]].
 - ⬇ glucose, ⬆ protein
 - ✅ Gram stain
 
+Common causes include:
+1. Strep pneumonia
+2. Neisseria Meningitis
+3. H. Influenze
+4. MRSA
+5. Listeria monocytogenes
+
 >[!Important]
 >![[Meningitis#^etq486]]
 
