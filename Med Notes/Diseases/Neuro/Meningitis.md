@@ -9,11 +9,11 @@
 Meningitis is inflammation of the **leptomeninges**. This is the inner two meninges - arachnoid and pia mater. It does *not* include the dural mater. It also involves the CSF, which is located in the subarachnoid space
 ![[Pasted image 20230516003453.png]]
 
-It usually has an **infectious** cause, whether it be viral, bacterial, fungal. This can be [[#Aseptic Meningitis|aseptic]].
+It usually has an **infectious** cause, whether it be viral, bacterial, fungal. This can be [[#Aseptic Meningitis|aseptic]]. It could also be [[Encephalitis]].
 It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 
 ## Aseptic Meningitis
-This is a *self-limited* meningeal inflammation **without** evidence of bacterial infection. Sometimes called **viral meningitis**.
+This is a *self-limited* meningeal inflammation **without** evidence of bacterial infection. Sometimes called **viral meningitis**. Viral CNS infection can also cause [[Encephalitis]]
 Usually due to an **enterovirus**, especially [[Coxsackievirus]].
 - Mostly transmitted by fecal-oral route
 
