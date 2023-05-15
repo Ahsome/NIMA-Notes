@@ -23,7 +23,17 @@ This is suspected based on CSF results (See [[#Investigations]] for more detail)
 3. Noral glucose
 4. Negative Gram stain
 
-## Herpes Simplex Meningitis
+### Herpes Simplex Meningitis
+Due to a **primary** [[Sexually Transmitted Disease#Genital herpes:|HSV]] infection, which can lead to aseptic meningitis due to HSV
+This is usually HSV-2, as HSV-1 often causes [[Encephalitis]]
+This causes **genital lesions** on most patients:
+![[Pasted image 20230516010536.png]]
+
+## Bacterial Meningitis:
+Suspected based on CSF [[#Investigations|results]].
+- Cell count > 1000/microL
+- >80% neutrophils (PMNs)
+- 
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -31,6 +41,7 @@ This is suspected based on CSF results (See [[#Investigations]] for more detail)
 > [!Important]
 - Babies cannot identify headache or photophobia, so must consider meningitis in suspected symptoms
 - Most of the [[#Complications]] of [[Meningitis]] are due to **bacterial meningitis** ^etq486
+- If suspected [[#Herpes Simplex Meningitis]], treat with ***Acyclovir*** ^rzqcos
 
 --- 
 # History
@@ -105,6 +116,10 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 Aseptic meningitis management involes:
 1. Antibiotics, until cultures are negative. You cannot exclude bacterial meningitis solely on investigations besides culture.
 2. Supportive care, as it is often self-limited
+3. If the patient is suspected to have [[#Herpes Simplex Meningitis]]: Treat with ***Acyclovir***
+
+>[!Important]
+>![[Meningitis#^rzqcos]]
 
 ## Drug overview
 

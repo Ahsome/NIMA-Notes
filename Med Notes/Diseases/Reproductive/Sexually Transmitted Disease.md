@@ -77,7 +77,9 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 ### Genital herpes:
 1. Sexually transmitted infection due to herpes simplex virus.
 2. Normally HSV-2, sometimes HSV-1
-3. It can also cause 
+3. It can also cause [[Meningitis#Herpes Simplex Meningitis|Aseptic Meningitis due to Herpes Simplex]]
+	1. Normally due to HSV-2
+	2. HSV-1 more commonly causes [[Encephalitis]]
 4. Primary infection:
 	1. Sometimes asymptomatic
 	2. May lead to painful vesicles on erythematous base
