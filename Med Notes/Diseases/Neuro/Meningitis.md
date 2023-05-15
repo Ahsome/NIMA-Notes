@@ -19,7 +19,7 @@ Usually due to an **enterovirus**, especially [[Coxsackievirus]].
 
 This is suspected based on CSF results (See [[#Investigations]] for more detail):
 1. Cell count <500microL
-2. >50% lymphocytes
+2. \>50% lymphocytes
 3. Noral glucose
 4. Negative Gram stain
 

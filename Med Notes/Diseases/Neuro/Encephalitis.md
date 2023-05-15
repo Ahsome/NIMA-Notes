@@ -8,6 +8,8 @@
 # Information
 Encephalitis is brain inflammation, most commonly from a viral CNS infection. Viral CNS infections can also cause [[Meningitis#Aseptic Meningitis]]
 
+
+
 > [!Important]
 - Important point
 
@@ -15,10 +17,13 @@ Encephalitis is brain inflammation, most commonly from a viral CNS infection. Vi
 # History
 ### Symptoms
 1. Fever
-2. Signs of edema in brain tissue
-3. Altered mental status
-4. Seizures
-5. Motor or sensory deficits
+2. Headache
+3. Photophobia
+3. Signs of edema in brain tissue:
+	1. Altered mental status, such as confusion
+		1. If not seen and sensorium is intact, consider [[Meningitis]]
+	2. Seizures
+	3. Motor or sensory deficits⬆️
 ### Risk factors:
 
 ### Questions to ask
@@ -38,9 +43,15 @@ Encephalitis is brain inflammation, most commonly from a viral CNS infection. Vi
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
+|Key Tests|Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|CSF anaysis|WBC <500 |First-line**** for diagnosis. Similar findings as in [[Meningitis#Aseptic Meningitis]]|
+|^^|WBC: Lymphocyte predominance|^^|
+|^^|Glucose: Normal |^^|
+|^^|Protein: Normal/⬆️|^^|
+|CSF PCR|Other causes|Test for HSV and other viruses|
+|MRI |Edema |Important to exclude other causes of distension in brain tissue|
+|^^|Exclusion of mass/abscess|^^|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
