@@ -12,9 +12,12 @@ Meningitis is inflammation of the **leptomeninges**. This is the inner two menin
 It usually has an **infectious** cause, whether it be viral, bacterial, fungal.
 It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 
+>[!Important]
+>![[Meningitis#^etq486]]
 
 > [!Important]
 - Babies cannot identify headache or photophobia, so must consider meningitis in suspected symptoms
+- Most of the [[#Complications]] of [[Meningitis]] are due to **bacterial meningitis** ^etq486
 
 --- 
 # History
@@ -25,6 +28,12 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 4. Lethargy, but *intact* sensorium
 	1. If the patient is confused or disoriented, consider [[Encephalitis]]
 5. Nuchal rigidity: Pain when trying to move the back of neck
+6. Petechial rash
+	1. Only for a subset of patients, but classic finding in [[Meningococcal Meningitis]]
+	2. Due to an infection by [[Neisseria Meningitidis]]
+	3. Indicates meningococcemia and [[thromocytopenia]]
+	4. ![[Pasted image 20230516004438.png]]
+
 ### Risk factors:
 
 ### Questions to ask
@@ -39,7 +48,7 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 |Brudzinski sign|Involuntary lifting of legs|When the patient is lyin flat and lifts their head off the table, there is *involuntary* lifting of the legs <br> <br>This is a *sign* of **meningismus**|
 
 >[!Warning] Non-specific signs in infants
->Due to infants not being able to communicate, they cannot state if they have a headache or photophobia. As such, it is important to consider meningitis when:
+>Due to infants not being able to communicate, they cannot state if they have a headache or photophobia. As such, it is important to consider meningitis or [[Sepsis (and SIRS)]] when:
 >- Fever
 >- Lethargy
 >- Poor feeding
@@ -53,9 +62,9 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
+| Key Tests                 |Result|Bacterial|
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|Lumbar puncture|Result 1 | Explanation 1                                                                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -77,7 +86,10 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 ---
 
 # Complications
-1. Complications of disease
+1. Hydrocephalus: Due to scare tissue in the meninges, impacting CSF drainage
+2. Hearing loss
+3. [[Seizure]]
+4. Death
 
 ---
 
