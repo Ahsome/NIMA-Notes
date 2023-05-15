@@ -63,7 +63,27 @@ Common causes include:
 	- See [[#Management of Bacterial Meningitis]]
 
 ### Haemophilus Influenzae
-It is a *Gram negative, small rod*
+It is a *Gram negative, small rod*. It **used** to be the most common cause of bacterial meningitis before the vaccine
+- Vaccine given infancy
+	- H FLu meningitis almost always occurs in unimmunised childen
+
+### Listeria:
+It is a *Gram-positive rod*. It thrives in **poor cell-mediated immunity**:
+- HIV
+- Organ transplant
+- Pregnancy
+- Alcohol abuse
+
+In adults, exposure often from **contaminated food**:
+1. Undercooked meat, unwashed vegetables
+2. Unpasturised cheese/milk
+3. Can cause GI illness ([[Listeriosis]])
+
+It may colonise the female genital tract:
+1. For **nenonates**, due to transplacental or vaginal transmission
+
+### Group B Streptococci (Strep agalactiae)
+****
 
 ### Healthcare associated meningitis:
 This is meningitis that is likely to come from a hospital care setting. This is commonly caused by:
