@@ -93,7 +93,7 @@ A patient with joint pain
 [[Pseudogout]]
 A patient with a fall
 [[Falls]]
-[[Syncope]]
+[[Syncope (LOC)]]
 [[Seizure]]
 [[Hypolgycemia]]
 [[Parkinson's]]]
@@ -105,7 +105,7 @@ A patient with fever
 [[STI]]
 [[Sepsis (and SIRS)]]
 A patient with transient LOC
-[[Syncope]]
+[[Syncope (LOC)]]
 [[Seizure]]
 [[Hypolgycemia]]
 A patient with unintential weight loss
