@@ -18,6 +18,7 @@ It is important to identify other differentials for masses in the mediastinum. S
 ---
 
 ## Subtypes
+THe 
 ### Small cell lung cancer
 Small cell lung cancer occurs roughly 15% of time. It is rarely resectable (95% cases cannot), and has *poor* prognosis compared to [[#Non-small cell lung cancer]]. It is named after the small cells found on biopsy:
 ![[Pasted image 20230512202628.png]]
