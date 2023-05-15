@@ -8,6 +8,16 @@
 # Information
 Encephalitis is brain inflammation, most commonly from a viral CNS infection. Viral CNS infections can also cause [[Meningitis#Aseptic Meningitis]]
 
+The most common cause in the *Western* world is [[#HSV-1]]. Others include:
+1. **Mosquito viruses**
+	1. St. Louis encephalitis virus
+	2. Eastern equine encephalitis
+	3. West Nie virus
+	4. California encephalitis virus
+3. [[Rabies]]
+4. [[Mumps]]
+5. [[HIV]]
+
 ## HSV-1
 This is the **most important etiology to identify**. Without treatment, it is *fatal*. It is often re-activation of latent HSV-1
 Investigation signs include, in addition to normal signs:
@@ -31,6 +41,15 @@ Investigation signs include, in addition to normal signs:
 	2. Seizures
 	3. Motor or sensory deficits⬆️
 ### Risk factors:
+1. Previous HSV infection. See [[#HSV-1]]
+2. **Mosquito viruses**
+	1. St. Louis encephalitis virus
+	2. Eastern equine encephalitis
+	3. West Nie virus
+	4. California encephalitis virus
+3. [[Rabies]]
+4. [[Mumps]]
+5. [[HIV]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -62,7 +81,7 @@ Investigation signs include, in addition to normal signs:
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-|HSV serology|Latent HSV-1| Explanation 1 |
+|HSV serology|Latent HSV-1|Due to re-activation of [[#HSV-1]] encephalitis|
 
 ---
 
