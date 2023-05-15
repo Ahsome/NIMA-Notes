@@ -63,12 +63,14 @@ Common causes include:
 	- See [[#Management of Bacterial Meningitis]]
 
 ### Haemophilus Influenzae
-It is a *Gram negative, small rod*. It **used** to be the most common cause of bacterial meningitis before the vaccine
+It is a *Gram negative, small rod*. **Present in young children**. It **used** to be the most common cause of bacterial meningitis before the vaccine
 - Vaccine given infancy
 	- H FLu meningitis almost always occurs in unimmunised childen
 
 ### Listeria:
-It is a *Gram-positive rod*. It thrives in **poor cell-mediated immunity**:
+It is a *Gram-positive rod*. Present in **Adults (>50)** and **Neonates**
+
+It thrives in **poor cell-mediated immunity**:
 - HIV
 - Organ transplant
 - Pregnancy
@@ -83,7 +85,15 @@ It may colonise the female genital tract:
 1. For **nenonates**, due to transplacental or vaginal transmission
 
 ### Group B Streptococci (Strep agalactiae)
-****
+**Nenonatal Meningitis**: *Gram-positive cocci in chains*, **present in newborns**
+- May colonised genital tract in womon
+- *Most common* cause of meningitis in newborns
+- Antibiotis during labor used for preventiation
+
+### Escherichia Coli:
+**Neonatal Meningitis**: *Motile, gram-negative rod*,  **present in newborns**
+- *Second most ommon* cause of meningitis in neonates
+- Acquired from birth canal at delivery
 
 ### Healthcare associated meningitis:
 This is meningitis that is likely to come from a hospital care setting. This is commonly caused by:
