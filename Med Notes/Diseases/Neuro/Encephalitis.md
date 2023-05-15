@@ -8,6 +8,12 @@
 # Information
 Encephalitis is brain inflammation, most commonly from a viral CNS infection. Viral CNS infections can also cause [[Meningitis#Aseptic Meningitis]]
 
+## HSV-1
+This is the **most important etiology to identify**. Without treatment, it is *fatal*. It is often re-activation of latent HSV-1
+Investigation signs include, in addition to normal signs:
+1. Red cells in CSF
+2. Temporal lobe edema
+
 
 
 > [!Important]
@@ -48,19 +54,21 @@ Encephalitis is brain inflammation, most commonly from a viral CNS infection. Vi
 |CSF anaysis|WBC <500 |First-line**** for diagnosis. Similar findings as in [[Meningitis#Aseptic Meningitis]]|
 |^^|WBC: Lymphocyte predominance|^^|
 |^^|Glucose: Normal |^^|
-|^^|Protein: Normal/⬆️|^^|
-|CSF PCR|Other causes|Test for HSV and other viruses|
-|MRI |Edema |Important to exclude other causes of distension in brain tissue|
+|^^|Protein: Normal/⬆️ |^^|
+|^^|Presence of red cells|Inflammation of brain as seen in [[#HSV-1]]|
+|CSF PCR|Other causes|Test for HSV and other viruses |
+|MRI |Edema |Important to exclude other causes of distension in brain tissue <br> <br>If **Temperal Lobe**, indicative of [[#HSV-1]]:![[Pasted image 20230516022231.png\|150]]|
 |^^|Exclusion of mass/abscess|^^|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|HSV serology|Latent HSV-1| Explanation 1 |
 
 ---
 
 # Management
 ## Treatment
+Treatment is **acyclovir**: Although targetted towards [[#HSV-1]], given empirically until CSF negative for [[#HSV-1]]
 
 ## Drug overview
 
@@ -73,7 +81,7 @@ Encephalitis is brain inflammation, most commonly from a viral CNS infection. Vi
 ---
 
 # Complications
-1. Complications of disease
+1. Death: Likely if untreated in [[#HSV-1|HSV-1 Viral Encephalitis]]
 
 ---
 
