@@ -15,11 +15,13 @@ More tumors of the lungs are *metastasis to lung*, rather than *primary lung tum
 
 It is important to identify other differentials for masses in the mediastinum. See [[Mediastinal Masses]]
 
+The main subtypes of [[Lung cancer]] can be split into two main categories:
+1. [[#Small cell lung cancer]]
+2. [[#Non-small cell lung cancer]]
+
 ---
 
 ## Subtypes
-
-
 ### Small cell lung cancer
 Small cell lung cancer occurs roughly 15% of time. It is rarely resectable (95% cases cannot), and has *poor* prognosis compared to [[#Non-small cell lung cancer]]. It is named after the small cells found on biopsy:
 ![[Pasted image 20230512202628.png]]
