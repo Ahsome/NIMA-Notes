@@ -33,7 +33,8 @@ This causes **genital lesions** on most patients:
 Suspected based on CSF [[#Investigations|results]].
 - Cell count > 1000/microL
 - >80% neutrophils (PMNs)
-- 
+- ⬇ glucose, ⬆ protein
+- ✅ Gram stain
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -109,8 +110,16 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 ---
 
 # Management
-## Treatment
+## Overall management:
+1. Identify whether the cause of meningitis is due to bacterial, viral, fungal/TB, or other cause via LP. See [[#Investigations]]
+	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. See [[#Management of Bacterial Meningitis]]
+	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease#Genital herpes:|HSV]]
 
+## Management of Bacterial Meningitis
+Treatment is **antibiotics**:
+- Due to culture taking days, cannot wait for culture to drive choice of drug
+- Empiric antibiotics are administered
+- Therapy modified based on culture result
 
 ## Management for Aseptic Meningitis
 Aseptic meningitis management involes:
