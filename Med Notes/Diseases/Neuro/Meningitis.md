@@ -40,8 +40,12 @@ Common causes include:
 1. Strep pneumonia
 2. Neisseria Meningitis
 3. H. Influenze (Children not vaccinated)
-4. MRSA
-5. Listeria monocytogenes (immunocompromised, >50yo *or* neonates)
+4. Group B strep (younger than 2 months)
+5. E.Coli (younger than 2 months)
+6. MRSA
+7. Listeria monocytogenes (**alcohol abuse**, **immunocompromised**, >**50yo** *or* **neonates**)
+
+![[Pasted image 20230516013705.png]]
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -147,8 +151,9 @@ If meningococcaemia is suspected in **hospital** setting, use:
 2. Adults and children >2mo
 	1. Ceftriaxone
 	2. Cefotaxime + [[Dexamethasone]]
-	3. If risk of *Listeria*, such as old patient or immunocompramised, add [[Benzylpenicillin]]
+	3. If risk of *Listeria*, such as **old patient** or **immunocompramised** or ==**alcohol overuse**==, add [[Benzylpenicillin]]
 		1. If severe allergy, consider  [[Bactrim]] ([[Trimethoprim]]+[[Sulfamethaxole]] )
+	4. Add vancomycin if gram-positive diplococci seen, or pneumococcal antigen in CSF is positive
 
 >[!Important]
 >![[Meningitis#^rzqcos]]
