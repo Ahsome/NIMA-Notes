@@ -9,8 +9,21 @@
 Meningitis is inflammation of the **leptomeninges**. This is the inner two meninges - arachnoid and pia mater. It does *not* include the dural mater. It also involves the CSF, which is located in the subarachnoid space
 ![[Pasted image 20230516003453.png]]
 
-It usually has an **infectious** cause, whether it be viral, bacterial, fungal. This can 
+It usually has an **infectious** cause, whether it be viral, bacterial, fungal. This can be [[#Aseptic Meningitis|aseptic]].
 It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
+
+## Aseptic Meningitis
+This is a *self-limited* meningeal inflammation **without** evidence of bacterial infection. Sometimes called **viral meningitis**.
+Usually due to an **enterovirus**, especially [[Coxsackievirus]].
+- Mostly transmitted by fecal-oral route
+
+This is suspected based on CSF results (See [[#Investigations]] for more detail):
+1. Cell count <500microL
+2. >50% lymphocytes
+3. Noral glucose
+4. Negative Gram stain
+
+## Herpes Simplex Meningitis
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -86,6 +99,12 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 
 # Management
 ## Treatment
+
+
+## Management for Aseptic Meningitis
+Aseptic meningitis management involes:
+1. Antibiotics, until cultures are negative. You cannot exclude bacterial meningitis solely on investigations besides culture.
+2. Supportive care, as it is often self-limited
 
 ## Drug overview
 

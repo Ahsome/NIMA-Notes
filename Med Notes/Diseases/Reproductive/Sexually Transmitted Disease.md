@@ -77,18 +77,19 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 ### Genital herpes:
 1. Sexually transmitted infection due to herpes simplex virus.
 2. Normally HSV-2, sometimes HSV-1
-3. Primary infection:
+3. It can also cause 
+4. Primary infection:
 	1. Sometimes asymptomatic
 	2. May lead to painful vesicles on erythematous base
 	3. Can cause fever and lymphadenopathy
 	4. Antibody testing is negative
-4. Latent phase:
+5. Latent phase:
 	1. Virus enters in lumbar sacra nerves
-5. Recurrent eruptions:
+6. Recurrent eruptions:
 	1. Vesicles and ulcers
 	2. Less severe than primary infection
 	3. Antivody testing is positive in non-primary disease
-6. Chancroid:
+7. Chancroid:
 	1. Rare, sexually transmitted infection due to Haemophilus ducreyi
 	2. Small, gram negative rod
 
