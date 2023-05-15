@@ -36,7 +36,7 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 3. Causes urethritis and cervicitis
 4. Causes proctitis and **pharyngitis**
 5. Can disseminate, cause **arthritis**
-	1. Non STI form: N. Meningitidis, causes meningitis
+	1. Non STI form: N. Meningitidis, causes [[Meningitis]]
 
 ### Syphillis
 1. Caused by Trponema pallidum, a spirochete

@@ -41,7 +41,7 @@ Common causes include:
 2. Neisseria Meningitis
 3. H. Influenze (Children not vaccinated)
 4. MRSA
-5. Listeria monocytogenes (immunocompromised, >50yo)
+5. Listeria monocytogenes (immunocompromised, >50yo *or* neonates)
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -106,9 +106,10 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 | ------------------------- | --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Lumbar puncture|WBC|<5|\>1000|5-500|Variable|
 |^^|Differential|--|PMNs (Neutraphils)|Lymphocytes|Lymphocytes |
-|^^|Glucose|50-75|⬇|Normal |⬇|
+|^^|Glucose |50-75|⬇|Normal |⬇|
+|^^|Lactate|  |\> 3.5mmol/L|  |  |
 |^^|Protein|60|⬆|Normal/⬆|⬆|
-|^^|Gram stain/Culture|Neg|Yes|Neg|Neg|
+|^^|Gram stain/Culture |Neg|Yes|Neg|Neg|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -133,6 +134,14 @@ Aseptic meningitis management involes:
 1. Antibiotics, until cultures are negative. You cannot exclude bacterial meningitis solely on investigations besides culture.
 2. Supportive care, as it is often self-limited
 3. If the patient is suspected to have [[#Herpes Simplex Meningitis]]: Treat with ***Acyclovir***
+
+If meningococcaemia is suspected in **community** setting, use:
+1. Benzylpenicillin IV, quickly
+2. Ceftriaxone IV/IM, quickly
+	1. Useful if penicillin allergy
+
+If meningococcaemia is suspected in **hospital** setting, use:
+1. Adults and child
 
 >[!Important]
 >![[Meningitis#^rzqcos]]
