@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html><head>
+			
+		<title>Parkinson's</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta charset="UTF-8">
+
+		<link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+
+		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+		<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
+		<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+		<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+		
+
+			<link rel="stylesheet" href="../../../../styles/obsidian-styles.css">
+			<link rel="stylesheet" href="../../../../styles/plugin-styles.css">
+			<link rel="stylesheet" href="../../../../styles/theme.css">
+			<link rel="stylesheet" href="../../../../styles/snippets.css">
+
+			<style>  </style>
+			<style>  </style>
+
+			
+		<script id="relative-paths">
+			let rootPath = "../../../..";
+			let mediaPath = "../../../../media";
+			let jsPath = "../../../../scripts";
+			let cssPath = "../../../../styles";
+		</script>
+		
+			<!-- Graph View Data -->
+			<script>
+			let nodes=
+{"nodeCount":97,"linkCount":214,"radii":[7,7,6.75,6.75,6.659722222222221,6.4375,6.305555555555555,6.159722222222222,5.826388888888889,5.826388888888889,5.4375,5.4375,5.4375,5.4375,5.4375,5.222222222222222,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.75,4.75,4.75,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3,3,3,3,3,3,3,3,3,3,3,3,3,3],"labels":["Asthma","A+N To Do List","Pneumonia","Diabetes Mellitus","Lung cancer","Heart Failure","Gout","Rheumatoid Arthritis","Septic Arthritis","Osteoarhritis","Diarrhea","Hypertension","Sleep Apnea","Anaemia","Ahkam","Hyperglycaemic Hyperosmolar State (HHS)","Comparison between Spiromotry and PFM","Stroke","Chronic Pulmonary Disease (COPD)","Pseudogout","Diabetic Ketoacidosis (DKA)","Glossary","Chronic Kidney Disease","Bronchitis","Breast Cancer","Parkinson's","Syncope","Irritable bowel syndrome","Atrial Fibrillation","Respiratory","Haematology & Oncology","Mediastinal Masses","Headache","Inflammatory Bowel Disease (IBD)","C. Difficile infection","Pulmonary Embolus","Pleural Effusion","Rheumatology","Sexually Transmitted Disease","Toxic Megacolon","Normocytic Anaemia","Microcytic Anaemia","Falls","SIADH","Cushing's Syndrome","DKA vs HHS","Endocrinology","Cardivascular","The Principles of Antibiotic Use","Clincial Reasoning - Diabetes","Clincial Reasoning - Diabetes-Ahkam’s MacBook Air","Patient 2","Patient 1","Montelukast","Allopurinal","Spirometry","Peak Flow Meter","Cellulitis and Erysipelas","Macrocytic Anaemia","Obesity","Approach to a patient cough","Infectious Disease","STEMI","Triptans","Clinical Reasoning - Rheumatology","Magnesium sulfate","Metformin","Beta-agonist","Albuterol","CXR","Sepsis (and SIRS)","Colorectal Cancer","Potassium Disorders","Urinary Tract Infection (UTI)","Dementia","Delirium","Klebsiella","Home","2023-05-08","Neurology","Renal & Hypertension","Geriatric medicine","Disease","index","Short Cases","Untitled database","Glimepiride","Gliclazide","2023-05-13 -  Long Case Meeting","2023-05-10","2023-05-09","Gastroenterology","Untitled","Untitled 1","Test","2023-04-20","Tutorials"],"paths":["med-notes/diseases/respiratory/asthma.html","--todo--/a+n-to-do-list.html","med-notes/diseases/respiratory/pneumonia.html","med-notes/diseases/endrocrinology/diabetes-mellitus.html","med-notes/diseases/respiratory/lung-cancer.html","med-notes/diseases/cardiology/heart-failure.html","med-notes/diseases/msk/arthritis/gout.html","med-notes/diseases/msk/arthritis/rheumatoid-arthritis.html","med-notes/diseases/msk/arthritis/septic-arthritis.html","med-notes/diseases/msk/arthritis/osteoarhritis.html","med-notes/diseases/gastrointestinal/diarrhea.html","med-notes/diseases/cardiology/hypertension.html","med-notes/diseases/respiratory/other/sleep-apnea.html","med-notes/diseases/haem/anaemia.html","--todo--/ahkam.html","med-notes/diseases/endrocrinology/hyperglycaemic-hyperosmolar-state-(hhs).html","med-notes/investigations/comparisons/comparison-between-spiromotry-and-pfm.html","med-notes/diseases/neuro/stroke.html","med-notes/diseases/respiratory/chronic-pulmonary-disease-(copd).html","med-notes/diseases/msk/arthritis/pseudogout.html","med-notes/diseases/endrocrinology/diabetic-ketoacidosis-(dka).html","med-notes/glossary.html","med-notes/diseases/renal/chronic-kidney-disease.html","med-notes/diseases/respiratory/bronchitis.html","med-notes/diseases/reproductive/breast-cancer.html","med-notes/diseases/neuro/movement-disorders/parkinson's.html","med-notes/diseases/neuro/syncope.html","med-notes/diseases/gastrointestinal/irritable-bowel-syndrome.html","med-notes/diseases/cardiology/atrial-fibrillation.html","--todo--/respiratory.html","--todo--/haematology-&-oncology.html","med-notes/diseases/oncology/mediastinal-masses.html","med-notes/diseases/neuro/headache.html","med-notes/diseases/gastrointestinal/inflammatory-bowel-disease-(ibd).html","med-notes/diseases/gastrointestinal/c.-difficile-infection.html","med-notes/diseases/respiratory/pulmonary-embolus.html","med-notes/diseases/--incomplete--/respiratory/pleural-effusion.html","--todo--/rheumatology.html","med-notes/diseases/reproductive/sexually-transmitted-disease.html","med-notes/diseases/gastrointestinal/toxic-megacolon.html","med-notes/diseases/haem/normocytic-anaemia.html","med-notes/diseases/haem/microcytic-anaemia.html","med-notes/diseases/geriatrics/falls.html","med-notes/diseases/endrocrinology/siadh.html","med-notes/diseases/endrocrinology/cushing's-syndrome.html","med-notes/diseases/--comparisons--/dka-vs-hhs.html","--todo--/endocrinology.html","--todo--/cardivascular.html","uq/tutorials/the-principles-of-antibiotic-use.html","uq/tutorials/clincial-reasoning---diabetes.html","uq/tutorials/clincial-reasoning---diabetes-ahkam’s-macbook-air.html","uq/short-cases/patient-2.html","uq/short-cases/patient-1.html","med-notes/pharmacology/montelukast.html","med-notes/pharmacology/allopurinal.html","med-notes/investigations/spirometry.html","med-notes/investigations/peak-flow-meter.html","med-notes/diseases/dermatology/cellulitis-and-erysipelas.html","med-notes/diseases/haem/macrocytic-anaemia.html","med-notes/diseases/endrocrinology/obesity.html","med-notes/approaches/approach-to-a-patient-cough.html","--todo--/infectious-disease.html","--meta--/unsorted/stemi.html","triptans.html","uq/tutorials/clinical-reasoning---rheumatology.html","med-notes/pharmacology/magnesium-sulfate.html","med-notes/pharmacology/diabetic/metformin.html","med-notes/pharmacology/beta-agonist.html","med-notes/pharmacology/albuterol.html","med-notes/investigations/cxr.html","med-notes/diseases/systematic/sepsis-(and-sirs).html","med-notes/diseases/gastrointestinal/colorectal-cancer.html","med-notes/diseases/renal/potassium-disorders.html","med-notes/diseases/renal/urinary-tract-infection-(uti).html","med-notes/diseases/geriatrics/dementia.html","med-notes/diseases/geriatrics/delirium.html","med-notes/diseases/--incomplete--/unorganised/klebsiella.html","home.html","draft-notes/2023-05-08.html","--todo--/neurology.html","--todo--/renal-&-hypertension.html","--todo--/geriatric-medicine.html","--meta--/templates/disease.html","index.html","uq/tutorials/short-cases.html","med-notes/pharmacology/diabetic/untitled-database.html","med-notes/pharmacology/diabetic/glimepiride.html","med-notes/pharmacology/diabetic/gliclazide.html","draft-notes/2023-05-13----long-case-meeting.html","draft-notes/2023-05-10.html","draft-notes/2023-05-09.html","--todo--/gastroenterology.html","--meta--/unsorted/untitled.html","--meta--/unsorted/untitled-1.html","--meta--/unsorted/test.html","--meta--/unsorted/2023-04-20.html","--meta--/templates/tutorials.html"],"linkSources":[82,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,47,47,46,46,46,81,30,30,30,30,30,61,61,79,80,29,29,29,29,29,37,37,37,37,78,60,45,36,76,5,5,5,5,5,11,11,11,11,11,3,3,3,3,3,3,3,3,20,20,15,15,15,15,13,13,13,13,40,6,6,6,6,6,6,6,6,9,9,9,9,7,7,7,7,7,7,8,8,8,8,8,8,22,0,0,0,0,0,0,0,0,0,0,0,23,23,23,18,18,18,2,2,2,2,2,56,55,53,52,52,51,51,50,50,49,49,64,48,48,14,14,14,14,14,14,14,14,14,28,28,44,44,43,43,34,34,34,10,10,10,10,10,33,33,27,27,27,39,32,32,32,17,17,17,17,26,26,31,31,4,4,4,4,4,4,4,24,24,38,38,19,19,19,19,25,25,72,12,12,12,12,12],"linkTargets":[0,5,2,35,0,18,23,4,3,20,15,11,75,17,13,59,12,9,7,8,6,19,42,26,25,73,57,10,70,24,71,5,28,35,3,20,15,42,13,41,58,40,4,2,57,26,22,0,35,4,2,60,9,7,6,8,2,0,20,0,0,28,2,13,18,12,11,22,21,3,5,3,21,22,66,5,20,15,16,3,45,20,15,16,45,41,40,58,13,22,6,21,19,7,3,22,54,0,9,7,8,0,9,7,36,13,21,0,8,9,7,6,21,0,5,18,68,0,2,53,56,55,69,67,65,16,2,16,23,2,5,18,2,23,4,36,16,16,16,0,62,2,62,2,5,3,5,3,54,77,2,24,25,3,6,8,74,9,4,7,26,5,4,59,4,0,34,10,0,10,27,33,39,0,41,39,27,10,0,33,32,63,11,28,3,12,17,42,35,4,31,24,31,4,44,43,2,36,4,0,38,0,19,6,9,21,25,0,0,5,17,12,11,0]};
+			let attractionForce = 1;
+			let linkLength = 10;
+			let repulsionForce = 150;
+			let centralForce = 3;
+			let edgePruning = 100;
+			</script>
+			
+<script type="module" src="../../../../scripts/graph_view.js"></script>
+
+<script src="../../../../scripts/graph_wasm.js"></script>
+
+<script src="../../../../scripts/tinycolor.js"></script>
+
+<script src="../../../../scripts/webpage.js"></script>
+
+			</head><body class="theme-dark mod-macos is-frameless is-hidden-frameless obsidian-app native-scrollbars show-inline-title show-view-header hide-external-link-icon is-maximized" style="--zoom-factor:1; --font-text-size:14px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;"><div class="flex-container"><div id="sidebar" class="sidebar-left"><div class="sidebar-content"><div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle"><div class="toggle__fill"></div></label></div></div></div><div class="center-content"><div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;"><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"></div><div><p><em>Created on 13th May 2023</em></p></div><div><hr></div><div><div class="block-language-toc dynamic-toc"><ul>
+<li><a data-href="#Information" href="#Information" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Information</a>
+<ol>
+<li><a data-href="#Temor-Dominant Parkinson's:" href="#Temor-Dominant_Parkinson's:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Temor-Dominant Parkinson's:</a></li>
+</ol>
+</li>
+<li><a data-href="#History" href="#History" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>History</a>
+<ol>
+<li><a data-href="#Symptoms" href="#Symptoms" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Symptoms</a>
+<ol>
+<li><a data-href="#Risk factors:" href="#Risk_factors:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Risk factors:</a></li>
+<li><a data-href="#Questions to ask" href="#Questions_to_ask" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Questions to ask</a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a data-href="#Investigation" href="#Investigation" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Investigation</a>
+<ol>
+<li><a data-href="#Drug management" href="#Drug_management" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Drug management</a></li>
+</ol>
+</li>
+<li><a data-href="#Management" href="#Management" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Management</a>
+<ol>
+<li><a data-href="#Overall management:" href="#Overall_management:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Overall management:</a>
+<ol>
+<li><a data-href="#Side Effects:" href="#Side_Effects:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Side Effects:</a></li>
+</ol>
+</li>
+<li><a data-href="#Treatment:" href="#Treatment:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Treatment:</a>
+<ol>
+<li><a data-href="#Overall treatment:" href="#Overall_treatment:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Overall treatment:</a>
+<ol>
+<li><a data-href="#Avoid:" href="#Avoid:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Avoid:</a></li>
+</ol>
+</li>
+<li><a data-href="#Drug Summaru" href="#Drug_Summaru" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Drug Summaru</a></li>
+</ol>
+</li>
+<li><a data-href="#Drug overview" href="#Drug_overview" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Drug overview</a></li>
+<li><a data-href="#Criteria" href="#Criteria" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Criteria</a>
+<ol>
+<li><a data-href="#Example severity/test score:" href="#Example_severity/test_score:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Example severity/test score:</a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a data-href="#Complications" href="#Complications" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Complications</a></li>
+<li><a data-href="#Extra" href="#Extra" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Extra</a>
+<ol>
+<li><a data-href="#Relevant notes:" href="#Relevant_notes:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Relevant notes:</a></li>
+<li><a data-href="#References:" href="#References:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>References:</a></li>
+</ol>
+</li>
+</ul></div></div><div><hr></div><div><h1 data-heading="Information" id="Information"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Information</h1></div><div><p>Parkinson's is a movement disorder due to <strong>loss of dopamine containing neurons</strong> in te <em>substantia nigra of the basal ganglia</em> (midbrain)</p></div><div><ol>
+<li data-line="0">Leads to reduced excitatory input to motor cortex</li>
+</ol></div><div><p>It is a clinical diagnosis, based on classical features:</p></div><div><ol>
+<li data-line="0">Bradykinesia: Occurs in 80% of patients</li>
+<li data-line="1">Tremor</li>
+<li data-line="2">Rigidity</li>
+</ol></div><div><p><span alt="Pasted image 20230513231514.png" src="Pasted image 20230513231514.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230513231514.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230513231514.png?1683998484507"></span></p></div><div><p>If not exhibited, then <strong><em>consider other alternativ diagnosis</em></strong><br>
+If not responding to treatment, <strong><em>then consider other alternative diagnosis</em></strong></p></div><div><p>Can have loss of autonomic nervous system, leading to <strong>orthostatic hypotension</strong>:</p></div><div><ol>
+<li data-line="0">Occurs in 20% to 60%</li>
+<li data-line="1">More common with levodopa treatment</li>
+</ol></div><div><p>Has similar symptoms to <a data-href="Lewy Body Dementia" href="Lewy Body Dementia" class="internal-link is-unresolved" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Lewy Body Dementia</a>:</p></div><div><ol>
+<li data-line="0">However, dementia develops before or safe time as movement symptoms</li>
+<li data-line="1">In Parkinsons, dementia happens years after symptoms</li>
+<li data-line="2">Likely a continuum of same disorder</li>
+</ol></div><div><h3 data-heading="Temor-Dominant Parkinson's:" id="Temor-Dominant_Parkinson's:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Temor-Dominant Parkinson's:</h3></div><div><p>Has symptoms of tremor, but <em>no significant bradykinesia or gait problems</em><br>
+Better prognosis than other forms of Parkinson's</p></div><div><div data-callout-metadata="" data-callout-fold="" data-callout="important" class="callout"><div class="callout-title"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-flame"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path></svg></div><div class="callout-title-inner">Important</div></div></div></div><div><ol>
+<li data-line="0">Parkinson's is a movement disorder caused by a loss of dopamine-containing neurons in the substantia nigra of the midbrain.</li>
+<li data-line="1">The clinical diagnosis of Parkinson's is based on the classical features of bradykinesia, tremor, and rigidity.</li>
+<li data-line="2">If the classical features are not present or not responding to treatment, consider other alternative diagnoses.</li>
+<li data-line="3">Parkinson's can lead to loss of the autonomic nervous system, which can cause orthostatic hypotension.</li>
+<li data-line="4">Tremor-dominant Parkinson's has symptoms of tremor but no significant bradykinesia or gait problems and has a better prognosis than other forms of Parkinson's.</li>
+<li data-line="5">There are no imaging or blood tests available to diagnose Parkinson's.</li>
+<li data-line="6">The main treatment for Parkinson's involves increasing dopamine activity and blocking ACh activity.</li>
+<li data-line="7">Treatments include Levodopa (the most effective medication for controlling the motor symptoms), COMT inhibitors (used to prevent off-symptoms of Levodopa), dopamine agonists, MAO-B inhibitors, and anticholinergics.</li>
+<li data-line="8">Patients with Parkinson's should be referred to a multidisciplinary team, including a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.</li>
+<li data-line="9">Metoclopramide, prochlorperazine, and antipsychotics should be avoided in Parkinson's treatment, while quetiapine is the antipsychotic with the least movement side effects.</li>
+</ol></div><div><hr></div><div><h1 data-heading="History" id="History"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>History</h1></div><div><h3 data-heading="Symptoms" id="Symptoms"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Symptoms</h3></div><div><p>Classic features:<br>
+<span alt="Pasted image 20230513231520.png" src="Pasted image 20230513231520.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230513231520.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230513231520.png?1683998484507"></span><br>
+<strong>Bradykinesia:</strong></p></div><div><ol>
+<li data-line="0">Generalised slowness of movement</li>
+<li data-line="1"><em>Shuffling of steps</em></li>
+<li data-line="2">Unsteadiness</li>
+</ol></div><div><p>Other symptoms:</p></div><div><ol>
+<li data-line="0">Masked facial expression (Lack of movement)</li>
+<li data-line="1"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Shuffling gait
+<ol>
+<li data-line="2">Narrow based</li>
+<li data-line="3">Short steps</li>
+<li data-line="4">Freezing</li>
+</ol>
+</li>
+<li data-line="5">Dementia (late)</li>
+</ol></div><div><h3 data-heading="Risk factors:" id="Risk_factors:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Risk factors:</h3></div><div><ol>
+<li data-line="0">Older age</li>
+<li data-line="1">Family history</li>
+<li data-line="2">Smoking (PROTECTIVE)</li>
+</ol></div><div><h3 data-heading="Questions to ask" id="Questions_to_ask"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Questions to ask</h3></div><div><blockquote>
+<p><em>"Do you notice any ???"</em></p>
+</blockquote></div><div><hr></div><div><h1 data-heading="Investigation" id="Investigation"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Investigation</h1></div><div><h2 data-heading="Drug management" id="Drug_management"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Drug management</h2></div><div><table>
+<thead>
+<tr>
+<th>Test</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LFTs</td>
+<td>Used to monitor due to Tolcapone's liver toxicity. See <a data-href="#Treatment:" href="#Treatment:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Treatment:</a></td>
+</tr>
+</tbody>
+</table>
+</div><div><hr></div><div><h1 data-heading="Management" id="Management"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Management</h1></div><div><h2 data-heading="Overall management:" id="Overall_management:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Overall management:</h2></div><div><p>Treatment management involves:</p></div><div><ol>
+<li data-line="0">Increase dopaine activity</li>
+<li data-line="1">Block ACh activity</li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Treatments include:
+<ol>
+<li data-line="3">MAO type-B inhibitors</li>
+<li data-line="4">COMT inhibitors</li>
+<li data-line="5">Dopamine agnost</li>
+</ol>
+</li>
+<li data-line="6">Consider <a data-href="#Side Effects:" href="#Side_Effects:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Side Effects:</a></li>
+</ol></div><div><h3 data-heading="Side Effects:" id="Side_Effects:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Side Effects:</h3></div><div><p><strong>Dopamine drugs</strong>:</p></div><div><ul class="has-list-bullet">
+<li data-line="0"><div class="list-bullet"></div>Nausea and vomiting</li>
+<li data-line="1"><div class="list-bullet"></div>Orthostatic hypotension</li>
+<li data-line="2"><div class="list-bullet"></div>Excessive sleepiness</li>
+<li data-line="3"><div class="list-bullet"></div>Dyskinesia</li>
+<li data-line="4"><div class="list-bullet"></div>COnfusion and hallucinations</li>
+</ul></div><div><h2 data-heading="Treatment:" id="Treatment:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Treatment:</h2></div><div><h3 data-heading="Overall treatment:" id="Overall_treatment:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Overall treatment:</h3></div><div><ul class="has-list-bullet">
+<li data-line="0"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Levodopa is the most effective medication for controlling the motor symptoms of Parkinson's disease
+<ul class="has-list-bullet">
+<li data-line="1"><div class="list-bullet"></div>Utilise with carbidopa, a  peripheral decarboxylase inhibitor</li>
+<li data-line="2"><div class="list-bullet"></div>Can use benserazide</li>
+</ul>
+</li>
+<li data-line="3"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>COMT inhibitors can be used to prevent off-symptoms of Levodopa
+<ul class="has-list-bullet">
+<li data-line="4"><div class="list-bullet"></div>Only use with Levodopa, useless by itself</li>
+<li data-line="5"><div class="list-bullet"></div>Entacapone</li>
+<li data-line="6"><div class="list-bullet"></div>Avoid Tolcapone due to liver toxicity</li>
+</ul>
+</li>
+<li data-line="7"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Dopamine agonists: Used as monotherapy in early-stage disease or as an adjunct to levodopa in advanced disease  
+<ul class="has-list-bullet">
+<li data-line="8"><div class="list-bullet"></div>Pramipexole</li>
+<li data-line="9"><div class="list-bullet"></div>Ropinirole</li>
+</ul>
+</li>
+<li data-line="10"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>MAO-B inhibitors: early-stage disease or as an adjunct to levodopa in advanced disease
+<ul class="has-list-bullet">
+<li data-line="11"><div class="list-bullet"></div>Selegiline</li>
+<li data-line="12"><div class="list-bullet"></div>Rasagiline</li>
+</ul>
+</li>
+<li data-line="13"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Anticholinergic used to control tremor in younger patients with Parkinson's disease who do not have significant cognitive impairment. <strong>OR TREMOR-DOMINANT PARKINSON</strong>
+<ul class="has-list-bullet">
+<li data-line="14"><div class="list-bullet"></div>Trihexyphenidyl</li>
+<li data-line="15"><div class="list-bullet"></div>Benztropine</li>
+</ul>
+</li>
+<li data-line="16"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Extra: 
+<ul class="has-list-bullet">
+<li data-line="17"><div class="list-bullet"></div>Amantadine: Used to control dyskinesias (involuntary movements) associated with levodopa therapy.<strong>OR TREMOR-DOMINANT PARKINSON</strong></li>
+<li data-line="18"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Deep brain stimulation (DBS) surgery may be considered for patients with advanced Parkinson's disease who have motor complications that are not well-controlled with medication.
+<ul class="has-list-bullet">
+<li data-line="19"><div class="list-bullet"></div>Old surgeries include pallidotomy (partial ablation of globus pallidus) and thalamotomy (partial ablation of thalamus)</li>
+<li data-line="20"><div class="list-bullet"></div>Part of basal ganglia</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="21"><div class="list-bullet"></div>Patients with Parkinson's disease should be referred to a multidisciplinary team, which may include a neurologist, geriatrician, occupational therapist, physiotherapist, speech therapist, and social worker, to provide comprehensive care and support.</li>
+</ul></div><div><h4 data-heading="Avoid:" id="Avoid:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Avoid:</h4></div><div><ol>
+<li data-line="0">Metoclopramide: Blocks dopamine</li>
+<li data-line="1">Prochloperazine: Blocks dopamine</li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Antipsychotics: Many blocks dopamine
+<ol>
+<li data-line="3">Least movement side effects: quetiapine</li>
+</ol>
+</li>
+</ol></div><div><h3 data-heading="Drug Summaru" id="Drug_Summaru"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Drug Summaru</h3></div><div><p><strong>Carbidopa-Levodopa</strong>:</p></div><div><ol>
+<li data-line="0"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Levodopa crossess BBB, converted to dopamine in CNS by dopa ecarboxylase
+<ol>
+<li data-line="1">This aids</li>
+</ol>
+</li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Limited benefit as peripheral decarboxylase breaks down L-dopa
+<ol>
+<li data-line="3">Also increases CVS side effects if broken down in periphery</li>
+<li data-line="4">Use carbidopa to block peripheral decarboxylase</li>
+</ol>
+</li>
+<li data-line="5"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>On-off phenomena:
+<ol>
+<li data-line="6">Can be dependent, depleting natural dopamine</li>
+<li data-line="7">Levodopa has short half life, so high response initially due to no dopamine, crash after half life</li>
+<li data-line="8"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Symptoms:
+<ol>
+<li data-line="9">Off: Freezing or gait</li>
+<li data-line="10">On: Dyskinesia, abnormal, involuntary movements</li>
+</ol>
+</li>
+<li data-line="11"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Other side effects:
+<ol>
+<li data-line="12">Headache</li>
+<li data-line="13">Nausea</li>
+<li data-line="14">Sleepiness</li>
+<li data-line="15">Dizzines</li>
+</ol>
+</li>
+<li data-line="16"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Older patients (due to dopamine excess):
+<ol>
+<li data-line="17">Confusion</li>
+<li data-line="18">Hallucinations</li>
+<li data-line="19">Delusions</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol></div><div><p><strong>COMT Inhibitor</strong>:</p></div><div><ol>
+<li data-line="0"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Inhibits catechol-O-methyltransferase (COMT)
+<ol>
+<li data-line="1">Enzyme that breaks down levodopa</li>
+<li data-line="2">As such, only use in combination with levodop</li>
+<li data-line="3"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Boost to prevent off-effects of levodopa
+<ol>
+<li data-line="4">Entocapone: Peripheral</li>
+<li data-line="5">Tolcapone: Peripheral, Central. Associate with liver toxicity so need LFT</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol></div><div><p><strong>MOA-B</strong> Inhibitor:</p></div><div><ol>
+<li data-line="0"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Inhibits monoamin oxidase type B
+<ol>
+<li data-line="1">Centrally breaks down dopamine, moreso than 5HT (MAO-A is more 5HT)</li>
+</ol>
+</li>
+<li data-line="2">Inhibition increases central dopamine levels</li>
+<li data-line="3">Used alone or added to carbidopa-levodopa</li>
+<li data-line="4">Can cause serotonin syndrome, but rare</li>
+</ol></div><div><p><strong>Dopamine Agnosits</strong>:</p></div><div><ol>
+<li data-line="0">Used as monotherapy in early disease</li>
+<li data-line="1">Adverse effects similar to levodopa</li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Examples:
+<ol>
+<li data-line="3"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Oral:
+<ol>
+<li data-line="4">Pramipexole</li>
+<li data-line="5">Ropinirole</li>
+</ol>
+</li>
+<li data-line="6"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Transdermal patch:
+<ol>
+<li data-line="7">Rotigotine</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol></div><div><p>ACh receptor antagonist:</p></div><div><ol>
+<li data-line="0">Speciiclaly, M1 muscurinic</li>
+<li data-line="1">Trihyexpheidyl and beztropine</li>
+<li data-line="2">Side effects: Sedation and dry mout</li>
+<li data-line="3"><strong>USED IN TREMOR-DOMINANT PARKINSON</strong></li>
+</ol></div><div><p>Amantadine:</p></div><div><ol>
+<li data-line="0">Antiviral drug</li>
+<li data-line="1">Has dopamine agonist, anticholinergic activity</li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><strong>USED IN TREMOR-DOMINANT PARKINSON</strong>
+<ol>
+<li data-line="3">Also mild Parkinson</li>
+</ol>
+</li>
+</ol></div><div><p><strong>Summary:</strong><br>
+<span alt="Pasted image 20230514000106.png" src="Pasted image 20230514000106.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230514000106.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230514000106.png?1683998484513"></span><br>
+<span alt="Pasted image 20230513234737.png" src="Pasted image 20230513234737.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230513234737.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230513234737.png?1683998484512"></span></p></div><div><h2 data-heading="Drug overview" id="Drug_overview"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Drug overview</h2></div><div><h2 data-heading="Criteria" id="Criteria"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Criteria</h2></div><div><h3 data-heading="Example severity/test score:" id="Example_severity/test_score:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Example severity/test score:</h3></div><div><p><span alt="Asthma > ^6df757" src="Asthma#^6df757" class="internal-embed markdown-embed inline-embed is-loaded"></span></p><div class="embed-title markdown-embed-title"></div><div class="markdown-embed-content"><div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists"><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; min-height: unset; width: unset; height: unset; margin: unset; max-width: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"><div class="inline-title" contenteditable="false" spellcheck="false" tabindex="-1" enterkeyhint="done"></div></div><div><table>
+<thead>
+<tr>
+<th></th>
+<th>Daytime Symptoms</th>
+<th>Nighttime Symptoms</th>
+<th>Therapy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Intermittent:<br><em>No activity limitations</em><br><em>Normal PFTs</em></td>
+<td>&lt;= 2/week</td>
+<td>&lt;= 2/month</td>
+<td>Step 1</td>
+</tr>
+<tr>
+<td>Mild persistent</td>
+<td>&gt; 2/week</td>
+<td>3-4/month</td>
+<td>Step 2</td>
+</tr>
+<tr>
+<td>Moderate persistent</td>
+<td>Daily</td>
+<td>&gt;1/week</td>
+<td>Step 3</td>
+</tr>
+<tr>
+<td>Severe persistent</td>
+<td>Daily</td>
+<td>4-7/week</td>
+<td>Steps 4+</td>
+</tr>
+</tbody>
+</table>
+</div></div></div></div><div class="markdown-embed-content" style="display: none;"></div><div class="markdown-embed-link" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></div><p></p></div><div><hr></div><div><h1 data-heading="Complications" id="Complications"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Complications</h1></div><div><ol>
+<li data-line="0">Complications of disease</li>
+</ol></div><div><hr></div><div><h1 data-heading="Extra" id="Extra"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Extra</h1></div><div><h2 data-heading="Relevant notes:" id="Relevant_notes:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Relevant notes:</h2></div><div><ol>
+<li data-line="0"></li>
+</ol></div><div><h2 data-heading="References:" id="References:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>References:</h2></div><div><ol>
+<li data-line="0"><em>Boads and Beyond - STEP 2:</em> Etc...</li>
+</ol></div><div class="mod-footer"></div></div></div></div><div id="sidebar" class="sidebar-right"><div class="sidebar-content"><h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-arrow-up-right"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" width="512px" height="512px"></canvas>
+		</div>
+		</div><div class="outline-container" data-size="0"><div class="outline-header"><h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Information"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Information</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Temor-Dominant_Parkinson's:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Temor-Dominant Parkinson's:</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#History"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">History</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Symptoms"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Symptoms</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Risk_factors:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Risk factors:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Questions_to_ask"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Questions to ask</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Investigation"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Investigation</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Drug_management"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Drug management</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Management"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Management</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Overall_management:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Overall management:</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Side_Effects:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Side Effects:</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Treatment:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Treatment:</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Overall_treatment:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Overall treatment:</span></a><div class="outline-item-children"><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Avoid:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Avoid:</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Drug_Summaru"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Drug Summaru</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Drug_overview"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Drug overview</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Criteria"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Criteria</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Example_severity/test_score:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Example severity/test score:</span></a><div class="outline-item-children"></div></div></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Complications"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Complications</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Extra"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Extra</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Relevant_notes:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Relevant notes:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#References:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">References:</span></a><div class="outline-item-children"></div></div></div></div></div></div></div></div></body></html>

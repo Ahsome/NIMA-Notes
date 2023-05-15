@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html><head>
+			
+		<title>Anaemia</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta charset="UTF-8">
+
+		<link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+
+		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+		<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
+		<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+		<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+		
+
+			<link rel="stylesheet" href="../../../styles/obsidian-styles.css">
+			<link rel="stylesheet" href="../../../styles/plugin-styles.css">
+			<link rel="stylesheet" href="../../../styles/theme.css">
+			<link rel="stylesheet" href="../../../styles/snippets.css">
+
+			<style>  </style>
+			<style> mjx-container[jax="CHTML"] {
+  line-height: 0;
+}
+
+mjx-container [space="1"] {
+  margin-left: .111em;
+}
+
+mjx-container [space="2"] {
+  margin-left: .167em;
+}
+
+mjx-container [space="3"] {
+  margin-left: .222em;
+}
+
+mjx-container [space="4"] {
+  margin-left: .278em;
+}
+
+mjx-container [space="5"] {
+  margin-left: .333em;
+}
+
+mjx-container [rspace="1"] {
+  margin-right: .111em;
+}
+
+mjx-container [rspace="2"] {
+  margin-right: .167em;
+}
+
+mjx-container [rspace="3"] {
+  margin-right: .222em;
+}
+
+mjx-container [rspace="4"] {
+  margin-right: .278em;
+}
+
+mjx-container [rspace="5"] {
+  margin-right: .333em;
+}
+
+mjx-container [size="s"] {
+  font-size: 70.7%;
+}
+
+mjx-container [size="ss"] {
+  font-size: 50%;
+}
+
+mjx-container [size="Tn"] {
+  font-size: 60%;
+}
+
+mjx-container [size="sm"] {
+  font-size: 85%;
+}
+
+mjx-container [size="lg"] {
+  font-size: 120%;
+}
+
+mjx-container [size="Lg"] {
+  font-size: 144%;
+}
+
+mjx-container [size="LG"] {
+  font-size: 173%;
+}
+
+mjx-container [size="hg"] {
+  font-size: 207%;
+}
+
+mjx-container [size="HG"] {
+  font-size: 249%;
+}
+
+mjx-container [width="full"] {
+  width: 100%;
+}
+
+mjx-box {
+  display: inline-block;
+}
+
+mjx-block {
+  display: block;
+}
+
+mjx-itable {
+  display: inline-table;
+}
+
+mjx-row {
+  display: table-row;
+}
+
+mjx-row > * {
+  display: table-cell;
+}
+
+mjx-mtext {
+  display: inline-block;
+}
+
+mjx-mstyle {
+  display: inline-block;
+}
+
+mjx-merror {
+  display: inline-block;
+  color: red;
+  background-color: yellow;
+}
+
+mjx-mphantom {
+  visibility: hidden;
+}
+
+_::-webkit-full-page-media, _:future, :root mjx-container {
+  will-change: opacity;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display="block"] {
+  width: 100% !important;
+}
+
+mjx-math {
+  display: inline-block;
+  text-align: left;
+  line-height: 0;
+  text-indent: 0;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 100%;
+  font-size-adjust: none;
+  letter-spacing: normal;
+  border-collapse: collapse;
+  word-wrap: normal;
+  word-spacing: normal;
+  white-space: nowrap;
+  direction: ltr;
+  padding: 1px 0;
+}
+
+mjx-container[jax="CHTML"][display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax="CHTML"][display="true"][width="full"] {
+  display: flex;
+}
+
+mjx-container[jax="CHTML"][display="true"] mjx-math {
+  padding: 0;
+}
+
+mjx-container[jax="CHTML"][justify="left"] {
+  text-align: left;
+}
+
+mjx-container[jax="CHTML"][justify="right"] {
+  text-align: right;
+}
+
+mjx-mi {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-c {
+  display: inline-block;
+}
+
+mjx-utext {
+  display: inline-block;
+  padding: .75em 0 .2em 0;
+}
+
+mjx-mo {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-stretchy-h {
+  display: inline-table;
+  width: 100%;
+}
+
+mjx-stretchy-h > * {
+  display: table-cell;
+  width: 0;
+}
+
+mjx-stretchy-h > * > mjx-c {
+  display: inline-block;
+  transform: scalex(1.0000001);
+}
+
+mjx-stretchy-h > * > mjx-c::before {
+  display: inline-block;
+  width: initial;
+}
+
+mjx-stretchy-h > mjx-ext {
+  /* IE */ overflow: hidden;
+  /* others */ overflow: clip visible;
+  width: 100%;
+}
+
+mjx-stretchy-h > mjx-ext > mjx-c::before {
+  transform: scalex(500);
+}
+
+mjx-stretchy-h > mjx-ext > mjx-c {
+  width: 0;
+}
+
+mjx-stretchy-h > mjx-beg > mjx-c {
+  margin-right: -.1em;
+}
+
+mjx-stretchy-h > mjx-end > mjx-c {
+  margin-left: -.1em;
+}
+
+mjx-stretchy-v {
+  display: inline-block;
+}
+
+mjx-stretchy-v > * {
+  display: block;
+}
+
+mjx-stretchy-v > mjx-beg {
+  height: 0;
+}
+
+mjx-stretchy-v > mjx-end > mjx-c {
+  display: block;
+}
+
+mjx-stretchy-v > * > mjx-c {
+  transform: scaley(1.0000001);
+  transform-origin: left center;
+  overflow: hidden;
+}
+
+mjx-stretchy-v > mjx-ext {
+  display: block;
+  height: 100%;
+  box-sizing: border-box;
+  border: 0px solid transparent;
+  /* IE */ overflow: hidden;
+  /* others */ overflow: visible clip;
+}
+
+mjx-stretchy-v > mjx-ext > mjx-c::before {
+  width: initial;
+  box-sizing: border-box;
+}
+
+mjx-stretchy-v > mjx-ext > mjx-c {
+  transform: scaleY(500) translateY(.075em);
+  overflow: visible;
+}
+
+mjx-mark {
+  display: inline-block;
+  height: 0px;
+}
+
+mjx-mn {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-msub {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-TeXAtom {
+  display: inline-block;
+  text-align: left;
+}
+
+mjx-c::before {
+  display: block;
+  width: 0;
+}
+
+.MJX-TEX {
+  font-family: MJXZERO, MJXTEX;
+}
+
+.TEX-B {
+  font-family: MJXZERO, MJXTEX-B;
+}
+
+.TEX-I {
+  font-family: MJXZERO, MJXTEX-I;
+}
+
+.TEX-MI {
+  font-family: MJXZERO, MJXTEX-MI;
+}
+
+.TEX-BI {
+  font-family: MJXZERO, MJXTEX-BI;
+}
+
+.TEX-S1 {
+  font-family: MJXZERO, MJXTEX-S1;
+}
+
+.TEX-S2 {
+  font-family: MJXZERO, MJXTEX-S2;
+}
+
+.TEX-S3 {
+  font-family: MJXZERO, MJXTEX-S3;
+}
+
+.TEX-S4 {
+  font-family: MJXZERO, MJXTEX-S4;
+}
+
+.TEX-A {
+  font-family: MJXZERO, MJXTEX-A;
+}
+
+.TEX-C {
+  font-family: MJXZERO, MJXTEX-C;
+}
+
+.TEX-CB {
+  font-family: MJXZERO, MJXTEX-CB;
+}
+
+.TEX-FR {
+  font-family: MJXZERO, MJXTEX-FR;
+}
+
+.TEX-FRB {
+  font-family: MJXZERO, MJXTEX-FRB;
+}
+
+.TEX-SS {
+  font-family: MJXZERO, MJXTEX-SS;
+}
+
+.TEX-SSB {
+  font-family: MJXZERO, MJXTEX-SSB;
+}
+
+.TEX-SSI {
+  font-family: MJXZERO, MJXTEX-SSI;
+}
+
+.TEX-SC {
+  font-family: MJXZERO, MJXTEX-SC;
+}
+
+.TEX-T {
+  font-family: MJXZERO, MJXTEX-T;
+}
+
+.TEX-V {
+  font-family: MJXZERO, MJXTEX-V;
+}
+
+.TEX-VB {
+  font-family: MJXZERO, MJXTEX-VB;
+}
+
+mjx-stretchy-v mjx-c, mjx-stretchy-h mjx-c {
+  font-family: MJXZERO, MJXTEX-S1, MJXTEX-S4, MJXTEX, MJXTEX-A ! important;
+}
+
+@font-face /* 0 */ {
+  font-family: MJXZERO;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff") format("woff");
+}
+
+@font-face /* 1 */ {
+  font-family: MJXTEX;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff") format("woff");
+}
+
+@font-face /* 2 */ {
+  font-family: MJXTEX-B;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff") format("woff");
+}
+
+@font-face /* 3 */ {
+  font-family: MJXTEX-I;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff") format("woff");
+}
+
+@font-face /* 4 */ {
+  font-family: MJXTEX-MI;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff") format("woff");
+}
+
+@font-face /* 5 */ {
+  font-family: MJXTEX-BI;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff") format("woff");
+}
+
+@font-face /* 6 */ {
+  font-family: MJXTEX-S1;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff") format("woff");
+}
+
+@font-face /* 7 */ {
+  font-family: MJXTEX-S2;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff") format("woff");
+}
+
+@font-face /* 8 */ {
+  font-family: MJXTEX-S3;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff") format("woff");
+}
+
+@font-face /* 9 */ {
+  font-family: MJXTEX-S4;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff") format("woff");
+}
+
+@font-face /* 10 */ {
+  font-family: MJXTEX-A;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff") format("woff");
+}
+
+@font-face /* 11 */ {
+  font-family: MJXTEX-C;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff") format("woff");
+}
+
+@font-face /* 12 */ {
+  font-family: MJXTEX-CB;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff") format("woff");
+}
+
+@font-face /* 13 */ {
+  font-family: MJXTEX-FR;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff") format("woff");
+}
+
+@font-face /* 14 */ {
+  font-family: MJXTEX-FRB;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff") format("woff");
+}
+
+@font-face /* 15 */ {
+  font-family: MJXTEX-SS;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff") format("woff");
+}
+
+@font-face /* 16 */ {
+  font-family: MJXTEX-SSB;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff") format("woff");
+}
+
+@font-face /* 17 */ {
+  font-family: MJXTEX-SSI;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff") format("woff");
+}
+
+@font-face /* 18 */ {
+  font-family: MJXTEX-SC;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff") format("woff");
+}
+
+@font-face /* 19 */ {
+  font-family: MJXTEX-T;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff") format("woff");
+}
+
+@font-face /* 20 */ {
+  font-family: MJXTEX-V;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff") format("woff");
+}
+
+@font-face /* 21 */ {
+  font-family: MJXTEX-VB;
+  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff") format("woff");
+}
+
+mjx-c.mjx-c1D43A.TEX-I::before {
+  padding: 0.705em 0.786em 0.022em 0;
+  content: "G";
+}
+
+mjx-c.mjx-c1D44E.TEX-I::before {
+  padding: 0.441em 0.529em 0.01em 0;
+  content: "a";
+}
+
+mjx-c.mjx-c1D45D.TEX-I::before {
+  padding: 0.442em 0.503em 0.194em 0;
+  content: "p";
+}
+
+mjx-c.mjx-c3D::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "=";
+}
+
+mjx-c.mjx-c32::before {
+  padding: 0.666em 0.5em 0 0;
+  content: "2";
+}
+
+mjx-c.mjx-c39::before {
+  padding: 0.666em 0.5em 0.022em 0;
+  content: "9";
+}
+
+mjx-c.mjx-c30::before {
+  padding: 0.666em 0.5em 0.022em 0;
+  content: "0";
+}
+
+mjx-c.mjx-c2212::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "\2212";
+}
+
+mjx-c.mjx-c28::before {
+  padding: 0.75em 0.389em 0.25em 0;
+  content: "(";
+}
+
+mjx-c.mjx-c5B::before {
+  padding: 0.75em 0.278em 0.25em 0;
+  content: "[";
+}
+
+mjx-c.mjx-c1D441.TEX-I::before {
+  padding: 0.683em 0.888em 0 0;
+  content: "N";
+}
+
+mjx-c.mjx-c5D::before {
+  padding: 0.75em 0.278em 0.25em 0;
+  content: "]";
+}
+
+mjx-c.mjx-c2B::before {
+  padding: 0.583em 0.778em 0.082em 0;
+  content: "+";
+}
+
+mjx-c.mjx-c1D43E.TEX-I::before {
+  padding: 0.683em 0.889em 0 0;
+  content: "K";
+}
+
+mjx-c.mjx-c29::before {
+  padding: 0.75em 0.389em 0.25em 0;
+  content: ")";
+}
+
+mjx-c.mjx-c1D460.TEX-I::before {
+  padding: 0.442em 0.469em 0.01em 0;
+  content: "s";
+}
+
+mjx-c.mjx-c1D461.TEX-I::before {
+  padding: 0.626em 0.361em 0.011em 0;
+  content: "t";
+}
+
+mjx-c.mjx-c1D45C.TEX-I::before {
+  padding: 0.441em 0.485em 0.011em 0;
+  content: "o";
+}
+
+mjx-c.mjx-c1D459.TEX-I::before {
+  padding: 0.694em 0.298em 0.011em 0;
+  content: "l";
+} </style>
+
+			
+		<script id="relative-paths">
+			let rootPath = "../../..";
+			let mediaPath = "../../../media";
+			let jsPath = "../../../scripts";
+			let cssPath = "../../../styles";
+		</script>
+		
+			<!-- Graph View Data -->
+			<script>
+			let nodes=
+{"nodeCount":97,"linkCount":214,"radii":[7,7,6.75,6.75,6.659722222222221,6.4375,6.305555555555555,6.159722222222222,5.826388888888889,5.826388888888889,5.4375,5.4375,5.4375,5.4375,5.4375,5.222222222222222,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.75,4.75,4.75,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3,3,3,3,3,3,3,3,3,3,3,3,3,3],"labels":["Asthma","A+N To Do List","Pneumonia","Diabetes Mellitus","Lung cancer","Heart Failure","Gout","Rheumatoid Arthritis","Septic Arthritis","Osteoarhritis","Diarrhea","Hypertension","Sleep Apnea","Anaemia","Ahkam","Hyperglycaemic Hyperosmolar State (HHS)","Comparison between Spiromotry and PFM","Stroke","Chronic Pulmonary Disease (COPD)","Pseudogout","Diabetic Ketoacidosis (DKA)","Glossary","Chronic Kidney Disease","Bronchitis","Breast Cancer","Parkinson's","Syncope","Irritable bowel syndrome","Atrial Fibrillation","Respiratory","Haematology & Oncology","Mediastinal Masses","Headache","Inflammatory Bowel Disease (IBD)","C. Difficile infection","Pulmonary Embolus","Pleural Effusion","Rheumatology","Sexually Transmitted Disease","Toxic Megacolon","Normocytic Anaemia","Microcytic Anaemia","Falls","SIADH","Cushing's Syndrome","DKA vs HHS","Endocrinology","Cardivascular","The Principles of Antibiotic Use","Clincial Reasoning - Diabetes","Clincial Reasoning - Diabetes-Ahkam’s MacBook Air","Patient 2","Patient 1","Montelukast","Allopurinal","Spirometry","Peak Flow Meter","Cellulitis and Erysipelas","Macrocytic Anaemia","Obesity","Approach to a patient cough","Infectious Disease","STEMI","Triptans","Clinical Reasoning - Rheumatology","Magnesium sulfate","Metformin","Beta-agonist","Albuterol","CXR","Sepsis (and SIRS)","Colorectal Cancer","Potassium Disorders","Urinary Tract Infection (UTI)","Dementia","Delirium","Klebsiella","Home","2023-05-08","Neurology","Renal & Hypertension","Geriatric medicine","Disease","index","Short Cases","Untitled database","Glimepiride","Gliclazide","2023-05-13 -  Long Case Meeting","2023-05-10","2023-05-09","Gastroenterology","Untitled","Untitled 1","Test","2023-04-20","Tutorials"],"paths":["med-notes/diseases/respiratory/asthma.html","--todo--/a+n-to-do-list.html","med-notes/diseases/respiratory/pneumonia.html","med-notes/diseases/endrocrinology/diabetes-mellitus.html","med-notes/diseases/respiratory/lung-cancer.html","med-notes/diseases/cardiology/heart-failure.html","med-notes/diseases/msk/arthritis/gout.html","med-notes/diseases/msk/arthritis/rheumatoid-arthritis.html","med-notes/diseases/msk/arthritis/septic-arthritis.html","med-notes/diseases/msk/arthritis/osteoarhritis.html","med-notes/diseases/gastrointestinal/diarrhea.html","med-notes/diseases/cardiology/hypertension.html","med-notes/diseases/respiratory/other/sleep-apnea.html","med-notes/diseases/haem/anaemia.html","--todo--/ahkam.html","med-notes/diseases/endrocrinology/hyperglycaemic-hyperosmolar-state-(hhs).html","med-notes/investigations/comparisons/comparison-between-spiromotry-and-pfm.html","med-notes/diseases/neuro/stroke.html","med-notes/diseases/respiratory/chronic-pulmonary-disease-(copd).html","med-notes/diseases/msk/arthritis/pseudogout.html","med-notes/diseases/endrocrinology/diabetic-ketoacidosis-(dka).html","med-notes/glossary.html","med-notes/diseases/renal/chronic-kidney-disease.html","med-notes/diseases/respiratory/bronchitis.html","med-notes/diseases/reproductive/breast-cancer.html","med-notes/diseases/neuro/movement-disorders/parkinson's.html","med-notes/diseases/neuro/syncope.html","med-notes/diseases/gastrointestinal/irritable-bowel-syndrome.html","med-notes/diseases/cardiology/atrial-fibrillation.html","--todo--/respiratory.html","--todo--/haematology-&-oncology.html","med-notes/diseases/oncology/mediastinal-masses.html","med-notes/diseases/neuro/headache.html","med-notes/diseases/gastrointestinal/inflammatory-bowel-disease-(ibd).html","med-notes/diseases/gastrointestinal/c.-difficile-infection.html","med-notes/diseases/respiratory/pulmonary-embolus.html","med-notes/diseases/--incomplete--/respiratory/pleural-effusion.html","--todo--/rheumatology.html","med-notes/diseases/reproductive/sexually-transmitted-disease.html","med-notes/diseases/gastrointestinal/toxic-megacolon.html","med-notes/diseases/haem/normocytic-anaemia.html","med-notes/diseases/haem/microcytic-anaemia.html","med-notes/diseases/geriatrics/falls.html","med-notes/diseases/endrocrinology/siadh.html","med-notes/diseases/endrocrinology/cushing's-syndrome.html","med-notes/diseases/--comparisons--/dka-vs-hhs.html","--todo--/endocrinology.html","--todo--/cardivascular.html","uq/tutorials/the-principles-of-antibiotic-use.html","uq/tutorials/clincial-reasoning---diabetes.html","uq/tutorials/clincial-reasoning---diabetes-ahkam’s-macbook-air.html","uq/short-cases/patient-2.html","uq/short-cases/patient-1.html","med-notes/pharmacology/montelukast.html","med-notes/pharmacology/allopurinal.html","med-notes/investigations/spirometry.html","med-notes/investigations/peak-flow-meter.html","med-notes/diseases/dermatology/cellulitis-and-erysipelas.html","med-notes/diseases/haem/macrocytic-anaemia.html","med-notes/diseases/endrocrinology/obesity.html","med-notes/approaches/approach-to-a-patient-cough.html","--todo--/infectious-disease.html","--meta--/unsorted/stemi.html","triptans.html","uq/tutorials/clinical-reasoning---rheumatology.html","med-notes/pharmacology/magnesium-sulfate.html","med-notes/pharmacology/diabetic/metformin.html","med-notes/pharmacology/beta-agonist.html","med-notes/pharmacology/albuterol.html","med-notes/investigations/cxr.html","med-notes/diseases/systematic/sepsis-(and-sirs).html","med-notes/diseases/gastrointestinal/colorectal-cancer.html","med-notes/diseases/renal/potassium-disorders.html","med-notes/diseases/renal/urinary-tract-infection-(uti).html","med-notes/diseases/geriatrics/dementia.html","med-notes/diseases/geriatrics/delirium.html","med-notes/diseases/--incomplete--/unorganised/klebsiella.html","home.html","draft-notes/2023-05-08.html","--todo--/neurology.html","--todo--/renal-&-hypertension.html","--todo--/geriatric-medicine.html","--meta--/templates/disease.html","index.html","uq/tutorials/short-cases.html","med-notes/pharmacology/diabetic/untitled-database.html","med-notes/pharmacology/diabetic/glimepiride.html","med-notes/pharmacology/diabetic/gliclazide.html","draft-notes/2023-05-13----long-case-meeting.html","draft-notes/2023-05-10.html","draft-notes/2023-05-09.html","--todo--/gastroenterology.html","--meta--/unsorted/untitled.html","--meta--/unsorted/untitled-1.html","--meta--/unsorted/test.html","--meta--/unsorted/2023-04-20.html","--meta--/templates/tutorials.html"],"linkSources":[82,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,47,47,46,46,46,81,30,30,30,30,30,61,61,79,80,29,29,29,29,29,37,37,37,37,78,60,45,36,76,5,5,5,5,5,11,11,11,11,11,3,3,3,3,3,3,3,3,20,20,15,15,15,15,13,13,13,13,40,6,6,6,6,6,6,6,6,9,9,9,9,7,7,7,7,7,7,8,8,8,8,8,8,22,0,0,0,0,0,0,0,0,0,0,0,23,23,23,18,18,18,2,2,2,2,2,56,55,53,52,52,51,51,50,50,49,49,64,48,48,14,14,14,14,14,14,14,14,14,28,28,44,44,43,43,34,34,34,10,10,10,10,10,33,33,27,27,27,39,32,32,32,17,17,17,17,26,26,31,31,4,4,4,4,4,4,4,24,24,38,38,19,19,19,19,25,25,72,12,12,12,12,12],"linkTargets":[0,5,2,35,0,18,23,4,3,20,15,11,75,17,13,59,12,9,7,8,6,19,42,26,25,73,57,10,70,24,71,5,28,35,3,20,15,42,13,41,58,40,4,2,57,26,22,0,35,4,2,60,9,7,6,8,2,0,20,0,0,28,2,13,18,12,11,22,21,3,5,3,21,22,66,5,20,15,16,3,45,20,15,16,45,41,40,58,13,22,6,21,19,7,3,22,54,0,9,7,8,0,9,7,36,13,21,0,8,9,7,6,21,0,5,18,68,0,2,53,56,55,69,67,65,16,2,16,23,2,5,18,2,23,4,36,16,16,16,0,62,2,62,2,5,3,5,3,54,77,2,24,25,3,6,8,74,9,4,7,26,5,4,59,4,0,34,10,0,10,27,33,39,0,41,39,27,10,0,33,32,63,11,28,3,12,17,42,35,4,31,24,31,4,44,43,2,36,4,0,38,0,19,6,9,21,25,0,0,5,17,12,11,0]};
+			let attractionForce = 1;
+			let linkLength = 10;
+			let repulsionForce = 150;
+			let centralForce = 3;
+			let edgePruning = 100;
+			</script>
+			
+<script type="module" src="../../../scripts/graph_view.js"></script>
+
+<script src="../../../scripts/graph_wasm.js"></script>
+
+<script src="../../../scripts/tinycolor.js"></script>
+
+<script src="../../../scripts/webpage.js"></script>
+
+			</head><body class="theme-dark mod-macos is-frameless is-hidden-frameless obsidian-app native-scrollbars show-inline-title show-view-header hide-external-link-icon is-maximized" style="--zoom-factor:1; --font-text-size:14px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;"><div class="flex-container"><div id="sidebar" class="sidebar-left"><div class="sidebar-content"><div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle"><div class="toggle__fill"></div></label></div></div></div><div class="center-content"><div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;"><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"></div><div><p><em>Created on 9th May 2023</em></p></div><div><hr></div><div><div class="block-language-toc dynamic-toc"><ul>
+<li><a data-href="#Information" href="#Information" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Information</a>
+<ol>
+<li><a data-href="#Pathophysiology" href="#Pathophysiology" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Pathophysiology</a></li>
+</ol>
+</li>
+<li><a data-href="#Scenario" href="#Scenario" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Scenario</a></li>
+<li><a data-href="#History" href="#History" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>History</a>
+<ol>
+<li><a data-href="#Signs" href="#Signs" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Signs</a>
+<ol>
+<li><a data-href="#*Symptoms*" href="#*Symptoms*" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>*Symptoms*</a></li>
+</ol>
+</li>
+<li><a data-href="#Examination findings" href="#Examination_findings" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Examination findings</a></li>
+<li><a data-href="#Investigations" href="#Investigations" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Investigations</a></li>
+</ol>
+</li>
+<li><a data-href="#Management" href="#Management" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Management</a>
+<ol>
+<li><a data-href="#Initial Acute Management" href="#Initial_Acute_Management" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Initial Acute Management</a></li>
+<li><a data-href="#Longer term Mx" href="#Longer_term_Mx" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Longer term Mx</a></li>
+</ol>
+</li>
+</ul></div></div><div><hr></div><div><h1 data-heading="Information" id="Information"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Information</h1></div><div><p>Anaemia is a condition of low RBC and oxygen-carrying capacity which causes symptoms of faitgue and weakness.</p></div><div><p><span alt="Pasted image 20230509094418.png" src="Pasted image 20230509094418.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230509094418.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230509094418.png?1683602792659"></span> </p></div><div><div class="mermaid" style=""><svg id="med3ccfcc6709d700" width="1245.66796875" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="580.78125" viewBox="-8 -8 1245.66796875 580.78125" aria-roledescription="flowchart-v2"><style>#med3ccfcc6709d700{font-family:var(--font-mermaid);font-size:16px;fill:var(--text-normal);}#med3ccfcc6709d700 .error-icon{fill:var(--background-primary);}#med3ccfcc6709d700 .error-text{fill:var(--text-error);stroke:var(--text-error);}#med3ccfcc6709d700 .edge-thickness-normal{stroke-width:2px;}#med3ccfcc6709d700 .edge-thickness-thick{stroke-width:3.5px;}#med3ccfcc6709d700 .edge-pattern-solid{stroke-dasharray:0;}#med3ccfcc6709d700 .edge-pattern-dashed{stroke-dasharray:3;}#med3ccfcc6709d700 .edge-pattern-dotted{stroke-dasharray:2;}#med3ccfcc6709d700 .marker{fill:var(--text-normal);stroke:var(--text-normal);}#med3ccfcc6709d700 .marker.cross{stroke:var(--text-normal);}#med3ccfcc6709d700 svg{font-family:var(--font-mermaid);font-size:16px;}#med3ccfcc6709d700 .label{font-family:var(--font-mermaid);color:var(--text-normal);}#med3ccfcc6709d700 .cluster-label text{fill:var(--text-normal);}#med3ccfcc6709d700 .cluster-label span{color:var(--text-normal);}#med3ccfcc6709d700 .label text,#med3ccfcc6709d700 span{fill:var(--text-normal);color:var(--text-normal);}#med3ccfcc6709d700 .node rect,#med3ccfcc6709d700 .node circle,#med3ccfcc6709d700 .node ellipse,#med3ccfcc6709d700 .node polygon,#med3ccfcc6709d700 .node path{fill:var(--background-primary);stroke:var(--text-muted);stroke-width:1px;}#med3ccfcc6709d700 .node .label{text-align:center;}#med3ccfcc6709d700 .node.clickable{cursor:pointer;}#med3ccfcc6709d700 .arrowheadPath{fill:undefined;}#med3ccfcc6709d700 .edgePath .path{stroke:var(--text-normal);stroke-width:2.0px;}#med3ccfcc6709d700 .flowchart-link{stroke:var(--text-normal);fill:none;}#med3ccfcc6709d700 .edgeLabel{background-color:var(--background-secondary);text-align:center;}#med3ccfcc6709d700 .edgeLabel rect{opacity:0.5;background-color:var(--background-secondary);fill:var(--background-secondary);}#med3ccfcc6709d700 .cluster rect{fill:hsl(220.5882352941, 100%, 98.3333333333%);stroke:hsl(220.5882352941, 60%, 88.3333333333%);stroke-width:1px;}#med3ccfcc6709d700 .cluster text{fill:var(--text-normal);}#med3ccfcc6709d700 .cluster span{color:var(--text-normal);}#med3ccfcc6709d700 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:var(--font-mermaid);font-size:12px;background:var(--background-secondary-alt);border:1px solid undefined;border-radius:2px;pointer-events:none;z-index:100;}#med3ccfcc6709d700 .flowchartTitleText{text-anchor:middle;font-size:18px;fill:var(--text-normal);}#med3ccfcc6709d700 foreignObject{overflow:visible;}#med3ccfcc6709d700 #arrowhead,#med3ccfcc6709d700 #sequencenumber,#med3ccfcc6709d700 .cluster text,#med3ccfcc6709d700 .label text,#med3ccfcc6709d700 text,#med3ccfcc6709d700 text.actor{fill:var(--text-normal);}#med3ccfcc6709d700 line{stroke:var(--text-normal);}#med3ccfcc6709d700 g&gt;g&gt;circle,#med3ccfcc6709d700 g&gt;g&gt;path{stroke:var(--background-accent);color:var(--text-normal);}#med3ccfcc6709d700 .label rect{display:none;}#med3ccfcc6709d700 .cluster rect{stroke-width:1px;}#med3ccfcc6709d700 .node circle,#med3ccfcc6709d700 .node ellipse,#med3ccfcc6709d700 .node path,#med3ccfcc6709d700 .node polygon,#med3ccfcc6709d700 .node rect{fill:var(--background-secondary-alt);stroke:var(--background-modifier-border);stroke-width:1px;}#med3ccfcc6709d700 .node .label{text-align:center;}#med3ccfcc6709d700 .node.clickable{cursor:pointer;}#med3ccfcc6709d700 .arrowheadPath{fill:var(--text-muted);}#med3ccfcc6709d700 .edgePath .path{stroke:var(--text-muted);stroke-width:1.5px;}#med3ccfcc6709d700 .edgeLabel{background-color:var(--background-primary);text-align:center;}#med3ccfcc6709d700 .cluster rect{fill:var(--background-primary-alt);stroke:var(--background-modifier-border);}#med3ccfcc6709d700 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-size:12px;background:var(--background-secondary);border:1px solid var(--interactive-accent);border-radius:2px;pointer-events:none;z-index:100;}#med3ccfcc6709d700 .actor{stroke:var(--background-modifier-border);fill:var(--background-secondary-alt);font-family:inherit!important;}#med3ccfcc6709d700 text.actor{stroke:none;}#med3ccfcc6709d700 .actor-line{stroke:var(--text-muted);}#med3ccfcc6709d700 .messageLine0,#med3ccfcc6709d700 .messageLine1{stroke-width:1.5;stroke-dasharray:'2 2';stroke:var(--text-normal);}#med3ccfcc6709d700 .sequenceNumber{fill:#fff;}#med3ccfcc6709d700 #crosshead path{fill:var(--text-normal)!important;stroke:var(--text-normal)!important;}#med3ccfcc6709d700 .messageText{fill:var(--text-normal);stroke:none;font-family:inherit!important;}#med3ccfcc6709d700 .labelBox{stroke:var(--background-modifier-border);fill:var(--background-secondary-alt);}#med3ccfcc6709d700 .labelText,#med3ccfcc6709d700 .loopText{fill:var(--text-normal);stroke:none;}#med3ccfcc6709d700 .loopLine{stroke-width:2;stroke-dasharray:'2 2';stroke:var(--background-modifier-border);}#med3ccfcc6709d700 .activation0,#med3ccfcc6709d700 .activation1,#med3ccfcc6709d700 .activation2{fill:var(--background-secondary) stroke:var(--text-muted);}#med3ccfcc6709d700 .section{stroke:none;opacity:.2;}#med3ccfcc6709d700 .section0,#med3ccfcc6709d700 .section2{fill:var(--text-accent);}#med3ccfcc6709d700 .section1,#med3ccfcc6709d700 .section3{fill:#fff;opacity:.2;}#med3ccfcc6709d700 .sectionTitle0,#med3ccfcc6709d700 .sectionTitle1,#med3ccfcc6709d700 .sectionTitle2,#med3ccfcc6709d700 .sectionTitle3{fill:var(--text-normal);}#med3ccfcc6709d700 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px;}#med3ccfcc6709d700 .grid .tick{stroke:var(--background-primary-alt);opacity:.8;shape-rendering:crispEdges;}#med3ccfcc6709d700 .grid path{stroke-width:0;}#med3ccfcc6709d700 .today{fill:none;stroke:#d42;stroke-width:2px;}#med3ccfcc6709d700 .task{stroke-width:2;}#med3ccfcc6709d700 .taskText{text-anchor:middle;}#med3ccfcc6709d700 .taskText:not([font-size]){font-size:11px;}#med3ccfcc6709d700 .taskTextOutsideRight{fill:var(--text-normal);text-anchor:start;font-size:11px;}#med3ccfcc6709d700 .taskTextOutsideLeft{fill:var(--text-normal);text-anchor:end;font-size:11px;}#med3ccfcc6709d700 .task.clickable,#med3ccfcc6709d700 g.clickable{cursor:pointer;}#med3ccfcc6709d700 .taskText.clickable,#med3ccfcc6709d700 .taskTextOutsideLeft.clickable,#med3ccfcc6709d700 .taskTextOutsideRight.clickable{cursor:pointer;fill:#003163!important;font-weight:700;}#med3ccfcc6709d700 .taskText0,#med3ccfcc6709d700 .taskText1,#med3ccfcc6709d700 .taskText2,#med3ccfcc6709d700 .taskText3{fill:#fff;}#med3ccfcc6709d700 .task0,#med3ccfcc6709d700 .task1,#med3ccfcc6709d700 .task2,#med3ccfcc6709d700 .task3{fill:var(--interactive-accent);stroke:var(--interactive-accent);}#med3ccfcc6709d700 .taskTextOutside0,#med3ccfcc6709d700 .taskTextOutside1,#med3ccfcc6709d700 .taskTextOutside2,#med3ccfcc6709d700 .taskTextOutside3{fill:var(--text-normal);}#med3ccfcc6709d700 .active0,#med3ccfcc6709d700 .active1,#med3ccfcc6709d700 .active2,#med3ccfcc6709d700 .active3,#med3ccfcc6709d700 g.classGroup rect,#med3ccfcc6709d700 g.stateGroup rect{fill:var(--background-primary-alt);stroke:var(--background-modifier-border);}#med3ccfcc6709d700 g.classGroup rect,#med3ccfcc6709d700 g.stateGroup rect{stroke:var(--background-modifier-border);}#med3ccfcc6709d700 .activeText0,#med3ccfcc6709d700 .activeText1,#med3ccfcc6709d700 .activeText2,#med3ccfcc6709d700 .activeText3{fill:var(--text-normal)!important;}#med3ccfcc6709d700 .done0,#med3ccfcc6709d700 .done1,#med3ccfcc6709d700 .done2,#med3ccfcc6709d700 .done3{stroke:var(--text-muted);fill:#bbb;stroke-width:2;}#med3ccfcc6709d700 .doneText0,#med3ccfcc6709d700 .doneText1,#med3ccfcc6709d700 .doneText2,#med3ccfcc6709d700 .doneText3{fill:var(--text-normal)!important;}#med3ccfcc6709d700 .crit0,#med3ccfcc6709d700 .crit1,#med3ccfcc6709d700 .crit2,#med3ccfcc6709d700 .crit3{stroke:#b1361b;fill:#d42;stroke-width:2;}#med3ccfcc6709d700 .activeCrit0,#med3ccfcc6709d700 .activeCrit1,#med3ccfcc6709d700 .activeCrit2,#med3ccfcc6709d700 .activeCrit3,#med3ccfcc6709d700 .classLabel .box{stroke:#b1361b;fill:var(--background-secondary-alt);stroke-width:2;}#med3ccfcc6709d700 .classLabel .box{stroke:none;stroke-width:0;opacity:.5;}#med3ccfcc6709d700 .doneCrit0,#med3ccfcc6709d700 .doneCrit1,#med3ccfcc6709d700 .doneCrit2,#med3ccfcc6709d700 .doneCrit3{stroke:#b1361b;fill:#bbb;stroke-width:2;cursor:pointer;shape-rendering:crispEdges;}#med3ccfcc6709d700 .milestone{transform:rotate(45deg) scale(.8,.8);}#med3ccfcc6709d700 .milestoneText{font-style:italic;}#med3ccfcc6709d700 .activeCritText0,#med3ccfcc6709d700 .activeCritText1,#med3ccfcc6709d700 .activeCritText2,#med3ccfcc6709d700 .activeCritText3,#med3ccfcc6709d700 .doneCritText0,#med3ccfcc6709d700 .doneCritText1,#med3ccfcc6709d700 .doneCritText2,#med3ccfcc6709d700 .doneCritText3{fill:var(--text-normal)!important;}#med3ccfcc6709d700 .titleText{text-anchor:middle;font-size:18px;fill:var(--text-normal);}#med3ccfcc6709d700 g.classGroup text{fill:var(--text-normal);stroke:none;font-size:11px;}#med3ccfcc6709d700 g.classGroup text .title{font-weight:bolder;}#med3ccfcc6709d700 #aggregationEnd,#med3ccfcc6709d700 #aggregationStart,#med3ccfcc6709d700 #compositionEnd,#med3ccfcc6709d700 #compositionStart,#med3ccfcc6709d700 .relation,#med3ccfcc6709d700 g.classGroup line,#med3ccfcc6709d700 g.stateGroup line{stroke:var(--background-modifier-border);stroke-width:1;}#med3ccfcc6709d700 .classLabel .label{font-size:11px;}#med3ccfcc6709d700 .relation{fill:none;}#med3ccfcc6709d700 .dashed-line{stroke-dasharray:3;}#med3ccfcc6709d700 #compositionEnd,#med3ccfcc6709d700 #compositionStart{fill:var(--background-modifier-border);}#med3ccfcc6709d700 #aggregationEnd,#med3ccfcc6709d700 #aggregationStart{fill:var(--background-secondary-alt);}#med3ccfcc6709d700 #dependencyEnd,#med3ccfcc6709d700 #dependencyStart,#med3ccfcc6709d700 #extensionEnd,#med3ccfcc6709d700 #extensionStart{fill:var(--background-modifier-border);stroke:var(--background-modifier-border);stroke-width:1;}#med3ccfcc6709d700 .branch-label,#med3ccfcc6709d700 .commit-id,#med3ccfcc6709d700 .commit-msg{fill:#d3d3d3;color:#d3d3d3;}#med3ccfcc6709d700 .pieTitleText{text-anchor:middle;font-size:25px;fill:var(--text-normal);}#med3ccfcc6709d700 .state-note text,#med3ccfcc6709d700 g.stateGroup text{stroke:none;font-size:10px;}#med3ccfcc6709d700 g.stateGroup .state-title{font-weight:bolder;fill:var(--text-normal);}#med3ccfcc6709d700 .stateGroup .composit{fill:#fff;border-bottom:1px;}#med3ccfcc6709d700 .stateGroup .alt-composit{fill:#e0e0e0;border-bottom:1px;}#med3ccfcc6709d700 .state-note{stroke:#645c10;fill:#f3edb3;}#med3ccfcc6709d700 .state-note text{fill:#000;}#med3ccfcc6709d700 .stateLabel .box{stroke:none;stroke-width:0;fill:var(--background-secondary-alt);opacity:.5;}#med3ccfcc6709d700 .stateLabel text{fill:var(--text-normal);font-size:10px;font-weight:700;}#med3ccfcc6709d700 .node circle.state-start{fill:var(--text-normal);stroke:var(--text-normal);}#med3ccfcc6709d700 .node circle.state-end{stroke:var(--background-primary);stroke-width:2;}#med3ccfcc6709d700 #statediagram-barbEnd,#med3ccfcc6709d700 g.stateGroup text{fill:var(--background-modifier-border);}#med3ccfcc6709d700 .statediagram-cluster rect{stroke-width:1px;}#med3ccfcc6709d700 .statediagram-cluster rect,#med3ccfcc6709d700 .statediagram-state .divider{stroke:var(--background-modifier-border);}#med3ccfcc6709d700 .statediagram-cluster rect .inner{fill:var(--background-secondary-alt);}#med3ccfcc6709d700 .statediagram-cluster.statediagram-cluster-alt .inner{fill:var(--background-secondary);}#med3ccfcc6709d700 .cluster-label text,#med3ccfcc6709d700 .node circle.state-end{fill:var(--text-normal);}#med3ccfcc6709d700 .statediagram-state rect.divider{stroke-dasharray:10,10;fill:var(--background-secondary);}#med3ccfcc6709d700 .note-edge{stroke-dasharray:5;}#med3ccfcc6709d700 .statediagram-note rect{fill:#f3edb3;stroke:#645c10;stroke-width:1px;}#med3ccfcc6709d700 .error-icon{fill:var(--background-modifier-error);}#med3ccfcc6709d700 .error-text{fill:var(--text-error);stroke:var(--text-error);}#med3ccfcc6709d700 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><g><marker id="flowchart-pointEnd" class="marker flowchart" viewBox="0 0 10 10" refX="10" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker><marker id="flowchart-pointStart" class="marker flowchart" viewBox="0 0 10 10" refX="0" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M 0 5 L 10 10 L 10 0 z" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path></marker><marker id="flowchart-circleEnd" class="marker flowchart" viewBox="0 0 10 10" refX="11" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto"><circle cx="5" cy="5" r="5" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></circle></marker><marker id="flowchart-circleStart" class="marker flowchart" viewBox="0 0 10 10" refX="-1" refY="5" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto"><circle cx="5" cy="5" r="5" class="arrowMarkerPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></circle></marker><marker id="flowchart-crossEnd" class="marker cross flowchart" viewBox="0 0 11 11" refX="12" refY="5.2" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto"><path d="M 1,1 l 9,9 M 10,1 l -9,9" class="arrowMarkerPath" style="stroke-width: 2; stroke-dasharray: 1, 0;"></path></marker><marker id="flowchart-crossStart" class="marker cross flowchart" viewBox="0 0 11 11" refX="-1" refY="5.2" markerUnits="userSpaceOnUse" markerWidth="11" markerHeight="11" orient="auto"><path d="M 1,1 l 9,9 M 10,1 l -9,9" class="arrowMarkerPath" style="stroke-width: 2; stroke-dasharray: 1, 0;"></path></marker><g class="root"><g class="clusters"></g><g class="edgePaths"><path d="M704.358393991304,35.796875L683.8058231177533,39.963541666666664C663.2532522442026,44.130208333333336,622.1481104971014,52.463541666666664,601.5955396235507,60.796875C581.04296875,69.13020833333333,581.04296875,77.46354166666667,581.04296875,85.796875C581.04296875,94.13020833333333,581.04296875,102.46354166666667,581.04296875,110.796875C581.04296875,119.13020833333333,581.04296875,127.46354166666667,581.04296875,131.63020833333334L581.04296875,135.796875" id="L-1-2-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-1 LE-2" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M792.64453125,35.796875L792.64453125,39.963541666666664C792.64453125,44.130208333333336,792.64453125,52.463541666666664,792.64453125,60.796875C792.64453125,69.13020833333333,792.64453125,77.46354166666667,792.64453125,85.796875C792.64453125,94.13020833333333,792.64453125,102.46354166666667,792.64453125,110.796875C792.64453125,119.13020833333333,792.64453125,127.46354166666667,792.64453125,131.63020833333334L792.64453125,135.796875" id="L-1-3-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-1 LE-3" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M909.4602759060281,35.796875L936.6543965883567,39.963541666666664C963.8485172706854,44.130208333333336,1018.2367586353427,52.463541666666664,1045.4308793176713,60.796875C1072.625,69.13020833333333,1072.625,77.46354166666667,1072.625,85.796875C1072.625,94.13020833333333,1072.625,102.46354166666667,1072.625,110.796875C1072.625,119.13020833333333,1072.625,127.46354166666667,1072.625,131.63020833333334L1072.625,135.796875" id="L-1-4-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-1 LE-4" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M581.04296875,171.59375L581.04296875,175.76041666666666C581.04296875,179.92708333333334,581.04296875,188.26041666666666,581.04296875,196.59375C581.04296875,204.92708333333334,581.04296875,213.26041666666666,581.04296875,221.59375C581.04296875,229.92708333333334,581.04296875,238.26041666666666,581.04296875,246.59375C581.04296875,254.92708333333334,581.04296875,263.2604166666667,581.04296875,267.4270833333333L581.04296875,271.59375" id="L-2-21-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-2 LE-21" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M792.64453125,171.59375L792.64453125,175.76041666666666C792.64453125,179.92708333333334,792.64453125,188.26041666666666,792.64453125,196.59375C792.64453125,204.92708333333334,792.64453125,213.26041666666666,792.64453125,221.59375C792.64453125,229.92708333333334,792.64453125,238.26041666666666,792.64453125,246.59375C792.64453125,254.92708333333334,792.64453125,263.2604166666667,792.64453125,267.4270833333333L792.64453125,271.59375" id="L-3-31-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-3 LE-31" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M1072.625,171.59375L1072.625,175.76041666666666C1072.625,179.92708333333334,1072.625,188.26041666666666,1072.625,196.59375C1072.625,204.92708333333334,1072.625,213.26041666666666,1072.625,221.59375C1072.625,229.92708333333334,1072.625,238.26041666666666,1072.625,246.59375C1072.625,254.92708333333334,1072.625,263.2604166666667,1072.625,267.4270833333333L1072.625,271.59375" id="L-4-41-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-4 LE-41" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M581.04296875,307.390625L581.04296875,311.5572916666667C581.04296875,315.7239583333333,581.04296875,324.0572916666667,581.04296875,332.390625C581.04296875,340.7239583333333,581.04296875,349.0572916666667,581.04296875,353.2239583333333L581.04296875,357.390625" id="L-21-211-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-21 LE-211" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M792.64453125,307.390625L792.64453125,311.5572916666667C792.64453125,315.7239583333333,792.64453125,324.0572916666667,792.64453125,332.390625C792.64453125,340.7239583333333,792.64453125,349.0572916666667,792.64453125,353.2239583333333L792.64453125,357.390625" id="L-31-311-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-31 LE-311" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M1072.625,307.390625L1072.625,311.5572916666667C1072.625,315.7239583333333,1072.625,324.0572916666667,1072.625,332.390625C1072.625,340.7239583333333,1072.625,349.0572916666667,1072.625,353.2239583333333L1072.625,357.390625" id="L-41-411-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-41 LE-411" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M505.83984375,382.4647686076164L443.4427083333333,388.41855717301365C381.0455729166667,394.37234573841096,256.2513020833333,406.27992286920545,193.85416666666666,416.4003781012694C131.45703125,426.5208333333333,131.45703125,434.8541666666667,131.45703125,439.0208333333333L131.45703125,443.1875" id="L-211-2111-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-211 LE-2111" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M581.04296875,393.1875L581.04296875,397.3541666666667C581.04296875,401.5208333333333,581.04296875,409.8541666666667,581.04296875,418.1875C581.04296875,426.5208333333333,581.04296875,434.8541666666667,581.04296875,439.0208333333333L581.04296875,443.1875" id="L-211-2112-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-211 LE-2112" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M656.24609375,382.7358026717686L715.916015625,388.6444188931405C775.5859375,394.5530351145124,894.92578125,406.3702675572562,954.595703125,416.4455504452947C1014.265625,426.5208333333333,1014.265625,434.8541666666667,1014.265625,439.0208333333333L1014.265625,443.1875" id="L-211-2113-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-211 LE-2113" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M131.45703125,478.984375L131.45703125,483.1510416666667C131.45703125,487.3177083333333,131.45703125,495.6510416666667,131.45703125,503.984375C131.45703125,512.3177083333334,131.45703125,520.6510416666666,131.45703125,524.8177083333334L131.45703125,528.984375" id="L-2111-21111-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-2111 LE-21111" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path><path d="M581.04296875,478.984375L581.04296875,483.1510416666667C581.04296875,487.3177083333333,581.04296875,495.6510416666667,581.04296875,503.984375C581.04296875,512.3177083333334,581.04296875,520.6510416666666,581.04296875,524.8177083333334L581.04296875,528.984375" id="L-2112-21121-0" class=" edge-thickness-normal edge-pattern-solid flowchart-link LS-2112 LE-21121" style="fill:none;" marker-end="url(#flowchart-pointEnd)"></path></g><g class="edgeLabels"><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g><g class="edgeLabel"><g class="label" transform="translate(0, 0)"><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span class="edgeLabel"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default default" id="flowchart-1-215" transform="translate(792.64453125, 17.8984375)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-180.76171875" y="-17.8984375" width="361.5234375" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-173.26171875, -10.3984375)"><foreignObject width="346.5234375" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Examination of FBC and Peripheral Blood Smear</span></div></foreignObject></g></g><g class="node default default" id="flowchart-2-216" transform="translate(581.04296875, 153.6953125)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-41.953125" y="-17.8984375" width="83.90625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-34.453125, -10.3984375)"><foreignObject width="68.90625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">MCV &lt;80</span></div></foreignObject></g></g><g class="node default default" id="flowchart-3-218" transform="translate(792.64453125, 153.6953125)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-54.0078125" y="-17.8984375" width="108.015625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-46.5078125, -10.3984375)"><foreignObject width="93.015625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">MCV 80-100</span></div></foreignObject></g></g><g class="node default default" id="flowchart-4-220" transform="translate(1072.625, 153.6953125)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-47.53125" y="-17.8984375" width="95.0625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-40.03125, -10.3984375)"><foreignObject width="80.0625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">MCV &gt; 100</span></div></foreignObject></g></g><g class="node default internal-link" id="flowchart-21-222" transform="translate(581.04296875, 289.4921875)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-78.61328125" y="-17.8984375" width="157.2265625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-71.11328125, -10.3984375)"><foreignObject width="142.2265625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><a class="internal-link" href="../../../med-notes/diseases/haem/microcytic-anaemia.html" target="_self">Microcytic Anaemia</a></div></foreignObject></g></g><g class="node default internal-link" id="flowchart-31-224" transform="translate(792.64453125, 289.4921875)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-82.98828125" y="-17.8984375" width="165.9765625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-75.48828125, -10.3984375)"><foreignObject width="150.9765625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><a class="internal-link" href="../../../med-notes/diseases/haem/normocytic-anaemia.html" target="_self">Normocytic Anaemia</a></div></foreignObject></g></g><g class="node default internal-link" id="flowchart-41-226" transform="translate(1072.625, 289.4921875)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-81.05078125" y="-17.8984375" width="162.1015625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-73.55078125, -10.3984375)"><foreignObject width="147.1015625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><a class="internal-link" href="../../../med-notes/diseases/haem/macrocytic-anaemia.html" target="_self">Macrocytic Anaemia</a></div></foreignObject></g></g><g class="node default default" id="flowchart-211-228" transform="translate(581.04296875, 375.2890625)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-75.203125" y="-17.8984375" width="150.40625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-67.703125, -10.3984375)"><foreignObject width="135.40625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Serum iron studies</span></div></foreignObject></g></g><g class="node default default" id="flowchart-311-230" transform="translate(792.64453125, 375.2890625)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-75.078125" y="-17.8984375" width="150.15625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-67.578125, -10.3984375)"><foreignObject width="135.15625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Reticulocyte count</span></div></foreignObject></g></g><g class="node default default" id="flowchart-411-232" transform="translate(1072.625, 375.2890625)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-154.90234375" y="-17.8984375" width="309.8046875" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-147.40234375, -10.3984375)"><foreignObject width="294.8046875" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Megalocytes and segmented neutrophils</span></div></foreignObject></g></g><g class="node default default" id="flowchart-2111-234" transform="translate(131.45703125, 461.0859375)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-131.45703125" y="-17.8984375" width="262.9140625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-123.95703125, -10.3984375)"><foreignObject width="247.9140625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Low iron and erritin with high TIBC</span></div></foreignObject></g></g><g class="node default default" id="flowchart-2112-236" transform="translate(581.04296875, 461.0859375)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-167.8203125" y="-17.8984375" width="335.640625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-160.3203125, -10.3984375)"><foreignObject width="320.640625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Mentzer Index MCV/RBC &lt; 13 - THalassemia</span></div></foreignObject></g></g><g class="node default default" id="flowchart-2113-238" transform="translate(1014.265625, 461.0859375)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-215.40234375" y="-17.8984375" width="430.8046875" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-207.90234375, -10.3984375)"><foreignObject width="415.8046875" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Low or normal iron and low or normal feritin with low TIBC</span></div></foreignObject></g></g><g class="node default default" id="flowchart-21111-240" transform="translate(131.45703125, 546.8828125)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-97.5703125" y="-17.8984375" width="195.140625" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-90.0703125, -10.3984375)"><foreignObject width="180.140625" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Iron defieciency anaemia</span></div></foreignObject></g></g><g class="node default default" id="flowchart-21121-242" transform="translate(581.04296875, 546.8828125)"><rect class="basic label-container" style="fill:#b8e1e1;" rx="0" ry="0" x="-302.015625" y="-17.8984375" width="604.03125" height="35.796875"></rect><g class="label" style="color:#000000;" transform="translate(-294.515625, -10.3984375)"><foreignObject width="589.03125" height="20.796875"><div style="color: rgb(0, 0, 0); display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml"><span class="nodeLabel" style="color:#000000;">Suggest a component of anaemia of chronic disease with iron deficiency anaemia</span></div></foreignObject></g></g></g></g></g></svg></div></div><div><h2 data-heading="Pathophysiology" id="Pathophysiology"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Pathophysiology</h2></div><div><table>
+<thead>
+<tr>
+<th style="text-align:center"><a data-href="Microcytic Anaemia" href="../../../med-notes/diseases/haem/microcytic-anaemia.html" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Microcytic Anaemia</a><br>MCV &lt; 80</th>
+<th style="text-align:center"><a data-href="Normocytic Anaemia" href="../../../med-notes/diseases/haem/normocytic-anaemia.html" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Normocytic Anaemia</a><br>MCV 80-100</th>
+<th style="text-align:center"><a data-href="Macrocytic Anaemia" href="../../../med-notes/diseases/haem/macrocytic-anaemia.html" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Macrocytic Anaemia</a><br>MCV &gt; 100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Iron deficiency</td>
+<td style="text-align:center">Anemia of Chronic Disease</td>
+<td style="text-align:center">Folate/B12 deficiency</td>
+</tr>
+<tr>
+<td style="text-align:center">THalassemia</td>
+<td style="text-align:center">Hemolysis</td>
+<td style="text-align:center">Liver Disease</td>
+</tr>
+<tr>
+<td style="text-align:center">Anemia of Chronic DIsease</td>
+<td style="text-align:center">Aplastic Aneia</td>
+<td style="text-align:center">Alcohol use</td>
+</tr>
+<tr>
+<td style="text-align:center">Sideroblastic ANemia</td>
+<td style="text-align:center">Chronic Kidney Disease</td>
+<td style="text-align:center">Reticulocytosis</td>
+</tr>
+<tr>
+<td style="text-align:center">Lead Poisoning</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+</div><div><p><span alt="Pasted image 20230509100344.png" src="Pasted image 20230509100344.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230509100344.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230509100344.png?1683602792665"></span></p></div><div><hr></div><div><h1 data-heading="Scenario" id="Scenario"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Scenario</h1></div><div><p>2/7 days of dyspnoea, eercise tolerance &lt; 20m (decreased from at least 100m). No fever, no resp symptoms. Has intermittent diarrhoea for a few days --&gt; septic and anaemic.</p></div><div><h1 data-heading="History" id="History"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>History</h1></div><div><h2 data-heading="Signs" id="Signs"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Signs</h2></div><div><h3 data-heading="*Symptoms*" id="Symptoms"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><em>Symptoms</em></h3></div><div><p>Typically asymptomatic but symptoms include:</p></div><div><ol>
+<li data-line="0">Weakness</li>
+<li data-line="1">Fatigue </li>
+<li data-line="2">Dyspnoea</li>
+<li data-line="3">Palm crease pallour, nail bed palllour, conjunctival pallour </li>
+</ol></div><div><hr></div><div><h2 data-heading="Examination findings" id="Examination_findings"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Examination findings</h2></div><div><ul class="has-list-bullet">
+<li data-line="0"><div class="list-bullet"></div>Low BP</li>
+<li data-line="1"><div class="list-bullet"></div>Weak pulses</li>
+<li data-line="2"><div class="list-bullet"></div>Pallor of hands, face, conjunctiva, tongue</li>
+<li data-line="3"><div class="list-bullet"></div>Murke's lines on nails </li>
+<li data-line="4"><div class="list-bullet"></div>Splenomegaly?</li>
+</ul></div><div><hr></div><div><h2 data-heading="Investigations" id="Investigations"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Investigations</h2></div><div><ul class="has-list-bullet">
+<li data-line="0"><div class="list-bullet"></div>FBC - Hb, WCC, ESR/CRP, platelets, MCV</li>
+<li data-line="1"><div class="list-bullet"></div>Coags study</li>
+<li data-line="2"><div class="list-bullet"></div>U &amp; Es, LFTs</li>
+<li data-line="3"><div class="list-bullet"></div>Bun-Creating ratio - elevated in UGIB</li>
+<li data-line="4"><div class="list-bullet"></div>Stool MCS - infective cause e.g. C.diff</li>
+<li data-line="5"><div class="list-bullet"></div>FOBT / calprotectin --&gt; CRC, IBD</li>
+<li data-line="6"><div class="list-bullet"></div>Upper endoscope or colonoscope for UGIB/LGIB</li>
+<li data-line="7"><div class="list-bullet"></div>NG aspirate - blood could indicate UGIB</li>
+<li data-line="8"><div class="list-bullet"></div>Eplorative laparotomy?</li>
+</ul></div><div><table>
+<thead>
+<tr>
+<th>Key Tests</th>
+<th>Result</th>
+<th>Explanation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6">Blood smear</td>
+<td>Hypochromia - iron deficiency</td>
+<td></td>
+</tr>
+<tr>
+<td>Spherocytes - spherocytosis</td>
+<td></td>
+</tr>
+<tr>
+<td>Target cells - thalassemia</td>
+<td>Due to hypochromic microcytic RBCs</td>
+</tr>
+<tr>
+<td>Dacrocytes (tear drop cellls) - marrow fibrosis</td>
+<td></td>
+</tr>
+<tr>
+<td>Acanthocytes (spiked RBCs) - liver disease</td>
+<td></td>
+</tr>
+<tr>
+<td>Schistocytes - haemolysis</td>
+<td></td>
+</tr>
+<tr>
+<td>Low reticulocyte count</td>
+<td>Helpful for normocytic anaemia - anaemia of chronic disease, CKD, hypothyroidism, bone marrow failure, aplastic anaemia</td>
+<td>Otherwise usually, reticulocyte count will be high as the body produces more EPO to counter the anaemia</td>
+</tr>
+<tr>
+<td>Pancytopenia (FBC)</td>
+<td>Low platelets, RBC, WBC</td>
+<td>Indiciates aplastic anaemia and can be caused by bone cancers/fibrosis</td>
+</tr>
+<tr>
+<td>MCV (FBC)</td>
+<td>Micro: &lt;80<br>Normo: 80-100<br>Macro: &gt;100</td>
+<td>Changed potential cause. See below for algorith</td>
+</tr>
+<tr>
+<td>High transferrin in iron-deficiency anaemia</td>
+<td></td>
+<td>Body is trying to sequester more iron from stores</td>
+</tr>
+<tr>
+<td>Low transferrin in ACD</td>
+<td></td>
+<td>Body is not sequestering iron from stores</td>
+</tr>
+</tbody>
+</table>
+</div><div><p><span alt="Anaemia > ^d5658c" src="Anaemia#^d5658c" class="internal-embed markdown-embed inline-embed is-loaded"></span></p><div class="embed-title markdown-embed-title"></div><div class="markdown-embed-content"><div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists"><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; min-height: unset; width: unset; height: unset; margin: unset; max-width: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"><div class="inline-title" contenteditable="false" spellcheck="false" tabindex="-1" enterkeyhint="done"></div></div><div><p><span alt="Pasted image 20230509094418.png" src="Pasted image 20230509094418.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Pasted image 20230509094418.png" src="app://ef46a1c197772ed2afbfa8f57999429ae54f/Users/ahkamtest/Downloads/Github/Med%20Notes/-%20Meta%20-/Attachments/Pasted%20image%2020230509094418.png?1683602792659"></span> </p></div></div></div></div><div class="markdown-embed-content" style="display: none;"></div><div class="markdown-embed-link" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></div><p></p></div><div><hr></div><div><h1 data-heading="Management" id="Management"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Management</h1></div><div><h2 data-heading="Initial Acute Management" id="Initial_Acute_Management"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Initial Acute Management</h2></div><div><ol>
+<li data-line="0">ABCDE</li>
+<li data-line="1">2 large bore IV - fluids or blood</li>
+<li data-line="2">G + H</li>
+<li data-line="3">IV PPI (if unsure of cause / UGIB suspected)</li>
+<li data-line="4">Monitor Hb and Coags panel</li>
+<li data-line="5">Treatment based on cause </li>
+<li data-line="6">Surgery if haemodynamically unstable / severe intitial/ongoing bleeding</li>
+</ol></div><div><h2 data-heading="Longer term Mx" id="Longer_term_Mx"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Longer term Mx</h2></div><div><ol>
+<li data-line="0">Monitor Hb and coags</li>
+<li data-line="1">Reduce risk of recurrent bleeds e.g. nitrates</li>
+<li data-line="2">Oral PPI if PUD, GORD, H.pylori</li>
+<li data-line="3">Iron supplements</li>
+<li data-line="4">Folate / B12 supplements </li>
+</ol></div><div><hr></div><div class="mod-footer"></div></div></div></div><div id="sidebar" class="sidebar-right"><div class="sidebar-content"><h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-arrow-up-right"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" width="512px" height="512px"></canvas>
+		</div>
+		</div><div class="outline-container" data-size="0"><div class="outline-header"><h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Information"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Information</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Pathophysiology"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Pathophysiology</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Scenario"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Scenario</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#History"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">History</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Signs"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Signs</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Symptoms"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Symptoms</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Examination_findings"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Examination findings</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Investigations"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Investigations</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Management"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Management</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Initial_Acute_Management"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Initial Acute Management</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Longer_term_Mx"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Longer term Mx</span></a><div class="outline-item-children"></div></div></div></div></div></div></div></div></body></html>

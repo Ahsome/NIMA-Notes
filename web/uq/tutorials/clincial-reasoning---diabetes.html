@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html><head>
+			
+		<title>Clincial Reasoning - Diabetes</title>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta charset="UTF-8">
+
+		<link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+
+		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+		<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
+		<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+		<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+		
+
+			<link rel="stylesheet" href="../../styles/obsidian-styles.css">
+			<link rel="stylesheet" href="../../styles/plugin-styles.css">
+			<link rel="stylesheet" href="../../styles/theme.css">
+			<link rel="stylesheet" href="../../styles/snippets.css">
+
+			<style>  </style>
+			<style>  </style>
+
+			
+		<script id="relative-paths">
+			let rootPath = "../..";
+			let mediaPath = "../../media";
+			let jsPath = "../../scripts";
+			let cssPath = "../../styles";
+		</script>
+		
+			<!-- Graph View Data -->
+			<script>
+			let nodes=
+{"nodeCount":97,"linkCount":214,"radii":[7,7,6.75,6.75,6.659722222222221,6.4375,6.305555555555555,6.159722222222222,5.826388888888889,5.826388888888889,5.4375,5.4375,5.4375,5.4375,5.4375,5.222222222222222,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.993055555555555,4.75,4.75,4.75,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.493055555555555,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,4.222222222222222,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.9375,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.6388888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3.3263888888888893,3,3,3,3,3,3,3,3,3,3,3,3,3,3],"labels":["Asthma","A+N To Do List","Pneumonia","Diabetes Mellitus","Lung cancer","Heart Failure","Gout","Rheumatoid Arthritis","Septic Arthritis","Osteoarhritis","Diarrhea","Hypertension","Sleep Apnea","Anaemia","Ahkam","Hyperglycaemic Hyperosmolar State (HHS)","Comparison between Spiromotry and PFM","Stroke","Chronic Pulmonary Disease (COPD)","Pseudogout","Diabetic Ketoacidosis (DKA)","Glossary","Chronic Kidney Disease","Bronchitis","Breast Cancer","Parkinson's","Syncope","Irritable bowel syndrome","Atrial Fibrillation","Respiratory","Haematology & Oncology","Mediastinal Masses","Headache","Inflammatory Bowel Disease (IBD)","C. Difficile infection","Pulmonary Embolus","Pleural Effusion","Rheumatology","Sexually Transmitted Disease","Toxic Megacolon","Normocytic Anaemia","Microcytic Anaemia","Falls","SIADH","Cushing's Syndrome","DKA vs HHS","Endocrinology","Cardivascular","The Principles of Antibiotic Use","Clincial Reasoning - Diabetes","Clincial Reasoning - Diabetes-Ahkam’s MacBook Air","Patient 2","Patient 1","Montelukast","Allopurinal","Spirometry","Peak Flow Meter","Cellulitis and Erysipelas","Macrocytic Anaemia","Obesity","Approach to a patient cough","Infectious Disease","STEMI","Triptans","Clinical Reasoning - Rheumatology","Magnesium sulfate","Metformin","Beta-agonist","Albuterol","CXR","Sepsis (and SIRS)","Colorectal Cancer","Potassium Disorders","Urinary Tract Infection (UTI)","Dementia","Delirium","Klebsiella","Home","2023-05-08","Neurology","Renal & Hypertension","Geriatric medicine","Disease","index","Short Cases","Untitled database","Glimepiride","Gliclazide","2023-05-13 -  Long Case Meeting","2023-05-10","2023-05-09","Gastroenterology","Untitled","Untitled 1","Test","2023-04-20","Tutorials"],"paths":["med-notes/diseases/respiratory/asthma.html","--todo--/a+n-to-do-list.html","med-notes/diseases/respiratory/pneumonia.html","med-notes/diseases/endrocrinology/diabetes-mellitus.html","med-notes/diseases/respiratory/lung-cancer.html","med-notes/diseases/cardiology/heart-failure.html","med-notes/diseases/msk/arthritis/gout.html","med-notes/diseases/msk/arthritis/rheumatoid-arthritis.html","med-notes/diseases/msk/arthritis/septic-arthritis.html","med-notes/diseases/msk/arthritis/osteoarhritis.html","med-notes/diseases/gastrointestinal/diarrhea.html","med-notes/diseases/cardiology/hypertension.html","med-notes/diseases/respiratory/other/sleep-apnea.html","med-notes/diseases/haem/anaemia.html","--todo--/ahkam.html","med-notes/diseases/endrocrinology/hyperglycaemic-hyperosmolar-state-(hhs).html","med-notes/investigations/comparisons/comparison-between-spiromotry-and-pfm.html","med-notes/diseases/neuro/stroke.html","med-notes/diseases/respiratory/chronic-pulmonary-disease-(copd).html","med-notes/diseases/msk/arthritis/pseudogout.html","med-notes/diseases/endrocrinology/diabetic-ketoacidosis-(dka).html","med-notes/glossary.html","med-notes/diseases/renal/chronic-kidney-disease.html","med-notes/diseases/respiratory/bronchitis.html","med-notes/diseases/reproductive/breast-cancer.html","med-notes/diseases/neuro/movement-disorders/parkinson's.html","med-notes/diseases/neuro/syncope.html","med-notes/diseases/gastrointestinal/irritable-bowel-syndrome.html","med-notes/diseases/cardiology/atrial-fibrillation.html","--todo--/respiratory.html","--todo--/haematology-&-oncology.html","med-notes/diseases/oncology/mediastinal-masses.html","med-notes/diseases/neuro/headache.html","med-notes/diseases/gastrointestinal/inflammatory-bowel-disease-(ibd).html","med-notes/diseases/gastrointestinal/c.-difficile-infection.html","med-notes/diseases/respiratory/pulmonary-embolus.html","med-notes/diseases/--incomplete--/respiratory/pleural-effusion.html","--todo--/rheumatology.html","med-notes/diseases/reproductive/sexually-transmitted-disease.html","med-notes/diseases/gastrointestinal/toxic-megacolon.html","med-notes/diseases/haem/normocytic-anaemia.html","med-notes/diseases/haem/microcytic-anaemia.html","med-notes/diseases/geriatrics/falls.html","med-notes/diseases/endrocrinology/siadh.html","med-notes/diseases/endrocrinology/cushing's-syndrome.html","med-notes/diseases/--comparisons--/dka-vs-hhs.html","--todo--/endocrinology.html","--todo--/cardivascular.html","uq/tutorials/the-principles-of-antibiotic-use.html","uq/tutorials/clincial-reasoning---diabetes.html","uq/tutorials/clincial-reasoning---diabetes-ahkam’s-macbook-air.html","uq/short-cases/patient-2.html","uq/short-cases/patient-1.html","med-notes/pharmacology/montelukast.html","med-notes/pharmacology/allopurinal.html","med-notes/investigations/spirometry.html","med-notes/investigations/peak-flow-meter.html","med-notes/diseases/dermatology/cellulitis-and-erysipelas.html","med-notes/diseases/haem/macrocytic-anaemia.html","med-notes/diseases/endrocrinology/obesity.html","med-notes/approaches/approach-to-a-patient-cough.html","--todo--/infectious-disease.html","--meta--/unsorted/stemi.html","triptans.html","uq/tutorials/clinical-reasoning---rheumatology.html","med-notes/pharmacology/magnesium-sulfate.html","med-notes/pharmacology/diabetic/metformin.html","med-notes/pharmacology/beta-agonist.html","med-notes/pharmacology/albuterol.html","med-notes/investigations/cxr.html","med-notes/diseases/systematic/sepsis-(and-sirs).html","med-notes/diseases/gastrointestinal/colorectal-cancer.html","med-notes/diseases/renal/potassium-disorders.html","med-notes/diseases/renal/urinary-tract-infection-(uti).html","med-notes/diseases/geriatrics/dementia.html","med-notes/diseases/geriatrics/delirium.html","med-notes/diseases/--incomplete--/unorganised/klebsiella.html","home.html","draft-notes/2023-05-08.html","--todo--/neurology.html","--todo--/renal-&-hypertension.html","--todo--/geriatric-medicine.html","--meta--/templates/disease.html","index.html","uq/tutorials/short-cases.html","med-notes/pharmacology/diabetic/untitled-database.html","med-notes/pharmacology/diabetic/glimepiride.html","med-notes/pharmacology/diabetic/gliclazide.html","draft-notes/2023-05-13----long-case-meeting.html","draft-notes/2023-05-10.html","draft-notes/2023-05-09.html","--todo--/gastroenterology.html","--meta--/unsorted/untitled.html","--meta--/unsorted/untitled-1.html","--meta--/unsorted/test.html","--meta--/unsorted/2023-04-20.html","--meta--/templates/tutorials.html"],"linkSources":[82,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,47,47,46,46,46,81,30,30,30,30,30,61,61,79,80,29,29,29,29,29,37,37,37,37,78,60,45,36,76,5,5,5,5,5,11,11,11,11,11,3,3,3,3,3,3,3,3,20,20,15,15,15,15,13,13,13,13,40,6,6,6,6,6,6,6,6,9,9,9,9,7,7,7,7,7,7,8,8,8,8,8,8,22,0,0,0,0,0,0,0,0,0,0,0,23,23,23,18,18,18,2,2,2,2,2,56,55,53,52,52,51,51,50,50,49,49,64,48,48,14,14,14,14,14,14,14,14,14,28,28,44,44,43,43,34,34,34,10,10,10,10,10,33,33,27,27,27,39,32,32,32,17,17,17,17,26,26,31,31,4,4,4,4,4,4,4,24,24,38,38,19,19,19,19,25,25,72,12,12,12,12,12],"linkTargets":[0,5,2,35,0,18,23,4,3,20,15,11,75,17,13,59,12,9,7,8,6,19,42,26,25,73,57,10,70,24,71,5,28,35,3,20,15,42,13,41,58,40,4,2,57,26,22,0,35,4,2,60,9,7,6,8,2,0,20,0,0,28,2,13,18,12,11,22,21,3,5,3,21,22,66,5,20,15,16,3,45,20,15,16,45,41,40,58,13,22,6,21,19,7,3,22,54,0,9,7,8,0,9,7,36,13,21,0,8,9,7,6,21,0,5,18,68,0,2,53,56,55,69,67,65,16,2,16,23,2,5,18,2,23,4,36,16,16,16,0,62,2,62,2,5,3,5,3,54,77,2,24,25,3,6,8,74,9,4,7,26,5,4,59,4,0,34,10,0,10,27,33,39,0,41,39,27,10,0,33,32,63,11,28,3,12,17,42,35,4,31,24,31,4,44,43,2,36,4,0,38,0,19,6,9,21,25,0,0,5,17,12,11,0]};
+			let attractionForce = 1;
+			let linkLength = 10;
+			let repulsionForce = 150;
+			let centralForce = 3;
+			let edgePruning = 100;
+			</script>
+			
+<script type="module" src="../../scripts/graph_view.js"></script>
+
+<script src="../../scripts/graph_wasm.js"></script>
+
+<script src="../../scripts/tinycolor.js"></script>
+
+<script src="../../scripts/webpage.js"></script>
+
+			</head><body class="theme-dark mod-macos is-frameless is-hidden-frameless obsidian-app native-scrollbars show-inline-title show-view-header hide-external-link-icon is-maximized" style="--zoom-factor:1; --font-text-size:14px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;"><div class="flex-container"><div id="sidebar" class="sidebar-left"><div class="sidebar-content"><div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle"><div class="toggle__fill"></div></label></div></div></div><div class="center-content"><div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;"><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"></div><div><p><em>Created 2023-05-04 15:16</em><br>
+<em>Presented by Dr. Hassan</em></p></div><div><hr></div><div><div class="block-language-toc dynamic-toc"><ul>
+<li><a data-href="#Diseases" href="#Diseases" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Diseases</a>
+<ol>
+<li><a data-href="#Diabetes" href="#Diabetes" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Diabetes</a>
+<ol>
+<li><a data-href="#Differentiation:" href="#Differentiation:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Differentiation:</a>
+<ol>
+<li><a data-href="#By age:" href="#By_age:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>By age:</a></li>
+<li><a data-href="#~~Specific disease~~:" href="#~~Specific_disease~~:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Specific disease~~:</a></li>
+<li><a data-href="#~~Presentations~~:" href="#~~Presentations~~:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Presentations~~:</a></li>
+<li><a data-href="#Monotrate" href="#Monotrate" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Monotrate</a></li>
+<li><a data-href="#Complications of disease" href="#Complications_of_disease" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Complications of disease</a></li>
+<li><a data-href="#Complications of treatment?" href="#Complications_of_treatment?" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Complications of treatment?</a></li>
+<li><a data-href="#Screening" href="#Screening" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Screening</a></li>
+<li><a data-href="#Metabolic risk profile" href="#Metabolic_risk_profile" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Metabolic risk profile</a></li>
+</ol>
+</li>
+<li><a data-href="#~~Examinations~~:" href="#~~Examinations~~:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Examinations~~:</a>
+<ol>
+<li><a data-href="#~~Hands~~:" href="#~~Hands~~:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Hands~~:</a></li>
+<li><a data-href="#~~Body:" href="#~~Body:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Body:</a></li>
+</ol>
+</li>
+<li><a data-href="#~~Management~~:" href="#~~Management~~:" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Management~~:</a>
+<ol>
+<li><a data-href="#~~What to do Drugs~~" href="#~~What_to_do_Drugs~~" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~What to do Drugs~~</a></li>
+<li><a data-href="#~~Targets~~?" href="#~~Targets~~?" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>~~Targets~~?</a></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li><a data-href="#Extra" href="#Extra" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Extra</a>
+<ol>
+<li><a data-href="#Textbooks" href="#Textbooks" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Textbooks</a></li>
+<li><a data-href="#Sources" href="#Sources" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-hash"><line x1="4" y1="9" x2="20" y2="9"></line><line x1="4" y1="15" x2="20" y2="15"></line><line x1="10" y1="3" x2="8" y2="21"></line><line x1="16" y1="3" x2="14" y2="21"></line></svg></span>Sources</a></li>
+</ol>
+</li>
+</ul></div></div><div><hr></div><div><h1 data-heading="Diseases" id="Diseases"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Diseases</h1></div><div><h2 data-heading="Diabetes" id="Diabetes"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Diabetes</h2></div><div><h3 data-heading="Differentiation:" id="Differentiation:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Differentiation:</h3></div><div><h4 data-heading="By age:" id="By_age:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>By age:</h4></div><div><table>
+<thead>
+<tr>
+<th>Young person &lt; 25</th>
+<th>Older person &gt;= 25</th>
+<th>Pregnant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Type 1</td>
+<td>Type 1</td>
+<td>Gestational</td>
+</tr>
+<tr>
+<td>MODY</td>
+<td>MODY</td>
+<td>Type 1</td>
+</tr>
+<tr>
+<td></td>
+<td>LADA</td>
+<td>Type 2</td>
+</tr>
+<tr>
+<td></td>
+<td>Type 2</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div><div><h4 data-heading="~~Specific disease~~:" id="Specific_disease:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Specific disease</del>:</h4></div><div><p><del>MODY</del>:<br>
+<del>1. Less than 25</del><br>
+<del>2. &gt;3 genes with informaiton</del><br>
+<del>3. Treat with sulfa</del></p></div><div><p><del>LADA:<br>
+1</del>. ~~Above 25, did not have Type 1 as kid</p></div><div><p>#<del>#</del>#~~ <del>Signs of diabetes<br>
+1</del>. <del>Visual blurring<br>
+3</del>. <del>Pokydipsia<br>
+4</del>. <del>Nocturia<br>
+5</del>. ~~Fatigue</p></div><div><p>NOT~~ a ~~sign:</p></div><div><ol>
+<li data-line="0"><del>Diarrohea</del></li>
+</ol></div><div><p>##<del># ~~History</del></p></div><div><h4 data-heading="~~Presentations~~:" id="Presentations:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Presentations</del>:</h4></div><div><p><del>1. What type of diabetes</del>?<br>
+<del>2. Date of diagnosis</del>?<br>
+<del>3. Risk factors</del>?<br>
+<del>1. Autoimmune conditions, helps with T1DM</del><br>
+<del>2. CVD risk factors from family</del><br>
+<del>3. Intergenerational diabetes, likely to have young diabetes</del><br>
+<del>4. Investigations</del>?<br>
+<del>1. HbA1c</del>?<br>
+<del>2. Oral glucose tolerance test</del><br>
+<del>3. Insulin antibodies</del>?<br>
+<del>1. GIZ of Type 1</del><br>
+<del>1. GAD</del><br>
+<del>2. IA2</del><br>
+<del>3. Zn8 transporter</del><br>
+<del>5. How are they managed</del>?<br>
+<del>1. Orals vs Insulin vs Non-Insulin injectibles</del></p></div><div><h4 data-heading="Monotrate" id="Monotrate"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Monotrate</h4></div><div><p><del>1. HbA1C?<br>
+2. I</del>f not, constant glucose monitor?<br>
+1. ~~Or Flash glucose monitor?<br>
+3. ~~Self monitored blood glucose readings<br>
+1. ~~Fasting<br>
+2. ~~Pre-lunch<br>
+3. ~~Pre-dinner<br>
+4. ~~Diet?<br>
+1. ~~Lunch<br>
+2. ~~Dinner<br>
+5. ~~RMEMBER:<br>
+1. ~~HbA1c over 6.5%<br>
+2. ~~Fasting over 7%<br>
+3. ~~OGTT (2h plasma glucose) 11.1mmol/L</p></div><div><h4 data-heading="Complications of disease" id="Complications_of_disease"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Complications of disease</h4></div><div><ol>
+<li data-line="0"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Microvascular
+<ol>
+<li data-line="1">Retinopothy</li>
+<li data-line="2">Neprophothy</li>
+<li data-line="3">Neuropothy</li>
+</ol>
+</li>
+<li data-line="4"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Macrovascular
+<ol>
+<li data-line="5">IHD</li>
+<li data-line="6">Stroke/CVD</li>
+<li data-line="7"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>PVD
+<ol>
+<li data-line="8">Ulcers on legs?</li>
+<li data-line="9">Blocks in your legs?</li>
+<li data-line="10">Claudication/pain quicly when using legs?</li>
+</ol>
+</li>
+</ol>
+</li>
+<li data-line="11"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Autonomic
+<ol>
+<li data-line="12">Postural hypotension</li>
+<li data-line="13">Gastropoeresis (low motility)</li>
+<li data-line="14">Erectile dysfunction</li>
+</ol>
+</li>
+</ol></div><div><h4 data-heading="Complications of treatment?" id="Complications_of_treatment?"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Complications of treatment?</h4></div><div><ol>
+<li data-line="0"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Have you had hypoglycemia?
+<ol>
+<li data-line="1">If so, what happened?</li>
+<li data-line="2">What is your plan? Jellies, sweets etc.?</li>
+<li data-line="3"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>**Are you driving?
+<ol>
+<li data-line="4">If so, do you know you need over 5 glucose to drive**</li>
+<li data-line="5">VERY VERY important, check and make sure</li>
+</ol>
+</li>
+</ol>
+</li>
+<li data-line="6"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Have you had hyperglycemia?
+<ol>
+<li data-line="7">DKA</li>
+<li data-line="8">HHS</li>
+</ol>
+</li>
+</ol></div><div><h4 data-heading="Screening" id="Screening"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Screening</h4></div><div><ol>
+<li data-line="0">Have you seen an optometrist, <strong>YEARLY</strong></li>
+<li data-line="1">Podiatrist, <strong>YEARLY</strong></li>
+<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Chronic over time:
+<ol>
+<li data-line="3">B12, yearly?</li>
+<li data-line="4">TTG and IgA</li>
+</ol>
+</li>
+<li data-line="5">Thyroid function test</li>
+</ol></div><div><h4 data-heading="Metabolic risk profile" id="Metabolic_risk_profile"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Metabolic risk profile</h4></div><div><ol>
+<li data-line="0">Blood pressure</li>
+<li data-line="1">Dyslipidemia</li>
+<li data-line="2">Smoker</li>
+<li data-line="3">Alcohol</li>
+<li data-line="4">Dietician</li>
+</ol></div><div><h3 data-heading="~~Examinations~~:" id="Examinations:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Examinations</del>:</h3></div><div><h4 data-heading="~~Hands~~:" id="Hands:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Hands</del>:</h4></div><div><p><del>1. Severe arhtritis</del><br>
+<del>2. Joint inflammation</del><br>
+<del>1. Prayer sign</del><br>
+<del>3. Check blood pressure</del><br>
+<del>4. Acanthosis nigricans</del><br>
+<del>1. Insulin resistance, so T2 not T1</del></p></div><div><h4 data-heading="~~Body:" id="~~Body:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>~~Body:</h4></div><div><p>1<del>. ~~Easy bruising of tummy<br>
+2</del>. <del>Large person with big belly (cushings)<br>
+3</del>. ~~Rashes</p></div><div><p>#<del>#</del>#<del># ~~Feet:<br>
+~~1</del>. <del>Peripheral neuropothy</del><br>
+<del>1</del>. <del>Reduced sensation to monofilament bilaterally</del></p></div><div><p>#<del>#</del>#~~ <del>Investigations:<br>
+##</del>## <del>To conduct:<br>
+1</del>. <del>HbA1c<br>
+2</del>. <del>Antibodies if <strong>young</strong><br>
+3</del>. <del>eGFR + Urine albmin creatinine ratio<br>
+| ~~Gender</del> | Non  | Microalbumin  | Macroalbumin |<br>
+|~~ --<del>---- | ---- | ------ | ----- |<br>
+| Male</del>   <del>| &lt;2.5 | 2.5-25 | 25    |<br>
+| ~~Female</del> | &lt;3.5 | 3.5-35 | 35      |<br>
+5<del>. ~~LFTs<br>
+6</del>. <del>Fasting lipid profile</del></p></div><div><h3 data-heading="~~Management~~:" id="Management:"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Management</del>:</h3></div><div><h4 data-heading="~~What to do Drugs~~" id="What_to_do_Drugs"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>What to do Drugs</del></h4></div><div><p><del>1. Metformin (first line</del>)<br>
+<del>2. SGLT-2 inhibitors</del><br>
+<del>1. Empaglyphosen</del><br>
+<del>2. Dapaglyphosen</del><br>
+<del>3. Have cardio/renal protective effect</del><br>
+<del>4. Reduce morbidity</del><br>
+<del>5. Tell you will pee a lot</del><br>
+<del>3. Sulpha</del><br>
+<del>1. Glicozine</del><br>
+<del>2. Gliperimide</del><br>
+<del>3. Associated with weight gain</del><br>
+<del>4. DPP4</del><br>
+<del>1. Linagiptan</del><br>
+<del>2. Saxsagiptane</del><br>
+<del>1. Causes HF</del><br>
+<del>5. Acarbose</del><br>
+<del>1. Helps reduce absorption of fluid, you poo it out</del><br>
+<del>6. Glitazones</del>:<br>
+<del>1. Rozaglitazone</del><br>
+<del>2. Piglitazone</del><br>
+<del>3. Not used because increased <a data-href="Heart Failure" href="../../med-notes/diseases/cardiology/heart-failure.html" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Heart Failure</a></del><br>
+<del>7. GLP1 inhibitors</del><br>
+<del>1. Semaglatide</del><br>
+<del>1. Ozempic - Brand name</del><br>
+<del>2. Liraglatide</del><br>
+<del>3. Massive reduction of HbA1c</del><br>
+<del>4. Reduces weight loss and apetite</del><br>
+<del>8. Insulin</del><br>
+<del>1. Basal insulin</del><br>
+<del>2. Bolus insuline</del><br>
+<del>3. Mixed insuline</del><br>
+<del>1. Short acting</del><br>
+<del>2. Intermediate</del><br>
+<del>3. Long acting</del><br>
+<del>9. Lifestyle</del><br>
+<del>1. Diet</del><br>
+<del>2. Exercise</del><br>
+<del>3. No smoking</del><br>
+10. Build screening</p></div><div><p><span alt="Pasted image 20230504155224.png" src="Pasted image 20230504155224.png" class="internal-embed is-loaded file-embed mod-empty">"Pasted image 20230504155224.png" is not created yet. Click to create.</span></p></div><div><h4 data-heading="~~Targets~~?" id="Targets?"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><del>Targets</del>?</h4></div><div><p><del>1. Gluose control aiming for 7 to 7.5</del>%<br>
+<del>2. Guidelines say 5 to 10</del><br>
+3. Blood pressure targets<br>
+1. More strict if albuminuria<br>
+2. Use ACEi/ARB as first line<br>
+3. </p></div><div><h1 data-heading="Extra" id="Extra"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Extra</h1></div><div><h2 data-heading="Textbooks" id="Textbooks"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Textbooks</h2></div><div><ol>
+<li data-line="0">Davidson's chapter 21, check for <a data-href="Diabetes Mellitus" href="../../med-notes/diseases/endrocrinology/diabetes-mellitus.html" class="internal-link" target="_self" rel="noopener"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-file"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path><polyline points="14 2 14 8 20 8"></polyline></svg></span>Diabetes Mellitus</a> signs</li>
+</ol></div><div><h2 data-heading="Sources" id="Sources"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Sources</h2></div><div><ol>
+<li data-line="0">Type 2 Diabetes management program, <a rel="noopener" class="external-link" href="https://www.diabetessociety.com.au/20200908%20T2D%20Management%20Algorithm%2003092020.pdf" target="_blank"><span class="link-icon" data-position="start"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="lucide-external-link"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg></span>https://www.diabetessociety.com.au/20200908%20T2D%20Management%20Algorithm%2003092020.pdf</a></li>
+</ol></div><div class="mod-footer"></div></div></div></div><div id="sidebar" class="sidebar-right"><div class="sidebar-content"><h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-arrow-up-right"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<canvas id="graph-canvas" width="512px" height="512px"></canvas>
+		</div>
+		</div><div class="outline-container" data-size="0"><div class="outline-header"><h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Diseases"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Diseases</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Diabetes"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Diabetes</span></a><div class="outline-item-children"><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Differentiation:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Differentiation:</span></a><div class="outline-item-children"><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#By_age:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">By age:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Specific_disease:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Specific disease:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Presentations:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Presentations:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Monotrate"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Monotrate</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Complications_of_disease"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Complications of disease</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Complications_of_treatment?"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Complications of treatment?</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Screening"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Screening</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Metabolic_risk_profile"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Metabolic risk profile</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Examinations:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Examinations:</span></a><div class="outline-item-children"><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Hands:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Hands:</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#~~Body:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">~~Body:</span></a><div class="outline-item-children"></div></div></div></div><div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Management:"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Management:</span></a><div class="outline-item-children"><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#What_to_do_Drugs"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">What to do Drugs</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="4"><a class="outline-item-contents internal-link" href="#Targets?"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Targets?</span></a><div class="outline-item-children"></div></div></div></div></div></div></div></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Extra"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Extra</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Textbooks"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Textbooks</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Sources"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Sources</span></a><div class="outline-item-children"></div></div></div></div></div></div></div></div></body></html>
