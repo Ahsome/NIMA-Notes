@@ -62,9 +62,21 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 ---
 
 ## Investigations
-| Key Tests                 |Result|Bacterial|
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Lumbar puncture|Result 1 | Explanation 1                                                                                                                                                        |
+A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF undergoing spinal fluid testing. This checks for:
+1. Cell count
+2. Differential
+3. Glucose
+4. Protein
+5. Gra Stain
+6. Culture
+
+|Key Tests   |Result |Normal  |Bacterial |Viral  |Viral TB   |
+| ------------------------- | --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|Lumbar puncture|WBC|<5|\>1000|5-500|Variable|
+|^^|Differential|--|PMNs (Neutraphils)|Lymphocytes|Lymphocytes |
+|^^|Glucose|50-75|Reduced|Normal |Reduced|
+|^^|Protein|60|Increased|Normal/Elevated|Increased|
+|^^|Gram stain/Culture|Neg|Yes|Neg|Neg|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
