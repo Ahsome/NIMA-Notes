@@ -123,7 +123,7 @@ Symptoms across variants
 
 |Symptoms|[[#Small cell lung cancer]]| [[#Squamous Cell Carcinoma]]                          | [[#Adenocarcinoma]] | [[#Large Cell Carcinoma]] |
 | ------------ | ------------ | ----------------------------------------------------- | ------------------- | ------------------------- |
-| Pain         |  |Bone and Abdominal pain<br>Due to production of PTHrP|                     |                           |
+|Pain|  |Bone and Abdominal pain<br>Due to production of PTHrP|                     |                           |
 |Neurological |- Headaches <br>- Confusion <br>- Coma <br> <br>Due to [[#^5de9bf\|SVC syndrome]] | Confusion<br>Due to production of PTHrP               | ^a1d5fa             |                           |
 |Swelling|- Facial swelling <br>- Arm Swelling <br> <br>Due to [[#^5de9bf\|SVC syndrome]]|  |  |  |
 
