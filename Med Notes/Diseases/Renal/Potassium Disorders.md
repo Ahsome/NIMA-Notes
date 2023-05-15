@@ -5,39 +5,40 @@
 ```
 ---
 
-# Information
-Pathophysiology
-Potassium homeostasis
+# HYPERKALAEMIA
+
+## Pathophysiology
+### Potassium homeostasis
 - Cellular – H+ in=K+ out
 - Therefore acidaemia = hyperkalaemia
 	- Vice versa also true
 - Insulin pushes H+ out of cells, brings potassium back into the cell
 - B2 agonist excretes Na+ --> K+ back into cells (antiporter)
 
-Renal
+### Renal
 - Responsible for excretion
 - TAL NaKCl2 reabsorption
 - CD K+ excretion (aldosterone facilitates)
 
-Mechanisms
+### Mechanisms of hyperkalaemia
 - Spurious – left blood sample around for too long, haemolysis --> intracellular K+ release
 - Increased load – potassium tablets, nearly never dietary
 - Cellular shifts – acidaemia (very common), digoxin, suxamethonium
 - Decreased excretion – renal failure (very common), Addison’s disease
 
-Clinical Presentation
+### Clinical Presentation
 Sudden cardiac death
 Paraesthesia, nausea and vomiting, areflexia, ascending paralysis.
 
-Management
-ECG and monitoring
+### Management
+1. ECG and monitoring
 - ECG changes – peaked T waves --> lose P wave --> widened QRS --> death
 	- 6.5-7.5 = long PR, peaked T, short QTc
 	- 7.5-8= flat P, wide QRS
 	- 8= sine wave, VF, AV block, etc
-- If ECG changes – give calcium gluconate or calcium chloride
+- ==If ECG changes – give calcium gluconate or calcium chloride
 	- Calcium – does not fix hyperkalaemia, however
-		- Reduces threshold potential in myocytes
+		- ***Reduces threshold potential in myocytes***
 	- Chloride – more potent, if giving peripheral can damage tissues
 		- Need central access to give
 	- Gluconate – less potent, more likely to be given peripherally
@@ -47,19 +48,19 @@ ECG and monitoring
 	- Contraindications – Hypotension, bradycardia, arrhythmia, digoxin
 
 Concurrent management and investigations (principles of resuscitation)
-Correct potassium
+2. Correct potassium
 - Shifter’s
-	- Insulin in dextrose
-		- Onset 20 mins, lasts 4-6 hours
-	- Salbutamol
-		- Onset 30 mins, lasts 2 hours
+	- ==Insulin in dextrose
+		- ==Onset 20 mins, lasts 4-6 hours==
+	- ==Salbutamol
+		- ==Onset 30 mins, lasts 2 hours
 	- Both will drop K+ by about 0.6 mmol/L
 - Excreters
-	- Loop diuretic – frusemide
+	- ==Loop diuretic – frusemide
 	- Resonium – binds and excretes potassium from gut
 	- Dialysis
 - Sodium bicarbonate
-	- Drives K+ into cells (if acidaemic)
+	- ==Drives K+ into cells (if acidaemic)
 	- Sodium load will facilitate excretion K+ in distal nephron
 
 
@@ -106,68 +107,15 @@ Certainly, here is a table summarizing the causes, symptoms, investigations, and
 | Hypothyroidism (underactive thyroid gland)                   | Increased urination or thirst                               | Thyroid function tests                                                                                                                    | Replacement of thyroid hormone through medication                                                                                                  |
 | Medications such as laxatives, insulin, or beta-agonists     | Breathing difficulties or shortness of breath               | Glucose level                                                                                                                             | Adjusting medication dosage or switching to a different medication                                                                                  |
 
-TREATMENT OF HYPOKALAEMIA
+## TREATMENT OF HYPOKALAEMIA
 1.  Oral potassium supplementation is the preferred route of administration for mild to moderate hypokalaemia. For severe hypokalaemia or patients with significant symptoms, intravenous potassium may be required.
+	1. SpanK
 2.  The preferred oral potassium supplement is potassium chloride (KCl), administered in divided doses to a maximum of 240mmol per day. Patients with renal impairment or risk of hyperkalaemia should receive lower doses.
 3.  Potassium supplementation should be accompanied by monitoring of serum potassium, magnesium, and renal function.
 4.  It is important to avoid rapid correction of hypokalaemia, as this can lead to cardiac arrhythmias or other complications. Correction should be gradual and monitored regularly.
 
-> [!Important]
-- Important point
-
---- 
-# History
-### Symptoms
-
-### Risk factors:
-
-### Questions to ask
->*"Do you notice any ???"*
-
----
-
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
-# Management
-## Treatment
-
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
-
----
-
-# Complications
-1. Complications of disease
-
 ---
 
 # Extra
-## Relevant notes:
-1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. eTG

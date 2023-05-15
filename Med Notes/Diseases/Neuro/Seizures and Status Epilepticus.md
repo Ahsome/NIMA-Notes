@@ -92,11 +92,14 @@ Epilepsy - multiple unprovoked seizures
 1. Move bystanders and objects out of the way if someone is having a seizure
 2. Loosen tight clothing around neck
 3. Place on side to avoid aspiration
-4. For absence seizures: Ethosuximide (calcium channel blocker)
-5. For status epilepticus: IV benzodiazepine (lorazepam)
-6. Drugs used in pregnancy: Levetiracetam or Lamotrigine
-	- Many are teratogenic (esp. Valproic acid and carbamezapine)
-	- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
+4. Seizure medications
+	1. Focal partial seizure = carbamezapine
+	2. Generalised seizure = sodium valproate 
+	3. For absence seizures: Ethosuximide (calcium channel blocker)
+	4. For status epilepticus: IV benzodiazepine (lorazepam)
+	5. Drugs used in pregnancy: Levetiracetam or Lamotrigine
+		- Many are teratogenic (esp. Valproic acid and carbamezapine)
+		- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
 ### Common drugs:
 ![[Pasted image 20230516055552.png]]
@@ -138,6 +141,7 @@ Usually occurs with generalised tonic-clonic activity
 
 ## Long-term management
 1. No driving for 6-12 months after unprovoked seizure 
+2. Warn patients that abruptly stopping antiepileptic drugs can provoke status epilepticus
 ---
 
 # Complications
