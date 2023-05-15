@@ -45,6 +45,14 @@ Common causes include:
 6. MRSA
 7. Listeria monocytogenes (**alcohol abuse**, **immunocompromised**, >**50yo** *or* **neonates**)
 
+### Streptococcus Pneumonia
+**Most common** cause of meningitis in **adults**. *Gram positive lancet-shaped cocci in pairs*
+![[Pasted image 20230516015249.png]]
+- Most strains susceptibile to ceftriaxone and 3rd gen cephalosporin
+- Beta-lactam resistant organisms possible
+- Can add vancomycin for this
+- Increased risk of **splenic dysfunction**
+
 ### Healthcare associated meningitis:
 This is meningitis that is likely to come from a hospital care setting. This is commonly caused by:
 1. Cranial trauma
@@ -133,7 +141,7 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 # Management
 ## Overall management:
 1. Identify whether the cause of meningitis is due to bacterial, viral, fungal/TB, or other cause via LP. See [[#Investigations]]
-	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza). See [[#Management of Bacterial Meningitis]]
+	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza) *before* antibiotics. See [[#Management of Bacterial Meningitis]]
 	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease#Genital herpes:|HSV]]
 
 ## Management of Bacterial Meningitis
@@ -141,6 +149,14 @@ Treatment is **antibiotics**:
 - Due to culture taking days, cannot wait for culture to drive choice of drug
 - Empiric antibiotics are administered
 - Therapy modified based on culture result
+- Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza).
+	- Damage due to bacterial cell death leading to damage and inflammation of surrounding tissue
+	- Gien empirically *prior* to antibiotics
+	- Adults:
+		- **Continue** only if S. pneumonia is causative agent
+	- Children
+		- Greatest benefit with H Influenze type B (rare due to vaccination)
+		- Controversial
 
 If meningococcaemia is suspected in **community** setting, use:
 1. Benzylpenicillin IV, quickly
