@@ -14,7 +14,7 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 
 
 > [!Important]
-- Important point
+- Babies cannot identify headache or photophobia, so must consider meningitis in suspected symptoms
 
 --- 
 # History
@@ -35,7 +35,16 @@ It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-|Kernig sign |Painful extension of knee| Explanation 1 |
+|Kernig sign |Painful extension of knee |When the patient has their thigh bent at the hip, with knee at 90 degrees, there is subsequent painful extension of the knee by the examiner with resistance <br>![[Pasted image 20230516003929.png\|150]]<br><br>This is a *sign* of **meningismus** |
+|Brudzinski sign|Involuntary lifting of legs|When the patient is lyin flat and lifts their head off the table, there is *involuntary* lifting of the legs <br> <br>This is a *sign* of **meningismus**|
+
+>[!Warning] Non-specific signs in infants
+>Due to infants not being able to communicate, they cannot state if they have a headache or photophobia. As such, it is important to consider meningitis when:
+>- Fever
+>- Lethargy
+>- Poor feeding
+>- Inconsolable crying
+
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
