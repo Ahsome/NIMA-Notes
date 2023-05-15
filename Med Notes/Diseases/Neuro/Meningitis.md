@@ -45,6 +45,15 @@ Common causes include:
 6. MRSA
 7. Listeria monocytogenes (**alcohol abuse**, **immunocompromised**, >**50yo** *or* **neonates**)
 
+### Healthcare associated meningitis:
+This is meningitis that is likely to come from a hospital care setting. This is commonly caused by:
+1. Cranial trauma
+2. Neurosurgery
+3. Spinal surgery
+4. Insertion of an intracranial device
+
+Treatment is **ceftazidime** or **cefepime**. See [[#Management of Bacterial Meningitis]]
+
 ![[Pasted image 20230516013705.png]]
 
 >[!Important]
@@ -133,12 +142,6 @@ Treatment is **antibiotics**:
 - Empiric antibiotics are administered
 - Therapy modified based on culture result
 
-## Management for Aseptic Meningitis
-Aseptic meningitis management involes:
-1. Antibiotics, until cultures are negative. You cannot exclude bacterial meningitis solely on investigations besides culture.
-2. Supportive care, as it is often self-limited
-3. If the patient is suspected to have [[#Herpes Simplex Meningitis]]: Treat with ***Acyclovir***
-
 If meningococcaemia is suspected in **community** setting, use:
 1. Benzylpenicillin IV, quickly
 2. Ceftriaxone IV/IM, quickly
@@ -160,6 +163,16 @@ If meningococcaemia is suspected in **hospital** setting, use:
 	3. If risk of *Listeria*, such as **old patient** or **immunocompramised** or ==**alcohol overuse**==, add [[Benzylpenicillin]]
 		1. If severe allergy, consider  [[Bactrim]] ([[Trimethoprim]]+[[Sulfamethaxole]] )
 	4. Add vancomycin if gram-positive diplococci seen, or pneumococcal antigen in CSF is positive
+4. Suspected cranial trauma, neurosurgery, spinal surgery, or insertion of an intracranial device
+	1. Could have gained meningitis from a **hospital setting**
+	2. Ceftazidime or...
+	3. Cefepime
+
+## Management for Aseptic Meningitis
+Aseptic meningitis management involes:
+1. Antibiotics, until cultures are negative. You cannot exclude bacterial meningitis solely on investigations besides culture.
+2. Supportive care, as it is often self-limited
+3. If the patient is suspected to have [[#Herpes Simplex Meningitis]]: Treat with ***Acyclovir***
 
 >[!Important]
 >![[Meningitis#^rzqcos]]
