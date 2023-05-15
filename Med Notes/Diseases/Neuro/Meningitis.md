@@ -50,8 +50,20 @@ Common causes include:
 ![[Pasted image 20230516015249.png]]
 - Most strains susceptibile to ceftriaxone and 3rd gen cephalosporin
 - Beta-lactam resistant organisms possible
-- Can add vancomycin for this
-- Increased risk of **splenic dysfunction**
+	- Can add vancomycin for this
+- Increased risk of **splenic dysfunction**, as spleen is important in clearing encapsulated bacteria
+
+### Neisseria Meningitis:
+*Second most common* cause of menigitis in **adults**. *Gram negative cocci in pairs (diplococci)*
+![[Pasted image 20230516015635.png]]
+- May cause a [[Meningitis#^4endji|petechial rash]].
+- Transmitted by **respiratory droplets**
+	- Hospitalised patients need **droplet precautions**, usually for 24hr after antibiotics
+	- Close contacts receive prophylaxis due to possible outbreaks
+	- See [[#Management of Bacterial Meningitis]]
+
+### Haemophilus Influenzae
+It is a *Gram negative, small rod*
 
 ### Healthcare associated meningitis:
 This is meningitis that is likely to come from a hospital care setting. This is commonly caused by:
@@ -81,7 +93,7 @@ Treatment is **ceftazidime** or **cefepime**. See [[#Management of Bacterial Men
 4. Lethargy, but *intact* sensorium
 	1. If the patient is confused or disoriented, consider [[Encephalitis]]
 5. Nuchal rigidity: Pain when trying to move the back of neck
-6. Petechial rash
+6. Petechial rash ^4endji
 	1. Only for a subset of patients, but classic finding in [[Meningococcal Meningitis]]
 	2. Due to an infection by [[Neisseria Meningitidis]]
 	3. Indicates meningococcemia and [[thromocytopenia]]
@@ -144,6 +156,10 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza) *before* antibiotics. See [[#Management of Bacterial Meningitis]]
 	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease#Genital herpes:|HSV]]
 
+If bacteria, and culture has come:
+1. If [[Neisseria Meningitidis]], **droplet precautions** for 23 hours
+2. Close contacts receive prophylaxis due to possible outbreaks
+
 ## Management of Bacterial Meningitis
 Treatment is **antibiotics**:
 - Due to culture taking days, cannot wait for culture to drive choice of drug
@@ -157,6 +173,7 @@ Treatment is **antibiotics**:
 	- Children
 		- Greatest benefit with H Influenze type B (rare due to vaccination)
 		- Controversial
+- If [[Neisseria Meningitidis]], droplet precautions for 24 hours and prophylaxis for close contacts
 
 If meningococcaemia is suspected in **community** setting, use:
 1. Benzylpenicillin IV, quickly
