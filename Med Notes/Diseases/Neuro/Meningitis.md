@@ -39,9 +39,9 @@ Suspected based on CSF [[#Investigations|results]].
 Common causes include:
 1. Strep pneumonia
 2. Neisseria Meningitis
-3. H. Influenze
+3. H. Influenze (Children not vaccinated)
 4. MRSA
-5. Listeria monocytogenes
+5. Listeria monocytogenes (immunocompromised, >50yo)
 
 >[!Important]
 >![[Meningitis#^etq486]]
@@ -119,7 +119,7 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 # Management
 ## Overall management:
 1. Identify whether the cause of meningitis is due to bacterial, viral, fungal/TB, or other cause via LP. See [[#Investigations]]
-	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. See [[#Management of Bacterial Meningitis]]
+	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza). See [[#Management of Bacterial Meningitis]]
 	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease#Genital herpes:|HSV]]
 
 ## Management of Bacterial Meningitis
