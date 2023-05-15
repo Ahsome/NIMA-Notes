@@ -8,12 +8,13 @@
 # Information
 Status Epilepticus is a life-threatening emergency
 
-Lactic acidosis
+LIFE-THREATENING: Lactic acidosis, arrhythmias, HTN
 Cortical laminar necrosis --> permanent neurological disease
 
 Defined by:
 - > 5 minutes of continuous seizures
 - OR > 2 seizures with incomplete recovery of consciousness 
+- OR continuous seizure > 30min
 
 Usually occurs with generalised tonic-clonic activity 
 
@@ -31,38 +32,24 @@ Usually occurs with generalised tonic-clonic activity
 
 ---
 
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
-
 # Management
 ## Treatment
+- Goal is to "break" seizure
 
-## Drug overview
+1. ABCs (airway, breathing, circulation)
+2. First-line treament: IV lorazepam 1mg (give until seizure "breaks")
+	- these are short-acting
+3. IV antiseizure: fosphenytoin, valproate, levetirecetam
+4. If still seizing: phenobaribital
+5. Often requires GA and intubation
 
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
+![[Pasted image 20230516055552.png]]
+SEs: teratogenic (neural tube defects)
+Drugs used in pregnancy:
+- Levetiracetam or Lamotrigine
 
-^6df757
+SEs: Steven-Johnson Syndrome 
+SEs: reduced bone density 
 
 ---
 

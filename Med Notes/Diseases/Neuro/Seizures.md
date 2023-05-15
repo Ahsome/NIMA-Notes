@@ -66,18 +66,8 @@ Epilepsy - multiple unprovoked seizures
 | Psychogenic nonepileptic seizures | - Clinical presentation of seizure with no underlying CNS disease identified <br> - Normal EEG during seizure                                                                                                                                        | - Treatment: psychotherapy (form of conversion disorder in DSM-V)                                                                                                                                               |
 
 ### Questions to ask
->*"Do you notice any ???"*
-
----
-
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
+>*"Do you notice any post-seizure symptoms ???"*
+>*"Did anyone observe your seizure?"* - get collateral hsitory from bystanders
 
 ---
 
@@ -94,9 +84,6 @@ Epilepsy - multiple unprovoked seizures
 | Lumbar puncture  |                          |   Encephalitis / meningitis            |
 | EEG                  |                          | Last investigation after all others come back negative              |
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
@@ -105,21 +92,59 @@ Epilepsy - multiple unprovoked seizures
 1. Move bystanders and objects out of the way if someone is having a seizure
 2. Loosen tight clothing around neck
 3. Place on side to avoid aspiration
-4. 
+4. For absence seizures: Ethosuximide (calcium channel blocker)
+5. For status epilepticus: IV benzodiazepine (lorazepam)
+6. Drugs used in pregnancy: Levetiracetam or Lamotrigine
+	- Many are teratogenic (esp. Valproic acid and carbamezapine)
+	- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
-## Drug overview
+### Common drugs:
+![[Pasted image 20230516055552.png]]
+==*Levetiracetam = Keppra*==
+
+### Side effects:
+- Teratogenic (neural tube defects)
+	- Drugs used in pregnancy:
+	- Levetiracetam or Lamotrigine
+- Steven-Johnson Syndrome (carbamezapine, phenytoin)
+- Reduced bone density 
+- Overdose - baributates e.g. phenobarbital 
+
+
+# Status Epilepticus
+Status Epilepticus is a life-threatening emergency
+
+LIFE-THREATENING: Lactic acidosis, arrhythmias, HTN
+Cortical laminar necrosis --> permanent neurological disease
+
+## Defined by:
+
+>[!Important] Defined by:
+ > - 5 minutes of continuous seizures
+>- OR > 2 seizures with incomplete recovery of consciousness 
+>- OR continuous seizure > 30min
+
+Usually occurs with generalised tonic-clonic activity
+
+- Goal is to "break" seizure
+1. ABCs (airway, breathing, circulation)
+2. First-line treament: IV lorazepam 1mg (give until seizure "breaks")
+	- these are short-acting
+3. IV antiseizure: fosphenytoin, valproate, levetirecetam
+4. If still seizing: phenobaribital
+5. Often requires GA and intubation
+
+
 
 ## Long-term management
 1. No driving for 6-12 months after unprovoked seizure 
 ---
 
 # Complications
-1. Complications of disease
+1. Status epilepticus is a life-threatening disease as it resuts in lactic acidosis, arrhythmias, HTN
 
 ---
 
 # Extra
-## Relevant notes:
-1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2:* Seizures
