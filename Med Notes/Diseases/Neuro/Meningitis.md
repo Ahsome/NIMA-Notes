@@ -9,7 +9,7 @@
 Meningitis is inflammation of the **leptomeninges**. This is the inner two meninges - arachnoid and pia mater. It does *not* include the dural mater. It also involves the CSF, which is located in the subarachnoid space
 ![[Pasted image 20230516003453.png]]
 
-It usually has an **infectious** cause, whether it be viral, bacterial, fungal.
+It usually has an **infectious** cause, whether it be viral, bacterial, fungal. This can 
 It can *rarely* be due to cancer, sarcoid, or inflammatory diseases
 
 >[!Important]
@@ -67,20 +67,20 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 2. Differential
 3. Glucose
 4. Protein
-5. Gra Stain
+5. Gram Stain
 6. Culture
 
 |Key Tests   |Result |Normal  |Bacterial |Viral  |Viral TB   |
 | ------------------------- | --- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Lumbar puncture|WBC|<5|\>1000|5-500|Variable|
 |^^|Differential|--|PMNs (Neutraphils)|Lymphocytes|Lymphocytes |
-|^^|Glucose|50-75|Reduced|Normal |Reduced|
-|^^|Protein|60|Increased|Normal/Elevated|Increased|
+|^^|Glucose|50-75|⬇|Normal |⬇|
+|^^|Protein|60|⬆|Normal/⬆|⬆|
 |^^|Gram stain/Culture|Neg|Yes|Neg|Neg|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|CT scan|Mass/ICP|Used to exclude mass or increased ICP, due to risk herniation. Not routinely performed, except with indications: <br>- Immunocompromised state (e.g. [[HIV]]) <br>- History of mass lesion <br>- New onset [[Seizure]] <br>- Papilledema <br>- Abnormal LOC <br>- Focal neurologic deficits|
 
 ---
 
