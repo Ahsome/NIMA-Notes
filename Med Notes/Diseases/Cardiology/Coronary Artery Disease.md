@@ -54,7 +54,16 @@ ST-ELevation myocardial Infarction
 Angina at rest, with **ST-segment elevation**:
 ![[Pasted image 20230516195235.png]]
 
-
+**Depending on location of MI, complication:**
+Inferior MI:
+1. Right ventricular infarction
+	1. This means not only infarction of inferior left wall, also causes right wall infarction
+	2. Occurs in inferior STEMI (II, III, aVF)
+	3. Loss of right ventricular contractility
+	4. Elevated **JVP
+		1. Decreases preload to left ventricle, causes hypotension
+	5. Avoid GTN
+	6. Treat with IV fluids
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
@@ -106,6 +115,7 @@ Diagnosis primairly on history
 | ---------- | ------------- | --------------- | ------ | ----- | ----- |
 | Chest pain |On exertion <br>Relieved by [[GTN]]|Increasing frequency at lowering threshold or at rest|        |  |Episodes, at rest <br>*Sometimes improved with rest*|
 
+
 ### Risk factors:
 Highest risk. Essentially has the same risk as having known [[Coronary Artery Disease]]:
 1. [[Diabetes Mellitus]]
@@ -155,6 +165,7 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 |CK-MB|High 4-6hr, maintain 2-3 days|Good for reinfarction. See [[Coronary Artery Disease#^81req3\|Explanation]]|
 
 ### ECG:
+For **STEMI:**
 - Anterior MI: V1-V4
 	- Due to occlusion of LAD
 - Lateral: I, aVL, V5 and V6
@@ -164,7 +175,9 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 	- Minority Left Circumflex Artery, 10%
 - Posterior: V7-V9
 	- With ST-depressions in anterior standard leads, such as V2-V4
-	- 
+- Left Main Occlusion: ST-elevation **only in aVR**
+	- Due to blockage of Left Main Coronary Artery, which branches into LAD and LCX
+	- Also shows diffuse ST depressions and T-wave inversios
 
 
 **Comparison**
