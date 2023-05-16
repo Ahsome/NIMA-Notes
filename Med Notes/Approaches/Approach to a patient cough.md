@@ -1,5 +1,5 @@
 # Differentials:
-## Chronic cought:
+## Chronic cough:
 1. [[Asthma]]: ![[Asthma#^439327]] 
 2. Postnasal drip
 3. GORD

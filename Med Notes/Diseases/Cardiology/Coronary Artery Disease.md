@@ -275,7 +275,7 @@ Summary:
 |^^ | [[Cardiac Tamponade]]    |
 |^^|[[Coronary Artery Disease#^xomu07\|Papillary muscle rupture]]|
 |^^|[[Coronary Artery Disease#^8ht42u\|VSD (Septal rupture)]] |
-|^^|  |
+|^^|[[Coronary Artery Disease#^4tn7k6\|Fibrinous Pericarditis]]|
 |Weeks later|[[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]] |
 |^^|[[Aneurysm]]|
 |^^| LV Thrombus/CVA          |
@@ -296,8 +296,13 @@ Summary:
 - [[VSD]] - Septal rupture ^8ht42u
 	- Loud, holosystlic murmur (thrill)
 	- Hypotension, right [[Heart Failure]]. Increases JVP, edema
-- Fibrinous Pericardidits
-	- Occurs *days* after MI. As opposed to [[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]], which takes weeks to onths
+- Fibrinous Pericardidits ^4tn7k6
+	- Occurs *days* after MI. As opposed to [[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]], which takes weeks to months
+	- Not-autoimmune. As opposed to [[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]], which **is autoimune**
+	- Due to myocardial inflammation have navigated into the muscle wall, causing pericarditis
+	- Rarely life-threatening
+	- Diagnosis: Clinical
+	- No specific treatment
 
 **Weeks later**: ^84fa7v
 - Ventricular Aneurysm (3-4 weeks)
@@ -316,8 +321,8 @@ Summary:
 	- Form of [[Pericarditis]]
 		- Causes chest pain
 		- Causes Friction rub
-	- Takes we
-	- Immune-mediated (details not known)
+	- Takes weeks to months. As opposed to [[Coronary Artery Disease#^4tn7k6|Fibrinous Pericarditis]], which takes days after MI
+	- Immune-mediated (details not known) As opposed to [[Coronary Artery Disease#^4tn7k6|Fibrinous Pericarditis]], which is **not auto-immune**
 	- Diagnosis is clinical
 	- Treat with NSAIDs or Steroids
 
