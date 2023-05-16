@@ -8,7 +8,9 @@
 # Information
 Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two main categories:
 
-### Up
+### Upper GI bleeding
+
+### Lower G
 
 > [!Important]
 - Important point
