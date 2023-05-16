@@ -35,7 +35,7 @@ Lower GI bleeding is described as "Bright red blood per rectum", or hematochezia
 Common causes include:
 - [[Diverticulosis]]
 - [[Angiodysplasia]]
-- Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]]
+- Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]], [[Infectious Colitis]]
 - Malignancy, such as [[Colon Cancer]]
 - Anal bleeding (from [[Hemorrhoids]]/[[Fissures]])
 
@@ -67,16 +67,31 @@ Common causes include:
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|FBC|Result 1| Explanation 1                                                                                                                                                        |
+|Platelets|  |  |
+|PT/PTT/INR|  |  |
+|  |  |  |
 
-| Additional Tests               |  Result   | Explanation                |
+|Additional Tests|  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
 | Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
 # Management
-## Treatment
+## General management
+Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are general management principles to follow:
+1. Insertion of two large-bore periperal (16-gauge) IVs
+2. Administer IV fluids
+	1. Many patients just from IV fluids become stable
+3. If not helped by IV fluids, need to check criteria for blood transfusion
+	1. Individualised to patient, differs across hospital
+	2. Hgb < 8mg/dL  for young, low risk patients
+	3. Hgb < 9mg/dL or older, comorbid patients
+	4. Hgb < 7mg/dL for variceal bleeds
+		1. Lower because due to portal hypertension, transfusion can further increase pressure
+4. Platelet transfusion if platelets < 50k
+5. FFP or prothrombin complex for coagulopathy
 
 ## Drug overview
 
