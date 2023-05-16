@@ -72,12 +72,13 @@ Inferior MI:
 	1. Causes dysfunction in SA node and AV node
 	2. Due to supply from RCA
 	3. Avoid beta-blockers
-3. [[Coronary Artery Disease#^xomu07|Papillary muscle rupture]] post MI
+3. [[Coronary Artery Disease#^xomu07|Papillary muscle rupture]] post MI, after 5-10 days
 
 Anterior MI:
 1. [[Cardiogenic shock]]
 	1. Usually from large anterior STEMI
 	2. Cause hypotension, tachycardia, pulmonary edema, respiratory distress
+2. [[Coronary Artery Disease#^84fa7v|Ventricular Aneurysm]] post MI, after weeks
 
 >[!Important] Typical Case of [[#STEMI]]:
 >- Arrival in ER with chest pain 5:42pm
@@ -217,7 +218,7 @@ For **STEMI:**
 **Comparison**
 | Test |[[#Stable Angina]]|[[#Unstable Angina]]|[[#NSTEMI]]|[[#STEMI]]|
 | ---- | ------------- | --------------- | ------ | ----- |
-|ECG| Normal              |Ischemic ECG changes possible (ST-depressions, T-wave inversions) <br> <br>**No ST-elevation**|**ST-depression** <br> T-wave inversions<br> Ischemic ECG changes possible|**ST elevation** <br>Ischemic ECG changes possible|
+|ECG| Normal              |Ischemic ECG changes possible (ST-depressions, T-wave inversions) <br> <br>**No ST-elevation**|**ST-depression** <br> T-wave inversions<br> Ischemic ECG changes possible|**ST elevation** <br>Ischemic ECG changes possible <br> <br>Q-waves post STEMI|
 |Biomarkers|Normal|Normal|Positive biomarkers****|**Positive **biomarkers|
 
 
@@ -292,10 +293,14 @@ Summary:
 - [[VSD]] - Septal rupture ^8ht42u
 	- Loud, holosystlic murmur (thrill)
 	- Hypotension, right [[Heart Failure]]. Increases JVP, edema
-**Weeks later**:
+
+**Weeks later**: ^84fa7v
 - Ventricular Aneurysm
 	- Portion of LV wall is replaced by scar tissue
 	- More common in anterior infarction
+	- Risk of thrombus, can break off and cause [[Stroke]] or peripheral embolism
+	- If occurs, will cause persistent elevated ST elevations
+- Venricul
 
 ---
 
