@@ -101,6 +101,8 @@ Epilepsy - multiple unprovoked seizures
 		- Many are teratogenic (esp. Valproic acid and carbamezapine)
 		- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
+
+
 ### Common drugs:
 ![[Pasted image 20230516055552.png]]
 ==*Levetiracetam = Keppra*==
