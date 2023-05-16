@@ -72,6 +72,7 @@ Inferior MI:
 	1. Causes dysfunction in SA node and AV node
 	2. Due to supply from RCA
 	3. Avoid beta-blockers
+3. [[Coronary Artery Disease#^xomu07|Papillary muscle rupture]] post MI
 
 Anterior MI:
 1. [[Cardiogenic shock]]
@@ -268,25 +269,33 @@ Summary:
 | Time        | Issues                   |
 | ----------- | ------------------------ |
 |4 days|Arrhythmia|
-|5-10 days| Free wall rupture        |
+|5-10 days|[[Coronary Artery Disease#^ip1god\|Free wall rupture]]|
 |^^ | [[Cardiac Tamponade]]    |
-|^^| Papillary muscle rupture |
-|^^| [[VSD]] (Septul rupture) |
+|^^|[[Coronary Artery Disease#^xomu07\|Papillary muscle rupture]]|
+|^^|[[Coronary Artery Disease#^8ht42u\|VSD (Septal rupture)]]|
 |Weeks later| [[Dressler's Syndrome]]  |
-|^^| [[Aneurysm]]             |
+|^^|[[Aneurysm]]|
 |^^| LV Thrombus/CVA          |
 
 **0-4 days:**
 - Biggest issue is due to sudden cardiac death from [[Ventricular Tachycardia]], leads to [[Ventricular Fibrillation]] and cardiac arrest
 **5-10 days**:
 - Necrosis of the wall occurs
-- Free wall rupture:
+- Best test for all, transthoracic echocardiogram
+- Free wall rupture: ^ip1god
 	- Usually fatal, sudden death.
 	- Can lead to [[Cardiac Tamponade]]
-- Papillary muscle rupture: ^xomu07
+- Mitral valvle papillary muscle rupture: ^xomu07
 	- Acute [[mitral regurgitation]] ((holosystolic murmur))
 	- [[Heart Failure]], Respiratory Distress
 	- More common in inferior MIs
+- [[VSD]] - Septal rupture ^8ht42u
+	- Loud, holosystlic murmur (thrill)
+	- Hypotension, right [[Heart Failure]]. Increases JVP, edema
+**Weeks later**:
+- Ventricular Aneurysm
+	- Portion of LV wall is replaced by scar tissue
+	- More common in anterior infarction
 
 ---
 
