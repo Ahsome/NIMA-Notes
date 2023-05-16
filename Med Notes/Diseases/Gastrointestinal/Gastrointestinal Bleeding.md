@@ -102,7 +102,20 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 	4. If present, then sign it is upper GI bleed
 2. Once confirmed lower GI bleed, severity needs to be considered
 3. If severe, life-threatening bleed: **Surgery** is required to identify source
-4. If stabalised with fluids
+	1. If **brisk GI bleeds**, one treatment is **Angiography**
+		1. Dye is injected into mesenteric vessels
+		2. If brisk [[#Lower GI bleeding]], then dye is visible leaking into the mesentery
+		3. Only useful if blood loss is 0.5 to 1.0mL/minute
+		4. No bowel prep needed
+		5. Allows intervention to stop bleeding
+			1. Once vessel is identified, you can add intra-arterial vasopression or embolisation to close bleeding
+4. If stabalised with fluids, refer to **colonoscopy**
+	1. Can identify bleeds in the colon, like [[Angiodysplasia]] or [[Colon Cancer]]
+	2. Can treat bleeding endoscopically
+	3. **Best done** after *bowel prep*, so mostly done in stable patients
+	4. If colonoscopy is not available:
+		1. 
+
 
 ## Drug overview
 
