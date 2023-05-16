@@ -73,12 +73,13 @@ Inferior MI:
 	2. Due to supply from RCA
 	3. Avoid beta-blockers
 3. [[Coronary Artery Disease#^xomu07|Papillary muscle rupture]] post MI, after 5-10 days
+4. [[Coronary Artery Disease#^gp9l2x|Ventricular Pseudoaneurysm]] post MI, 1-2 weeks
 
 Anterior MI:
 1. [[Cardiogenic shock]]
 	1. Usually from large anterior STEMI
 	2. Cause hypotension, tachycardia, pulmonary edema, respiratory distress
-2. [[Coronary Artery Disease#^84fa7v|Ventricular Aneurysm]] post MI, after weeks
+2. [[Coronary Artery Disease#^84fa7v|Ventricular Aneurysm]], after weeks
 
 >[!Important] Typical Case of [[#STEMI]]:
 >- Arrival in ER with chest pain 5:42pm
@@ -273,13 +274,15 @@ Summary:
 |5-10 days|[[Coronary Artery Disease#^ip1god\|Free wall rupture]]|
 |^^ | [[Cardiac Tamponade]]    |
 |^^|[[Coronary Artery Disease#^xomu07\|Papillary muscle rupture]]|
-|^^|[[Coronary Artery Disease#^8ht42u\|VSD (Septal rupture)]]|
-|Weeks later| [[Dressler's Syndrome]]  |
+|^^|[[Coronary Artery Disease#^8ht42u\|VSD (Septal rupture)]] |
+|^^|  |
+|Weeks later|[[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]] |
 |^^|[[Aneurysm]]|
 |^^| LV Thrombus/CVA          |
 
 **0-4 days:**
 - Biggest issue is due to sudden cardiac death from [[Ventricular Tachycardia]], leads to [[Ventricular Fibrillation]] and cardiac arrest
+
 **5-10 days**:
 - Necrosis of the wall occurs
 - Best test for all, transthoracic echocardiogram
@@ -293,14 +296,30 @@ Summary:
 - [[VSD]] - Septal rupture ^8ht42u
 	- Loud, holosystlic murmur (thrill)
 	- Hypotension, right [[Heart Failure]]. Increases JVP, edema
+- Fibrinous Pericardidits
+	- Occurs *days* after MI. As opposed to [[Coronary Artery Disease#^ynxakc\|Dressler's Syndrome]], which takes weeks to onths
 
 **Weeks later**: ^84fa7v
-- Ventricular Aneurysm
+- Ventricular Aneurysm (3-4 weeks)
 	- Portion of LV wall is replaced by scar tissue
 	- More common in anterior infarction
 	- Risk of thrombus, can break off and cause [[Stroke]] or peripheral embolism
 	- If occurs, will cause persistent elevated ST elevations
-- Venricul
+- Ventricular Pseudonaeurysm (<2weeks) ^gp9l2x
+	- Rupture contained by pericardium/scar tissue
+	- Not a true aneurysm as does no bulging involve endocardium or myocardium
+	- May rupture
+	- Presents as chest pain or dyspnea
+	- Often seen in **inferior wall**
+	- Occulrs earlier (<2 weeks) than true anerurysm
+- Dressler's Syndrome ^ynxakc
+	- Form of [[Pericarditis]]
+		- Causes chest pain
+		- Causes Friction rub
+	- Takes we
+	- Immune-mediated (details not known)
+	- Diagnosis is clinical
+	- Treat with NSAIDs or Steroids
 
 ---
 
