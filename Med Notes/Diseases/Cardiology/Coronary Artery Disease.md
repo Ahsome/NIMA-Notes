@@ -128,6 +128,15 @@ Other risk factors:
 ---
 
 ## Examination findings
+
+| Additional Findings | Result   | Explanation   |
+| ------------------- | -------- | ------------- |
+| Finding 1           | Result 1 | Explanation 1 |
+
+---
+
+## Investigations
+### Biomarkers:
 Biomarkers that are often used for [[Coronary Artery Disease]]:
 1. Troponin I or T
 	1. Most commonly used
@@ -145,6 +154,18 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 |Troponin I or T|High 2-4hr, maintain 2-3 week|Damage to heart muscle|
 |CK-MB|High 4-6hr, maintain 2-3 days|Good for reinfarction. See [[Coronary Artery Disease#^81req3\|Explanation]]|
 
+### ECG:
+- Anterior MI: V1-V4
+	- Due to occlusion of LAD
+- Lateral: I, aVL, V5 and V6
+	- Due to occlusion of Left Circumflex Artery
+- Inferior: II, III, aVF
+	- Due to occlusion of RCA, 90%
+	- Minority Left Circumflex Artery, 10%
+- Posterior: V7-V9
+	- With ST-depressions in anterior standard leads, such as V2-V4
+	- 
+
 
 **Comparison**
 | Test |[[#Stable Angina]]|[[#Unstable Angina]]|[[#NSTEMI]]|[[#STEMI]]|
@@ -152,16 +173,6 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 |ECG| Normal              |Ischemic ECG changes possible (ST-depressions, T-wave inversions) <br> <br>**No ST-elevation**|**ST-depression** <br> T-wave inversions<br> Ischemic ECG changes possible|**ST elevation** <br>Ischemic ECG changes possible|
 |Biomarkers|Normal|Normal|Positive biomarkers****|**Positive **biomarkers|
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
