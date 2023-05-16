@@ -63,7 +63,19 @@ Inferior MI:
 	4. Elevated **JVP
 		1. Decreases preload to left ventricle, causes hypotension
 	5. Avoid GTN
+		1. It dilates veins, reduces preload, will increase [[Hypotension]]
 	6. Treat with IV fluids
+		1. Increase preload
+	7. **Diagnose wit right-sided chest leads**
+		1. Put leads on right side, see if infarct occurs
+2. Sinus bradycardia and heart block
+	1. Causes dysfunction in SA node and AV node
+	2. Due to supply from RCA
+
+Anterior MI:
+1. [[Cardiogenic shock]]
+	1. Usually from large anterior STEMI
+	2. Cause hypotension, tachycardia, pulmonary edema, respiratory distress
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
@@ -218,6 +230,16 @@ Beta-blocker for prevention of recurrent disease
 1. Strong indication in STEMI. **Always given**
 2. Weak indication in NSTEMI/UA
 3. Used for prevention in NSTEMI
+
+## STEMI Management:
+"Time is muscle"
+As coronary artery is occluded by thrombus, longer occlusion leads to more dead muscle and increased symptoms of [[Heart Failure]]
+It is a **medical emergency**
+
+1. Revacularisation
+	1. Option 1: Emergency angioplasty
+		1. Mechanical opening of artery
+		2. Stent  placement should be done <90 minutes
 
 ## Stable Angina Management:
 Stable angina management involves:
