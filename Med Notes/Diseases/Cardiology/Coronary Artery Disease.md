@@ -32,6 +32,13 @@ Diagnosis: symptoms or stress testing
 >- Stent placed, angina resolved
 >- Placed on aspirin and statin, lifetime
 
+## Variant (Prinzmetal) Angina:
+Due to episodic *vasoconstriction* of coronayr vessels **at rest**
+Happens midnight to **early morning**, and *can improve* with exertion
+1. If they wake up in the morning with chest pain, it is a classic sign of [[#Variant (Prinzmetal) Angina:]]
+Associated with smoking
+Diagnosis primairly on history
+
 > [!Important]
 - Patient is put on dual-antiplatelet therapy. If a patient has a thrombosis from a stent, almost always due to not keeping with antiplatelet therapy
 
@@ -45,9 +52,9 @@ Diagnosis: symptoms or stress testing
 4. Sweating
 
 **Comparison**:
-| Symptom       | Stable Angina | Unstable Angina | NSTEMI | STEMI |
-| ---------- | ------------- | --------------- | ------ | ----- |
-| Chest pain |On exertion <br>Relieved by [[GTN]]|    At rest             |        |       |
+| Symptom       | Stable Angina | Unstable Angina | NSTEMI |STEMI|Prinzmetal Angina|
+| ---------- | ------------- | --------------- | ------ | ----- | ----- |
+| Chest pain |On exertion <br>Relieved by [[GTN]]|    At rest             |        |       |Episodes, at rest <br>*Sometimes improved with rest*|
 
 ### Risk factors:
 Highest risk. Essentially has the same risk as having known [[Coronary Artery Disease]]:
@@ -163,6 +170,18 @@ Stable angina management involves:
 		2. Saphenous Vein
 		3. Radial (arm) artery graft
 
+## Variant Angina Management
+Overall management involves:
+1. Quit smoking, biggest risk factors
+2. Possibly **Calcium channel blockers, nitrates**
+	1. Dihydropyridine, such as amlodipine
+	2. Vasodilators
+	3. Dilate coronary arteries, oppose spasm
+3. Avoid propranalol
+	1. Nonselective beta blocker
+	2. Can cause unopposed alpha stimulation
+	3. Symptoms may worsen
+
 ## Drug overview
 
 ## Criteria
@@ -187,7 +206,7 @@ Stable angina management involves:
 	2. Thrombosis:
 		1. Acute closure of stent
 		2. Same as [[#STEMI]], life-threatening event
-		3. Dual anti-platelet therapy for prevention
+		3. [[Coronary Artery Disease#^six45w|Dual anti-platelet therapy for prevention]]
 		4. Associated with **missed medication doses**
 
 ---
