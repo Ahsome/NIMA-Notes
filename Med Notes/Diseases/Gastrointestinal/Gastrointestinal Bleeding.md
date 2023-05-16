@@ -56,7 +56,7 @@ If suspected [[Hemorrhoids]]:
 Lower GI risk factors:
 1. Cirhossis
 2. Alcohol
-3. N
+3. NSAIDs: Think [[Pept]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
