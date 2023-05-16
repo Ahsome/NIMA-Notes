@@ -30,15 +30,26 @@ If there is total occlusion/transmural ischemia, it causes:
 
 ### Unstable angina
 Ischemic symptoms occuring with increasing frequency or at rest, with *negative* biomarkers
-
->[!Important] Typical Case of Stable Angina:
->- 65yo man chest pain at rest
->- Biomarkers elevated
->- Absence of ST-segment elevations
->- Medical T
+See [[#^9a1da4|Typical case of UA/NSTEMI]]
 
 ### NSTEMI
 Ischemic symptoms occuring with increasing frequency or at rest, with *positive* biomarkers
+
+>[!Important] Typical Case of UA/NSTEMI:
+>- 65yo man chest pain at rest
+>- Biomarkers elevated
+>- Absence of ST-segment elevations
+>- Medical Therapy
+>	- [[Aspirin]]
+>	- [[Metoprolol]]
+>	- Heparin drip
+>- Admitted to cardiac floor
+>- Hospital day 2 --> Angiography
+>- 90% blockage of LAD --> Stent
+
+^9a1da4
+
+# STEMI
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
@@ -74,6 +85,7 @@ Diagnosis primairly on history
 
 > [!Important]
 - Patient is put on dual-antiplatelet therapy. If a patient has a thrombosis from a stent, almost always due to not keeping with antiplatelet therapy
+- Always obtain ECG in all chest pain patients. ST elevation is key differentiatior in [[#Acute Cornonary Syndrome]] between [[#Unstable angina]], [[#NSTEMI]] and [[#STEMI]]
 
 --- 
 # History
@@ -153,9 +165,8 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 ---
 
 # Management
-## Treatment
-
 ## UA/NSTEMI Management:
+### Initial management:
 This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, there is ***no ticking clock***
 1. Due to subtotal occlusion, so some blood flow to distal myocardium
 2. No emergency angioplasty, no benefit for thrombolysis
@@ -166,7 +177,10 @@ This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, t
 	1. Beta-blocker, unless contraindication
 		1. [[Bradycardia]]
 		2. [[Hypotension]]
-5. Perform angioplasty, but not emergent. See [[Coronary Artery Disease#^tf8nfo|PCI]] and [[Coronary Artery Disease#^85is4n|CABG]]
+5. Perform angioplasty, but not emergent, such as Hospital Day 2. See [[Coronary Artery Disease#^tf8nfo|PCI]] and [[Coronary Artery Disease#^85is4n|CABG]]
+	1. Perform angiograph first to identify any blockage, then angioplasty
+
+### Long term therapy:
 
 ## Stable Angina Management:
 Stable angina management involves:
