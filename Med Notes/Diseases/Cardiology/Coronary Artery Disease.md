@@ -31,6 +31,12 @@ If there is total occlusion/transmural ischemia, it causes:
 ### Unstable angina
 Ischemic symptoms occuring with increasing frequency or at rest, with *negative* biomarkers
 
+>[!Important] Typical Case of Stable Angina:
+>- 65yo man chest pain at rest
+>- Biomarkers elevated
+>- Absence of ST-segment elevations
+>- Medical T
+
 ### NSTEMI
 Ischemic symptoms occuring with increasing frequency or at rest, with *positive* biomarkers
 
@@ -150,8 +156,17 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 ## Treatment
 
 ## UA/NSTEMI Management:
-This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, there is * ***no ticking clock***
+This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, there is ***no ticking clock***
 1. Due to subtotal occlusion, so some blood flow to distal myocardium
+2. No emergency angioplasty, no benefit for thrombolysis
+3. However, because of coagulation, we need anti-coagulations
+	1. Aspirin
+	2. Heparin
+4. Further drugs:
+	1. Beta-blocker, unless contraindication
+		1. [[Bradycardia]]
+		2. [[Hypotension]]
+5. Perform angioplasty, but not emergent. See [[Coronary Artery Disease#^tf8nfo|PCI]] and [[Coronary Artery Disease#^85is4n|CABG]]
 
 ## Stable Angina Management:
 Stable angina management involves:
@@ -206,10 +221,10 @@ Stable angina management involves:
 2. Anti-anginal therapy (lowers O2 demand)
 	1. Beta blocker or Ca2+ channel blocker, decrease HR and contractility
 	2. GTN, decrease pre-load
-3. Coronary stent implantation
+3. Coronary stent implantation ^tf8nfo
 	1. Also called PCI
 	2. Worry about [[Coronary Artery Disease#^bhs3lc|Complications of stent]]
-4. CABG surgery
+4. CABG surgery ^85is4n
 	1. Bypass surgery
 	2. Bypass occlusion by using another artery/vein to bypass bloc
 		1. Left Internal Mamary Artery
