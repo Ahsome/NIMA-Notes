@@ -24,6 +24,7 @@ Common causes include (Italic is most):
 - *[[Peptic Ulcer Disease]]*
 - *[[Erosive gastritis]]*
 - *[[Erosive esophagitis]]*
+- [[Esophageal Cancer]]
 - [[Esophageal varices]] or [[Gastric varices]]
 	- Normally due to [[Cirrhosis]]
 - [[Portal hypertensive gastropathy]]
@@ -54,10 +55,10 @@ If suspected [[Hemorrhoids]]:
 
 ### Risk factors:
 Lower GI risk factors:
-1. Cirhossis
-2. Alcohol
+1. Cirhossis. Think [[Esophageal varices]] and [[Gastric varices]]
+2. Alcohol. Think [[Mallory-Weiss tear]], and [[Cirrhosis]]
 3. NSAIDs: Think [[Peptic Ulcer Disease]]
-4. H Pylori. T
+4. H Pylori. Think exacerbations of [[GORD]], leading to [[Erosive esophagitis]] and [[Esophageal Cancer]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
