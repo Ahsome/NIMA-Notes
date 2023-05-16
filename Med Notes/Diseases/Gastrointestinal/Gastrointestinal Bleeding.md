@@ -38,6 +38,7 @@ Common causes include:
 - Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]], [[Infectious Colitis]]
 - Malignancy, such as [[Colon Cancer]]
 - Anal bleeding (from [[Hemorrhoids]]/[[Fissures]])
+	- Painless bleeding with bowel movements: [[Hemorrhoids#Internal hemorrhoids]]
 
 > [!Important]
 - Important point
@@ -45,6 +46,10 @@ Common causes include:
 --- 
 # History
 ### Symptoms
+
+Lower GI bleeding:
+If suspected [[Hemorrhoids]]:
+1. If painless bleeding with bowel movemenets: [[Hemorrhoids#Internal hemorrhoids]]]
 
 ### Risk factors:
 
