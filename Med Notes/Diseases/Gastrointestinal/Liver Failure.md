@@ -19,6 +19,16 @@ Hepatitis is a...
 |                                        |                                   |
 
 
+| Acute Liver Failure | Characteristics                        |
+| ------------------- | -------------------------------------- |
+|                     | Elevated AST and aLT                   |
+|                     | Hepatic encephalopathy                 |
+|                     | INR > 1.5 (prolonged prothrombin time) |
+|                     | HHyperbilirubinaemia                   |
+|                     | Low platelets                          |
+|                     | USS to exlude Budd-Chiari                                       |
+
+
 > [!Important]
 - Important point
 

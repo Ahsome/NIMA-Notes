@@ -8,7 +8,7 @@
 - [x] Sleep apnoea
 - [ ] Multiple sclerosis
 - [ ] TB
-- [ ] Meningitis
+- [x] Meningitis
 
 12 short case practices on blackboard - work our way through that - 2 per day?
 
@@ -76,7 +76,7 @@ A patient with acute weakness
 A patient with anemia
 [[Anaemia]]
 A patient with jaundice
-[[Hepatitis]]
+[[Liver Failure]]
 [[Chronic Liver Disease]]
 [[Pancreatitis]]
 [[Cholecystitis]]
