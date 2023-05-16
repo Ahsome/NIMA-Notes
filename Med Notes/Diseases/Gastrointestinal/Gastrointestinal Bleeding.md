@@ -53,7 +53,10 @@ If suspected [[Hemorrhoids]]:
 1. If painless bleeding with bowel movemenets: [[Hemorrhoids#Internal hemorrhoids]]]
 
 ### Risk factors:
-Lower 
+Lower GI risk factors:
+1. Cirhossis
+2. Alcohol
+3. N
 
 ### Questions to ask
 >*"Do you notice any ???"*
