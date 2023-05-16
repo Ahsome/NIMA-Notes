@@ -6,7 +6,7 @@
 ---
 
 # Information
-Gastrointestinal Bleeding is a... 
+Gastrointestinal Bleeding is bleeding that occurs 
 
 > [!Important]
 - Important point
