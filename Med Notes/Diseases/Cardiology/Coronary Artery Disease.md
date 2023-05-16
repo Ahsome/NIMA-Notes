@@ -107,16 +107,27 @@ Other risk factors:
 ## Examination findings
 Biomarkers that are often used for [[Coronary Artery Disease]]:
 1. Troponin I or T
-	1. 
+	1. Most commonly used
+	2. Increase 2-4 hours after MI
+	3. Stay elevated for weeks
+3. CK-MB
+	1. Increase 4-6 hours after MI
+	2. Normalise within 2-3 days
+	3. Very good for re-infarction
+		1. This is because it goes quickly, so you can see if there is a second MI while the Troponin will remain high ^81req3
+
+
+|Key Findings| Result   |Explanation|
+| ------------ | -------- | ------------- |
+|Troponin I or T|High 2-4hr, maintain 2-3 week|Damage to heart muscle|
+|CK-MB|High 4-6hr, maintain 2-3 days|Good for reinfarction. See [[Coronary Artery Disease#^81req3\|Explanation]]|
+
+
 **Comparison**
 | Test |[[#Stable Angina]]|[[#Unstable Angina]]|[[#NSTEMI]]|[[#STEMI]]|
 | ---- | ------------- | --------------- | ------ | ----- |
 |ECG| Normal              |Ischemic ECG changes possible (ST-depressions, T-wave inversions) <br> <br>**No ST-elevation**|**ST-depression** <br> T-wave inversions<br> Ischemic ECG changes possible|**ST elevation** <br>Ischemic ECG changes possible|
 |Biomarkers|Normal|Normal|Positive biomarkers****|**Positive **biomarkers|
-
-|Key Findings| Result   | Explanation   |
-| ------------ | -------- | ------------- |
-|Finding 1| Result 1 | Explanation 1 |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -137,6 +148,10 @@ Biomarkers that are often used for [[Coronary Artery Disease]]:
 
 # Management
 ## Treatment
+
+## UA/NSTEMI Management:
+This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, there is * ***no ticking clock***
+1. Due to subtotal occlusion, so some blood flow to distal myocardium
 
 ## Stable Angina Management:
 Stable angina management involves:
@@ -225,15 +240,15 @@ Overall management involves:
 
 # Complications
 1. Complications of disease
-2. Complication of **stent**:
+2. Complication of **stent**: ^bhs3lc
 	1. Restenosis:
 		1. Slow, steady growth of scar tissue over stent. Called 'Neoo-intimal hyperplasia'
 		2. Re-occlusion of vessel
 		3. Rarely life, threating
 		4. Slow, steady return of angina
-		5. To fix, most stents coated with with drugs
+		5. To fix, most stents coated with with drugs 
 			1. Metal stent covered with polymer, which is impregnated with drug to prevent tissue growth
-			2. [[Sirolimus]] ^bhs3lc, an anti-eluting
+			2. [[Sirolimus]] , an anti-eluting
 	2. Thrombosis:
 		1. Acute closure of stent
 		2. Same as [[#STEMI]], life-threatening event
