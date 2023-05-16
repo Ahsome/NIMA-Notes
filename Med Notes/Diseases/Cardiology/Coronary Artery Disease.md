@@ -91,6 +91,27 @@ Other risk factors:
 ## Stable Angina Management:
 1. Given no symptoms at rest ([[#Symptoms]]) and no ECG changes ([[#Investigations]]), you need to do stress testing
 	1. Use when diagnosis is uncertain
+	2. Patient must be asymptomatic
+	3. Goal: provoke ischemia and detect ischemia
+	4. Provocation: exercise always preferred
+	5. Detection:
+		1. ECG changes (ST-depressions). If hard to identify:
+		2. Nuclear imaging (usually Technetium)
+			3. ![[Pasted image 20230516184358.png|100]]
+			4. Normal vs stress
+		3. Echocardiography
+			1. Check contractility
+			2. If wall is ischemic, it will contract less vigirously (hypokinetic)
+	6. If cannot exercise:
+		1. Pharmacologic nuclear (induce coronary steal by **vasodilation**). Vasodilators:
+			1. Regadenoson
+			2. Dipyrimadole
+			3. Adenosine
+			4. Persantine
+			7. Contraindication: reactive airway disease/wheezing, [[COPD]]
+		7. Dobutamine stress echocardiography
+			1. Dobutamine is beta 1 agonis
+			2. Risk of arrhythmias
 
 ## Drug overview
 
