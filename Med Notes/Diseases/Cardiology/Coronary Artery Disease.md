@@ -19,7 +19,18 @@ This can be thought of as two main categories:
 
 
 ## Acute Cornonary Syndrome
-This is due to **pla**
+This is due to **plaque rupture**, causing **thrombus formation**
+If it causes a subtotal occlusion/subendocardial ischemia, this causes:
+1. [[#Unstable angina]]
+2. [[#NSTEMI]] 
+	1. ![[Pasted image 20230516192614.png|150]]
+
+If there is total occlusion/transmural ischemia, it causes:
+1. [[#STEMI]] 
+	1. ![[Pasted image 20230516192640.png|150]]
+
+### Unstable angina
+
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
