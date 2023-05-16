@@ -206,6 +206,32 @@ For **STEMI:**
 ---
 
 # Management
+---
+
+## STEMI Management:
+"Time is muscle"
+As coronary artery is occluded by thrombus, longer occlusion leads to more dead muscle and increased symptoms of [[Heart Failure]]
+It is a **medical emergency**
+
+It is:
+1. Thrombotic problem:
+	1. Aspirin to inhibit platelet aggregation
+	2. Heparing to inhibit clot formation
+2. Ischemic problem:
+	1. Beta-blockers to reduce O2 demand
+	2. Nitrates to reduce O2 demand
+
+Steps:
+1. Revacularisation
+	1. Option 1: Emergency angioplasty
+		1. Mechanical opening of artery
+		2. Stent  placement should be done <90 minutes\
+	2. Option 2: Thrombolysis
+		1. Alteplase, TPA, clot-bustinf drugg
+		2. Should be done <120 minutes
+
+---
+
 ## UA/NSTEMI Management:
 ### Initial management:
 This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, there is ***no ticking clock***
@@ -231,19 +257,7 @@ Beta-blocker for prevention of recurrent disease
 2. Weak indication in NSTEMI/UA
 3. Used for prevention in NSTEMI
 
-## STEMI Management:
-"Time is muscle"
-As coronary artery is occluded by thrombus, longer occlusion leads to more dead muscle and increased symptoms of [[Heart Failure]]
-It is a **medical emergency**
-
-Steps:
-1. Revacularisation
-	1. Option 1: Emergency angioplasty
-		1. Mechanical opening of artery
-		2. Stent  placement should be done <90 minutes\
-	2. Option 2: Thrombolysis
-		1. Alteplase, TPA, clot-bustinf drugg
-		2. Should be done <120 minutes
+---
 
 ## Stable Angina Management:
 Stable angina management involves:
@@ -307,6 +321,8 @@ Stable angina management involves:
 		1. Left Internal Mamary Artery
 		2. Saphenous Vein
 		3. Radial (arm) artery graft
+
+---
 
 ## Variant Angina Management
 Overall management involves:
