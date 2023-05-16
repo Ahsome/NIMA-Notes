@@ -43,7 +43,7 @@ Small cell lung cancer can result in production of:
 	1. [[SIADH]]
 	2. Hyponatremia
 3. Antibodies
-	1. Creay\tes antibodies against pre-synaptic Ca2+ channels in neurons
+	1. Creates antibodies against pre-synaptic Ca2+ channels in neurons
 	2. Blocks Ach
 	3. Lambert-Eaton syndrome
 
