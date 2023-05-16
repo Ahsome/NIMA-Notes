@@ -6,38 +6,7 @@
 ---
 
 # Information
-Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two main categories:
-1. [[#Upper GI bleeding]], any bleeding above the Ligament of Treitz
-2. [[#Lower GI bleeding]]
-
-The Ligament of Treitz suspends the distal duodenum:
-![[Pasted image 20230516230939.png]]
-
-### Upper GI bleeding
-Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the Ligament of Treitz
-- Often descried as coffee-ground emesis
-- Due to blod exposed to stomach acid
-- Can develop Melena: dark black ("tarry") stools. Main sign of upper GI bleeding
-- Rarely hematochezia (only if brisk upper GI bleed without being changed to melena, normally [[#Lower GI bleeding]])
-
-Common causes include:
-- [[Peptic Ulcer Disease]]
-- [[Erosive gastritis]]
-- [[Erosive esophagitis]]
-- [[Esophageal varices]] or [[Gastric varices]]
-	- Normally due to [[Cirrhosis]]
-- [[Portal hypertensive gastropathy]]
-	- Normally due to [[Portal Hypertension]] fro [[Chronic Liver Disease]]
-
-### Lower GI bleeding
-Lower GI bleeding is described as "Bright red blood per rectum", or hematochezia
-
-Common causes include:
-- [[Diverticulosis]]
-- [[Angiodysplasia]]
-- Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]]
-- Malignancy, such as [[Colon Cancer]]
-- Anal bleeding (from [[Hemorrhoids]]/[[Fissures]])
+Chronic Liver Disease is a... 
 
 > [!Important]
 - Important point
