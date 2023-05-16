@@ -11,7 +11,7 @@ Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two ma
 2. [[#Lower GI bleeding]]
 
 ### Upper GI bleeding
-
+Bleeding that is proximal to the
 
 ### Lower GI bleeding
 
