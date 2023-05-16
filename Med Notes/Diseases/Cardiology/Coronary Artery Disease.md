@@ -6,7 +6,7 @@
 ---
 
 # Information
-Coronary Artery Disease is a... 
+Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asymptomatic until 75% of the artery lumen is occluded. 
 
 > [!Important]
 - Important point
