@@ -33,7 +33,7 @@ Diagnosis: symptoms or stress testing
 >- Placed on aspirin and statin, lifetime
 
 > [!Important]
-- Important point
+- Patient is put on dual-antiplatelet therapy. If a patient has a thrombosis from a stent, almost always due to not keeping with antiplatelet therapy
 
 --- 
 # History
@@ -105,6 +105,11 @@ Stable angina management involves:
 1. Confirming of [[Coronary Artery Disease]] via the use of **stress testing** *or* **angiography**
 2. Preventative therapy, to reduce mortality and myocardial infarction in the future
 3. Stent or CABG surgery
+	1. Stent thrombosis prevent with "Dual antiplatelet therapy" ^six45w
+	2. Aspirin + Clopidogrel (can be prasugrel or ticagrelor, all P2Y12r antagonists)
+	3. Done for one year
+	4. After one year, stent metal no longer exposed to blood as scar tissue and endothelial growth
+	5. Most patients only take aspirin from this
 
 ### Initial testing:
 1. Given no symptoms at rest ([[#Symptoms]]) and no ECG changes ([[#Investigations]]), you need to do **stress testing** OR **angiography**
@@ -150,6 +155,7 @@ Stable angina management involves:
 	2. GTN, decrease pre-load
 3. Coronary stent implantation
 	1. Also called PCI
+	2. Worry about [[Coronary Artery Disease#^bhs3lc|Complications of stent]]
 4. CABG surgery
 	1. Bypass surgery
 	2. Bypass occlusion by using another artery/vein to bypass bloc
@@ -177,7 +183,12 @@ Stable angina management involves:
 		4. Slow, steady return of angina
 		5. To fix, most stents coated with with drugs
 			1. Metal stent covered with polymer, which is impregnated with drug to prevent tissue growth
-			2. [[Sirolimus]]
+			2. [[Sirolimus]] ^bhs3lc, an anti-eluting
+	2. Thrombosis:
+		1. Acute closure of stent
+		2. Same as [[#STEMI]], life-threatening event
+		3. Dual anti-platelet therapy for prevention
+		4. Associated with **missed medication doses**
 
 ---
 
