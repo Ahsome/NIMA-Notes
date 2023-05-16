@@ -35,7 +35,7 @@ See [[#^9a1da4|Typical case of UA/NSTEMI]]
 ### NSTEMI
 Ischemic symptoms occuring with increasing frequency or at rest, with *positive* biomarkers
 
->[!Important] Typical Case of UA/NSTEMI:
+>[!Important] Typical Case of [[#Unstable angina]]/[[#NSTEMI]]:
 >- 65yo man chest pain at rest
 >- Biomarkers elevated
 >- Absence of ST-segment elevations
@@ -78,6 +78,26 @@ Anterior MI:
 	1. Usually from large anterior STEMI
 	2. Cause hypotension, tachycardia, pulmonary edema, respiratory distress
 
+>[!Important] Typical Case of [[#STEMI]]:
+>- Arrival in ER with chest pain 5:42pm
+>- ECG done 5:50pm, identifies STEI
+>- Cardiac cath lab ctivated for emergent angioplasty
+>- Meds given in ER
+>	- Aspirin
+>	- Heparin bolus
+>	- Metoprolol
+>	- Nitro drip
+>- If cath lab available:
+>	- Transport to cath lab 6:15pm
+>	- Artery opened with balloon 6:42PM
+>	- DTB time 60 minutes (ideal < 90 min)
+>- Else:
+>	- tPA given based on weight 6:07pm
+>	- IV push
+>	- Door to neededle time 25 min (ideal <120)
+		
+
+
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
 Plaque occluding —75% or more of coronary artery
@@ -91,7 +111,7 @@ Plaque occluding —75% or more of coronary artery
 Diagnosis: symptoms or stress testing
 -  Stress testing key when diagnosis uncertain
 
->[!Important] Typical Case of Stable Angina:
+>[!Important] Typical Case of [[#Stable Angina:]]:
 >- 65yo man chest pain while walking
 >- Relieved with rest
 >- Presents to ED:
@@ -217,6 +237,7 @@ It is a **medical emergency**
 Management involves:
 1. Treating the **thrombotic** and **ischemic** problem. Medical therapy here is *supportive*
 2. Revascularise the tissue
+3. Deal with comp
 
 Medical THerapy:
 1. Thrombotic problem:
@@ -231,7 +252,8 @@ Medical THerapy:
 		2. Given nitratres lower preload, they can cause [[Hypotension]]
 3. Other drugs:
 	1. Clopidogrel: ADP receptor blocker, inhibits platelets
-	2. Eptifibatide IIB/IIIA reeptor blocker, inhibits platele
+	2. Eptifibatide IIB/IIIA reeptor blocker, inhibits platelets
+	3. Bivalirudin: Direct thrombin inhibitor, inhibits clot formation
 
 Revacularisation
 1. Option 1: Emergency angioplasty
