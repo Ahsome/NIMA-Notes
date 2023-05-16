@@ -38,13 +38,10 @@ When they bleed, bleeding comes from the *external (inferior) hemorrhoidal plexu
 - Venous drainage to inferior vena cava
 - Unlikely to bleed
 - Somatic innervation, leading to pruritis. 
-- leading to pain. Severe pain when thrombosed
-- Main problem is pruritis
-
+- Severe pain when thrombosed
 
 
 > [!Important]
-- Important point
 
 --- 
 # History
@@ -56,6 +53,7 @@ When they bleed, bleeding comes from the *external (inferior) hemorrhoidal plexu
 5. Strain to defecation
 
 ### Risk factors:
+1. Low fiber diet
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -65,40 +63,33 @@ When they bleed, bleeding comes from the *external (inferior) hemorrhoidal plexu
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
+|Rectal exam|Hemorrhoids|  |
 
 ---
 
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|Anoscope|Hemorrhoids |Small scope advanced through to anus to identify hemorrhoids|
 
 ---
 
 # Management
 ## Treatment
-
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
+- First line therapy: **Increase fiber intake**
+	- Easier passing of stools, less straining
+	- Improves symptoms
+	- Less bleeding and prolapse
+- Pain: Local analgesics and steroids for pain/swelling
+- Refractory hemorrhoids
+	- Rubber band ligation (only for [[#Internal hemorrhoids]])
+	- ![[Pasted image 20230516235707.png]]
+	- Surgical hemorrhoidectomy (only option for [[#External hemorrhoids]])
 
 ---
 
 # Complications
-1. Complications of disease
+1. Bleeding: Can cause [[Gastrointestinal Bleeding]]
 
 ---
 
