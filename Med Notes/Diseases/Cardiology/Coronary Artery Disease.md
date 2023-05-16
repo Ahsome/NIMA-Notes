@@ -236,10 +236,14 @@ Beta-blocker for prevention of recurrent disease
 As coronary artery is occluded by thrombus, longer occlusion leads to more dead muscle and increased symptoms of [[Heart Failure]]
 It is a **medical emergency**
 
+Steps:
 1. Revacularisation
 	1. Option 1: Emergency angioplasty
 		1. Mechanical opening of artery
-		2. Stent  placement should be done <90 minutes
+		2. Stent  placement should be done <90 minutes\
+	2. Option 2: Thrombolysis
+		1. Alteplase, TPA, clot-bustinf drugg
+		2. Should be done <120 minutes
 
 ## Stable Angina Management:
 Stable angina management involves:
