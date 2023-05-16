@@ -106,7 +106,7 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 	4. If present, then sign it is upper GI bleed
 2. Once confirmed lower GI bleed, severity needs to be considered
 3. If severe, life-threatening bleed: **Surgery** is required to identify source
-	1. If **brisk GI bleeds**, one treatment is **Angiography**
+	1. If **brisk GI bleeds**, one treatment is **Angiography** ^ifgka2
 		1. Dye is injected into mesenteric vessels
 		2. If brisk [[#Lower GI bleeding]], then dye is visible leaking into the mesenter
 		3. ![[Pasted image 20230516232953.png|150]]
@@ -133,7 +133,26 @@ It is **important** to note: There is ***a real role*** for medical management; 
 Medical management:
 1. **IV PPI**
 	1. Given to all upper GI bleeds
-	2. Whe
+	2. When done, stomach acid is reduced, it can allow the mucosa to heal and stop bleeding
+2. **Octreotide**
+	1. Used *only for variceal bleeds*
+	2. Constricts splanchnic arterioles
+	3. Decreases portal flow
+	4. Limit bleed from varices
+3. **Antibiotics**
+	1. Used *only for variceal bleeds* with *[[Cirrhosis]]*
+	2. Given as up to 20% develop infections, often spontaneous bacterial [[Peritonitis]]
+	3. Also shown to ⬇️ bleeding
+
+Main stay management:
+1. **Upper endoscopy**:
+	1. Needed urgently for ongoing bleeds
+	2. Can treat bleeding endoscopically
+	3. In stable patients, may be done non-urgently, similar to [[#Lower GI bleeding management]]
+2. Other tests:
+	1. Angiography. Can be used to identify source similar to [[Gastrointestinal Bleeding#^ifgka2|Lower GI bleeding]]. However, often not needed as upper endoscopy is normally enough to diagnose and treat cause
+	2. apsule endoscopy
+	3. Deep small bowel enteroscopy ("push")
 
 ## Drug overview
 
