@@ -17,7 +17,6 @@ This can be thought of as two main categories:
 	1. [[#Stable Angina:]]
 	2. [[#Variant (Prinzmetal) Angina:]]
 
-
 ## Acute Cornonary Syndrome
 This is due to **plaque rupture**, causing **thrombus formation**
 If it causes a subtotal occlusion/subendocardial ischemia, this causes:
@@ -30,7 +29,10 @@ If there is total occlusion/transmural ischemia, it causes:
 	1. ![[Pasted image 20230516192640.png|150]]
 
 ### Unstable angina
+Ischemic symptoms occuring with increasing frequency or at rest, with *negative* biomarkers
 
+### NSTEMI
+Ischemic symptoms occuring with increasing frequency or at rest, with *positive* biomarkers
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
@@ -79,7 +81,7 @@ Diagnosis primairly on history
 **Comparison**:
 | Symptom       | Stable Angina | Unstable Angina | NSTEMI |STEMI|Prinzmetal Angina|
 | ---------- | ------------- | --------------- | ------ | ----- | ----- |
-| Chest pain |On exertion <br>Relieved by [[GTN]]|    At rest             |        |       |Episodes, at rest <br>*Sometimes improved with rest*|
+| Chest pain |On exertion <br>Relieved by [[GTN]]|Increasing frequency at lowering threshold or at rest|        |  |Episodes, at rest <br>*Sometimes improved with rest*|
 
 ### Risk factors:
 Highest risk. Essentially has the same risk as having known [[Coronary Artery Disease]]:
@@ -103,10 +105,14 @@ Other risk factors:
 ---
 
 ## Examination findings
+Biomarkers that are often used for [[Coronary Artery Disease]]:
+1. Troponin I or T
+	1. 
 **Comparison**
-| Test | Stable Angina | Unstable Angina | NSTEMI | STEMI |
+| Test |[[#Stable Angina]]|[[#Unstable Angina]]|[[#NSTEMI]]|[[#STEMI]]|
 | ---- | ------------- | --------------- | ------ | ----- |
-| ECG  | Normal              |                 |        |       |
+|ECG| Normal              |Ischemic ECG changes possible (ST-depressions, T-wave inversions) <br> <br>**No ST-elevation**|**ST-depression** <br> T-wave inversions<br> Ischemic ECG changes possible|**ST elevation** <br>Ischemic ECG changes possible|
+|Biomarkers|Normal|Normal|Positive biomarkers****|**Positive **biomarkers|
 
 |Key Findings| Result   | Explanation   |
 | ------------ | -------- | ------------- |
