@@ -20,24 +20,25 @@ Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the 
 - Can develop Melena: dark black ("tarry") stools. Main sign of upper GI bleeding
 - Rarely hematochezia (only if brisk upper GI bleed without being changed to melena, normally [[#Lower GI bleeding]])
 
-Common causes include:
-- [[Peptic Ulcer Disease]]
-- [[Erosive gastritis]]
-- [[Erosive esophagitis]]
+Common causes include (Italic is most):
+- *[[Peptic Ulcer Disease]]*
+- *[[Erosive gastritis]]*
+- *[[Erosive esophagitis]]*
 - [[Esophageal varices]] or [[Gastric varices]]
 	- Normally due to [[Cirrhosis]]
 - [[Portal hypertensive gastropathy]]
 	- Normally due to [[Portal Hypertension]] fro [[Chronic Liver Disease]]
+- [[Mallory-Weiss tear]]
 
 ### Lower GI bleeding
 Lower GI bleeding is described as "Bright red blood per rectum", or hematochezia
 
-Common causes include:
-- [[Diverticulosis]]
-- [[Angiodysplasia]]
+Common causes include (Italic is most):
+- *[[Diverticulosis]]*
+- *[[Angiodysplasia]]*
 - Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]], [[Infectious Colitis]]
 - Malignancy, such as [[Colon Cancer]]
-- Anal bleeding (from [[Hemorrhoids]]/[[Anal Fissure]])
+- Anal bleeding (from *[[Hemorrhoids]]/[[Anal Fissure]])*
 	- Painless bleeding with bowel movements: [[Hemorrhoids#Internal hemorrhoids]]
 
 > [!Important]

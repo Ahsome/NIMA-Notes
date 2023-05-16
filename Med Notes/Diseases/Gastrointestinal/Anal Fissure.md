@@ -10,12 +10,17 @@ Anal Fissure is a tear in the lining of the anal canal
 It occurs distal to dentate line, and a **common cause** of anal pain and bleeding
 It is often caused by **straining**
 
+![[Pasted image 20230516235954.png]]
+
 > [!Important]+ Summary
 
 
 --- 
 # History
 ### Symptoms
+1. Tear in lining of anal canal
+2. Anal pain
+3. Bleeding
 
 ### Risk factors:
 
@@ -27,14 +32,19 @@ It is often caused by **straining**
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-|Rectal Exam|Tear in anal canal| Explanation 1 |
+|Rectal Exam|Tear in anal canal|  |
 
 ---
 
 
 # Management
 ## Treatment
-1. High
+1. First line therapy: **Increase fiber intake**
+	- Easier passing of stools, less straining
+	- Improves symptoms
+	- Less bleeding
+- Pain: Local analgesics and steroids for pain/swelling
+- Topical [[Nifedipine]] or [[GTN]], relaxes anal sphincter to reduce strain
 
 ## Drug overview
 
