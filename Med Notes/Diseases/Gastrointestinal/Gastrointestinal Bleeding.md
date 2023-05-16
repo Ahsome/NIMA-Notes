@@ -65,12 +65,13 @@ Common causes include:
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
+|Key Tests|Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|FBC|Result 1| Explanation 1                                                                                                                                                        |
+|Nasogastric lavage|Coffee-ground or bright red blood|Indicates hematochezia is actually [[#Upper GI bleeding]]|
+|FBC|Hgb, Hc|  |
 |Platelets|  |  |
 |PT/PTT/INR|  |  |
-|  |  |  |
+|Type and screen |  |Needed for transfusion, if necessary|
 
 |Additional Tests|  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -92,6 +93,16 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 		1. Lower because due to portal hypertension, transfusion can further increase pressure
 4. Platelet transfusion if platelets < 50k
 5. FFP or prothrombin complex for coagulopathy
+
+## Lower GI bleeding
+1. While hematochezia normally [[#Lower GI bleeding]], there is a 10-15% risk of [[#Upper GI bleeding]]. As such, Nasogastric lavage is done
+	1. Insert nasogastric tube
+	2. Flush with fluid
+	3. Pull fluid out, look for coffee-ground material, or bright red blood
+	4. If present, then sign it is upper GI bleed
+2. Once confirmed lower GI bleed, severity needs to be considered
+3. If severe, life-threatening bleed: **Surgery** is required to identify source
+4. If stabalised with fluids
 
 ## Drug overview
 
