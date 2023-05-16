@@ -151,7 +151,7 @@ Main stay management:
 	3. In stable patients, may be done non-urgently, similar to [[#Lower GI bleeding management]]
 2. Other tests:
 	1. Angiography. Can be used to identify source similar to [[Gastrointestinal Bleeding#^ifgka2|Lower GI bleeding]]. However, often not needed as upper endoscopy is normally enough to diagnose and treat cause
-	2. apsule endoscopy
+	2. Capsule endoscopy
 	3. Deep small bowel enteroscopy ("push")
 
 ## Drug overview

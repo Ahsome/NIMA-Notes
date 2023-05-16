@@ -1,4 +1,4 @@
-*Created on <% tp.date.now(format = "Do MMM YYYY") %>*
+*Created on 16th May 2023*
 
 ---
 ```toc
@@ -6,18 +6,33 @@
 ---
 
 # Information
-<%* 
-let title = tp.file.title 
-if (title.startsWith("Untitled")) { 
-title = await tp.system.prompt("Title"); 
-} await tp.file.rename(title) -%><% title %> is a... 
+Hemorrhoids are *dilated submucosal veins of anus*. They can cause:
+1. Bleeding
+2. Pain
+3. Pruritis
+4. Hard stools
+5. Strain to defecation
 
-> [!Important]+ Summary
+There are two main categories:
+1. [[#Internal hemorrhoids]]
+2. [[#External hemorrhoids]]
+
+### Internal hemorrhoids
+
+### External hemorrhoids
+
+
+> [!Important]
 - Important point
 
 --- 
 # History
 ### Symptoms
+1. Bleeding
+2. Pain
+3. Pruritis
+4. Hard stools
+5. Strain to defecation
 
 ### Risk factors:
 
