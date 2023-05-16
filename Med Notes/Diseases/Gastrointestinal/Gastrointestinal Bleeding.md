@@ -11,7 +11,7 @@ Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two ma
 2. [[#Lower GI bleeding]]
 
 ### Upper GI bleeding
-Upper GI bleeding, also called Bleeding that is proximal to the ligament of Treitz
+Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the ligament of Treitz
 
 ### Lower GI bleeding
 
