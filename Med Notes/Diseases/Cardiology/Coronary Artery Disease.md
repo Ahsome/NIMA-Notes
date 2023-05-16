@@ -6,7 +6,7 @@
 ---
 
 # Information
-Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asymptomatic until 75% of the artery lumen is occluded. 
+Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asymptomatic until 75% of the artery lumen is occluded. The main sympto
 
 > [!Important]
 - Important point
@@ -14,7 +14,7 @@ Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asy
 --- 
 # History
 ### Symptoms
-1. Chest pain
+1. Chest pain (angina)
 ### Risk factors:
 
 ### Questions to ask
