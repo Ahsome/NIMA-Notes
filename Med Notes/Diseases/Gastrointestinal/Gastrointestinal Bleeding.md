@@ -6,7 +6,7 @@
 ---
 
 # Information
-Gastrointestinal Bleeding is bleeding that occurs 
+Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two main 
 
 > [!Important]
 - Important point
