@@ -13,13 +13,21 @@ Hemorrhoids are *dilated submucosal veins of anus*. They can cause:
 4. Hard stools
 5. Strain to defecation
 
-There are two main categories:
-1. [[#Internal hemorrhoids]]
-2. [[#External hemorrhoids]]
+There are two main categories, based on the **pectinate (dentate) line**. This is due to tissue above and below the line have *different embryological origins*:
+1. [[#Internal hemorrhoids]]: Above dentate line. Sometimes, these can prolapse below the dentate line
+3. [[#External hemorrhoids]]: Below dentate line
 
 ### Internal hemorrhoids
+Internal hemorrhoids are hemorrhoids that start **above** the dentate line. They *can* prolapse to below the dentate line
+When they bleed, bleeding comes from the *internal (superior) hemorrhoidal plexus*:
+- Plexus of veins supplied by branches of IMA
+- Venous drainage to superior rectal vein --> Portal system
+- May swell in portal hypertension
+
+It lacks visceral innervation. As such, it has **painless bleeding with bowel movements**
 
 ### External hemorrhoids
+Internal hemorrhoids are hemorrhoids that start **below** the dentate line.
 
 
 > [!Important]
