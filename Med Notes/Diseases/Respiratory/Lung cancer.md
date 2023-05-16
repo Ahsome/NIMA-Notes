@@ -43,9 +43,9 @@ Small cell lung cancer can result in production of:
 	1. [[SIADH]]
 	2. Hyponatremia
 3. Antibodies
-	1. Creayes antibodies against pre-synaptic Ca2+ channels in neurons
+	1. Creates antibodies against pre-synaptic Ca2+ channels in neurons
 	2. Blocks Ach
-	3. Lambert-Eaton syndrom
+	3. Lambert-Eaton syndrome
 
 ---
 
@@ -78,7 +78,7 @@ Most rare [[#Non-small cell lung cancer]]. It is poorly differentiated, and lack
 ### Pancoast tumor
 Pancoast tumor is a tumor at the **apex of the lung**. it involves the *superior sulcus*, the groove formed b subclavian vessels
 Symptoms include:
-1. Arm adema on affected side
+1. Arm oedema on affected side
 2. Shoulder pain
 3. Arm paresthesia
 4. Weakness
@@ -102,7 +102,7 @@ Symptoms include:
 1. Cough
 2. Dyspnea
 	1. Can be due to [[#^2032c7|Phrenic nerve compression]]
-3. Hemoptosys
+3. Hemoptysis
 4. Weight loss
 5. [[Pneumonia#*Recurrent pneumonia*:]]:
 	1. Specifically, if under CXR it shows the pneumonia consistently affects the same region

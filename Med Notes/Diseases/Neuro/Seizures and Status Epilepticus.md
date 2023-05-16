@@ -75,13 +75,13 @@ Epilepsy - multiple unprovoked seizures
 | Key Tests         | Result                   | Explanation   |
 | ----------------- | ------------------------ | ------------- |
 | Blood             | Calcium, sodium, glucose | Electrolyte distrubances can cause seizures |
-|                   | CBC                      |               |
-|                   | Renal function           |               |
-|                   | LFTs                     |               |
-| Toxicology screen |                          | Drug or alcohol use              |
+|^^| CBC                      |               |
+|^^| Renal function           |               |
+|^^| LFTs                     |               |
+| Toxicology screen |  | Drug or alcohol use              |
 | ECG               |                          | Cardiac syncopes can look a lot like a seizure              |
-| CT or MRI brain   |                          |  Brain tumours / haemorrhage              |
-| Lumbar puncture  |                          |   Encephalitis / meningitis            |
+| CT or MRI brain   |  |  Brain tumours / haemorrhage              |
+| Lumbar puncture  |                          |[[Encephalitis]]/ [[Meningitis]]|
 | EEG                  |                          | Last investigation after all others come back negative              |
 
 
@@ -101,6 +101,9 @@ Epilepsy - multiple unprovoked seizures
 		- Many are teratogenic (esp. Valproic acid and carbamezapine)
 		- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
+>[!Danger]+ In Pregnancy
+*In pregnancy*: **Avoid valproate and carbamezapine** as they cause *neural tube defects*
+
 ### Common drugs:
 ![[Pasted image 20230516055552.png]]
 ==*Levetiracetam = Keppra*==
@@ -115,7 +118,7 @@ Epilepsy - multiple unprovoked seizures
 
 
 # Status Epilepticus
-Status Epilepticus is a life-threatening emergency
+[[Seizures and Status Epilepticus#^sljj9r|Status epilepticus]] is a life-threatening emergency
 
 LIFE-THREATENING: Lactic acidosis, arrhythmias, HTN
 Cortical laminar necrosis --> permanent neurological disease
@@ -145,7 +148,8 @@ Usually occurs with generalised tonic-clonic activity
 ---
 
 # Complications
-1. Status epilepticus is a life-threatening disease as it resuts in lactic acidosis, arrhythmias, HTN
+1. Status epilepticus is a life-threatening disease as it resuts in lactic acidosis, arrhythmias, HTN ^sljj9r
+	1. Cortical laminar necrosis --> permanent neurological disease
 
 ---
 
