@@ -11,9 +11,14 @@ Gastrointestinal Bleeding is bleeding that occurs in the GI tract. It has two ma
 2. [[#Lower GI bleeding]]
 
 ### Upper GI bleeding
-Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the ligament of Treitz
+Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the Ligament of Treitz
+- Often descried as coffee-ground emesis
+- Due to blod exposed to stomach acid
+- Can develop Melena: dark black ("tarry") stools. Main sign of upper GI bleeding
+- Rarely hematochezia (only if brisk upper GI bleed without being changed to melena, normally [[#Lower GI bleeding]])
 
 ### Lower GI bleeding
+Lower GI bleeding is described as "Bright red blood per rectum", or hematochezia
 
 > [!Important]
 - Important point
