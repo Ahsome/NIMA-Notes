@@ -8,7 +8,10 @@
 # Information
 Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asymptomatic until 75% of the artery lumen is occluded. The main symptom is **chest pain**, called *angina*. It exists on a spectrum:
 ![[Pasted image 20230516183317.png]]
-## Stable Angina:
+## Acute Cornonary Syndromes
+
+## Non-Acute Coronary Syndromes
+### Stable Angina:
 Plaque occluding —75% or more of coronary artery
 -  Causes "typical" chest pain
 -  Pressure-like chest pain
@@ -32,7 +35,7 @@ Diagnosis: symptoms or stress testing
 >- Stent placed, angina resolved
 >- Placed on aspirin and statin, lifetime
 
-## Variant (Prinzmetal) Angina:
+### Variant (Prinzmetal) Angina:
 Due to episodic *vasoconstriction* of coronayr vessels **at rest**
 Happens midnight to **early morning**, and *can improve* with exertion
 1. If they wake up in the morning with chest pain, it is a classic sign of [[#Variant (Prinzmetal) Angina:]]
@@ -174,10 +177,10 @@ Stable angina management involves:
 Overall management involves:
 1. Quit smoking, biggest risk factors
 2. Possibly **Calcium channel blockers, nitrates**
-	1. Dihydropyridine, such as amlodipine
-	2. Vasodilators
+	1. Dihydropyridine CCB, such as amlodipine
+	2. Vasodilators properties
 	3. Dilate coronary arteries, oppose spasm
-3. Avoid propranalol
+3. Normaly no beta blockers, *especially* [[Propranolol]]
 	1. Nonselective beta blocker
 	2. Can cause unopposed alpha stimulation
 	3. Symptoms may worsen
