@@ -94,7 +94,11 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 4. Platelet transfusion if platelets < 50k
 5. FFP or prothrombin complex for coagulopathy
 
-## Lower GI bleeding
+## Lower GI bleeding management
+**Important**: With [[#Lower GI bleeding]], there is ***no real role*** for medical management; there are no drugs administered to try stop the bleeding or limit the bleeding
+- Contrast with [[#Upper GI bleeding]], where there are options. See [[#Upper GI bleeding management]]
+
+**Management** involves:
 1. While hematochezia normally [[#Lower GI bleeding]], there is a 10-15% risk of [[#Upper GI bleeding]]. As such, Nasogastric lavage is done
 	1. Insert nasogastric tube
 	2. Flush with fluid
@@ -104,18 +108,32 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 3. If severe, life-threatening bleed: **Surgery** is required to identify source
 	1. If **brisk GI bleeds**, one treatment is **Angiography**
 		1. Dye is injected into mesenteric vessels
-		2. If brisk [[#Lower GI bleeding]], then dye is visible leaking into the mesentery
-		3. Only useful if blood loss is 0.5 to 1.0mL/minute
-		4. No bowel prep needed
-		5. Allows intervention to stop bleeding
+		2. If brisk [[#Lower GI bleeding]], then dye is visible leaking into the mesenter
+		3. ![[Pasted image 20230516232953.png|150]]
+		4. Only useful if blood loss is 0.5 to 1.0mL/minute
+		5. No bowel prep needed
+		6. Allows intervention to stop bleeding
 			1. Once vessel is identified, you can add intra-arterial vasopression or embolisation to close bleeding
 4. If stabalised with fluids, refer to **colonoscopy**
 	1. Can identify bleeds in the colon, like [[Angiodysplasia]] or [[Colon Cancer]]
 	2. Can treat bleeding endoscopically
 	3. **Best done** after *bowel prep*, so mostly done in stable patients
-	4. If colonoscopy is not available:
-		1. 
+	4. If colonoscopy is negative but blood is lost:
+		1. Radionuclide imaging
+			1. Most sensitive test for ongoing bleeding
+			2. 99mTc (Technicium) pertechnetate-labeled red cells
+			3. Detects bleeds 0.1 to 0.5mL/min in dark area
+			4. ![[Pasted image 20230516233042.png|150]]
+		2. CT angiography
+			1. Detects bleeds 0.3 to 05 mL/min
 
+## Upper GI bleeding management
+It is **important** to note: There is ***a real role*** for medical management; unlike [[#Lower GI bleeding]]
+
+Medical management:
+1. **IV PPI**
+	1. Given to all upper GI bleeds
+	2. Whe
 
 ## Drug overview
 
