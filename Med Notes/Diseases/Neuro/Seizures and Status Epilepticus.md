@@ -101,7 +101,8 @@ Epilepsy - multiple unprovoked seizures
 		- Many are teratogenic (esp. Valproic acid and carbamezapine)
 		- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
-
+>[!Danger]+ In Pregnancy
+*In pregnancy*: **Avoid anticonvulants, especially valproate** as they cause *neural tube defects
 
 ### Common drugs:
 ![[Pasted image 20230516055552.png]]
