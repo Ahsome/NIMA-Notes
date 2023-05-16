@@ -89,6 +89,12 @@ Other risk factors:
 ## Treatment
 
 ## Stable Angina Management:
+Stable angina management involves:
+1. Confirming of [[Coronary Artery Disease]] via the use of **stress testing** *or* **angiography**
+2. Preventative therapy, to reduce mortality and myocardial infarction in the future
+3. Stent or CABG surgery
+
+### Initial testing:
 1. Given no symptoms at rest ([[#Symptoms]]) and no ECG changes ([[#Investigations]]), you need to do **stress testing** OR **angiography**
 	1. Stress testing:
 		2. Use when diagnosis is uncertain
@@ -121,6 +127,18 @@ Other risk factors:
 			1. Invansive technique, catheter is inserted and dye is injected
 			2. ![[Pasted image 20230516185234.png]]
 			3. You can see the narrowing in the center of the LAD
+
+### Management
+1. Preventative therapy (reduce risk of mortality and MI)
+	1. Aspirin
+	2. Statin
+	3. Do not help with symptoms, only mortality
+2. Anti-anginal therapy (lowers O2 demand)
+	1. Beta blocker or Ca2+ channel blocker, decrease HR and contractility
+	2. GTN, decrease pre-load
+3. Coronary stent implantation
+	1. 
+4. CABG surgery
 
 ## Drug overview
 
