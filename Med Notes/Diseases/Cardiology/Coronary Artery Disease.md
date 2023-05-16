@@ -237,9 +237,9 @@ It is a **medical emergency**
 Management involves:
 1. Treating the **thrombotic** and **ischemic** problem. Medical therapy here is *supportive*
 2. Revascularise the tissue
-3. Deal with comp
+3. Deal with complications of Ischemia
 
-Medical THerapy:
+### Medical THerapy:
 1. Thrombotic problem:
 	1. Aspirin to inhibit platelet aggregation
 	2. Heparin to inhibit clot formation
@@ -255,13 +255,38 @@ Medical THerapy:
 	2. Eptifibatide IIB/IIIA reeptor blocker, inhibits platelets
 	3. Bivalirudin: Direct thrombin inhibitor, inhibits clot formation
 
-Revacularisation
+### Revacularisation
 1. Option 1: Emergency angioplasty
 	1. Mechanical opening of artery
 	2. Stent  placement should be done <90 minutes\
 2. Option 2: Thrombolysis
 	1. Alteplase, TPA, clot-bustinf drugg
 	2. Should be done <120 minutes
+
+### Complications of Ischemia:
+Summary:
+| Time        | Issues                   |
+| ----------- | ------------------------ |
+|4 days|Arrhythmia|
+|5-10 days| Free wall rupture        |
+|^^ | [[Cardiac Tamponade]]    |
+|^^| Papillary muscle rupture |
+|^^| [[VSD]] (Septul rupture) |
+|Weeks later| [[Dressler's Syndrome]]  |
+|^^| [[Aneurysm]]             |
+|^^| LV Thrombus/CVA          |
+
+**0-4 days:**
+- Biggest issue is due to sudden cardiac death from [[Ventricular Tachycardia]], leads to [[Ventricular Fibrillation]] and cardiac arrest
+**5-10 days**:
+- Necrosis of the wall occurs
+- Free wall rupture:
+	- Usually fatal, sudden death.
+	- Can lead to [[Cardiac Tamponade]]
+- Papillary muscle rupture: ^xomu07
+	- Acute [[mitral regurgitation]] ((holosystolic murmur))
+	- [[Heart Failure]], Respiratory Distress
+	- More common in inferior MIs
 
 ---
 
