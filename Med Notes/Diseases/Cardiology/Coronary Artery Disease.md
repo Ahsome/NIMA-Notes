@@ -9,15 +9,16 @@
 Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asymptomatic until 75% of the artery lumen is occluded. The main symptom is **chest pain**, called *angina*. It exists on a spectrum:
 ![[Pasted image 20230516183317.png]]
 ## Stable Angina:
-Plaque occluding —750/0 or more of coronary artery
-• Causes "typical" chest pain
-• Pressure-like chest pain
-• Occur with exertion
-• Relived by rest or nitroglycerine
-• EKG at rest: normal
-• Symptoms at rest: absent
+Plaque occluding —75% or more of coronary artery
+-  Causes "typical" chest pain
+-  Pressure-like chest pain
+-  Occur with exertion
+-  Relived by rest or nitroglycerine
+-  EKG at rest: normal
+-  Symptoms at rest: absent
+
 Diagnosis: symptoms or stress testing
-• Stress testing key when diagnosis uncertain
+-  Stress testing key when diagnosis uncertain
 
 > [!Important]
 - Important point
@@ -30,6 +31,12 @@ Diagnosis: symptoms or stress testing
 2. Dyspnea
 3. Palpitations
 4. Sweating
+
+**Comparison**:
+| Symptom       | Stable Angina | Unstable Angina | NSTEMI | STEMI |
+| ---------- | ------------- | --------------- | ------ | ----- |
+| Chest pain |On exertion <br>Relieved by [[GTN]]|    At rest             |        |       |
+
 ### Risk factors:
 Highest risk. Essentially has the same risk as having known [[Coronary Artery Disease]]:
 1. [[Diabetes Mellitus]]
@@ -52,9 +59,14 @@ Other risk factors:
 ---
 
 ## Examination findings
-| Key Findings | Result   | Explanation   |
+**Comparison**
+| Test | Stable Angina | Unstable Angina | NSTEMI | STEMI |
+| ---- | ------------- | --------------- | ------ | ----- |
+| ECG  | Normal              |                 |        |       |
+
+|Key Findings| Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+|Finding 1| Result 1 | Explanation 1 |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -75,6 +87,10 @@ Other risk factors:
 
 # Management
 ## Treatment
+
+## Stable Angina Management:
+1. Given no symptoms at rest ([[#Symptoms]]) and no ECG changes ([[#Investigations]]), you need to do stress testing
+	1. Use when diagnosis is uncertain
 
 ## Drug overview
 
