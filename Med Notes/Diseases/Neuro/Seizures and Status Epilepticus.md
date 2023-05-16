@@ -102,7 +102,7 @@ Epilepsy - multiple unprovoked seizures
 		- High-dose folic acid supplementation is recommended for pregnant mothers who take seizure drugs (4mg/day)
 
 >[!Danger]+ In Pregnancy
-*In pregnancy*: **Avoid valproate abd c** as they cause *neural tube defects
+*In pregnancy*: **Avoid valproate abd carvanezaoube** as they cause *neural tube defects
 
 ### Common drugs:
 ![[Pasted image 20230516055552.png]]
