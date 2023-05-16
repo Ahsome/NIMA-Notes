@@ -6,12 +6,10 @@
 ---
 
 # Information
-Diabetic Complications can be divided into macrovascular and microvascular complications
+Diabetic Complications can be divided into macrovascular and microvascular complications. These complications increase the risk of mortality and morbidity in diabetic patients and worsen their QoL.
 
 
 # Macrovascular
-# Atherosclerosis
-
 
 |                 | Macrovascular                                             |
 | --------------- | --------------------------------------------------------- |
@@ -23,6 +21,7 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 | ^^              | Routine ECG                                               |
 
 
+# Microvascular
 
 | Microvascular                                                                                     | Investigations                                                                          |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -32,44 +31,29 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 | ^^                                                                                                | HTN goal < 130/80mmHg                                                                   |
 | Peripheral neuropathy - "glove and stocing" sensory loss which is progression distal --> proximal | Large myelinated fibres: numbness, reduced reflex, reduced vibration and proprioception |
 | ^^                                                                                                | Small myelinated fibres: pain, electric shocks, loss of hot/cold discrimination         |
-| ^^                                                                                                | Diabetic foot ulcers                                                                                        |
+| ^^                                                                                                | Diabetic foot ulcers                                                                    |
+| Autonomic neuropathy                                                                              | Blladder dysfunction, ED, gastroparesis, orthostatic hypotension, silent ischaemia      |
+| Diabetic retinopathy                                                                              | Cataracts (sorbitol in lens), glaucoma, diabetic macular oedema                         |
+| ^^                                                                                                | Non-proliferative = exudates and cotton-wool spots (nerve infarctions)                  |
+| ^^                                                                                                | Proliferative = neovascularisation (treated with laser or anti-VEGF)                    |
 |                                                                                                   |                                                                                         |
 
 --- 
-# History
-### Symptoms
-Foot ulcers: 
+
+# Diabetic foot ulcers: 
 - Loss of sensation --> tissue damage
 - Vascular disease --> inpaired healing
 - May be painless
-- Annual foot ex am and sensory testing - monofillament (pressure), vibration, pinprick, ankle refleces
+- Annual foot exam and sensory testing 
+	- Monofillament (pressure)
+	- Vibration
+	- Pinprick
+	- Ankle refleces
+- Tx: 
+	- SNRIs: duloxetine
+	- TCAs: amitripyline
+	- AEDs: pregabalin or gabapentin
 
-### Risk factors:
-
-### Questions to ask
->*"Do you notice any ???"*
-
----
-
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
