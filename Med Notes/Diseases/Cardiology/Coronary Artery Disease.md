@@ -20,6 +20,18 @@ Plaque occluding —75% or more of coronary artery
 Diagnosis: symptoms or stress testing
 -  Stress testing key when diagnosis uncertain
 
+>[!Important] Typical Case of Stable Angina:
+>- 65yo man chest pain while walking
+>- Relieved with rest
+>- Presents to ED:
+>	- ECG normal
+>	- Biomarkers normal
+>- Stress:
+>	- Walks on treadmill --> chest pain, EKG changes
+>- Cardiac catherisation performed, 90% LAD artery lockage
+>- Stent placed, angina resolved
+>- Placed on aspirin and statin, lifetime
+
 > [!Important]
 - Important point
 
@@ -137,8 +149,13 @@ Stable angina management involves:
 	1. Beta blocker or Ca2+ channel blocker, decrease HR and contractility
 	2. GTN, decrease pre-load
 3. Coronary stent implantation
-	1. 
+	1. Also called PCI
 4. CABG surgery
+	1. Bypass surgery
+	2. Bypass occlusion by using another artery/vein to bypass bloc
+		1. Left Internal Mamary Artery
+		2. Saphenous Vein
+		3. Radial (arm) artery graft
 
 ## Drug overview
 
@@ -152,6 +169,15 @@ Stable angina management involves:
 
 # Complications
 1. Complications of disease
+2. Complication of **stent**:
+	1. Restenosis:
+		1. Slow, steady growth of scar tissue over stent. Called 'Neoo-intimal hyperplasia'
+		2. Re-occlusion of vessel
+		3. Rarely life, threating
+		4. Slow, steady return of angina
+		5. To fix, most stents coated with with drugs
+			1. Metal stent covered with polymer, which is impregnated with drug to prevent tissue growth
+			2. [[Sirolimus]]
 
 ---
 
