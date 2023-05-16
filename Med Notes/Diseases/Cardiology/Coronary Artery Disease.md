@@ -49,7 +49,12 @@ Ischemic symptoms occuring with increasing frequency or at rest, with *positive*
 
 ^9a1da4
 
-# STEMI
+### STEMI
+ST-ELevation myocardial Infarction
+Angina at rest, with **ST-segment elevation**:
+![[Pasted image 20230516195235.png]]
+
+
 
 ## Non-Acute Coronary Syndromes
 ### Stable Angina:
@@ -181,6 +186,14 @@ This is a **thrombotic** and **ischemic** syndrome, like [[#STEMI]]: *However, t
 	1. Perform angiograph first to identify any blockage, then angioplasty
 
 ### Long term therapy:
+No symptoms due to angioplasty. As such, the goal is to **reduce mortality and recurrent infarction**
+1. Aspirin
+2. Statin
+
+Beta-blocker for prevention of recurrent disease
+1. Strong indication in STEMI. **Always given**
+2. Weak indication in NSTEMI/UA
+3. Used for prevention in NSTEMI
 
 ## Stable Angina Management:
 Stable angina management involves:
@@ -256,8 +269,6 @@ Overall management involves:
 	1. Nonselective beta blocker
 	2. Can cause unopposed alpha stimulation
 	3. Symptoms may worsen
-
-## Drug overview
 
 ## Criteria
 ### Example severity/test score:

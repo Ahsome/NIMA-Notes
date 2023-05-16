@@ -6,14 +6,14 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] Upper GI bleeding
 - [ ] GORD
 - [ ] Ulcers
-- [ ] Bronchiectasis
-- [ ] Upper GI bleeding
-- [ ] Urinary Incontinence
+- [ ] [[Breast Cancer]]
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
-- [ ] [[Breast Cancer]]
+- [ ] Urinary Incontinence
+- [ ] Bronchiectasis
 
 
 ## In Progress
