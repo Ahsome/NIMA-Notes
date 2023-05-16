@@ -14,7 +14,7 @@ Coronary Artery Disease is a **narrowing** due to [[atherosclerosis]]. It is asy
 --- 
 # History
 ### Symptoms
-
+1. Chest pi
 ### Risk factors:
 
 ### Questions to ask
