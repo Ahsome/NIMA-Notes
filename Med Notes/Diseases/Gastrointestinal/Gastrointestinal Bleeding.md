@@ -53,6 +53,7 @@ If suspected [[Hemorrhoids]]:
 1. If painless bleeding with bowel movemenets: [[Hemorrhoids#Internal hemorrhoids]]]
 
 ### Risk factors:
+Lower 
 
 ### Questions to ask
 >*"Do you notice any ???"*
