@@ -56,7 +56,7 @@ Angina at rest, with **ST-segment elevation**:
 
 **Depending on location of MI, complication:**
 Inferior MI:
-1. Right ventricular infarction
+1. Right ventricular infarction ^hp8n7h
 	1. This means not only infarction of inferior left wall, also causes right wall infarction
 	2. Occurs in inferior STEMI (II, III, aVF)
 	3. Loss of right ventricular contractility
@@ -68,9 +68,10 @@ Inferior MI:
 		1. Increase preload
 	7. **Diagnose wit right-sided chest leads**
 		1. Put leads on right side, see if infarct occurs
-2. Sinus bradycardia and heart block
+2. Sinus bradycardia and heart block ^vacvav
 	1. Causes dysfunction in SA node and AV node
 	2. Due to supply from RCA
+	3. Avoid beta-blockers
 
 Anterior MI:
 1. [[Cardiogenic shock]]
@@ -213,22 +214,32 @@ For **STEMI:**
 As coronary artery is occluded by thrombus, longer occlusion leads to more dead muscle and increased symptoms of [[Heart Failure]]
 It is a **medical emergency**
 
-It is:
+Management involves:
+1. Treating the **thrombotic** and **ischemic** problem. Medical therapy here is *supportive*
+2. Revascularise the tissue
+
+Medical THerapy:
 1. Thrombotic problem:
 	1. Aspirin to inhibit platelet aggregation
-	2. Heparing to inhibit clot formation
+	2. Heparin to inhibit clot formation
 2. Ischemic problem:
 	1. Beta-blockers to reduce O2 demand
+		1. Note: Inferior MI can cause [[Coronary Artery Disease#^vacvav|Bradycardia and AV block]].
+		2. Beta-blockers can exacerbate that
 	2. Nitrates to reduce O2 demand
+		1. Note: Inferior MI can cause [[Coronary Artery Disease#^hp8n7h|RCA occlusion]]. This can lead to RV infarct, lowering pre-load
+		2. Given nitratres lower preload, they can cause [[Hypotension]]
+3. Other drugs:
+	1. Clopidogrel: ADP receptor blocker, inhibits platelets
+	2. Eptifibatide IIB/IIIA reeptor blocker, inhibits platele
 
-Steps:
-1. Revacularisation
-	1. Option 1: Emergency angioplasty
-		1. Mechanical opening of artery
-		2. Stent  placement should be done <90 minutes\
-	2. Option 2: Thrombolysis
-		1. Alteplase, TPA, clot-bustinf drugg
-		2. Should be done <120 minutes
+Revacularisation
+1. Option 1: Emergency angioplasty
+	1. Mechanical opening of artery
+	2. Stent  placement should be done <90 minutes\
+2. Option 2: Thrombolysis
+	1. Alteplase, TPA, clot-bustinf drugg
+	2. Should be done <120 minutes
 
 ---
 
