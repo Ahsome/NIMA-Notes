@@ -10,7 +10,17 @@ Esophageal Cancer is **cancer** of the esopagus. It has two main forms:
 1. [[#Adenocarcinoma]]
 2. [[#Squamous cell carcinoma]]
 
-[[#Adenocarcinoma]] hasa pre-malignant lesion, caled [[#Barrett's Esophagus]]
+[[#Adenocarcinoma]] has a pre-malignant lesion, caled [[#Barrett's Esophagus]]
+
+Lymph node metastasis depends on location of cancer:
+- Upper esophagus (neck)
+	- Cervical nodes
+- Middle esophagus (chest)
+	- Mediastinal nodes
+	- Tracheobronchial nodes
+- Lower (abdomen):
+	- Celiac nodes
+	- Gastric nodes
 
 ### Adenocarcinoma
 Adenocarcinoma requires metaplasia from [[Gastro-oesophagus Reflux Disease (GORD)]]
@@ -43,7 +53,6 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 |Adenocarcinoma | Squamous cell carcinoma |
 | -------------- | ----------------------- |
 |Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]] |Smoking <br>Alcohol <br> <br> Dietary factors:<br>- Foods with N-nitroso compounds, such as cured meats and some cheeses <br>-Hot beverages <br> <br> Esophageal disease: <br>- Prevents outflow of food, causing irration <br>- [[Achalasia]] <br>- [[Gastro-oesophagus Reflux Disease (GORD)#^umqfec\|Strictures]]|
-
 
 
 ### Questions to ask
