@@ -16,7 +16,8 @@
 - [x] Diabetic foot infections
 
 #### Know principles
-- [ ] Joint and bone infections
+- [x] Septic arthritis
+- [ ] Osteomyelitis
 - [x] Gastroenteritis
 - [ ] Health-care associated infections
 - [x] Sexually transmitted infections

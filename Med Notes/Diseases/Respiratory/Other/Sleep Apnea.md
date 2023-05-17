@@ -16,11 +16,11 @@ Two main types:
 1. Patients with marginal ventilation when awake
 	1. Hypoventilate when awake, ceases when sleep
 	2. Causes:
-		1. CNS disease (encephalitis)
-		2. Neuromuscular disease (polio, ALS)
+		1. CNS disease ([[Encephalitis]])
+		2. Neuromuscular disease ([[Lower Motoneuron Disease|polio]], [[Lower Motoneuron Disease]])
 		3. Severe kyphoscoliosis
 		4. Narcotics
-2. Cheyne-Stoes breathing
+2. Cheyne-Stokes breathing
 	1. Common in [[Heart Failure]] and [[Stroke]]
 	2. Due to delayed detecting/responce to changes in PaCO2
 	3. ![[Pasted image 20230514001916.png|600]]
