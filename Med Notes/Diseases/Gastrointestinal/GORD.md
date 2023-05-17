@@ -17,7 +17,10 @@ This leads to:
 - Vomiting
 - Crying
 
-It can often lead to **refractory GORD**. This has these causes:
+It can often lead to **refractory GORD**.
+
+### Refratory GORD:
+Refractory GORD presents with symptoms after treatment. Causes include:
 - Poor compiance with medical therapy after treatment
 - **Functional heartburn** ^r8xz7z
 	- When patient has symptoms, but has normal esophageal pH/manometry testing
@@ -28,6 +31,14 @@ It can often lead to **refractory GORD**. This has these causes:
 	- Indicates acid suppression has been achieved
 	- Treated with **baclofen** (muscle relaxant)
 	- Reduces transient lower esophageal sphincter relaxation
+- **Delayed gastric emptying
+	- Diagnosed by gastric emptying studies
+	- Patient consumes Technicium (99m)Tc egg or egg substitute
+	- Treatment: metoclopramide
+- **Residual acid reflux**:
+	- Rare in patients on twice daily PPI
+	- Can add nighttime H2 blocker
+	- Surgery or endoscopy treatment often indicated
 
 > [!Important]+ Summary
 - Important point
@@ -96,10 +107,11 @@ __3. Obesity__
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Endoscopy|  |  |
 
-| Additional Tests               |  Result   |Explanation|
+|Additional Tests|  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
-|^^|Impedance: Increased with height of regurgitation|^^|
+|Gastric emptying studies|  |Test for delayed gastric emptying|
+|Esophageal catheter |pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|^^ |Impedance: Increased with height of regurgitation|^^|
 
 ---
 
@@ -122,7 +134,11 @@ Management depends on severity, **and** if refractory:
 		2. Reduces transient lower esophageal sphincter relaxations
 	2. [[GORD#^r8xz7z|Functional reflux]]:
 		1. Treat with antipsychiatric medications for anxiety and depression
+	3. Delayed gastric emptying:
+		1. Metoclopramide
+	4. 
 
+**Treatment options:**
 6. Non-pharmacological treatments: **First line treatment**
 	1. Weight loss
 	2. Smoking cessation
@@ -133,7 +149,9 @@ Management depends on severity, **and** if refractory:
 		4. Spicy foods
 		5. Carbonated beverages
 		6. Peppermint
-7. Pharmacological treatments:
+	4. 
+
+1. Pharmacological treatments:
 	1. Antacid+Alginate
 	2. Magnesium Hydroxide
 	3. Histamine (H2) blockers
@@ -144,9 +162,12 @@ Management depends on severity, **and** if refractory:
 		2. Inhibit H+ pump in parietal cells
 	5. Baclofen (muscle relaxant)
 		1. Reduces transient lower esophageal sphincter relaxations
+	6. Metoclopramide
 
 
 ## Drug overview
+
+
 
 ## Criteria
 ### Example severity/test score:
