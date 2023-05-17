@@ -96,16 +96,17 @@ __3. Obesity__
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Endoscopy|  |  |
 
+<input type="checkbox">
 | Additional Tests               |  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
 |^^|Impedance: Increased with height of regurgitation|^^|
 
 ---
 
 # Management
 ## Overall management:
-Management depends on severity:
+Management depends on severity, **and** if refractory:
 1. Mild GERD
 	1. <2 episodes per week, mild symptoms
 	2. Lifestyle changes + antacid and alginate or magnesium hydroxide and aluminium hydroxide
@@ -116,8 +117,14 @@ Management depends on severity:
 	2. Esophagitis on endoscopy
 	3. Daily PPI therapy
 	4. Can incrase to PPI therapy BID if needed
+4. Refractory GORD:
+	1. [[GORD#^77sdt5|Non-acid reflux]]:
+		1. Treat with [[baclofen]] (muscle relaxant)
+		2. Reduces transient lower esophageal sphincter relaxations
+	2. [[GORD#^r8xz7z|Functional reflux]]:
+		1. Treat with antipsychiatric medications for anxiety and depression
 
-4. Non-pharmacological treatments: **First line treatment**
+6. Non-pharmacological treatments: **First line treatment**
 	1. Weight loss
 	2. Smoking cessation
 	3. Dietary modification (avoid triggers)
@@ -127,7 +134,7 @@ Management depends on severity:
 		4. Spicy foods
 		5. Carbonated beverages
 		6. Peppermint
-5. Pharmacological treatments:
+7. Pharmacological treatments:
 	1. Antacid+Alginate
 	2. Magnesium Hydroxide
 	3. Histamine (H2) blockers
@@ -136,7 +143,8 @@ Management depends on severity:
 	4. Proton-pump Inhibitors
 		1. Omeprazole, Pantoprazole, Lensoprazole
 		2. Inhibit H+ pump in parietal cells
-	5. B
+	5. Baclofen (muscle relaxant)
+		1. Reduces transient lower esophageal sphincter relaxations
 
 
 ## Drug overview
