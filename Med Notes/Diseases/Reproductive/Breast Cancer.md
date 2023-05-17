@@ -241,6 +241,13 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 **Screening guidelines**:
 ![[Pasted image 20230518010724.png]] ^eb8d54
 
+#### *Familial Breast Cancer*
+Familial breast cancer causes around 10% of breast cancer.
+- Caused by mutations in **BRCA1** and **BRCA2**
+- These code for DNA repair proteins
+- Associated with other malignancies:
+	- BRCA1: [[Ovarian Cancer]]
+	- BRCA2: [[Breast Cancer|Male]], [[Pancreatic Cancer]] 
 ---
 
 ### Prognosis:
@@ -281,11 +288,11 @@ It has three types:
 
 For patients with **ER+** and/or **PR+** tumors: "Chemoprevention", or "endocrine therapy is used ^458dca
 - Oral drugs:
-	- [[Tamoxifen]]: Selective estrogen receptor modulator ([[SERM]])
-	- Aromatase inhibitors
+	- [[Breast Cancer#^adc644|Tamoxifen]]: Selective estrogen receptor modulator ([[SERM]])
+	- [[Breast Cancer#^vb14o8|Aromatase inhibitors]]
 - Normally patients are *either* **positive for both**, or **negative for both**. *Sometimes only one is present*
 
-For patients with **HER2+**: May respond to [[trastuzumab]] ^rjoeas
+For patients with **HER2+**: May respond to [[Breast Cancer#^0r6lh4|trastuzumab]] ^rjoeas
 - Infusion therapy
 - Monoclonal antibody targeting HER2
 
@@ -324,7 +331,7 @@ For patients that are **tripple negative**:
 	- Letrozole
 	- Exemestane
 
-**Trastuzuab**:
+**Trastuzuab**: ^0r6lh4
 - Also called **Herceptin**
 - Monoclonal antiboy against [[Breast Cancer#^rjoeas|HER-2]]
 	- HER-2 is a surface receptor
@@ -336,6 +343,10 @@ For patients that are **tripple negative**:
 	- Leads to asymptomatic ⬇️ in LVEF
 	- Rarely causes heart failure
 	- Monitoring: Serial echocardiography
+	- Different from cardiotoxicity due to **antracycline**, another possible chemo agent for breast ancer
+		- Trastuzumab is **not dose dependent**, Antrhacycline is
+		- Trastuzumab is **often reversible**, Antracycline is not
+		- Re-challenge often tolerated after LVEF recovery for Trastuzumab
 ---
 
 ### Further details:
