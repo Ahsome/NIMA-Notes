@@ -27,7 +27,13 @@ Classic symptoms:
 
 Other symptoms:
 1. Respiratory
-	1. Refux into res
+	1. Refux into respiratory tract
+	2. [[Asthma]] (adult-onset)
+	3. Wheezing
+	4. Cough
+	5. Dyspnea
+2. Damged to eenamel of teeth
+3. Dysphagia
 ### Risk factors:
 
 ### Questions to ask
