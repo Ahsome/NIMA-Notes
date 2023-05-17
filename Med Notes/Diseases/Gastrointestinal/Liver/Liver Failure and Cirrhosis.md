@@ -119,8 +119,9 @@ There are many causes of acute liver failure. Liver failure often times leads to
 | Hypotension                                                                 | Decreased                                                                                                              | Due to cirrhosis decreasing mean arterial pressure and can lead to hepatoenal syndrome                                                                         |
 | Liver biopsy                                                                | Nodules for cirrhosis                                                                                                  | Rarely done as cirrhosis is mostly clinical + USS                                                                                                              |
 |SAAG (Serum ascites-albumin gradient)|Serum albumin - ascites albumin<br><br> **SAAG > 1.1g/dL = [[Portal Hypertension]]| Distinguishes [[Portal Hypertension]] from malignancy because a large SAAG indicates high pressure driving lots of water into the periotoneum, without albumin |
-|  |SAAG < 1.1g/dL = malignancy**  |  |
-|Total ascitic protein| **Protein > 2.5g/dL = [[Heart Failure]] and malignancy  <br>Protein < 2.5g/dL = cirrhosis**                            | Large amounts of protein in the ascitic fluid indicates [[Heart Failure]] AND malignancy because of high permeability of capillaries to proteins               |
+|^^|SAAG < 1.1g/dL = malignancy**  |^^|
+|Total ascitic protein|**Protein > 2.5g/dL = [[Heart Failure]] and malignancy| Large amounts of protein in the ascitic fluid indicates [[Heart Failure]] AND malignancy because of high permeability of capillaries to proteins               |
+|^^| Protein < 2.5g/dL = cirrhosis** |  |
 | Hepatitis screen                                                            | Anti-Hep antibodies (IgM)                                                                                              | Current infection                                                                                                                                              |
 | Serum cryoglobulin                                                          | High                                                                                                                   | Hep C diagnosis --> purpura of lower limbs                                                                                                                                                               |
 
@@ -133,7 +134,7 @@ There are many causes of acute liver failure. Liver failure often times leads to
 | Alcoholic liver disease (acute hepatitis, alcoholic fatty liver disease, cirrhosis) | Fever, jaundice, RUQ pain <br> - AST:ALT > 2  <br> - Elevated GGT <br> - CT or USS to see hepatomegaly                                                                                                             | - Supportive care, glucocorticoids, abstain from alcohol                                                 |
 | Non-alcoholic fatty liver disease (NAFLD)                                           | Fatty liver and steatohepatitis <br> - asymptomatic <br> - ALT > AST                                                                                                                                               | Associated with obesity, diabetes, HTN, hyperlipidemia - therefore, improves with weight loss            |
 | Congestive Hepatopathy - "cardfiac cirrhosis"                                       | Caused from right heart failure <br> - asymptomatic <br> - mild elevations of AST and ALT <br> - hyperbilirubinaemia                                                                                               | Resolves with treatment of heart failure                                                                 |
-| Budd-Chiari Syndrome                                                                | Hepatic venous outflow obstruction, usually bc of thrombus or tumour <br> - abdo pain, ascites, hepatomegaly <br> - myeloproliferative disorder, hepatocellular carcinoma, OCP / pregnancy, hypercoagulable states |                                                                                                          |
+| Budd-Chiari Syndrome                                                                | Hepatic venous outflow obstruction, usually bc of thrombus or tumour <br> - abdo pain, ascites, hepatomegaly <br> - myeloproliferative disorder, hepatocellular carcinoma, OCP / pregnancy, hypercoagulable states |  |
 | Autoimmune Hepatitis                                                                | Mostly in women, bimodal 20s and 50/60s <br> - asymptomatic --> acute liver failure --> cirrhosis   <br> - ANAs, ASMA antibodies are elevated                                                                      | Steroids and immunosuppressants                                                                                                         |
 
 
@@ -194,7 +195,7 @@ Goal is to reduce serum ammonia
 	- Encephalopathy
 	- Diagnosis: ==paracentesis with high neutrophil count, SAAG > 1.1, positive culture== ^13de6d
 
-2. Hepatorenal syndrome
+2. Hepatorenal syndrome ^akm49w
    - Results in renal failure with pre-renal features (low urinary sodium)
    - Does not respond to fluid administration
    - Improves with treatment of liver disease 
@@ -205,7 +206,7 @@ Goal is to reduce serum ammonia
 	- Cirrhosis with complications
 	- Variceal haemorrhage
 	- Ascites
-	- SBP
+	- [[Liver Failure and Cirrhosis#^13de6d|SBP]]
 	- Hepatorenal syndrome
 	- Often require liver transplantation
 

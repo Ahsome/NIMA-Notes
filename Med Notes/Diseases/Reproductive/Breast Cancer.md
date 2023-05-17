@@ -152,10 +152,6 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 ![[Pasted image 20230518013938.png]]
 
----
-
-
-
 > [!Important]
 - [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
 
@@ -205,10 +201,6 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 |Nipple|Erythema|[[#Paget Disease]], due to underlying malignancy <br> <br>![[Pasted image 20230518005724.png\|150]] |
 |^^|Bloody discharge|^^|
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-|Finding 1| Result 1 | Explanation 1 |
-
 ---
 
 ## Investigations
@@ -218,10 +210,6 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 |Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
 |  |Duct cells with stroma |Indicative of [[#Invasive Ductal Carcinoma]]|
 |  |Lac of E-cadherin adhesion|[[#Invasive Lobular Carcinoma]] or [[#Lobular Carcinoma In Situ (LCIS)]]|
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
@@ -234,8 +222,10 @@ It is important for management to know:
 3. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
 
 ^b2d703
-
 ### Prognosis:
+**Prognosis** depends on lymph node metastases, and is the *most important prognostic factor*
+- Detected by biopsy
+- Sentinel node biopsy often performed
 
 ### Breast Cancer Screening
 #### *Mammography*
