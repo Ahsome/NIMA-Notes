@@ -168,6 +168,7 @@ Other risk factors:
 5. Smoking
 	1. Quitting significantly reduces risk
 6. [[Obesity]], sedentary lifestyle
+
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -223,10 +224,6 @@ For **STEMI:**
 |Biomarkers|Normal|Normal|Positive biomarkers****|**Positive **biomarkers|
 
 
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
 ---
 
 # Management
@@ -242,7 +239,7 @@ Management involves:
 2. Revascularise the tissue
 3. Deal with complications of Ischemia
 
-### Medical THerapy:
+### Medical Therapy:
 1. Thrombotic problem:
 	1. Aspirin to inhibit platelet aggregation
 	2. Heparin to inhibit clot formation
@@ -261,10 +258,12 @@ Management involves:
 ### Revacularisation
 1. Option 1: Emergency angioplasty
 	1. Mechanical opening of artery
-	2. Stent  placement should be done <90 minutes\
+	2. Stent placement should be done <90 minutes of first medical contact if you are in a PCI capable centre
+	3. Stent placement should be done <120 minutes of first medical contact if you are in a non-PCI capable centre and need to travel to one
 2. Option 2: Thrombolysis
-	1. Alteplase, TPA, clot-bustinf drugg
-	2. Should be done <120 minutes
+	1. **==Alteplase, TPA==**, clot-busting drug
+	2. Should be done <30 minutes
+![[Pasted image 20230517125419.png]]
 
 ### Complications of Ischemia:
 Summary:
