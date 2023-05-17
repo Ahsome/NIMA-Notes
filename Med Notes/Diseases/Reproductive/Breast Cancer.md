@@ -244,12 +244,17 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ---
 
 ## Malignant Management:
-### Invasive Ductal Carcinoma:
+### Invasive Ductal Carcinoma Management:
 Treatment is based on **TNM** stage, but can include:
 1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. Chemotherapy
 3. Hormone therapy
 
+### Invasive Lobular Carcinoma Management:
+Treatment is based on **TNM** stage, but can include:
+1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
+2. Chemotherapy
+3. Hormone therapy
 
 ---
 
