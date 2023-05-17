@@ -6,7 +6,7 @@
 ---
 
 # Information
-Breast Cancer is the **most common carcinoma** in women, and **second most deadly** in women. It is *usually* adenocarcinoma from epithelial cells.
+Breast Cancer is the **most common carcinoma** in women, and **second most deadly** in women. It is *usually* adenocarcinoma from epithelial cells. It is *often* identified in **asymptomatic** stage by screening
 It is mostly a disease of older women:
 - Rare before age 25
 - Incidence increases after age 30
@@ -22,6 +22,15 @@ It can rarely occur in men
 ### Symptoms
 
 ### Risk factors:
+**Modifiable Risk Factors**:
+1. **[[Obesity]]**
+2. **Alcohol**
+3. **Smoking**
+4. Physical inactivity
+5. [[Hormone replacement therapy]] - If contains estrogen
+6. Reproductive history
+
+**All Risk Factor**
 1. Female sex (99% of cases)
 2. First deree relative with breast cancer
 3. Age
@@ -29,12 +38,17 @@ It can rarely occur in men
 5. Smoking
 6. **Increased estrogen exposure**
 	1. Early menarche, due to more menstal cycles
-	2. Late menopause
-	3. Obesity
-	4. Breast feesing = protective
+	2. Late menopause, due to more menstal cycles
+	3. Obesity, adipose tissue converts androgen to estrogen
+	4. Breast feeding = protective, as do not ovulate
 7. **Age at first live birth**
 	1. Young (<20) = Protective
 	2. Older (>35) = Higher Risk
+
+### Peau d'orange
+[[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels. It is often **high grade** with **poor prognosis**
+Symptoms include:
+- Dimpling of skin
 
 ### Questions to ask
 >*"Do you notice any ???"*
@@ -44,7 +58,9 @@ It can rarely occur in men
 ## Examination findings
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
+|Breast mass|Hard, immobile mass with irregular borders|Classic features of [[Breast Cancer]]|
+|Axilla |Axillary Adenopathy|Late disease findings|
+|Peau d'orange|Dimpling of skin, erythrema, swelling of breast|Caused by Peau d'orange, tumor invasion of dermal lymphatic vessels|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
