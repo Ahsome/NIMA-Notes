@@ -7,7 +7,7 @@
 
 # Information
 GORD is reflux of gastric contents from stomach to esophagus, due to *failure* of the **lower esophageal sphincter**.
-Th
+This causes irritation of esophageal mucosa
 
 > [!Important]+ Summary
 - Important point
