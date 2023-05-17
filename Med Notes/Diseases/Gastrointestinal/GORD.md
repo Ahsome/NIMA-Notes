@@ -6,7 +6,8 @@
 ---
 
 # Information
-GORD is reflux of gastric contents from stomach to esophagus, due to *failure* of the 
+GORD is reflux of gastric contents from stomach to esophagus, due to *failure* of the **lower esophageal sphincter**.
+Th
 
 > [!Important]+ Summary
 - Important point
