@@ -285,7 +285,7 @@ For patients with **ER+** and/or **PR+** tumors: "Chemoprevention", or "endocrin
 	- Aromatase inhibitors
 - Normally patients are *either* **positive for both**, or **negative for both**. *Sometimes only one is present*
 
-For patients with **HER2+**: May respont to [[trastuzumab]]
+For patients with **HER2+**: May respond to [[trastuzumab]] ^rjoeas
 - Infusion therapy
 - Monoclonal antibody targeting HER2
 
@@ -302,7 +302,7 @@ For patients that are **tripple negative**:
 - Used in [[#^458dca|ER+]] breast cancer
 - Estrogen *agonist* in other tissues (bone/uterus), hence **selective** estrogen receptor modulator
 - **Preferred in** *premenopausal women*
-	- This is due to **aromatase inhibitors not effective in this group**
+	- This is due to [[Breast Cancer#^vb14o8|aromatase inhibitors]] **not being effective in this group**
 - Adverse effects:
 	- **Commonly** causes **hot flashes**, by decreasing effects of estrogen
 	- Increased risk of [[Pulmonary Embolus|PE/DVT]], minor agonist effects of estrogen to cause coagulation. Similar to OCP
@@ -311,18 +311,31 @@ For patients that are **tripple negative**:
 		- Leads to polyp formation (up to 36% of women)
 		- Associated with [[Endometrial Cancer]]
 
-**Aromatase Inhibitors:**
+**Aromatase Inhibitors:** ^vb14o8
 - Used in [[#^458dca|ER+]] breast cancer among **postmenopausal** women
-	- Contrast with [[#^adc644|Tamoxifen]], which is for premenopausal women, and useful in high-estrrogen states
+	- Works by blocking peripheral conversion of androgens to estrogen. This is the **main** source of estroge post-menopause
+	- Contrast with [[#^adc644|Tamoxifen]], which is for premenopausal women, and useful in high-estrogen states
 - More effective than Tamoxifen in clinical trials
-- Blocks peripheral conversion of androgens to estrogen
-- Adverse effects:
+- Adverse effects: ^oszqvi
 	- Increase risk of **osteoporosis** from loss of estrogen
 	- Increase risk of **fracture**
 - Examples:
 	- Anastrozole
 	- Letrozole
 	- Exemestane
+
+**Trastuzuab**:
+- Also called **Herceptin**
+- Monoclonal antiboy against [[Breast Cancer#^rjoeas|HER-2]]
+	- HER-2 is a surface receptor
+	- When activated, cause cell growth and proliferation
+	- Overexpressed by cancer cells
+- Improves survival in [[Breast Cancer#^rjoeas|HER-2+]] breast cancer
+- Adverse effects
+	- **Cardiomyopathy**
+	- Leads to asymptomatic ⬇️ in LVEF
+	- Rarely causes heart failure
+	- Monitoring: Serial echocardiography
 ---
 
 ### Further details:
@@ -408,9 +421,12 @@ Steps of management include:
 
 # Complications
 1. [[Lung cancer]]: Due to the radiation therapy for breast cancer, it can be a risk factor for lung cancer.
-2. Complication due to treatment:
-	1. **Tamoxifen**
-		1. ![[Breast Cancer#^ylhsh0]]
+
+### Complication due to treatment:
+**Tamoxifen**
+1. ![[Breast Cancer#^ylhsh0]]
+**Aromotase Inhibitors**
+![[Breast Cancer#^oszqvi]]
 
 ---
 
