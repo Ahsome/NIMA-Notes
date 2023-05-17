@@ -96,7 +96,6 @@ __3. Obesity__
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Endoscopy|  |  |
 
-<input type="checkbox">
 | Additional Tests               |  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
 |Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
