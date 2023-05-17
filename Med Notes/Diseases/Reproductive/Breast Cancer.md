@@ -6,7 +6,13 @@
 ---
 
 # Information
-Breast Cancer is a... 
+Breast Cancer is the **most common carcinoma** in women, and **second most deadly** in women. It is *usually* adenocarcinoma from epithelial cells.
+It is mostly a disease of older women:
+- Rare before age 25
+- Incidence increases after age 30
+- Median age at diagnosis: 62 years
+
+It can rarely occur in men
 
 > [!Important]
 - Important point
@@ -16,6 +22,19 @@ Breast Cancer is a...
 ### Symptoms
 
 ### Risk factors:
+1. Female sex (99% of cases)
+2. First deree relative with breast cancer
+3. Age
+4. Alcohol
+5. Smoking
+6. **Increased estrogen exposure**
+	1. Early menarche, due to more menstal cycles
+	2. Late menopause
+	3. Obesity
+	4. Breast feesing = protective
+7. **Age at first live birth**
+	1. Young (<20) = Protective
+	2. Older (>35) = Higher Risk
 
 ### Questions to ask
 >*"Do you notice any ???"*
