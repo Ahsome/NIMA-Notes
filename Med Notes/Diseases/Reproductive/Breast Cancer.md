@@ -276,7 +276,7 @@ Familial breast cancer causes around 10% of breast cancer.
 	- Provides **staging**
 - [[#Tumor Markers:]] present:
 	- Presenting any of the receptors improves chances
-	- [[^Tri]] having the worst outcomes
+	- [[#^9bfefd|Tripple negative]] having the worst outcomes
 
 **Staging**: ^c01c22
 - Depends on tumor size, node amount, and metastasis
@@ -316,7 +316,7 @@ For patients with **HER2+**: May respond to [[Breast Cancer#^0r6lh4|trastuzumab]
 - Infusion therapy
 - Monoclonal antibody targeting HER2
 
-For patients that are **tripple negative**:
+For patients that are **tripple negative**: ^9bfefd
 - Highly aggressive
 - More common in women under 40
 
@@ -412,7 +412,7 @@ Treatment is based on [[#^aae707|TNM stage]], but can include:
 		- Twice-yearly breast exams
 		- **Stop** oral contraceptives, avoid HRT
 			- These stimulate breast growth
-		- SERMs or aromatase inhibitors
+		- [[Breast Cancer#^adc644|SERMs]] or [[Breast Cancer#^vb14o8|aromatase inhibitors]]
 - Non-classical form:
 	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 
@@ -426,7 +426,9 @@ Similar to [[#^0111e7|classic form of LCIS]], with risk reduction strategies:
 ## Peau d'orange management:
 Steps of management include:
 1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
-2. Diagnostic mammography +/- USS
+2. Exclude other causes of erythema and swelling of breast, such as **infections**. Do routine checks s
+3. Diagnostic mammography +/- USS
+4. If present, follow management based on diagosis
 
 ## Paget disease management:
 Steps of management include:
@@ -443,10 +445,8 @@ Steps of management include:
 ---
 
 ## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
+### TNM staging:
+![[Breast Cancer#^aae707]]
 
 ---
 
@@ -455,7 +455,7 @@ Steps of management include:
 
 ### Complication due to treatment:
 **Tamoxifen**
-1. ![[Breast Cancer#^ylhsh0]]
+![[Breast Cancer#^ylhsh0]]
 **Aromotase Inhibitors**
 ![[Breast Cancer#^oszqvi]]
 
@@ -465,4 +465,4 @@ Steps of management include:
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2: OGBYN > Breast*
