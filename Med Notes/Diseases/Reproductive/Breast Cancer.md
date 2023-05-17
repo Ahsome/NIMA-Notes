@@ -246,11 +246,31 @@ It is important for management to know:
 		- 10 or more lymph nodes in the armpit; or
 		- 1 or more lymph nodes above or below the collarbone; or
 		- 1 or more lymph nodes under the breastbone and 1 or more lymph nodes in the armpit.
+- ![[Pasted image 20230518024930.png]]
 
-![[Pasted image 20230518024930.png]]
+^aae707
 
 ### Tumor Markers:
-Tumor markers are important for **prognosis and therapy**, but less important than [[^Stag]]
+Tumor markers are important for **prognosis and therapy**, but less important than [[#^aae707|TNM stage]]
+It has three types:
+1. Estrogen receptor positive (ER+)
+2. Progesterone receptor positive (PR+)
+3. Human epidermal growth factor receptor-2 (HER2)
+
+For patients with **ER+** and/or **PR+** tumors: "Chemoprevention", or "endocrine therapy is used
+- Oral drugs:
+	- [[Tamoxifen]]: Selective estrogen receptor modulator ([[SERM]])
+	- Aromatase inhibitors
+- Normally patients are *either* **positive for both**, or **negative for both**. *Sometimes only one is present*
+
+For patients with **HER2+**: May respont to [[trastuzumab]]
+- Infusion therapy
+- Monoclonal antibody targeting HER2
+
+For patients that are **tripple negative**:
+- Highly aggressive
+- More common in women under 40
+
 ### Breast Cancer Screening
 #### *Mammography*
 It detects **micro-calcifications**, which mostly occur in malignant lesions.
