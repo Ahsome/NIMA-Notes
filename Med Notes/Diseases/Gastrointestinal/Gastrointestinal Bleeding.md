@@ -38,7 +38,7 @@ Common causes include (Italic is most):
 - *[[Diverticulosis]]*
 - *[[Angiodysplasia]]*
 - Colitis, such as [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|Ulcerative Colitis]], [[Ischemic Colitis]], [[Infectious Colitis]]
-- Malignancy, such as [[Colon Cancer]]
+- Malignancy, such as [[Colorectal Cancer]]
 - Anal bleeding (from *[[Hemorrhoids]]/[[Anal Fissure]])*
 	- Painless bleeding with bowel movements: [[Hemorrhoids#Internal hemorrhoids]]
 
