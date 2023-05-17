@@ -89,9 +89,9 @@ Risk factors include:
 You can differentiate this with [[Pleural Effusion]], which has similar findings:
 | Pneumonia or Consolidation |Effusion|
 | ----------------------- | ------------------------------ |
-|Bronchial breath sounds|Decreased/absent breath sounds|
+|Bronchial breath sounds |Decreased/absent breath sounds|
 | Dullness to percussion  | Dullness to percussion         |
-| Increased fremitus      | Decreased fremitus             |
+|Increased fremitus| Decreased fremitus             |
 | Egophony present        | Egophony present                               |
 
 ---
