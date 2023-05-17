@@ -13,8 +13,12 @@ Esophageal Cancer is **cancer** of the esopagus. It has two main forms:
 [[#Adenocarcinoma]] hasa pre-malignant lesion, caled [[#Barrett's Esophagus]]
 
 ### Adenocarcinoma
+Adenocarcinoma requires metaplasia from [[Gastro-oesophagus Reflux Disease (GORD)]]
+It occurs in lower esophagus near stomach
+It has risk factors similar to [[Gastro-oesophagus Reflux Disease (GORD)]]
 
 ### Squamous Cell Carcinoma
+Squamous cell carcinoma occurs in the mid esophagus. It occurs due to foods trigge
 
 ### Barrett's Esophagus
 It is **metaplasia** of esophagus, from *squamous epithelium* to *intestinal epithelium* caused due to long-standing [[Gastro-oesophagus Reflux Disease (GORD)]] and chronic inflammation. It increases risk of [[#Adenocarcinoma]]
@@ -30,6 +34,11 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 ### Symptoms
 
 ### Risk factors:
+|Adenocarcinoma| Squamous cell carcinoma |
+| -------------- | ----------------------- |
+|Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]]|Dietary factors|
+
+
 
 ### Questions to ask
 >*"Do you notice any ???"*

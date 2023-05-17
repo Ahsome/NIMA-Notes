@@ -88,7 +88,7 @@ __3. Obesity__
 7. Peppermint
 8. Hiatal hernia
 9. Diabetes
-	1. Causes gastropoeresis, so likely to cause [[#^psj8aa|Delayed gastric emptying]] 
+	1. Causes gastropoeresis, so likely to cause [[#^psj8aa|Delayed gastric emptying]]  ^ffd52a
 ### Questions to ask
 >*"Do you notice any ???"*
 
