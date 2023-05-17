@@ -29,6 +29,13 @@ There can also be premalignant lesions associated with significantly increased r
 - Lobular carcinoma in situ
 - Atypical hyperplasia
 
+| Details              | [[#Ductul Carcinoma In Situ (DCIS)]] | [[#Lobular Carcinoma In Situ (LCIS)]]          | [[#Atypical Hyperplasia:]] |
+| -------------------- | ------------------------------------ | ---------------------------------------------- | -------------------------- |
+| Microcalcifications  | Yes                                  | No                                             | No                         |
+| Mammogram            | Present                              | No                                             | No                         |
+| Pre-malignent lesion | Yes                                  | No                                             | No                         |
+| Treatment            | Excision                             | Classic: Surveillence<br>Non-classic: Excision | Surveillence                           |
+
 There are two other variants/effects of cancer:
 1. [[#Peau d'orange]]
 2. [[#Paget Disease]]
@@ -44,12 +51,12 @@ They fill the ductal lumen, but are limited by intact basement membrane:
 *Biopsy of [[#Ductul Carcinoma In Situ (DCIS)]]. Notice limited by basement membrane*
 
 It forms **microcalcifications**, that can be detected by [[#Mammography]]
-- Contrast with [[#Lobular Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
+- Contrast with [[#Lobular Ductul Carcinoma In Situ (DCIS)]] and [[#Atypical Hyperplasia:]], which *lacks micro-calcifications*
 - Many subtypes, based on histology
 
 It is important to note it is a **pre-malignant lesion**:
 - If left untouched, it will develop to malignant lesion
-- Contrast with [[#Lobular Carcinoma In Situ (LCIS)]], which is *not* a pre-malignant lesion, but identification is a risk factor for other invasive [[Breast Cancer]]
+- Contrast with [[#Lobular Carcinoma In Situ (LCIS)]] and [[#Atypical Hyperplasia:]], which is *not* a pre-malignant lesion, but identification is a risk factor for other invasive [[Breast Cancer]]
 
 ---
 
@@ -67,21 +74,34 @@ It has two forms based on histology, that affect [[#LCIS Management:|management]
 2. Non-classic form
 
 It lacks **microcalcifications**, so it *cannot* be detected by [[#Mammography]]
-- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
+- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *has micro-calcifications*
+- Similar to [[#Atypical Hyperplasia:]], which *lacks microcalcifications*
 
 It is important to note it is a ***not*** **a pre-malignant lesion**:
 - If left untouched, it will ***not develop*** to malignant lesion
 - Rather, it identifies a risk of bilaterial lesions later in life
 - Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which is a pre-malignant lesion
+- Similar to [[#Atypical Hyperplasia:]], which *is* ***not*** *a pre-malignant lesion* 
 
 ---
 
 ### Atypical Hyperplasia:
-Atypical hyperplasia is often an **incidental finding on biopsy** for other reasons. It has a **substantial increase** in risk of subsequent breast cancer
+Atypical hyperplasia is often an **incidental finding on biopsy** for other reasons.
+It has a **substantial increase** in risk of subsequent breast cancer
 
 It comes in two forms:
 1. Atypical ductal hyperplasia (ADH)
 2. Atypical lobular hyperplasia (ALH)
+
+It lacks **microcalcifications**, so it *cannot* be detected by [[#Mammography]]
+- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *has micro-calcifications*
+- Similar to [[#Lobular Carcinoma In Situ (LCIS)]], which *lacks microcalcifications*
+
+It is important to note it is a ***not*** **a pre-malignant lesion**:
+- If left untouched, it will ***not develop*** to malignant lesion
+- Rather, it identifies a risk of bilaterial lesions later in life
+- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which is a pre-malignant lesion
+- Similar to [[#Lobular Carcinoma In Situ (LCIS)]], which *is* ***not*** *a pre-malignant lesion* 
 
 ---
 
@@ -206,18 +226,20 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 
 ## LCIS Management:
 - Classic form: ^0111e7
-	- Surveillance and chemoprevention
+	- Surveillance and chemoprevention ^051576
 		- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
-	- Annual mammograms
-	- Twice-yearly breast exams
-	- **Stop** oral contraceptives, avoid HRT
-		- These stimulate breast growth
-	- SERMs or aromatase inhibitors
+		- Annual mammograms
+		- Twice-yearly breast exams
+		- **Stop** oral contraceptives, avoid HRT
+			- These stimulate breast growth
+		- SERMs or aromatase inhibitors
 - Non-classical form:
 	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 
-## Atypical Hyperplasia:
-Similar to [[#^0111e7|classic form of LCIS]]
+## Atypical Hyperplasia Management:
+Similar to [[#^0111e7|classic form of LCIS]], with risk reduction strategies:
+![[#^051576]]
+
 
 ---
 
