@@ -296,7 +296,7 @@ For patients that are **tripple negative**:
 ---
 
 ### Drugs
-**Tamoxifen**:
+**Tamoxifen**: ^adc644
 - Selective estrogen receptor modulator ([[SERM]])
 - Competitive antagonist of breast estrogen receptor
 - Used in [[#^458dca|ER+]] breast cancer
@@ -304,7 +304,25 @@ For patients that are **tripple negative**:
 - **Preferred in** *premenopausal women*
 	- This is due to **aromatase inhibitors not effective in this group**
 - Adverse effects:
-	- Com
+	- **Commonly** causes **hot flashes**, by decreasing effects of estrogen
+	- Increased risk of [[Pulmonary Embolus|PE/DVT]], minor agonist effects of estrogen to cause coagulation. Similar to OCP
+	- **Partial agonist to endometrium** ^ylhsh0
+		- Causes endometrial prolfieration and hyperplasia
+		- Leads to polyp formation (up to 36% of women)
+		- Associated with [[Endometrial Cancer]]
+
+**Aromatase Inhibitors:**
+- Used in [[#^458dca|ER+]] breast cancer among **postmenopausal** women
+	- Contrast with [[#^adc644|Tamoxifen]], which is for premenopausal women, and useful in high-estrrogen states
+- More effective than Tamoxifen in clinical trials
+- Blocks peripheral conversion of androgens to estrogen
+- Adverse effects:
+	- Increase risk of **osteoporosis** from loss of estrogen
+	- Increase risk of **fracture**
+- Examples:
+	- Anastrozole
+	- Letrozole
+	- Exemestane
 ---
 
 ### Further details:
@@ -390,6 +408,9 @@ Steps of management include:
 
 # Complications
 1. [[Lung cancer]]: Due to the radiation therapy for breast cancer, it can be a risk factor for lung cancer.
+2. Complication due to treatment:
+	1. **Tamoxifen**
+		1. ![[Breast Cancer#^ylhsh0]]
 
 ---
 
