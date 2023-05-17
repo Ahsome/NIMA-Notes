@@ -10,11 +10,11 @@ There are many causes of acute liver failure. Liver failure often times leads to
 
 | Causes of acute liver failure          | Non-acute causes of liver failure |
 | -------------------------------------- | --------------------------------- |
-| Viral hepatitis                        | Non-alcoholic fatty liver disease |
-| Ischaemia ("shock liver")              | Haemochromatosis                  |
-| Acetaminophen overdose                 | Primary sclerosing cholangitis    |
+|[[#Hepatitis\|Viral hepatitis]] | Non-alcoholic fatty liver disease |
+| Ischaemia ("shock liver")              |Haemochromatosis|
+|Acetaminophen overdose| Primary sclerosing cholangitis    |
 | Budd-Chiari                            | Primary biliary cholangitis       |
-| Alcoholic hepatitis (acute on chronic) | Alpha-1 antitrypsin deficiency    |
+| Alcoholic hepatitis (acute on chronic) |Alpha-1 antitrypsin deficiency|
 |                                        |                                   |
 
 
@@ -30,7 +30,7 @@ There are many causes of acute liver failure. Liver failure often times leads to
 
 ## Hepatitis
 
->[!Important] Acute disease = IgM antibodies VS Prior disease = igG antibodies
+>[!Important] Acute disease = IgM antibodies VS Prior disease = IgG antibodies
 
 | Type  | Spread                                                              | Information                                                                                                                                                                                                                                                                                               | Investigations                                                                                                                      | Treatment                                                               |
 | ----- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ There are many causes of acute liver failure. Liver failure often times leads to
 
 
 > [!Important]
-- Important point
+- Acute disease = IgM antibodies VS Prior disease = IgG antibodies
 
 --- 
 # History
@@ -55,6 +55,8 @@ There are many causes of acute liver failure. Liver failure often times leads to
 - Jaundice
 - Hepatomegaly 
 - RUQ pain
+
+**Extras/Investigations:**
 - Elevated AST/ALT
 - Prologed PT/PTT
 - Thrombocytopenia (loss of TPO)
@@ -109,15 +111,16 @@ There are many causes of acute liver failure. Liver failure often times leads to
 ## Investigations
 | Key Tests                                                                   | Result                                                                                                                 | Explanation                                                                                                                                                    |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| AST + ALT                                                                   | Elevated                                                                                                               | Hepatocellular injury - viral hepatitis or autoimmune hepatits                                                                                                 |
-| ALP + GGT                                                                   | Elevated                                                                                                               | Biliary cause                                                                                                                                                  |
+| AST + ALT                                                                   |Elevated| Hepatocellular injury - viral hepatitis or autoimmune hepatits                                                                                                 |
+| ALP + GGT                                                                   |Elevated| Biliary cause                                                                                                                                                  |
 | AST: ALT = 2:1                                                              | Elevated                                                                                                               | Alcoholic liver injury                                                                                                                                         |
 | Albumin, coagulation factots, glucose                                       | Low                                                                                                                    | Liver injury (cannot perform synthetic function)                                                                                                               |
 | Oestrogen (gynacomastia, testicular atrophy, spider naevi, palmar erythema) | Elevated                                                                                                               | Cirrhosis                                                                                                                                                      |
 | Hypotension                                                                 | Decreased                                                                                                              | Due to cirrhosis decreasing mean arterial pressure and can lead to hepatoenal syndrome                                                                         |
 | Liver biopsy                                                                | Nodules for cirrhosis                                                                                                  | Rarely done as cirrhosis is mostly clinical + USS                                                                                                              |
-| SAAG (Serum ascites-albumin gradient)                                       | Serum albumin - ascites albumin<br><br>  **SAAG > 1.1g/dL = [[Portal Hypertension]] <br> SAAG < 1.1g/dL = malignancy** | Distinguishes [[Portal Hypertension]] from malignancy because a large SAAG indicates high pressure driving lots of water into the periotoneum, without albumin |
-| Total ascitic protein                                                       | **Protein > 2.5g/dL = [[Heart Failure]] and malignancy  <br>Protein < 2.5g/dL = cirrhosis**                            | Large amounts of protein in the ascitic fluid indicates [[Heart Failure]] AND malignancy because of high permeability of capillaries to proteins               |
+|SAAG (Serum ascites-albumin gradient)|Serum albumin - ascites albumin<br><br> **SAAG > 1.1g/dL = [[Portal Hypertension]]| Distinguishes [[Portal Hypertension]] from malignancy because a large SAAG indicates high pressure driving lots of water into the periotoneum, without albumin |
+|  |SAAG < 1.1g/dL = malignancy**  |  |
+|Total ascitic protein| **Protein > 2.5g/dL = [[Heart Failure]] and malignancy  <br>Protein < 2.5g/dL = cirrhosis**                            | Large amounts of protein in the ascitic fluid indicates [[Heart Failure]] AND malignancy because of high permeability of capillaries to proteins               |
 | Hepatitis screen                                                            | Anti-Hep antibodies (IgM)                                                                                              | Current infection                                                                                                                                              |
 | Serum cryoglobulin                                                          | High                                                                                                                   | Hep C diagnosis --> purpura of lower limbs                                                                                                                                                               |
 
