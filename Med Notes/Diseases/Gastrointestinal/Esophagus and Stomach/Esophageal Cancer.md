@@ -18,7 +18,7 @@ It occurs in lower esophagus near stomach
 It has risk factors similar to [[Gastro-oesophagus Reflux Disease (GORD)]]
 
 ### Squamous Cell Carcinoma
-Squamous cell carcinoma occurs in the mid esophagus. It occurs due to foods trigge
+Squamous cell carcinoma occurs in the mid esophagus. It occurs due to foods triggering irritation
 
 ### Barrett's Esophagus
 It is **metaplasia** of esophagus, from *squamous epithelium* to *intestinal epithelium* caused due to long-standing [[Gastro-oesophagus Reflux Disease (GORD)]] and chronic inflammation. It increases risk of [[#Adenocarcinoma]]
@@ -34,9 +34,9 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 ### Symptoms
 
 ### Risk factors:
-|Adenocarcinoma| Squamous cell carcinoma |
+|Adenocarcinoma | Squamous cell carcinoma |
 | -------------- | ----------------------- |
-|Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]]|Dietary factors|
+|Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]] |Smoking <br>Alcohol <br> <br> Dietary factors:<br>- Foods with N-nitroso compounds, such as cured meats and some cheeses <br>-Hot beverages <br> <br> Esophageal disease: <br>- [[Achalasia]] <br>- [[Gastro-oesophagus Reflux Disease (GORD)#^umqfec\|Strictures]]|
 
 
 
@@ -45,7 +45,7 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 
 ---
 
-## Examination findings
+## Examination findings 
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
 |Endoscopy |Metaplasia of lower esophageal sphincter|Sign of [[#Barrett's Esophagus]] <br> <br>![[Pasted image 20230517231832.png\|200]]|

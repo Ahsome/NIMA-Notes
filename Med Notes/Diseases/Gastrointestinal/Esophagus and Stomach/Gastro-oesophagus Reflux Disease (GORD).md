@@ -191,11 +191,13 @@ Management depends on severity, **and** if refractory:
 	1. Erosions and ulcerations of esophaeal mucosa
 	2. Causes worsening/persistent [[Gastro-oesophagus Reflux Disease (GORD)]] symptoms, due to inflammation of esophagitis.
 	3. Has same treatment
-2. **Strictures**
+	4. Can lead to [[Esophageal Cancer#Squamous Cell Carcinoma|Squamous Cell Esophageal Carcinoma]]
+2. **Strictures** ^umqfec
 	1. Fibrous narrowin of esophageal lumen
 	2. Caused by healing of [[Esophagitis]]
 	3. Causes solid food dysphagia or food impaction
 	4. Treatment: Endoscopic diliatation, similar to [[Esophageal webs]]
+	5. Can lead to [[Esophageal Cancer#Squamous Cell Carcinoma|Squamous Cell Esophageal Carcinoma]]
 3. **[[Esophageal Cancer|Barrett's esophagus and adenocarcinoma]]**
 
 ---
