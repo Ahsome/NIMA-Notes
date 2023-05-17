@@ -20,7 +20,7 @@ This leads to:
 It can often lead to **refractory GORD**.
 
 ### Refratory GORD:
-Refractory GORD presents with symptoms after treatment. Causes include:
+Refractory GORD presents with symptoms after treatment. Causes include: ^f89517
 - Poor compiance with medical therapy after treatment
 - **Functional heartburn** ^r8xz7z
 	- When patient has symptoms, but has normal esophageal pH/manometry testing
