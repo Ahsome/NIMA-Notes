@@ -12,10 +12,12 @@ It is mostly a disease of older women:
 - Incidence increases after age 30
 - Median age at diagnosis: 62 years
 
+It can rarely occur in men
+
+![[^Breas]]
+
 Screening is recommended for women depeding on age:
 ![[#^eb8d54]]
-
-It can rarely occur in men
 
 ---
 
@@ -150,16 +152,7 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 ---
 
-## Breast Cancer Screening
-### Mammography
-It detects **micro-calcifications**, which mostly occur in malignant lesions.
-![[Pasted image 20230518010624.png]]
-It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
-- [[Fat necrosis]]
-- [[Sclerosing adenosis]]
 
-**Screening guidelines**:
-![[Pasted image 20230518010724.png]] ^eb8d54
 
 > [!Important]
 - [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
@@ -232,6 +225,25 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 
 # Management
 ## Standard Management for Mass:
+It is important for management to know: ^be698a
+1. [[#Breast Cancer Screening]]
+2. [[#Prognosis:]]
+3. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
+
+### Prognosis:
+
+### Breast Cancer Screening
+#### *Mammography*
+It detects **micro-calcifications**, which mostly occur in malignant lesions.
+![[Pasted image 20230518010624.png]]
+It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
+- [[Fat necrosis]]
+- [[Sclerosing adenosis]]
+
+**Screening guidelines**:
+![[Pasted image 20230518010724.png]] ^eb8d54
+
+
 ### Further details:
 **Mastectomy**: ^req1q6
 - Removal of entire affected breast
