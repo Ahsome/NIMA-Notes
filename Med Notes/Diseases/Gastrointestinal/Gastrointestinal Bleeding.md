@@ -79,7 +79,7 @@ Lower GI risk factors:
 ## Investigations
 |Key Tests|Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Nasogastric lavage|Coffee-ground or bright red blood|Indicates hematochezia is actually [[#Upper GI bleeding]]|
+|Nasogastric lavage |Coffee-ground or bright red blood|Indicates hematochezia is actually [[#Upper GI bleeding]]|
 |FBC|Hgb, Hc|  |
 |Platelets|  |  |
 |PT/PTT/INR|  |  |

@@ -84,9 +84,10 @@ __3. Obesity__
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Endoscopy|Result 1| Explanation 1                                                                                                                                                        |
 
-| Additional Tests               |  Result   | Explanation                |
+| Additional Tests               |  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
+|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>![[Pasted image 20230517222304.png\|150]]|
+|  |Impedance: Increased with height of regurgitation|^^|
 
 ---
 
