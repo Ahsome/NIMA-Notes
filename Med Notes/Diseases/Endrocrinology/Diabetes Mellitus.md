@@ -123,7 +123,8 @@ For patients with symptoms (polyuria, polydispia, DKA), the following test are p
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | Random Plasma Glucose                                     | >= 11.1mmol/L                                                                                                                                        | Increased glucose levels due to not being controlled by insulin.                                  |
 | Albumin/Creatine Ration<br>- Urine dipstick | Male<br>- <2.5 Normal<br>- 2.5-2.5 Microalbumin<br>- 25+ Macroalbumin<br><br>Female<br>- 3.5 Normal<br>- 3.5-35 Microalbumin<br>- 35+ Macroalbumin | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Calculate in conjunction with eGFR |
-| eGFR                                        | Normal to reduced                                                                                                                                  | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Calculate in conjunction with Alb/Cr ratio.                                                                                                  |
+|eGFR| Normal to reduced                                                                                                                                  | Can help identify [[Diabetes Mellitus#^cae015\|Diabetic Nepropathy]]. Calculate in conjunction with Alb/Cr ratio.                                                                                                  |
+|C-Peptide Level|Low: Type I <br>High: Type II|Low in Type 1 as insulin production is ceased from damage to pancreas, so C-peptide not produced <br> <br>High in Type II as pancreas is trying to overcompensate for insulin insensitivity. It can decrease over time as the pancreas gives up|
 
 >[!Important]
 >![[Diabetes Mellitus#^65f830]]
@@ -235,6 +236,17 @@ Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This lea
 Other options:
 1. SGLT-2 inhibitor: Use if there is a of [[Coronary Artery Disease]], it has a protective effect and reduced morbidity
 2. GLP1 Inhibitor: Useful for strong weight loss, helps with comorbidities
+
+| Medication Class      | Indications                                               | Common Side Effects                          | Contraindications                                                                   |
+|-----------------------|-----------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------------|
+| Metformin             | First-line treatment for T2DM                              | Nausea, diarrhea, abdominal discomfort       | Renal impairment, liver disease, acute illness, contrast dye procedures              |
+| Sulfonylureas         | T2DM patients with adequate beta-cell function             | Hypoglycemia, weight gain, allergic reactions | Severe renal or hepatic impairment, sulfa allergy                                    |
+| Dipeptidyl Peptidase-4 (DPP-4) Inhibitors | T2DM patients inadequately controlled with metformin or as an alternative to sulfonylureas | Upper respiratory tract infection, joint pain | Severe renal impairment                                                            |
+| Thiazolidinediones    | T2DM patients with insulin resistance or inadequate glycemic control | Edema, weight gain, increased fracture risk | Heart failure, liver disease                                                       |
+| Sodium-Glucose Co-Transporter-2 (SGLT2) Inhibitors | T2DM patients with cardiovascular disease or chronic kidney disease | Genital mycotic infections, increased urination | Severe renal impairment, ketoacidosis                                              |
+| GLP-1 Receptor Agonists | T2DM patients with inadequate glycemic control or weight management benefits | Nausea, vomiting, injection site reactions | History of medullary thyroid carcinoma or multiple endocrine neoplasia syndrome type 2 |
+| Insulin               | T2DM patients with inadequate glycemic control              | Hypoglycemia, weight gain, injection site reactions | Allergy to insulin, hypoglycemia unawareness, acute illness                          |
+
 
 >[!Important]
 >![[Diabetes Mellitus#^da509f]]

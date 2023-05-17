@@ -15,8 +15,8 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] GORD
-- [ ] Urinary Incontinence
 - [ ] [[Breast Cancer]]
+- [ ] Urinary Incontinence
 
 
 ## Completed
