@@ -16,7 +16,8 @@ This causes irritation of esophageal mucosa
 --- 
 # History
 ### Symptoms
-1. Hea
+1. Heartburn
+	1. Chest painR
 ### Risk factors:
 
 ### Questions to ask
