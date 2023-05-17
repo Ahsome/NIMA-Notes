@@ -39,18 +39,29 @@ There are two other variants/effects of cancer:
 Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
 75% of cases are ER positive
 They fill the ductal lumen, but are limited by intact basement membrane:
+
 ![[Pasted image 20230518013617.png]]
 *Biopsy of [[#Ductul Carcinoma In Situ (DCIS)]]. Notice limited by basement membrane*
 
 It forms **microcalcifications**, that can be detected by [[#Mammography]]
+- Contrast with [[#Lobular Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
 - Many subtypes, based on histology
+
+It is important to note it is a **pre-malignant lesion**. 
 
 ---
 
-### Lobular Ductul Carcinoma In Situ (DCIS)
+### Lobular Carcinoma In Situ (LCIS)
 Proliferation of cells in ducts/lobules, that are limited by intact basememnt membrane
 - Exhibits "Discohesive growth": With loose intercellular connections
 - Loss of adhesion prtein E-cadherin
+- Round cells clumped together
+- Often an incidental finding on biopsy
+
+![[Pasted image 20230518015241.png]]
+
+It lacks **microcalcifications**, so it *cannot* be detected by [[#Mammography]]
+- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
 
 ---
 
