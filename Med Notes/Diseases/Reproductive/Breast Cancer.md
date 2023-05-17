@@ -22,7 +22,7 @@ There are two main forms of breast carcinoma. They can be *in situ* (limited by 
 1. Ductal carcinoma, resemble duct cells in breast
 2. Lobular carcinoma, resemble lobules in breast
 
-Th
+There can also be premalignant lesions associated with s
 
 There are two other variants/effects of cancer:
 1. [[#Peau d'orange]]
