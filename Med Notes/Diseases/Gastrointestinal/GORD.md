@@ -16,6 +16,7 @@ This causes irritation of esophageal mucosa
 --- 
 # History
 ### Symptoms
+Classic symptoms:
 1. Heartburn
 	1. Chest pain
 	2. Retrosternal "burning" sensation
@@ -23,6 +24,10 @@ This causes irritation of esophageal mucosa
 	4. Often when lying flat
 2. Regurgitation
 3. Dyspepsia
+
+Other symptoms:
+1. Respiratory
+	1. Refux into res
 ### Risk factors:
 
 ### Questions to ask
