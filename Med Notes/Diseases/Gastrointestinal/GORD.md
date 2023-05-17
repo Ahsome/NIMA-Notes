@@ -21,7 +21,8 @@ This causes irritation of esophageal mucosa
 	2. Retrosternal "burning" sensation
 	3. Occurs after meals
 	4. Often when lying flat
-2. Re
+2. Regurgitation
+3. Dyspepsia
 ### Risk factors:
 
 ### Questions to ask
