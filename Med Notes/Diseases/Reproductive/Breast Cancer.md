@@ -45,9 +45,22 @@ There are two other variants/effects of cancer:
 ### Invasive Ductal Carcinoma
 This is the **most common type** (~80%) of invasive carcinoma
 Biopsy identifies **duct cells with stroma**
-It most commonly occurs in the **outer quadrant of breast**:
+It most commonly occurs in the **outer quadrant of breast**, as it has more breast tissue:
 
 ![[Pasted image 20230518021723.png]]
+
+---
+
+### Invasive Lobular Carcinoma
+This is the **second common type** (~20%) of invasive carcinoma
+Biopsy will show:
+- Cells growing in single file
+- Lack of E-cadherin adhesion protein expression
+- Cells cannot stick together in clumps
+
+![[Pasted image 20230518022214.png]]
+
+It is often **bilateral**, with multiple lesions
 
 ---
 
@@ -208,7 +221,8 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> Sign of [[#Paget Disease]] <br> <br>|
 |Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
-|  |Duct cells with stroma|Indicative of [[#Invasive Ductal Carcinoma]]|
+|  |Duct cells with stroma |Indicative of [[#Invasive Ductal Carcinoma]]|
+|  |Lac of E-cadherin adhesion|[[#Invasive Lobular Carcinoma]] or [[#Lobular Carcinoma In Situ (LCIS)]]|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -218,7 +232,6 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 
 # Management
 ## Standard Management for Mass:
-
 ### Further details:
 **Mastectomy**: ^req1q6
 - Removal of entire affected breast
@@ -233,7 +246,9 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ## Malignant Management:
 ### Invasive Ductal Carcinoma:
 Treatment is based on **TNM** stage, but can include:
-1. 
+1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
+2. Chemotherapy
+3. Hormone therapy
 
 
 ---
