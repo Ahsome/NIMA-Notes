@@ -21,6 +21,7 @@ Screening is recommended for women depending on age:
 ![[#^eb8d54]]
 
 ---
+---
 
 ## Forms of Breast Cancer
 There are two main forms of breast carcinoma. They can be *in situ* (limited by basement membrane) or *invasive*:
@@ -151,6 +152,17 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 ![[Pasted image 20230518013938.png]]
 
+---
+
+### Male Breast Cancer
+Male breast cancer has an incidence rate of 1% compared to women, usually at 60 to 70 years of age
+It presents as **subareolar mass +/- discharge**. This is due to most breast tissue in males present at nipple
+
+Key associations:
+- [[Klienfelter syndrome]] (3-8%)
+	- Tall, hypogonadism
+- BRCA2 gene mutations (4-14%)
+
 > [!Important]
 - [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
 - Tamoxifen is preferred in **premenopausal women**, aromatase inibitors are not effective
@@ -248,21 +260,23 @@ Familial breast cancer causes around 10% of breast cancer.
 - Caused by mutations in **BRCA1** and **BRCA2**
 - These code for DNA repair proteins
 - Autosomal dominant with incomplete penetrance
-- Not all individuals with disease mutation develop disease
+	- Not all individuals with disease mutation develop disease
 - Associated with other malignancies:
 	- BRCA1: [[Ovarian Cancer]]
 	- BRCA2: [[Breast Cancer|Male]], [[Pancreatic Cancer]] 
 ---
 
 ### Prognosis:
-**Prognosis** depends on lymph node metastases, and is the *most important prognostic factor*
-- Detected by biopsy
-- Sentinel node biopsy often performed
-	- Tracer is applied near lesion, which will move to certain lymph nodes, called sentinel nodes
-	- If sentinel nodes are free, no need to get other lymph nodes
-- Provides **staging**
-
-It also d
+**Prognosis** depends two main components:
+- Lymph node metastases, and is the *most important prognostic factor*
+	- Detected by biopsy
+	- Sentinel node biopsy often performed
+		- Tracer is applied near lesion, which will move to certain lymph nodes, called sentinel nodes
+		- If sentinel nodes are free, no need to get other lymph nodes
+	- Provides **staging**
+- [[#Tumor Markers:]] present:
+	- Presenting any of the receptors improves chances
+	- [[^Tri]] having the worst outcomes
 
 **Staging**: ^c01c22
 - Depends on tumor size, node amount, and metastasis
