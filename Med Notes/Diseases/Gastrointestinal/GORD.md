@@ -6,7 +6,7 @@
 ---
 
 # Information
-GORD is r
+GORD is reflux of gastric contents from stomach to e
 
 > [!Important]+ Summary
 - Important point
