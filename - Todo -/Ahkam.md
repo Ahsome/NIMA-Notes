@@ -6,24 +6,24 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] GORD
 - [ ] Ulcers
-- [ ] Bronchiectasis
-- [ ] Upper GI bleeding
-- [ ] Urinary Incontinence
 - [ ] [[UMN Lesion]]
 - [ ] [[LMN Lesion]]
-- [ ] [[Breast Cancer]]
+- [ ] Bronchiectasis
 
 
 ## In Progress
 
+- [ ] GORD
+- [ ] Urinary Incontinence
+- [ ] [[Breast Cancer]]
 
 
 ## Completed
 
 **Complete**
 - [x] [[Headaches]]
+- [x] Upper GI bleeding
 - [x] Pseudogout
 - [x] Sleep Apnea
 - [x] STI
@@ -38,6 +38,7 @@ kanban-plugin: basic
 - [x] [[Lung Cancer]]
 - [x] [[Rheumatoid Arthritis]]
 - [x] Gastroenteritis
+- [x] [[Gastrointestinal Bleeding#Lower GI bleeding]]
 
 
 

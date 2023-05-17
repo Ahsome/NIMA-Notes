@@ -1,4 +1,4 @@
-*Created on <% tp.date.now(format = "Do MMM YYYY") %>*
+*Created on 16th May 2023*
 
 ---
 ```toc
@@ -6,13 +6,9 @@
 ---
 
 # Information
-<%* 
-let title = tp.file.title 
-if (title.startsWith("Untitled")) { 
-title = await tp.system.prompt("Title"); 
-} await tp.file.rename(title) -%><% title %> is a... 
+Chronic Liver Disease is a... 
 
-> [!Important]+ Summary
+> [!Important]
 - Important point
 
 --- 
