@@ -187,7 +187,9 @@ Management depends on severity, **and** if refractory:
 ---
 
 # Complications
-1. Complications of disease
+1. **Erosive esophagitis**: Erosio
+2. **Strictures**
+3. **Barrett's esophagus and adenocarcinoma**
 
 ---
 
