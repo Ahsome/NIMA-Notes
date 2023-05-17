@@ -71,7 +71,7 @@ For **upper esophageal tumors**, causes specific symptoms due to location:
 | Key Findings | Result   | Explanation   |
 | ------------ | -------- | ------------- |
 |Endoscopy |Metaplasia of lower esophageal sphincter|Sign of [[#Barrett's Esophagus]] <br> <br>![[Pasted image 20230517231832.png\|200]]|
-|Biopsy|Adenocarcinoma cells |Sign of [[#Adenocarcinoma]]|
+|Biopsy|Adenocarcinoma cells |Leads to diagnosis. Sign of [[#Adenocarcinoma]]|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
