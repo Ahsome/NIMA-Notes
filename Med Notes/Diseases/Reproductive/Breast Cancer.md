@@ -15,10 +15,9 @@ It is mostly a disease of older women:
 It can rarely occur in men
 
 It is important to note the [[#Standard Management for Mass:]]. This includes:
+![[Breast Cancer#^6xl5oz]]
 
-![[#^b2d703]]
-
-Screening is recommended for women depeding on age:
+Screening is recommended for women depending on age:
 ![[#^eb8d54]]
 
 ---
@@ -154,6 +153,7 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 > [!Important]
 - [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
+- Tamoxifen is preferred in **premenopausal women**, aromatase inibitors are not effective
 
 --- 
 ---
@@ -218,7 +218,7 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 # Management
 ## Standard Management for Mass:
-It is important for management to know:
+It is important for management to know: 
 1. [[#Breast Cancer Screening]]
 2. [[#Prognosis:]]
 3. [[#Tumor Markers]]
@@ -226,7 +226,8 @@ It is important for management to know:
 5. [[#Further details:]] of management, such as surgery types
 6. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
 
-^b2d703
+^6xl5oz
+
 ---
 
 ### Breast Cancer Screening
@@ -278,7 +279,7 @@ It has three types:
 2. Progesterone receptor positive (PR+)
 3. Human epidermal growth factor receptor-2 (HER2)
 
-For patients with **ER+** and/or **PR+** tumors: "Chemoprevention", or "endocrine therapy is used
+For patients with **ER+** and/or **PR+** tumors: "Chemoprevention", or "endocrine therapy is used ^458dca
 - Oral drugs:
 	- [[Tamoxifen]]: Selective estrogen receptor modulator ([[SERM]])
 	- Aromatase inhibitors
@@ -294,10 +295,22 @@ For patients that are **tripple negative**:
 
 ---
 
+### Drugs
+**Tamoxifen**:
+- Selective estrogen receptor modulator ([[SERM]])
+- Competitive antagonist of breast estrogen receptor
+- Used in [[#^458dca|ER+]] breast cancer
+- Estrogen *agonist* in other tissues (bone/uterus), hence **selective** estrogen receptor modulator
+- **Preferred in** *premenopausal women*
+	- This is due to **aromatase inhibitors not effective in this group**
+- Adverse effects:
+	- Com
+---
+
 ### Further details:
 **Mastectomy**: ^req1q6
 - Removal of entire affected breast
-- Often used when biopsy indicates a form of [[Breast Cancer]] that when identified, has already likely spread to the surrounding breast
+- Often used when biopsy indicates a form of breasy cancer that when identified, has already likely spread to the surrounding breast
 
 **Breast-conserving therapy**: ^wr0f30
 - Lumpectomy + radiation therapy
@@ -310,13 +323,13 @@ For patients that are **tripple negative**:
 ## Specific Management:
 ### Malignant Management:
 #### Invasive Ductal Carcinoma Management:
-Treatment is based on **TNM** [[#^c01c22]], but can include:
+Treatment is based on [[#^aae707|TNM stage]], but can include:
 1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. Chemotherapy
 3. Hormone therapy
 
 #### Invasive Lobular Carcinoma Management:
-Treatment is based on **TNM** stage, but can include:
+Treatment is based on [[#^aae707|TNM stage]], but can include:
 1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. Chemotherapy
 3. Hormone therapy
@@ -326,7 +339,7 @@ Treatment is based on **TNM** stage, but can include:
 ### Pre-malignant Management:
 #### DCIS Management:
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
-2. ER-positive cases: Found in 75% of cases, use chemoprevention
+2. [[#^458dca|ER+]] case: Found in 75% of cases, use chemoprevention
 	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
 
 #### LCIS Management:
