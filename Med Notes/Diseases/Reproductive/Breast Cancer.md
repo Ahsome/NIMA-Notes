@@ -156,6 +156,8 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 - [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
 
 --- 
+---
+
 # History
 ### Symptoms
 1. ***Mass on breast***. See [[#Examination findings]] for specific information
@@ -212,17 +214,34 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 |  |Lac of E-cadherin adhesion|[[#Invasive Lobular Carcinoma]] or [[#Lobular Carcinoma In Situ (LCIS)]]|
 
 ---
+---
 
 # Management
 ## Standard Management for Mass:
-
 It is important for management to know:
 1. [[#Breast Cancer Screening]]
 2. [[#Prognosis:]]
-3. [[Tumor Markers]]
-4. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
+3. [[#Tumor Markers]]
+4. [[#Drugs used]]
+5. [[#Further details:]] of management, such as surgery types
+6. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
 
 ^b2d703
+---
+
+### Breast Cancer Screening
+#### *Mammography*
+It detects **micro-calcifications**, which mostly occur in malignant lesions.
+![[Pasted image 20230518010624.png]]
+It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
+- [[Fat necrosis]]
+- [[Sclerosing adenosis]]
+
+**Screening guidelines**:
+![[Pasted image 20230518010724.png]] ^eb8d54
+
+---
+
 ### Prognosis:
 **Prognosis** depends on lymph node metastases, and is the *most important prognostic factor*
 - Detected by biopsy
@@ -231,7 +250,7 @@ It is important for management to know:
 	- If sentinel nodes are free, no need to get other lymph nodes
 - Provides **staging**
 
-**Staging**:
+**Staging**: ^c01c22
 - Depends on tumor size, node amount, and metastasis
 - Stave IV carries worst prognosis, when metastases occurs
 - Lymph node amount is split into three categories:
@@ -249,6 +268,8 @@ It is important for management to know:
 - ![[Pasted image 20230518024930.png]]
 
 ^aae707
+
+---
 
 ### Tumor Markers:
 Tumor markers are important for **prognosis and therapy**, but less important than [[#^aae707|TNM stage]]
@@ -271,16 +292,7 @@ For patients that are **tripple negative**:
 - Highly aggressive
 - More common in women under 40
 
-### Breast Cancer Screening
-#### *Mammography*
-It detects **micro-calcifications**, which mostly occur in malignant lesions.
-![[Pasted image 20230518010624.png]]
-It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
-- [[Fat necrosis]]
-- [[Sclerosing adenosis]]
-
-**Screening guidelines**:
-![[Pasted image 20230518010724.png]] ^eb8d54
+---
 
 ### Further details:
 **Mastectomy**: ^req1q6
@@ -291,30 +303,33 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 - Lumpectomy + radiation therapy
 - Normally lumpectomy with sentinel node biopsy
 - Positive margins require re-excision
+
+---
 ---
 
-## Malignant Management:
-### Invasive Ductal Carcinoma Management:
+## Specific Management:
+### Malignant Management:
+#### Invasive Ductal Carcinoma Management:
+Treatment is based on **TNM** [[#^c01c22]], but can include:
+1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
+2. Chemotherapy
+3. Hormone therapy
+
+#### Invasive Lobular Carcinoma Management:
 Treatment is based on **TNM** stage, but can include:
 1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. Chemotherapy
 3. Hormone therapy
 
-### Invasive Lobular Carcinoma Management:
-Treatment is based on **TNM** stage, but can include:
-1. Surgery, such as [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
-2. Chemotherapy
-3. Hormone therapy
-
 ---
 
-## Pre-malignant Management:
-### DCIS Management:
+### Pre-malignant Management:
+#### DCIS Management:
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. ER-positive cases: Found in 75% of cases, use chemoprevention
 	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
 
-### LCIS Management:
+#### LCIS Management:
 - Classic form: ^0111e7
 	- Surveillance and chemoprevention ^051576
 		- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
@@ -326,7 +341,7 @@ Treatment is based on **TNM** stage, but can include:
 - Non-classical form:
 	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 
-### Atypical Hyperplasia Management:
+#### Atypical Hyperplasia Management:
 Similar to [[#^0111e7|classic form of LCIS]], with risk reduction strategies:
 ![[#^051576]]
 
