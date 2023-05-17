@@ -31,11 +31,12 @@ Refractory GORD presents with symptoms after treatment. Causes include:
 	- Indicates acid suppression has been achieved
 	- Treated with **baclofen** (muscle relaxant)
 	- Reduces transient lower esophageal sphincter relaxation
-- **Delayed gastric emptying
+- **Delayed gastric emptying ^psj8aa
+	- Food stays in stomach long periods of time, makes GORD more likely
 	- Diagnosed by gastric emptying studies
-	- Patient consumes Technicium (99m)Tc egg or egg substitute
+	- Patient consumes Technicium (99m)Tc egg or egg substitute, check how long it takes to move through stomach
 	- Treatment: metoclopramide
-- **Residual acid reflux**:
+- **Residual acid reflux**: ^29do3v
 	- Rare in patients on twice daily PPI
 	- Can add nighttime H2 blocker
 	- Surgery or endoscopy treatment often indicated
@@ -86,6 +87,8 @@ __3. Obesity__
 6. Chocolate
 7. Peppermint
 8. Hiatal hernia
+9. Diabetes
+	1. Causes gastropoeresis, so likely to cause [[#^psj8aa|Delayed gastric emptying]] 
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -109,8 +112,8 @@ __3. Obesity__
 
 |Additional Tests|  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Gastric emptying studies|  |Test for delayed gastric emptying|
-|Esophageal catheter |pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|Gastric emptying studies|  |Test for [[GORD#^psj8aa\|delayed gastric emptying]]|
+|Esophageal catheter |pH: Reduced |Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
 |^^ |Impedance: Increased with height of regurgitation|^^|
 
 ---
@@ -134,9 +137,11 @@ Management depends on severity, **and** if refractory:
 		2. Reduces transient lower esophageal sphincter relaxations
 	2. [[GORD#^r8xz7z|Functional reflux]]:
 		1. Treat with antipsychiatric medications for anxiety and depression
-	3. Delayed gastric emptying:
+	3. [[GORD#^psj8aa|Delayed gastric emptying]]:
 		1. Metoclopramide
-	4. 
+	2. [[GORD#^29do3v|Residual acid reflux]]:
+		3. Add nighttime H2 blocker
+		4. Surgery or endoscopic treatment often indicated
 
 **Treatment options:**
 6. Non-pharmacological treatments: **First line treatment**
@@ -149,7 +154,6 @@ Management depends on severity, **and** if refractory:
 		4. Spicy foods
 		5. Carbonated beverages
 		6. Peppermint
-	4. 
 
 1. Pharmacological treatments:
 	1. Antacid+Alginate
