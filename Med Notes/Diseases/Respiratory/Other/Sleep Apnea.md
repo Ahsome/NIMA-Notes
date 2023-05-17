@@ -17,7 +17,7 @@ Two main types:
 	1. Hypoventilate when awake, ceases when sleep
 	2. Causes:
 		1. CNS disease ([[Encephalitis]])
-		2. Neuromuscular disease ([[Lower Motoneuron Disease|polio]], [[Lower Motoneuron Disease]])
+		2. Neuromuscular disease ([[Lower Motoneuron Disease|polio]], [[Lower Motoneuron Disease|ALS]])
 		3. Severe kyphoscoliosis
 		4. Narcotics
 2. Cheyne-Stokes breathing
