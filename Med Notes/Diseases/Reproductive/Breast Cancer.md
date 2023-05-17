@@ -76,6 +76,15 @@ It is important to note it is a ***not*** **a pre-malignant lesion**:
 
 ---
 
+### Atypical Hyperplasia:
+Atypical hyperplasia is often an **incidental finding on biopsy** for other reasons. It has a **substantial increase** in risk of subsequent breast cancer
+
+It comes in two forms:
+1. Atypical ductal hyperplasia (ADH)
+2. Atypical lobular hyperplasia (ALH)
+
+---
+
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
 Symptoms include:
@@ -188,21 +197,29 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 - Normally lumpectomy with sentinel node biopsy
 - Positive margins require re-excision
 
+---
+
 ## DCIS Management:
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. ER-positive cases: Found in 75% of cases, use chemoprevention
 	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
 
 ## LCIS Management:
-- Classic form:
+- Classic form: ^0111e7
 	- Surveillance and chemoprevention
-	- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
+		- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
 	- Annual mammograms
 	- Twice-yearly breast exams
 	- **Stop** oral contraceptives, avoid HRT
+		- These stimulate breast growth
 	- SERMs or aromatase inhibitors
 - Non-classical form:
 	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
+
+## Atypical Hyperplasia:
+Similar to [[#^0111e7|classic form of LCIS]]
+
+---
 
 ## Peau d'orange management:
 Steps of management include:
