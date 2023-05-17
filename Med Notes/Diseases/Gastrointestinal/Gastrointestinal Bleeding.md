@@ -23,7 +23,7 @@ Upper GI bleeding, also called hematemesis, is bleeding that is proximal to the 
 Common causes include (Italic is most):
 - *[[Peptic Ulcer Disease]]*
 - *[[Erosive gastritis]]*
-- *[[Erosive esophagitis]]*
+- *[[Gastro-oesophagus Reflux Disease (GORD)#^72cac3|Erosive esophagitis]]*
 - [[Esophageal Cancer]]
 - [[Esophageal varices]] or [[Gastric varices]]
 	- Normally due to [[Cirrhosis]]

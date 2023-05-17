@@ -187,8 +187,15 @@ Management depends on severity, **and** if refractory:
 ---
 
 # Complications
-1. **Erosive esophagitis**: Erosio
+1. **Erosive esophagitis ^72cac3
+	1. Erosions and ulcerations of esophaeal mucosa
+	2. Causes worsening/persistent [[Gastro-oesophagus Reflux Disease (GORD)]] symptoms, due to inflammation of esophagitis.
+	3. Has same treatment
 2. **Strictures**
+	1. Fibrous narrowin of esophageal lumen
+	2. Caused by healing of [[Esophagitis]]
+	3. Causes solid food dysphagia or food impaction
+	4. Treatment: Endoscopic diliatation
 3. **Barrett's esophagus and adenocarcinoma**
 
 ---
