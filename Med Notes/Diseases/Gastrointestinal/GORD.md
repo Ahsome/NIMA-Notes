@@ -9,7 +9,7 @@
 GORD is reflux of gastric contents from stomach to esophagus, due to *failure* of the **lower esophageal sphincter**.
 This causes irritation of esophageal mucosa.
 
-It is a **clinical diagnosis** based on symptoms. However, an endoscopy is done in alarming symptoms as it can indicate [[Esophageal Cancer]]. See [[#Investigations]]
+It is a **clinical diagnosis** based on symptoms. However, an endoscopy is done in [[#Alarming symptoms]] symptoms as it can indicate [[Esophageal Cancer]]. See [[#Investigations]]
 ![[Pasted image 20230517213830.png]]
 
 It **can** occur in pediatric population, especially those with immature lower esophageal symptoms.
@@ -23,7 +23,7 @@ This leads to:
 --- 
 # History
 ### Symptoms
-Classic symptoms:
+#### Classic symptoms:
 1. Heartburn
 	1. Chest pain
 	2. Retrosternal "burning" sensation
@@ -32,9 +32,20 @@ Classic symptoms:
 2. Regurgitation
 3. Dyspepsia
 
-Other symptoms:
+#### Alarming symptoms
+1. Onset at age > 60
+2. [[Gastrointestinal Bleeding]]
+3. Iron-deficiency [[Microcytic Anaemia]]
+4. Weight loss
+	1. Sign of [[Esophageal Cancer]]
+5. Dysphagia
+	1. Can be sign of advanced GORD, leading to [[Esophageal Cancer]]
+6. Persistent vomiting
+7. Gastrointestinal cancer in 1st degree relative
+
+#### Other symptoms:
 1. Respiratory
-	1. Refux into respiratory tract
+	1. Reflux into respiratory tract
 	2. [[Asthma]] (adult-onset)
 	3. Wheezing
 	4. Cough
@@ -71,7 +82,7 @@ __3. Obesity__
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Test 1|Result 1| Explanation 1                                                                                                                                                        |
+|Endoscopy|Result 1| Explanation 1                                                                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -80,7 +91,10 @@ __3. Obesity__
 ---
 
 # Management
-## Treatment
+## Overall management:
+1. Non-pharmacological treatments:
+	1. Weight loss: First line treatment
+
 
 ## Drug overview
 
