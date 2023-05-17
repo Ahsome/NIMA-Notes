@@ -92,7 +92,15 @@ __3. Obesity__
 
 # Management
 ## Overall management:
-1. Non-pharmacological treatments: **First line treatment**
+Management depends on severity:
+1. Mild GERD
+	1. <2 episodes per week, mild symptoms
+	2. Lifestyle changes + low dose H2 blocker
+2. Severe GERD
+	1. \2> episodes per week, or severe symptoms
+	2. Esophagitis on endos
+
+4. Non-pharmacological treatments: **First line treatment**
 	1. Weight loss
 	2. Smoking cessation
 	3. Dietary modification (avoid triggers)
@@ -102,14 +110,13 @@ __3. Obesity__
 		4. Spicy foods
 		5. Carbonated beverages
 		6. Peppermint
-2. Pharmacological treatments:
+5. Pharmacological treatments:
 	1. Histamine (H2) blockers
 		1. Famotidine, Ranitidine
-		2. Block istamine receptors in parietal cells
-	2. Propot-pump Inhibitors
+		2. Block istamine receptors in parietal cells, leads to less acid production
+	2. Proton-pump Inhibitors
 		1. Omeprazole, Pantoprazole, Lensoprazole
 		2. Inhibit H+ pump in parietal cells
-		3. 
 
 
 ## Drug overview
