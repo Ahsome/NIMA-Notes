@@ -195,8 +195,8 @@ Management depends on severity, **and** if refractory:
 	1. Fibrous narrowin of esophageal lumen
 	2. Caused by healing of [[Esophagitis]]
 	3. Causes solid food dysphagia or food impaction
-	4. Treatment: Endoscopic diliatation
-3. **Barrett's esophagus and adenocarcinoma**
+	4. Treatment: Endoscopic diliatation, similar to [[Esophageal webs]]
+3. **[[Esophageal Cancer|Barrett's esophagus and adenocarcinoma]]**
 
 ---
 
