@@ -108,4 +108,4 @@ Only use **surgery** if [[Gastro-oesophagus Reflux Disease (GORD)#^f89517|Refrac
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2 > GORD and Esophageal Cancer*
