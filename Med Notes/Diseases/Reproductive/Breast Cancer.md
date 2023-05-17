@@ -33,7 +33,12 @@ There are two other variants/effects of cancer:
 
 ### Ductul Carcinoma In Situ (DCIS)
 Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
-THey fill the ductal lumen, but are limited by intact basement membrane
+They fill the ductal lumen, but are limited by intact basement membrane:
+![[Pasted image 20230518013617.png]]
+*Biopsy of [[#Ductul Carcinoma In Situ (DCIS)]]. Notice limited by basement membrane*
+
+It forms **microcalcifications**, that can be detected by [[#Mammography]]
+- Many subtypes, based on histology
 
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
@@ -117,7 +122,8 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Skin biopsy|Paget cells|Shows intraepithelial adenocarcinoma cellsSign of [[#Paget Disease]] <br> <br>|
+|Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> ign of [[#Paget Disease]] <br> <br>|
+|Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
