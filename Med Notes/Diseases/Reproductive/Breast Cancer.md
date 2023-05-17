@@ -22,13 +22,18 @@ There are two main forms of breast carcinoma. They can be *in situ* (limited by 
 1. Ductal carcinoma, resemble duct cells in breast
 2. Lobular carcinoma, resemble lobules in breast
 
-There can also be premalignant lesions associated with s
+There can also be premalignant lesions associated with significantly increased risk of subsequent cancer:
+- Ductal carcinoma in situ
+- Lobular carcinoma in situ
+- Atypical hyperplasia
 
 There are two other variants/effects of cancer:
 1. [[#Peau d'orange]]
 2. [[#Paget Disease]]
 
-## Dutal
+### Ductul Carcinoma In Situ (DCIS)
+Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
+THey fill the ductal lumen, but are limited by intact basement membrane
 
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
