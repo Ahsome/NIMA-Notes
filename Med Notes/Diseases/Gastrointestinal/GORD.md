@@ -92,8 +92,24 @@ __3. Obesity__
 
 # Management
 ## Overall management:
-1. Non-pharmacological treatments:
-	1. Weight loss: First line treatment
+1. Non-pharmacological treatments: **First line treatment**
+	1. Weight loss
+	2. Smoking cessation
+	3. Dietary modification (avoid triggers)
+		1. Fatty foods
+		2. Caffeiene
+		3. Chocolate
+		4. Spicy foods
+		5. Carbonated beverages
+		6. Peppermint
+2. Pharmacological treatments:
+	1. Histamine (H2) blockers
+		1. Famotidine, Ranitidine
+		2. Block istamine receptors in parietal cells
+	2. Propot-pump Inhibitors
+		1. Omeprazole, Pantoprazole, Lensoprazole
+		2. Inhibit H+ pump in parietal cells
+		3. 
 
 
 ## Drug overview
