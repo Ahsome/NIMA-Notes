@@ -219,7 +219,8 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 It is important for management to know:
 1. [[#Breast Cancer Screening]]
 2. [[#Prognosis:]]
-3. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
+3. [[Tumor Markers]]
+4. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
 
 ^b2d703
 ### Prognosis:
@@ -233,9 +234,23 @@ It is important for management to know:
 **Staging**:
 - Depends on tumor size, node amount, and metastasis
 - Stave IV carries worst prognosis, when metastases occurs
+- Lymph node amount is split into three categories:
+	- **Category 1:**
+		- Breast cancer cells have been found in one to three lymph nodes in the armpit. 
+	- **Category 2:**   
+		- Breast cancer cells have been found in:
+		- 4–9 lymph nodes in the armpit, and the lymph nodes are also enlarged, and/or attached to each other or to nearby tissue; or
+		- 1 or more lymph nodes under the breastbone, but not in any lymph nodes in the armpit. 
+	- **Category 3:**   
+		- Breast cancer cells have been found in:
+		- 10 or more lymph nodes in the armpit; or
+		- 1 or more lymph nodes above or below the collarbone; or
+		- 1 or more lymph nodes under the breastbone and 1 or more lymph nodes in the armpit.
 
 ![[Pasted image 20230518024930.png]]
 
+### Tumor Markers:
+Tumor markers are important for **prognosis and therapy**, but less important than [[^Stag]]
 ### Breast Cancer Screening
 #### *Mammography*
 It detects **micro-calcifications**, which mostly occur in malignant lesions.
