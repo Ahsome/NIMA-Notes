@@ -6,7 +6,7 @@
 ---
 
 # Information
-GORD 
+GORD is r
 
 > [!Important]+ Summary
 - Important point
