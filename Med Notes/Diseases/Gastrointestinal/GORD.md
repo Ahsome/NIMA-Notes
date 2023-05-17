@@ -7,8 +7,15 @@
 
 # Information
 GORD is reflux of gastric contents from stomach to esophagus, due to *failure* of the **lower esophageal sphincter**.
-This causes irritation of esophageal mucosa
+This causes irritation of esophageal mucosa.
+
+It is a **clinical diagnosis** based on symptoms. However, an endoscopy is done in alarming symptoms as it can indicate [[Esophageal Cancer]]. See [[#Investigations]]
 ![[Pasted image 20230517213830.png]]
+
+It **can** occur in pediatric population, especially those with immature lower esophageal symptoms.
+This leads to:
+- Vomiting
+- Crying
 
 > [!Important]+ Summary
 - Important point
@@ -34,8 +41,17 @@ Other symptoms:
 	5. Dyspnea
 2. Damged to eenamel of teeth
 3. Dysphagia
-### Risk factors:
 
+### Risk factors:
+**Bolded if high risk**
+__1. Alcohol__
+__2. Smoking__
+__3. Obesity__
+4. Fatty foods
+5. Caffeine
+6. Chocolate
+7. Peppermint
+8. Hiatal hernia
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -55,7 +71,7 @@ Other symptoms:
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|Test 1|Result 1| Explanation 1                                                                                                                                                        |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
