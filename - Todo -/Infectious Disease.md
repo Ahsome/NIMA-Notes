@@ -8,18 +8,18 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Sepsis & septic shock
-- [ ] Bacterial meningitis
+- [x] Sepsis & septic shock
+- [x] Bacterial meningitis
 - [x] [[Pneumonia]] and other respiratory tract infections
-- [ ] Urinary tract infections
-- [ ] Skin and soft tissue infections (e.g. [[Cellulitis and Erysipelas]])
-- [ ] Diabetic foot infections
+- [x] Urinary tract infections
+- [x] Skin and soft tissue infections (e.g. [[Cellulitis and Erysipelas]])
+- [x] Diabetic foot infections
 
 #### Know principles
 - [ ] Joint and bone infections
-- [ ] Gastroenteritis
+- [x] Gastroenteritis
 - [ ] Health-care associated infections
-- [ ] Sexually transmitted infections
+- [x] Sexually transmitted infections
 - [ ] HIV
 - [ ] Tuberculosis
 

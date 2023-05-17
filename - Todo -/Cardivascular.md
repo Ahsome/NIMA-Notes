@@ -8,7 +8,7 @@
 
 ### *Expected knowledge*:
 #### Know in depth
-- [ ] ACS and angina
+- [x] ACS and angina
 - [x] [[Heart Failure]]
 - [ ] Valvular heart disease
 - [ ] Arrhythmia, such as [[Atrial Fibrillation]]
