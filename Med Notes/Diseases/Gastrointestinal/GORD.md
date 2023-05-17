@@ -98,7 +98,9 @@ Management depends on severity:
 	2. Lifestyle changes + low dose H2 blocker
 2. Severe GERD
 	1. \2> episodes per week, or severe symptoms
-	2. Esophagitis on endos
+	2. Esophagitis on endoscopy
+	3. Daily PPI therapy
+	4. Can incrase to PPI therapy BID if needed
 
 4. Non-pharmacological treatments: **First line treatment**
 	1. Weight loss
