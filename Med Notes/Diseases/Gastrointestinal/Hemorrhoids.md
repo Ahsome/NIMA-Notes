@@ -25,7 +25,7 @@ When they bleed, bleeding comes from the *internal (superior) hemorrhoidal plexu
 - Plexus of veins supplied by branches of IMA
 - Venous drainage to superior rectal vein --> Portal system
 	- As such, [[#Internal hemorrhoids]] more common with patients with [[Portal Hypertension]]
-- May swell in portal hypertension
+- May swell in [[portal hypertension]]
 
 It lacks visceral innervation. As such, it has **painless bleeding with bowel movements**
 

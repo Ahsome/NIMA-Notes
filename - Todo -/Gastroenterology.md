@@ -17,7 +17,7 @@
 - [ ] Colorectal carcinoma
 - [ ] Oncology GORD, peptic ulcer disease & *H.pylori*, Barrett’s oesophagus
 - [ ] Haemochromatosis
-- [ ] Acute liver failure (including drugs, viral hepatitis, alcoholic hepatitis)
+- [ ] Acute [[liver failure]] (including drugs, viral hepatitis, alcoholic hepatitis)
 - [ ] Infectious diarrhoe
 
 #### Some Knowledge

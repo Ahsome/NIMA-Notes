@@ -102,7 +102,7 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 	2. Hgb < 8mg/dL  for young, low risk patients
 	3. Hgb < 9mg/dL or older, comorbid patients
 	4. Hgb < 7mg/dL for variceal bleeds
-		1. Lower because due to portal hypertension, transfusion can further increase pressure
+		1. Lower because due to [[portal hypertension]], transfusion can further increase pressure
 4. Platelet transfusion if platelets < 50k
 5. FFP or prothrombin complex for coagulopathy
 

@@ -45,7 +45,7 @@ There are many causes of acute liver failure. Liver failure often times leads to
 - Prologed PT/PTT
 - Thrombocytopenia (loss of TPO)
 - Anorexia, weight loss, fatigue and jaundice = cirrhosis
-- Ascites and pitting LL oedema - portal HTN and low albumin = cirrhosis
+- Ascites and pitting LL oedema - [[Portal Hypertension]] and low albumin = cirrhosis
 
 ### Risk factors for cirrhosis:
 - Viral hepatitis - B and C
