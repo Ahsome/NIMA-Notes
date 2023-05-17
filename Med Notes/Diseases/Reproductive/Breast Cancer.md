@@ -42,6 +42,15 @@ There are two other variants/effects of cancer:
 
 ---
 
+### Invasive Ductal Carcinoma
+This is the **most common type** (~80%) of invasive carcinoma
+Biopsy identifies **duct cells with stroma**
+It most commonly occurs in the **outer quadrant of breast**:
+
+![[Pasted image 20230518021723.png]]
+
+---
+
 ### Ductul Carcinoma In Situ (DCIS)
 Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
 75% of cases are ER positive
@@ -88,6 +97,8 @@ It is important to note it is a ***not*** **a pre-malignant lesion**:
 ### Atypical Hyperplasia:
 Atypical hyperplasia is often an **incidental finding on biopsy** for other reasons.
 It has a **substantial increase** in risk of subsequent breast cancer
+
+![[Pasted image 20230518021501.png]]
 
 It comes in two forms:
 1. Atypical ductal hyperplasia (ADH)
@@ -197,6 +208,7 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> Sign of [[#Paget Disease]] <br> <br>|
 |Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
+|  |Duct cells with stroma|Indicative of [[#Invasive Ductal Carcinoma]]|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -216,15 +228,23 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 - Lumpectomy + radiation therapy
 - Normally lumpectomy with sentinel node biopsy
 - Positive margins require re-excision
+---
+
+## Malignant Management:
+### Invasive Ductal Carcinoma:
+Treatment is based on **TNM** stage, but can include:
+1. 
+
 
 ---
 
-## DCIS Management:
+## Pre-malignant Management:
+### DCIS Management:
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. ER-positive cases: Found in 75% of cases, use chemoprevention
 	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
 
-## LCIS Management:
+### LCIS Management:
 - Classic form: ^0111e7
 	- Surveillance and chemoprevention ^051576
 		- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
@@ -236,13 +256,13 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 - Non-classical form:
 	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 
-## Atypical Hyperplasia Management:
+### Atypical Hyperplasia Management:
 Similar to [[#^0111e7|classic form of LCIS]], with risk reduction strategies:
 ![[#^051576]]
 
 
 ---
-
+## Other management:
 ## Peau d'orange management:
 Steps of management include:
 1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
@@ -260,7 +280,7 @@ Steps of management include:
 		1. Mastectomy or breast-conserving therapy
 		2. Most have DCIS, about 25% have invasive cancer
 
-## Drug overview
+---
 
 ## Criteria
 ### Example severity/test score:
