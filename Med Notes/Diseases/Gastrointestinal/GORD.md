@@ -19,7 +19,9 @@ This causes irritation of esophageal mucosa
 1. Heartburn
 	1. Chest pain
 	2. Retrosternal "burning" sensation
-	3. Occur
+	3. Occurs after meals
+	4. Often when lying flat
+2. Re
 ### Risk factors:
 
 ### Questions to ask
