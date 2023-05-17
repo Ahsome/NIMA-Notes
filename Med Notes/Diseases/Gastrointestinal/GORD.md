@@ -16,7 +16,7 @@ This causes irritation of esophageal mucosa
 --- 
 # History
 ### Symptoms
-
+1. Hea
 ### Risk factors:
 
 ### Questions to ask
