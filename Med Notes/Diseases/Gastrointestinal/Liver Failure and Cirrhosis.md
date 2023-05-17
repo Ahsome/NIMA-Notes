@@ -95,9 +95,6 @@ There are many causes of acute liver failure. Liver failure often times leads to
 	- Hypoglycaemia
 
 
-### Questions to ask
->*"Do you notice any ???"*
-
 ---
 
 ## Examination findings
@@ -212,7 +209,5 @@ Goal is to reduce serum ammonia
 ---
 
 # Extra
-## Relevant notes:
-1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2:* GASTRO: Liver
