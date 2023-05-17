@@ -18,13 +18,15 @@ Screening is recommended for women depeding on age:
 It can rarely occur in men
 
 ## Forms of Breast Cancer
-There are two main forms of breast carcinoma:
-1. Ductal carcinoma
-2. Lobular carcinoma
+There are two main forms of breast carcinoma. They can be *in situ* (limited by basement membrane) or *invasive*:
+1. Ductal carcinoma, resemble duct cells in breast
+2. Lobular carcinoma, resemble lobules in breast
 
 There are two other variants/effects of cancer:
 1. [[#Peau d'orange]]
 2. [[#Paget Disease]]
+
+## Dutal
 
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
