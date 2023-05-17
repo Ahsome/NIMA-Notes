@@ -47,7 +47,9 @@ It forms **microcalcifications**, that can be detected by [[#Mammography]]
 - Contrast with [[#Lobular Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
 - Many subtypes, based on histology
 
-It is important to note it is a **pre-malignant lesion**. 
+It is important to note it is a **pre-malignant lesion**:
+- If left untouched, it will develop to malignant lesion
+- Contrast with [[#Lobular Carcinoma In Situ (LCIS)]], which is *not* a pre-malignant lesion, but identification is a risk factor for other invasive [[Breast Cancer]]
 
 ---
 
@@ -60,8 +62,15 @@ Proliferation of cells in ducts/lobules, that are limited by intact basememnt me
 
 ![[Pasted image 20230518015241.png]]
 
+It has two forms, that affect 
+
 It lacks **microcalcifications**, so it *cannot* be detected by [[#Mammography]]
 - Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
+
+It is important to note it is a ***not*** **a pre-malignant lesion**:
+- If left untouched, it will ***not develop*** to malignant lesion
+- Rather, it identifies a risk of bilaterial lesions later in life
+- Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which is a pre-malignant lesion
 
 ---
 
@@ -98,7 +107,7 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ![[Pasted image 20230518010724.png]] ^eb8d54
 
 > [!Important]
-- Important point
+- [[#Ductul Carcinoma In Situ (DCIS)]] is a premalignant lesion that can develop to a malignant lesion. [[#Lobular Carcinoma In Situ (LCIS)]] is *not* a plemalignant lesion, it will *not* develop to a malignant lesion, but is a risk factor for further lesion
 
 --- 
 # History
@@ -128,6 +137,8 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 7. **Age at first live birth**
 	1. Young (<20) = Protective
 	2. Older (>35) = Higher Risk
+8. [[#Lobular Carcinoma In Situ (LCIS)]]
+	1. Now higher risk for bilateral [[Breast Cancer]]
 
 ### Questions to ask
 >*"Do you notice any ???"*
