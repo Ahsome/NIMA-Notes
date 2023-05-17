@@ -8,17 +8,18 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Cirrhosis and chronic liver disease (including common causes)
-- [ ] Jaundice and cholestasis
-- [ ] Upper and lower GI bleeding
+- [x] Cirrhosis and chronic liver disease (including common causes)
+- [x] Jaundice and cholestasis
+- [x] Upper and lower GI bleeding
 
 #### Know principles
 - [x] Inflammatory bowel disease
-- [ ] Colorectal carcinoma
-- [ ] Oncology GORD, peptic ulcer disease & *H.pylori*, Barrett’s oesophagus
+- [x] Colorectal carcinoma
+- [x] Oncology GORD, Barrett’s oesophagus
+- [ ] peptic ulcer disease & *H.pylori*
 - [ ] Haemochromatosis
-- [ ] Acute [[liver failure]] (including drugs, viral hepatitis, alcoholic hepatitis)
-- [ ] Infectious diarrhoe
+- [x] Acute liver failure (including drugs, viral hepatitis, alcoholic hepatitis)
+- [x] Infectious diarrhoe
 
 #### Some Knowledge
 - [ ] Neoplasia of the gastrointestinal tract, liver, pancreas and biliary system

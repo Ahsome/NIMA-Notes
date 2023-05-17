@@ -10,12 +10,12 @@
 #### Know in depth
 - [ ] Acute kidney injury
 - [x] [[Chronic kidney disease]]
-- [ ] Urinary tract infection
-- [ ] Hyperkalaemia and hypokalaemia
+- [x] Urinary tract infection
+- [x] Hyperkalaemia and hypokalaemia
 
 #### Know principles
 - [ ] Hypertension including secondary hypertension (e.g. primary aldosteronism, renal artery stenosis, glomerular disease)
-- [ ] Nephrotic syndrome
+- [x] Nephrotic syndrome
 - [ ] Haematuria
 
 #### Some Knowledge

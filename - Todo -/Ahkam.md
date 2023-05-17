@@ -14,7 +14,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] GORD
 - [ ] [[Breast Cancer]]
 - [ ] Urinary Incontinence
 
@@ -25,6 +24,7 @@ kanban-plugin: basic
 - [x] [[Headaches]]
 - [x] Upper GI bleeding
 - [x] Pseudogout
+- [x] GORD
 - [x] Sleep Apnea
 - [x] STI
 - [x] [[Parkinson's]]

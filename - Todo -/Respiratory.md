@@ -8,7 +8,7 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Airways disease ([[Asthma]], bronchiectasis and [[COPD]])
+- [ ] Airways disease ([[Asthma]], [[bronchiectasis]] and [[COPD]])
 - [x] Conditions relating to venous thrombo-embolic disease, particularly [[Pulmonary Embolus]]
 - [ ] Thoracic tumours and [[Lung cancer|lung nodules]]
 - [x] Common pulmonary infections [[Pneumonia]]
@@ -16,7 +16,7 @@
 #### Know principles
 - [ ] Pneumothorax
 - [ ] Pleural effusion
-- [ ] Sleep disordered breathing
+- [x] Sleep disordered breathing
 - [ ] Respiratory failure with application of oxygen therapy and non-invasive ventilation
 - [ ] Cystic fibrosis
 

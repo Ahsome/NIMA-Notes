@@ -8,10 +8,11 @@
 
 ### *Expected knowledge*
 #### Know in depth
-- [ ] Stroke
-- [ ] Seizure and seizure disorders
-- [ ] Central nervous system infections
-- [ ] Primary and secondary headache
+- [x] Stroke
+- [x] Seizure and seizure disorders
+- [x] Central nervous system infections, including [[Meningitis]], [[Encephalitis]], and abscesses
+- [x] Primary headache
+- [ ] Secondary headache
 - [ ] Peripheral neuropathy
 - [x] [[Syncope (LOC)]]
 
@@ -19,7 +20,7 @@
 - [ ] Neurological emergencies e.g. Status epilepticus, Guillain-Barre Syndrome, spinal cord compression and altered level of consciousness
 - [ ] Cognitive impairment
 - [ ] Multiple Sclerosis
-- [ ] Parkinson’s Disease
+- [x] Parkinson’s Disease
 - [ ] Geriatrics Alzheimer’s Disease
 - [ ] Geriatrics Tumours in central nervous system
 - [ ] Inflammatory disorders in neurological system
