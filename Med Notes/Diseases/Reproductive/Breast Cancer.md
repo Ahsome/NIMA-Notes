@@ -226,6 +226,15 @@ It is important for management to know:
 **Prognosis** depends on lymph node metastases, and is the *most important prognostic factor*
 - Detected by biopsy
 - Sentinel node biopsy often performed
+	- Tracer is applied near lesion, which will move to certain lymph nodes, called sentinel nodes
+	- If sentinel nodes are free, no need to get other lymph nodes
+- Provides **staging**
+
+**Staging**:
+- Depends on tumor size, node amount, and metastasis
+- Stave IV carries worst prognosis, when metastases occurs
+
+![[Pasted image 20230518024930.png]]
 
 ### Breast Cancer Screening
 #### *Mammography*
@@ -237,7 +246,6 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 
 **Screening guidelines**:
 ![[Pasted image 20230518010724.png]] ^eb8d54
-
 
 ### Further details:
 **Mastectomy**: ^req1q6
