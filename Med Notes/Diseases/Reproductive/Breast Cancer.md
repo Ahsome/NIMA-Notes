@@ -57,6 +57,8 @@ Symptoms include:
 ### Paget Disease
 Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
 Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
+
+[[#Paget disease management:|Management]] involves mammography. 50% of cases have palpable masses, but even with no masses there should be mammography. Stand 
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -67,10 +69,10 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 | ------------ | -------- | ------------- |
 |Breast mass|Hard, immobile mass with irregular borders|Classic features of [[Breast Cancer]]|
 |Axilla |Axillary Adenopathy|Late disease findings|
-|Superficial breast|Dimpling of skin, erythrema, swelling of breast |Caused by [[#Peau d'orange]], tumor invasion of dermal lymphatic vessels <br> <br>Erythema/swelling does not dissapear with antibiotics|
-|^^|May be itchy, painful |^^|
-|Nipple|Erythema|  |
-|^^|Bloody discharge|  |
+|Superficial breast|Dimpling of skin, erythrema, swelling of breast |Caused by [[#Peau d'orange]], tumor invasion of dermal lymphatic vessels <br> <br>Erythema/swelling does not dissapear with antibiotics<br><br>![[Pasted image 20230518005216.png\|100]] |
+|^^|May be itchy, painful |^^ |
+|Nipple|Erythema|[[#Paget Disease]], due to underlying malignancy <br> <br>![[Pasted image 20230518005724.png\|150]]|
+|^^|Bloody discharge|^^|
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
@@ -81,7 +83,7 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+|Skin biopsy|Paget cells|Shows intraepithelial adenocarcinoma cellsSign of [[#Paget Disease]] <br> <br>|
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
@@ -94,6 +96,14 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 Steps of management include:
 1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
 2. Diagnostic mammography +/- USS
+
+## Paget disease management:
+Steps of management include:
+1. Initial presentation screening, look for symptoms such as erythema at nipple and bloody nipple discharge. See [[#Investigations]]
+2. Skin biopsy
+	1. Should show **Paget cells**: Intraepithelial adenocacinoma cells
+3. Mammography, found in 50% of cases
+	1. If positive palpable
 
 ## Drug overview
 
