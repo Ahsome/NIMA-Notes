@@ -62,7 +62,9 @@ Proliferation of cells in ducts/lobules, that are limited by intact basememnt me
 
 ![[Pasted image 20230518015241.png]]
 
-It has two forms, that affect 
+It has two forms based on histology, that affect [[#LCIS Management:|management]]:
+1. Classic form
+2. Non-classic form
 
 It lacks **microcalcifications**, so it *cannot* be detected by [[#Mammography]]
 - Contrast with [[#Ductul Carcinoma In Situ (DCIS)]], which *lacks micro-calcifications*
@@ -190,6 +192,17 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. ER-positive cases: Found in 75% of cases, use chemoprevention
 	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
+
+## LCIS Management:
+- Classic form:
+	- Surveillance and chemoprevention
+	- This is because LCIS does not progress to maligancy, just increases the chance of malignancy
+	- Annual mammograms
+	- Twice-yearly breast exams
+	- **Stop** oral contraceptives, avoid HRT
+	- SERMs or aromatase inhibitors
+- Non-classical form:
+	- Surgical excision via [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 
 ## Peau d'orange management:
 Steps of management include:
