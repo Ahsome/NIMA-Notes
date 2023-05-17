@@ -17,12 +17,17 @@ This leads to:
 - Vomiting
 - Crying
 
-It can often lead to **refractory GORD**. This has two main causes:
+It can often lead to **refractory GORD**. This has these causes:
 - Poor compiance with medical therapy after treatment
-- **Functional heartburn**
+- **Functional heartburn** ^r8xz7z
 	- When patient has symptoms, but has normal esophageal pH/manometry testing
 	- Associated with anxiety and [[Depression]]
 	- Sometimes treated with psychiatric medications
+- **Non-acid reflux** ^77sdt5
+	- Reflux after meals, but not acidic pH on testing
+	- Indicates acid suppression has been achieved
+	- Treated with **baclofen** (muscle relaxant)
+	- Reduces transient lower esophageal sphincter relaxation
 
 > [!Important]+ Summary
 - Important point
@@ -93,7 +98,7 @@ __3. Obesity__
 
 | Additional Tests               |  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
 |^^|Impedance: Increased with height of regurgitation|^^|
 
 ---
@@ -131,6 +136,7 @@ Management depends on severity:
 	4. Proton-pump Inhibitors
 		1. Omeprazole, Pantoprazole, Lensoprazole
 		2. Inhibit H+ pump in parietal cells
+	5. B
 
 
 ## Drug overview
