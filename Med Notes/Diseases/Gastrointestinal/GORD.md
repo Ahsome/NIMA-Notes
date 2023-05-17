@@ -17,7 +17,9 @@ This causes irritation of esophageal mucosa
 # History
 ### Symptoms
 1. Heartburn
-	1. Chest painR
+	1. Chest pain
+	2. Retrosternal "burning" sensation
+	3. Occur
 ### Risk factors:
 
 ### Questions to ask
