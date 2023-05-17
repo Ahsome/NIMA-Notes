@@ -206,4 +206,4 @@ Management depends on severity, **and** if refractory:
 ## Relevant notes:
 1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2 > GORD and Esophageal Cancer*
