@@ -14,12 +14,37 @@ It is mostly a disease of older women:
 
 It can rarely occur in men
 
+## Forms of Breast Cancer
+### Peau d'orange
+[[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
+Symptoms include:
+- Dimpling of skin, similar to orange rind
+- Erthyema, swelling, that **has no response to antibiotics** after initial diagnosis of infection
+- Itchy or painful
+
+![[Pasted image 20230518005216.png]]
+
+### Paget Disease
+Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
+Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
+
+[[#Paget disease management:|Management]] involves mammography. 50% of cases have palpable masses, but even with no masses there should be mammography.
+
+## Breast Cancer Screening
+### Mammography
+It detects **micro-calcifications**, which mostly occur in malignant lesions.
+![[Pasted image 20230518010624.png]]
+It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
+- [[Fat necrosis]]
+- [[Sclerosing adenosis]]
+
 > [!Important]
 - Important point
 
 --- 
 # History
 ### Symptoms
+1. ***Mass on breast***. See [[#Examination findings]] for specific information
 
 ### Risk factors:
 **Modifiable Risk Factors**:
@@ -45,20 +70,6 @@ It can rarely occur in men
 	1. Young (<20) = Protective
 	2. Older (>35) = Higher Risk
 
-### Peau d'orange
-[[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
-Symptoms include:
-- Dimpling of skin, similar to orange rind
-- Erthyema, swelling, that **has no response to antibiotics** after initial diagnosis of infection
-- Itchy or painful
-
-![[Pasted image 20230518005216.png]]
-
-### Paget Disease
-Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
-Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
-
-[[#Paget disease management:|Management]] involves mammography. 50% of cases have palpable masses, but even with no masses there should be mammography. Stand 
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -92,6 +103,8 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 ---
 
 # Management
+## Standard Management for Mass:
+
 ## Peau d'orange management:
 Steps of management include:
 1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
@@ -103,7 +116,11 @@ Steps of management include:
 2. Skin biopsy
 	1. Should show **Paget cells**: Intraepithelial adenocacinoma cells
 3. Mammography, found in 50% of cases
-	1. If positive palpable
+	1. If positive palpable mass and mammogram:
+		1. Proceed with [[#Standard Management for Mass:]]
+	2. If no mass/lesion:
+		1. Mastectomy or breast-conserving therapy
+		2. Most have DCIS, about 25% have invasive cancer
 
 ## Drug overview
 
