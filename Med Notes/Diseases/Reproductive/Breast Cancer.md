@@ -12,9 +12,20 @@ It is mostly a disease of older women:
 - Incidence increases after age 30
 - Median age at diagnosis: 62 years
 
+Screening is recommended for women depeding on age:
+![[#^eb8d54]]
+
 It can rarely occur in men
 
 ## Forms of Breast Cancer
+There are two main forms of breast carcinoma:
+1. Ductal carcinoma
+2. Lobular carcinoma
+
+There are two other variants/effects of cancer:
+1. [[#Peau d'orange]]
+2. [[#Paget Disease]]
+
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
 Symptoms include:
@@ -22,7 +33,7 @@ Symptoms include:
 - Erthyema, swelling, that **has no response to antibiotics** after initial diagnosis of infection
 - Itchy or painful
 
-![[Pasted image 20230518005216.png]]
+![[Pasted image 20230518005216.png]] ^e9f622
 
 ### Paget Disease
 Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
@@ -37,6 +48,9 @@ It detects **micro-calcifications**, which mostly occur in malignant lesions.
 It can also occur in non-malignant lesion. If found, biopsy is done to identify if malignant. Causes include:
 - [[Fat necrosis]]
 - [[Sclerosing adenosis]]
+
+**Screening guidelines**:
+![[Pasted image 20230518010724.png]] ^eb8d54
 
 > [!Important]
 - Important point
