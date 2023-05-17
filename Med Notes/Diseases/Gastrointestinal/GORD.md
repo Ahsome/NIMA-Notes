@@ -17,6 +17,13 @@ This leads to:
 - Vomiting
 - Crying
 
+It can often lead to **refractory GORD**. This has two main causes:
+- Poor compiance with medical therapy after treatment
+- **Functional heartburn**
+	- When patient has symptoms, but has normal esophageal pH/manometry testing
+	- Associated with anxiety and [[Depression]]
+	- Sometimes treated with psychiatric medications
+
 > [!Important]+ Summary
 - Important point
 
@@ -82,12 +89,12 @@ __3. Obesity__
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Endoscopy|Result 1| Explanation 1                                                                                                                                                        |
+|Endoscopy|  |  |
 
 | Additional Tests               |  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>![[Pasted image 20230517222304.png\|150]]|
-|  |Impedance: Increased with height of regurgitation|^^|
+|Esophageal catheter|pH: Reduced|Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|^^|Impedance: Increased with height of regurgitation|^^|
 
 ---
 
