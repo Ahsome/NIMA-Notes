@@ -41,6 +41,16 @@ Portal Hypertension opens venous collaterals between the portal and systemic vei
 	- Leads to unopposed alpha-mediated vasoconstriction
 	- Decreases portal inflow --> decreased portal pressures 
 
+
+### General treatment of ascites and portal hypertension
+1. Sodium restriction
+	- Goal <2000mcg/day
+2. Spironolactone (drug of choice)
+	- Potassium-sparing diuretic
+	- Most effective drug for ascites 
+3. Large volume ascitic paracentesis 
+4. Surgical: Transjugular intrahepatic portosystemic shunt (TIPS)
+	- Creation of a channel in liver which bypasses the cirrhotic liver and treats portal HTN
 ---
 
 # Extra

@@ -155,6 +155,7 @@ Medical management:
 	1. Used *only for variceal bleeds* with *[[Cirrhosis]]*
 	2. Given as up to 20% develop infections, often spontaneous bacterial [[Peritonitis]]
 	3. Also shown to ⬇️ bleeding
+	4. To prophylactically treat [[Liver Failure and Cirrhosis#^13de6d|SBP]] use **==ciprofloxacin==** or **==trimethoprim ==**
 
 Main stay management:
 1. **Upper endoscopy**:
