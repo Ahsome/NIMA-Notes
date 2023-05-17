@@ -426,7 +426,7 @@ Similar to [[#^0111e7|classic form of LCIS]], with risk reduction strategies:
 ## Peau d'orange management:
 Steps of management include:
 1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
-2. Exclude other causes of erythema and swelling of breast, such as **infections**. Do routine checks s
+2. Exclude other causes of erythema and swelling of breast, such as **infections**. Do routine checks such as history of feer, WCC count etc.
 3. Diagnostic mammography +/- USS
 4. If present, follow management based on diagosis
 
