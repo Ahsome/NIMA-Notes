@@ -33,6 +33,7 @@ There are two other variants/effects of cancer:
 
 ### Ductul Carcinoma In Situ (DCIS)
 Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
+75% of cases are ER positive
 They fill the ductal lumen, but are limited by intact basement membrane:
 ![[Pasted image 20230518013617.png]]
 *Biopsy of [[#Ductul Carcinoma In Situ (DCIS)]]. Notice limited by basement membrane*
@@ -54,6 +55,8 @@ Paget Disease comes from erythema of nipple, due to underlying malignancy. It ca
 Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 [[#Paget disease management:|Management]] involves mammography. 50% of cases have palpable masses, but even with no masses there should be mammography.
+
+![[Pasted image 20230518013938.png]]
 
 ## Breast Cancer Screening
 ### Mammography
@@ -110,7 +113,7 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 |Axilla |Axillary Adenopathy|Late disease findings|
 |Superficial breast|Dimpling of skin, erythrema, swelling of breast |Caused by [[#Peau d'orange]], tumor invasion of dermal lymphatic vessels <br> <br>Erythema/swelling does not dissapear with antibiotics<br><br>![[Pasted image 20230518005216.png\|100]] |
 |^^|May be itchy, painful |^^ |
-|Nipple|Erythema|[[#Paget Disease]], due to underlying malignancy <br> <br>![[Pasted image 20230518005724.png\|150]]|
+|Nipple|Erythema|[[#Paget Disease]], due to underlying malignancy <br> <br>![[Pasted image 20230518005724.png\|150]] |
 |^^|Bloody discharge|^^|
 
 | Additional Findings | Result   | Explanation   |
@@ -122,7 +125,7 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ## Investigations
 | Key Tests                 |Result| Explanation                                                                                                                                                     |
 | ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> ign of [[#Paget Disease]] <br> <br>|
+|Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> Sign of [[#Paget Disease]] <br> <br>|
 |Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
 
 | Additional Tests               |  Result   | Explanation                |
@@ -133,6 +136,21 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 
 # Management
 ## Standard Management for Mass:
+
+### Further details:
+**Mastectomy**: ^req1q6
+- Removal of entire affected breast
+- Often used when biopsy indicates a form of [[Breast Cancer]] that when identified, has already likely spread to the surrounding breast
+
+**Breast-conserving therapy**: ^wr0f30
+- Lumpectomy + radiation therapy
+- Normally lumpectomy with sentinel node biopsy
+- Positive margins require re-excision
+
+## DCIS Management:
+1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
+2. ER-positive cases: Found in 75% of cases, use chemoprevention
+	1. Chemoprevention blocks growth of tissue that have the Estrogen R
 
 ## Peau d'orange management:
 Steps of management include:
