@@ -112,8 +112,8 @@ __3. Obesity__
 
 |Additional Tests|  Result   |Explanation|
 | ------------------------------ | --- | --------------------- |
-|Gastric emptying studies|  |Test for [[GORD#^psj8aa\|delayed gastric emptying]]|
-|Esophageal catheter |pH: Reduced |Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[GORD#^r8xz7z\|Functional heartburn]] or [[GORD#^77sdt5\|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
+|Gastric emptying studies|Longer time for technicium to be ingested|Test for [[Gastro-oesophagus Reflux Disease (GORD)#^psj8aa|delayed gastric emptying]]|
+|Esophageal catheter |pH: Reduced |Catheter inserted through nose into esophagus, left in place for 24 hours to measure: <br>- pH <br>- Impedance <br> <br>Indications: <br> - Refractory disease: Poor response to PPI, especially [[Gastro-oesophagus Reflux Disease (GORD)#^r8xz7z|Functional heartburn]] or [[Gastro-oesophagus Reflux Disease (GORD)#^77sdt5|Non-acid reflux]] <br> - Atypical symptoms possibly due to GORD <br> <br> ![[Pasted image 20230517222304.png\|150]]|
 |^^ |Impedance: Increased with height of regurgitation|^^|
 
 ---
@@ -132,19 +132,19 @@ Management depends on severity, **and** if refractory:
 	3. Daily PPI therapy
 	4. Can incrase to PPI therapy BID if needed
 4. Refractory GORD:
-	1. [[GORD#^77sdt5|Non-acid reflux]]:
+	1. [[Gastro-oesophagus Reflux Disease (GORD)#^77sdt5|Non-acid reflux]]:
 		1. Treat with [[baclofen]] (muscle relaxant)
 		2. Reduces transient lower esophageal sphincter relaxations
-	2. [[GORD#^r8xz7z|Functional reflux]]:
+	2. [[Gastro-oesophagus Reflux Disease (GORD)#^r8xz7z|Functional reflux]]:
 		1. Treat with antipsychiatric medications for anxiety and depression
-	3. [[GORD#^psj8aa|Delayed gastric emptying]]:
+	3. [[Gastro-oesophagus Reflux Disease (GORD)#^psj8aa|Delayed gastric emptying]]:
 		1. Metoclopramide
-	2. [[GORD#^29do3v|Residual acid reflux]]:
+	2. [[Gastro-oesophagus Reflux Disease (GORD)#^29do3v|Residual acid reflux]]:
 		3. Add nighttime H2 blocker
-		4. Surgery or endoscopic treatment often indicated
+		4. Surgery (such as [[#^1e379e|Fundoplication]] or endoscopic treatment often indicated
 
 **Treatment options:**
-6. Non-pharmacological treatments: **First line treatment**
+1. Non-pharmacological treatments: **First line treatment**
 	1. Weight loss
 	2. Smoking cessation
 	3. Dietary modification (avoid triggers)
@@ -154,8 +154,7 @@ Management depends on severity, **and** if refractory:
 		4. Spicy foods
 		5. Carbonated beverages
 		6. Peppermint
-
-1. Pharmacological treatments:
+2. Pharmacological treatments:
 	1. Antacid+Alginate
 	2. Magnesium Hydroxide
 	3. Histamine (H2) blockers
@@ -167,6 +166,12 @@ Management depends on severity, **and** if refractory:
 	5. Baclofen (muscle relaxant)
 		1. Reduces transient lower esophageal sphincter relaxations
 	6. Metoclopramide
+		1. Pro-kinetic, helps movement
+3. Advanced options:
+	1. Fundoplication: ^1e379e
+		1. Stomach is wrapped arond LES
+		2. ![[Pasted image 20230517225600.png]]
+		3. Can be done via surgery or endoscopically
 
 
 ## Drug overview

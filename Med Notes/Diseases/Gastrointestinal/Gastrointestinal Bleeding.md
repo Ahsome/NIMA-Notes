@@ -58,7 +58,7 @@ Lower GI risk factors:
 1. Cirhossis. Think [[Esophageal varices]] and [[Gastric varices]]
 2. Alcohol. Think [[Mallory-Weiss tear]], and [[Cirrhosis]]
 3. NSAIDs: Think [[Peptic Ulcer Disease]]
-4. H Pylori. Think exacerbations of [[GORD]], leading to [[Erosive esophagitis]] and [[Esophageal Cancer]]
+4. H Pylori. Think exacerbations of [[Gastro-oesophagus Reflux Disease (GORD)]], leading to [[Erosive esophagitis]] and [[Esophageal Cancer]]
 
 ### Questions to ask
 >*"Do you notice any ???"*

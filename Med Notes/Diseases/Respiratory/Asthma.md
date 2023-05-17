@@ -11,7 +11,7 @@
 
 > [!Important]
 - Key diagnosis is usually clinically, with symptoms and FEV1 improvment of 12-15% **after [[albuterol]]** ^89389e
-- If first occurs in adult, important to consider due to reflux into respiratory tract rom [[GORD]]
+- If first occurs in adult, important to consider due to reflux into respiratory tract rom [[Gastro-oesophagus Reflux Disease (GORD)]]
 - If bronchial obstruction not-reversible, then unlikely [[Asthma]], more likely [[Chronic Pulmonary Disease (COPD)]] ^467c50
 - Try to do a CXR to rule out if [[pneumonia]]/infection
 - If PaCO2 is increased during acute asthma attack, patient is having a respiratory attack
@@ -45,7 +45,7 @@ Acute asthma attack:
 Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | Allergic asthma | Non-allergic asthma |
 | --------------- | ------------------- |
-| - **Allergy**<br>- Environmental allergens, such as pollen/domestic animals<br>- Allergy due to workplace (e.g. flour dust) <br>- Family history of allergens               |- Viral causes<br>- Physical exertion<br>- Aspirin, See [[Asthma#*Aspirin-sensitive asthma*:]] <br>- [[GORD]], often concurrent with asthma, especially with adult onset|
+| - **Allergy**<br>- Environmental allergens, such as pollen/domestic animals<br>- Allergy due to workplace (e.g. flour dust) <br>- Family history of allergens               |- Viral causes<br>- Physical exertion<br>- Aspirin, See [[Asthma#*Aspirin-sensitive asthma*:]] <br>- [[Gastro-oesophagus Reflux Disease (GORD)]], often concurrent with asthma, especially with adult onset|
 
 ### *Questions to ask*
 >*"Do you notice any shortness of breath?"*

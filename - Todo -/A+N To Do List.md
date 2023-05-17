@@ -53,7 +53,7 @@ A patient with chest pain
 [[MI]]
 [[ACS]]
 [[Pulmonary Embolus]]
-[[GORD]]
+[[Gastro-oesophagus Reflux Disease (GORD)]]
 A patient with SOB and/or cough
 [[Asthma]]
 [[Chronic Pulmonary Disease (COPD)]]
