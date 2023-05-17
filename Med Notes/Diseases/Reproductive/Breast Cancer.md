@@ -17,6 +17,8 @@ Screening is recommended for women depeding on age:
 
 It can rarely occur in men
 
+---
+
 ## Forms of Breast Cancer
 There are two main forms of breast carcinoma. They can be *in situ* (limited by basement membrane) or *invasive*:
 1. Ductal carcinoma, resemble duct cells in breast
@@ -31,6 +33,8 @@ There are two other variants/effects of cancer:
 1. [[#Peau d'orange]]
 2. [[#Paget Disease]]
 
+---
+
 ### Ductul Carcinoma In Situ (DCIS)
 Ductual Carcinoma In Situ (DCIS) is malignant growth cells of Terminal Duct Lobular Unit
 75% of cases are ER positive
@@ -41,6 +45,15 @@ They fill the ductal lumen, but are limited by intact basement membrane:
 It forms **microcalcifications**, that can be detected by [[#Mammography]]
 - Many subtypes, based on histology
 
+---
+
+### Lobular Ductul Carcinoma In Situ (DCIS)
+Proliferation of cells in ducts/lobules, that are limited by intact basememnt membrane
+- Exhibits "Discohesive growth": With loose intercellular connections
+- Loss of adhesion prtein E-cadherin
+
+---
+
 ### Peau d'orange
 [[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
 Symptoms include:
@@ -50,6 +63,8 @@ Symptoms include:
 
 ![[Pasted image 20230518005216.png]] ^e9f622
 
+---
+
 ### Paget Disease
 Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
 Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
@@ -57,6 +72,8 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 [[#Paget disease management:|Management]] involves mammography. 50% of cases have palpable masses, but even with no masses there should be mammography.
 
 ![[Pasted image 20230518013938.png]]
+
+---
 
 ## Breast Cancer Screening
 ### Mammography
@@ -150,7 +167,7 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 ## DCIS Management:
 1. [[Breast Cancer#^req1q6|Mastectomy]] or [[Breast Cancer#^wr0f30|breast-conserving therapy]]
 2. ER-positive cases: Found in 75% of cases, use chemoprevention
-	1. Chemoprevention blocks growth of tissue that have the Estrogen R
+	1. Chemoprevention blocks growth of tissue that have the ER-positive tissue in breast
 
 ## Peau d'orange management:
 Steps of management include:
