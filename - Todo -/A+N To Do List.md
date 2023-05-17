@@ -77,7 +77,7 @@ A patient with acute weakness
 A patient with anemia
 [[Anaemia]]
 A patient with jaundice
-[[Liver Failure]]
+[[Liver Failure and Cirrhosis]]
 [[Chronic Liver Disease]]
 [[Pancreatitis]]
 [[Cholecystitis]]
