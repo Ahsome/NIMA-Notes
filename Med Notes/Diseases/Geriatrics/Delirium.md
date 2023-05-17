@@ -26,7 +26,7 @@ Causes (which should be the focus of investigations)
 3.  Drug or alcohol toxicity
 4.  Withdrawal from alcohol
 5.  Withdrawal from barbiturates, BZD, SSRIs
-6.  Metabolic disorders – hypoglycaemia, hypercalcemia, uremia, liver failure, thyrotoxicosis
+6.  Metabolic disorders – hypoglycaemia, hypercalcemia, uremia, [[liver failure]], thyrotoxicosis
 7.  Low perfusion states (shock, heart failure)
 8.  Postoperative states, especially in the elderly.
 9.  Less common – hypoxaemia, hypercarbia, Wernicke’s, adrenal failure, CNS, infection, seizures, trauma and paraneoplastic syndromes confusional states
@@ -38,7 +38,7 @@ Causes (which should be the focus of investigations)
 - "*Any recent changes in medications?"*
 - "*Any withdrawal from alcohol, or medications?"*
 - "*Dehydration or low food intake?"*
-- "*Past medical history? Diabetes, thyroid disorder, liver failure, UTI, etc"**
+- "*Past medical history? Diabetes, thyroid disorder, [[liver failure]], UTI, etc"**
 ---
 
 ## Investigations

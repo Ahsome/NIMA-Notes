@@ -6,64 +6,43 @@
 ---
 
 # Information
-Portal Hypertension is a... 
+Portal Hypertension opens venous collaterals between the portal and systemic veins
 
-> [!Important]+ Summary
-- Important point
+### Varices 
+- Tortuous veins --> may bleed
 
---- 
-# History
-### Symptoms
+### Oesophageal varices 
+- Upper GI bleeding 
+![[Pasted image 20230517234427.png|200]]
+### Stomach (portal hypertensive gasgropathy) 
+- Upper GI bleeding
+- Friable gastric mucosa
+- Ectatic blood vessels
+- Causes upper GI bleeding - slow, chronic bleed 
+- Diagnosis with an upper endoscope -- white, reticular pattern "snakeskin"
+![[Pasted image 20230517235643.png|200]]
 
-### Risk factors:
+### Rectum 
+- Internal haemorrhoids which may bleed (painless)
 
-### Questions to ask
->*"Do you notice any ???"*
+### Umbilicus - caput medusa
+![[Pasted image 20230517234506.png|200]]
 
----
+### Enlarged spleen (splenic vein) 
+- Low platelets
 
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
 
 # Management
-## Treatment
-
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
-
----
-
-# Complications
-1. Complications of disease
+## Treatment of eosophageal varices
+1. Urgent upper endoscopy to control bleeding
+2. Variceal ligation for large veins
+3. Non-selective beta-blockers
+	- Nadolol and propanolol
+	- Leads to unopposed alpha-mediated vasoconstriction
+	- Decreases portal inflow --> decreased portal pressures 
 
 ---
 
 # Extra
-## Relevant notes:
-1. 
 ## References:
-1. *Boads and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2:* Cirrhosis
