@@ -44,6 +44,7 @@ There are many causes of acute liver failure. Liver failure often times leads to
 
 > [!Important]
 - Acute disease = IgM antibodies VS Prior disease = IgG antibodies
+- Clinical jaundice can't be observed ntil bilirubin is twice normal level (>34umol/L)
 
 --- 
 # History
@@ -55,14 +56,10 @@ There are many causes of acute liver failure. Liver failure often times leads to
 - Jaundice
 - Hepatomegaly 
 - RUQ pain
-
-**Extras/Investigations:**
-- Elevated AST/ALT
-- Prologed PT/PTT
-- Thrombocytopenia (loss of TPO)
+-  Thrombocytopenia (loss of TPO)
 - Hepatic encephalopathy
 	- Caused by hyperammonaemia
-- Anorexia, weight loss, fatigue and jaundice = cirrhosis
+- Anorexia, weight loss, MALNUTRITION, fatigue and jaundice = cirrhosis
 - Ascites and pitting LL oedema - [[Portal Hypertension]] and low albumin = cirrhosis
 - Itching sking - from bile salts in skin from hepatitis
 - HEP B extra-hepatic symptoms:
@@ -79,6 +76,10 @@ There are many causes of acute liver failure. Liver failure often times leads to
 	- Neuropathy
 	- Glomerulonephritis (haematuria)
 	- Diagnosis: serum cryoglobulin measurement 
+
+**Extras/Investigations:**
+- Elevated AST/ALT
+- Prologed PT/PTT
 
 
 ### Risk factors for cirrhosis:
@@ -97,13 +98,22 @@ There are many causes of acute liver failure. Liver failure often times leads to
 	- Hypoglycaemia
 
 
+### Questions to ask for hepatits risk:
+- "Recent ravel? esp. Asian countries?"
+- "Any recent tattoos?"
+- "IVDU"
+- "Seuall behaviour"
+- Previous surgeries - cholecystectomies?
+
 ---
 
 ## Examination findings
 | Key Findings                  | Result                             | Explanation            |
 | ----------------------------- | ---------------------------------- | ---------------------- |
 | Asterixis                     | Flapping tremor (hyperammonaemia)  | Hepatic encephalopathy |
-| Ascites and pitting LL oedema | Signs of peripheral fluid overload | Cirrhosis                       |
+|Ascites and pitting LL oedema| Signs of peripheral fluid overload | Cirrhosis                       |
+|Jaundice, spider naevi|Signs of liver failure|Cirrhosis|
+|Muscle wasting|Due to weight loss and malnutrition|  |
 
 
 ---
@@ -113,7 +123,8 @@ There are many causes of acute liver failure. Liver failure often times leads to
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AST + ALT                                                                   |Elevated| Hepatocellular injury - viral hepatitis or autoimmune hepatits                                                                                                 |
 | ALP + GGT                                                                   |Elevated| Biliary cause                                                                                                                                                  |
-| AST: ALT = 2:1                                                              | Elevated                                                                                                               | Alcoholic liver injury                                                                                                                                         |
+|AST: ALT = 2:1| Elevated                                                                                                               | Alcoholic liver injury                                                                                                                                         |
+|ALP|Elevated|Specific for bone osteoblasts|
 | Albumin, coagulation factots, glucose                                       | Low                                                                                                                    | Liver injury (cannot perform synthetic function)                                                                                                               |
 | Oestrogen (gynacomastia, testicular atrophy, spider naevi, palmar erythema) | Elevated                                                                                                               | Cirrhosis                                                                                                                                                      |
 | Hypotension                                                                 | Decreased                                                                                                              | Due to cirrhosis decreasing mean arterial pressure and can lead to hepatoenal syndrome                                                                         |
@@ -170,12 +181,14 @@ Goal is to reduce serum ammonia
 
 
 ### Treatment of SBP
-1. Antibiotics - ceftriaxone or fluoroquinolone
+1. Antibiotics - **ceftriaxone** or fluoroquinolone
 2. Albumin infusion to counteract renal failure
 3. Prophylaxis against SBP esp in GI bleeding: ciprofloxacin or trimethoprim
 
 
 # Child Pugh Classification System
+
+Mneumonic - "Pour a beer after eleven" - prothrombin (INR), ascites, bilirubin, albumin, encephalopathy
 
 ![[Pasted image 20230518012534.png]]
 

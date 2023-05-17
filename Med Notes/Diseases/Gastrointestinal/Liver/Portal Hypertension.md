@@ -36,7 +36,10 @@ Portal Hypertension opens venous collaterals between the portal and systemic vei
 ## Treatment of eosophageal varices
 1. Urgent upper endoscopy to control bleeding
 2. Variceal ligation for large veins
-3. Non-selective beta-blockers
+3. Octeotride
+	- Constricts splanchnic arterioles
+	- Decreases portal flow
+1. Non-selective beta-blockers
 	- Nadolol and propanolol
 	- Leads to unopposed alpha-mediated vasoconstriction
 	- Decreases portal inflow --> decreased portal pressures 
@@ -45,7 +48,7 @@ Portal Hypertension opens venous collaterals between the portal and systemic vei
 ### General treatment of ascites and portal hypertension
 1. Sodium restriction
 	- Goal <2000mcg/day
-2. Spironolactone (drug of choice)
+2. Spironolactone (drug of choice) 50-100mg
 	- Potassium-sparing diuretic
 	- Most effective drug for ascites 
 3. Large volume ascitic paracentesis 
