@@ -206,12 +206,14 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|Skin biopsy |Paget cells|Shows intraepithelial adenocarcinoma cells <br> Sign of [[#Paget Disease]] <br> <br>|
-|Breast biopsy|Ductul Cells, intact membrane |Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]]|
-|  |Duct cells with stroma |Indicative of [[#Invasive Ductal Carcinoma]]|
-|  |Lac of E-cadherin adhesion|[[#Invasive Lobular Carcinoma]] or [[#Lobular Carcinoma In Situ (LCIS)]]|
+| Key Tests               | Result                        | Explanation                                                                                                                           |
+| ----------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Skin biopsy             | Paget cells                   | Shows intraepithelial adenocarcinoma cells <br> Sign of [[#Paget Disease]] <br> <br>                                                  |
+| Genetic Testing         | BRCA1, BRCA2                  | Sign of [[#Familial Breast Cancer]], which causes roughly 10% of breast cancers                                                       |
+| Lesion receptor testing | ER+, PR+, HER2+               |Presence of specific receptors on the lesion. <br>This effects both [[#Tumor Markers:\|Treatment]] and [[#Prognosis:\|Prognosis]]|
+| Breast biopsy           | Ductal Cells, intact membrane | Indicative of [[#Ductul Carcinoma In Situ (DCIS)]]. <br>Many subtypes of histology <br> <br>![[Pasted image 20230518013808.png\|150]] |
+| ^^                      | Ductal cells with stroma        | Indicative of [[#Invasive Ductal Carcinoma]]                                                                                          |
+| ^^                        | Lack of E-cadherin adhesion    | [[#Invasive Lobular Carcinoma]] or [[#Lobular Carcinoma In Situ (LCIS)]]                                                              |
 
 ---
 ---
@@ -219,7 +221,7 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 # Management
 ## Standard Management for Mass:
 It is important for management to know: 
-1. [[#Breast Cancer Screening]]
+1. [[#Breast Cancer Screening]]. Includes [[#*Mammography*]] and [[#*Familial Breast Cancer*]]
 2. [[#Prognosis:]]
 3. [[#Tumor Markers]]
 4. [[#Drugs used]]
@@ -245,6 +247,8 @@ It can also occur in non-malignant lesion. If found, biopsy is done to identify 
 Familial breast cancer causes around 10% of breast cancer.
 - Caused by mutations in **BRCA1** and **BRCA2**
 - These code for DNA repair proteins
+- Autosomal dominant with incomplete penetrance
+- Not all individuals with disease mutation develop disease
 - Associated with other malignancies:
 	- BRCA1: [[Ovarian Cancer]]
 	- BRCA2: [[Breast Cancer|Male]], [[Pancreatic Cancer]] 
@@ -257,6 +261,8 @@ Familial breast cancer causes around 10% of breast cancer.
 	- Tracer is applied near lesion, which will move to certain lymph nodes, called sentinel nodes
 	- If sentinel nodes are free, no need to get other lymph nodes
 - Provides **staging**
+
+It also d
 
 **Staging**: ^c01c22
 - Depends on tumor size, node amount, and metastasis
