@@ -9,7 +9,7 @@
 Esophageal Cancer is **cancer** of the esopagus. It has two main forms:
 1. [[#Adenocarcinoma]]
 2. [[#Squamous cell carcinoma]]
-
+![[Pasted image 20230517234533.png|100]]
 [[#Adenocarcinoma]] has a pre-malignant lesion, caled [[#Barrett's Esophagus]]
 
 Lymph node metastasis depends on location of cancer:
@@ -48,6 +48,13 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 --- 
 # History
 ### Symptoms
+1. **Progressive dysphagia**
+	1. Initially, dysphagia of solid
+	2. Progressively get to liquids as tumor grows
+2. Weight loss
+3. Hematemesis. See [[Gastrointestinal Bleeding]]
+
+For **upper esophageal tumors**, causes specific symptoms due to location:
 
 ### Risk factors:
 |Adenocarcinoma | Squamous cell carcinoma |
