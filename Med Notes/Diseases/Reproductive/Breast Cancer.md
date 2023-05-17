@@ -46,10 +46,17 @@ It can rarely occur in men
 	2. Older (>35) = Higher Risk
 
 ### Peau d'orange
-[[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels. It is often **high grade** with **poor prognosis**
+[[#Peau d'orange]] is tumor invasion of dermal lymphatic vessels, preventing drainage. It is often **high grade** with **poor prognosis**
 Symptoms include:
-- Dimpling of skin
+- Dimpling of skin, similar to orange rind
+- Erthyema, swelling, that **has no response to antibiotics** after initial diagnosis of infection
+- Itchy or painful
 
+![[Pasted image 20230518005216.png]]
+
+### Paget Disease
+Paget Disease comes from erythema of nipple, due to underlying malignancy. It can cause bloody nipple discharge
+Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 ### Questions to ask
 >*"Do you notice any ???"*
 
@@ -60,11 +67,14 @@ Symptoms include:
 | ------------ | -------- | ------------- |
 |Breast mass|Hard, immobile mass with irregular borders|Classic features of [[Breast Cancer]]|
 |Axilla |Axillary Adenopathy|Late disease findings|
-|Peau d'orange|Dimpling of skin, erythrema, swelling of breast|Caused by Peau d'orange, tumor invasion of dermal lymphatic vessels|
+|Superficial breast|Dimpling of skin, erythrema, swelling of breast |Caused by [[#Peau d'orange]], tumor invasion of dermal lymphatic vessels <br> <br>Erythema/swelling does not dissapear with antibiotics|
+|^^|May be itchy, painful |^^|
+|Nipple|Erythema|  |
+|^^|Bloody discharge|  |
 
 | Additional Findings | Result   | Explanation   |
 | ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
+|Finding 1| Result 1 | Explanation 1 |
 
 ---
 
@@ -80,7 +90,10 @@ Symptoms include:
 ---
 
 # Management
-## Treatment
+## Peau d'orange management:
+Steps of management include:
+1. Initial presentation screening, look for symptoms such as dimpling of skin. See [[#Investigations]]
+2. Diagnostic mammography +/- USS
 
 ## Drug overview
 
