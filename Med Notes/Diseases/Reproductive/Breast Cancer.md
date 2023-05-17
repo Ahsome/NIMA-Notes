@@ -14,7 +14,9 @@ It is mostly a disease of older women:
 
 It can rarely occur in men
 
-![[^Breas]]
+It is important to note the [[#Standard Management for Mass:]]. This includes:
+
+![[#^b2d703]]
 
 Screening is recommended for women depeding on age:
 ![[#^eb8d54]]
@@ -225,10 +227,13 @@ Often mistaken for [[Eczema]] or [[Contact Dermatitis]]
 
 # Management
 ## Standard Management for Mass:
-It is important for management to know: ^be698a
+
+It is important for management to know:
 1. [[#Breast Cancer Screening]]
 2. [[#Prognosis:]]
 3. Specific management of [[#Malignant Management:|Malignant cancer]], [[#Pre-malignant Management:|Pre-malignant cancer]], and [[#Other management:|Other cancer]]
+
+^b2d703
 
 ### Prognosis:
 
