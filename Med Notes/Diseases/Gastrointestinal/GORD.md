@@ -6,7 +6,7 @@
 ---
 
 # Information
-GORD is a... 
+GORD 
 
 > [!Important]+ Summary
 - Important point
