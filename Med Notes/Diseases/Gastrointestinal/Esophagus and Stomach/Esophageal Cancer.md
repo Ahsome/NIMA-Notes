@@ -18,16 +18,22 @@ It occurs in lower esophagus near stomach
 It has risk factors similar to [[Gastro-oesophagus Reflux Disease (GORD)]]
 
 ### Squamous Cell Carcinoma
-Squamous cell carcinoma occurs in the mid esophagus. It occurs due to foods triggering irritation
+Squamous cell carcinoma occurs in the mid esophagus.
+- It occurs due to foods triggering irritation
+- It also occurs due to diseases that prevent outflow of food, prolonging iritation
+	- [[Achalasia]]
+	- [[Gastro-oesophagus Reflux Disease (GORD)#^umqfec\|Strictures]]
+
 
 ### Barrett's Esophagus
-It is **metaplasia** of esophagus, from *squamous epithelium* to *intestinal epithelium* caused due to long-standing [[Gastro-oesophagus Reflux Disease (GORD)]] and chronic inflammation. It increases risk of [[#Adenocarcinoma]]
+It is **metaplasia** of esophagus, from *squamous epithelium* to *intestinal epithelium* caused due to long-standing [[Gastro-oesophagus Reflux Disease (GORD)]] and chronic inflammation.
+It increases risk of [[#Adenocarcinoma]]
 
 Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per year
 ![[Pasted image 20230517231728.png]]
 
 > [!Important]+ Summary
-- Important point
+- [[#Barrett's Esophagus]] increases risk of [[#Adenocarcinoma]], ***not*** [[#Squamous Cell Carcinoma]]
 
 --- 
 # History
@@ -36,7 +42,7 @@ Identifcation means risk of [[#Adenocarcinoma]] is increased 0.1% to 0.4% per ye
 ### Risk factors:
 |Adenocarcinoma | Squamous cell carcinoma |
 | -------------- | ----------------------- |
-|Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]] |Smoking <br>Alcohol <br> <br> Dietary factors:<br>- Foods with N-nitroso compounds, such as cured meats and some cheeses <br>-Hot beverages <br> <br> Esophageal disease: <br>- [[Achalasia]] <br>- [[Gastro-oesophagus Reflux Disease (GORD)#^umqfec\|Strictures]]|
+|Similar to GORD: <br>![[Gastro-oesophagus Reflux Disease (GORD)#^ffd52a]] |Smoking <br>Alcohol <br> <br> Dietary factors:<br>- Foods with N-nitroso compounds, such as cured meats and some cheeses <br>-Hot beverages <br> <br> Esophageal disease: <br>- Prevents outflow of food, causing irration <br>- [[Achalasia]] <br>- [[Gastro-oesophagus Reflux Disease (GORD)#^umqfec\|Strictures]]|
 
 
 
