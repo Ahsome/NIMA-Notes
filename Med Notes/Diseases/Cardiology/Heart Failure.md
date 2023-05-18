@@ -76,6 +76,13 @@ More questions
 ---
 
 ## Examination findings
+| Left-sided                             | Right-sided          |
+| -------------------------------------- | -------------------- |
+| Pulmonary oedema - basal ccrackles     | Elevated JVP         |
+| Pleural effusion - dullness percussion | Peripheral odemea    |
+|                                        | Pulm. HTN - RV heave |
+|                                        | Extra heart sounds                     |
+
 
 ## Investigations
 
