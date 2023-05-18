@@ -66,7 +66,7 @@ Inferior MI:
 		1. It dilates veins, reduces preload, will increase [[Hypotension]]
 	6. Treat with IV fluids
 		1. Increase preload
-	7. **Diagnose wit right-sided chest leads**
+	7. **Diagnose with right-sided chest leads**
 		1. Put leads on right side, see if infarct occurs
 2. Sinus bradycardia and heart block ^vacvav
 	1. Causes dysfunction in SA node and AV node
