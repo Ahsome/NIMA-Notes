@@ -298,6 +298,12 @@ STROKE PREVENTION – LONG TERM MANAGEMENT
 - ABCD2 scoring system – risk of stroke post TIA
 - A score of 3 or more requires an admission.
 
+
+
+## HASBLED Vs CHADsVASc
+
+![[Pasted image 20230518111647.png]]
+
 ---
 
 # Complications

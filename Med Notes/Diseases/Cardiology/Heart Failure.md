@@ -91,13 +91,16 @@ More questions
 -   **Dimensions of the chambers –** enlargement and dilation? Hypertrophy?
 -   **Valves –** regurgitation? Stenosis? Potential aetiology for HF?
 -   **Colour doppler –** shows flow through the valves
-    
+- **TOE** - check for thrombus in atrial appendage
+
 **BNP –** increased BNP points to heart failure. It is released when there is increased atrial stretch.
-    
+
 **ECG –** assess for arrhythmias and ischaemic events that may have resulted in an acute decompensation.
 -   Evidence of old infarcts
--   Left bundle branch block (common in HF)
-    
+	- Deep Q waves (infarct , inverse T waves 
+-   **Left bundle branch block (common in HF)**
+- Sinus tachycardia (PE?)
+
 **Electrolytes –** derangements in K+ can be the aetiology of arrhythmias.**Creatinine and eGFR –** acute decompensated heart failure can cause a pre-renal AKI. Check for renal failure markers.
 
 **FBC –** check Hb, MCV, B12, folate and iron studies to check if anaemia is the aetiology.

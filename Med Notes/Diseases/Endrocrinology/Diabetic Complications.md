@@ -29,10 +29,11 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 | ^^                                                                                                | Annual allbumin:creatinine ratio (normal <30mg/day)                                     |
 | ^^                                                                                                | ACEi and ARBs slows progression of nephropathy                                          |
 | ^^                                                                                                | HTN goal < 130/80mmHg                                                                   |
-| Peripheral neuropathy - "glove and stocing" sensory loss which is progression distal --> proximal | Large myelinated fibres: numbness, reduced reflex, reduced vibration and proprioception |
-| ^^                                                                                                | Small myelinated fibres: pain, electric shocks, loss of hot/cold discrimination         |
+|Peripheral neuropathy - "glove and stocking" sensory loss which is progression distal --> proximal|Large myelinated fibres: numbness, reduced reflex, reduced vibration and proprioception|
+|^^|SHARP TOUCH often preserved|
+| ^^                                                                                                |Small myelinated fibres: pain, electric shocks, loss of hot/cold discrimination |
 | ^^                                                                                                | Diabetic foot ulcers                                                                    |
-| Autonomic neuropathy                                                                              | Blladder dysfunction, ED, gastroparesis, orthostatic hypotension, silent ischaemia      |
+| Autonomic neuropathy                                                                              |Bladder dysfunction, ED, gastroparesis, orthostatic hypotension, silent ischaemia|
 | Diabetic retinopathy                                                                              | Cataracts (sorbitol in lens), glaucoma, diabetic macular oedema                         |
 | ^^                                                                                                | Non-proliferative = exudates and cotton-wool spots (nerve infarctions)                  |
 | ^^                                                                                                | Proliferative = neovascularisation (treated with laser or anti-VEGF)                    |
@@ -59,6 +60,13 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 
 # Management
 ## Treatment
+Neuropathy sccreen:
+- b12
+- b1
+- syphilis 
+
+Vasculitis screen
+nerve conduction study
 
 ## Drug overview
 
