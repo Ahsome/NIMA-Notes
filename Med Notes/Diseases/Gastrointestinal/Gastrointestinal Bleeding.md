@@ -84,10 +84,8 @@ Lower GI risk factors:
 |Platelets|  |  |
 |PT/PTT/INR|  |  |
 |Type and screen |  |Needed for transfusion, if necessary|
+|Pill camera|Looking for lesions|Especially for males, if both the endoscope and colonoscope are both negative|
 
-|Additional Tests|  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
 
 ---
 
@@ -99,9 +97,9 @@ Whether it be [[#Upper GI bleeding]] or [[#Lower GI bleeding]], there are genera
 	1. Many patients just from IV fluids become stable
 3. If not helped by IV fluids, need to check criteria for blood transfusion
 	1. Individualised to patient, differs across hospital
-	2. Hgb < 8mg/dL  for young, low risk patients
-	3. Hgb < 9mg/dL or older, comorbid patients
-	4. Hgb < 7mg/dL for variceal bleeds
+	2. Hgb < 80mg/dL  for young, low risk patients
+	3. Hgb < 90mg/dL or older, comorbid patients
+	4. Hgb < 70mg/dL for variceal bleeds
 		1. Lower because due to [[Portal Hypertension]], transfusion can further increase pressure
 4. Platelet transfusion if platelets < 50k
 5. FFP or prothrombin complex for coagulopathy

@@ -8,10 +8,14 @@
 # Information
 Seizures is a sudden alteration in behaviour due to transient CNS electrical acitivity in the cerebral cortex.
 
+Most generalised seizures occur in childhood, whereas most focal seizures happen in adults secondary to a brain lesion.
+
+Generallised epilepsy is a genetic condition
+
 Epilepsy - multiple unprovoked seizures
 
 > [!Important]
-- Important point
+- It is important to get a history from patient, but also COLLATERAL history from bystanders and paramedics (esp. bc post-ictal often = confusion)
 
 --- 
 # History
@@ -54,7 +58,9 @@ Epilepsy - multiple unprovoked seizures
 - Tumours
 - Strokes
 - Withdrawal - alcohol, benzos, barbituates, anticonvulsant drugs
+- Marijuana esp. synthetitic cannabis is a procconvulsant
 - Infection e.g. [[Encephalitis]] or [[Meningitis]]
+- ==Neurocysterosis (parasites) from pork== - most common risk factor for seizures in Australia
 
 
 | Type                              | Explanation                                                                                                                                                                                                                                          | Extras                                                                                                                                         |
@@ -65,8 +71,10 @@ Epilepsy - multiple unprovoked seizures
 | Febrile seizures                  | - Common for 2-4% children < 5yo <br> - Most common generalized, tonic-clonic <br> - Child loses consciousness and shakes <br> - Acute treatment for prolonged seizure: IV lorazepam, but otherwise if the child recovers, can reassure and D/C home | - Diagnosis is clinic, with a LP done only if sus for meningitis<br> - Overall prognosis is good, with only a small increased risk of epilepsy |
 | Psychogenic nonepileptic seizures | - Clinical presentation of seizure with no underlying CNS disease identified <br> - Normal EEG during seizure                                                                                                                                        | - Treatment: psychotherapy (form of conversion disorder in DSM-V)                                                                                                                                               |
 
+
 ### Questions to ask
->*"Do you notice any post-seizure symptoms ???"*
+>*"Do you notice any post-seizure symptoms ???"* - tongue-biting, incontinence
+>*"Any aura?"*
 >*"Did anyone observe your seizure?"* - get collateral hsitory from bystanders
 
 ---
@@ -93,8 +101,8 @@ Epilepsy - multiple unprovoked seizures
 2. Loosen tight clothing around neck
 3. Place on side to avoid aspiration
 4. Seizure medications
-	1. Focal partial seizure = carbamezapine
-	2. Generalised seizure = sodium valproate 
+	1. **Focal partial seizure = carbamezapine**
+	2. *Generalised seizure = sodium valproate* 
 	3. For absence seizures: Ethosuximide (calcium channel blocker)
 	4. For status epilepticus: IV benzodiazepine (lorazepam)
 	5. Drugs used in pregnancy: Levetiracetam or Lamotrigine
@@ -145,11 +153,17 @@ Usually occurs with generalised tonic-clonic activity
 ## Long-term management
 1. No driving for 6-12 months after unprovoked seizure 
 2. Warn patients that abruptly stopping antiepileptic drugs can provoke status epilepticus
+3. Psychology and drug abuse support services - frank conversations about risk factors 
+
 ---
 
 # Complications
 1. Status epilepticus is a life-threatening disease as it resuts in lactic acidosis, arrhythmias, HTN ^sljj9r
 	1. Cortical laminar necrosis --> permanent neurological disease
+2. Sodium valproate SEs - tremors
+3. Vascular malformations - can cause [[Seizures and Status Epilepticus]] and [[Gastrointestinal Bleeding]]? angyiodyspllasia
+
+
 
 ---
 
