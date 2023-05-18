@@ -59,8 +59,8 @@ Cellulitis is a bacterial skin infection, and can commonly be confused with erys
 
 | Erysipelas (S.pyogenes)                                                                              | Cellulitis (S.aureus)                                                                          |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Phenoxymethylpenicillin 500 mg or if allergic, cefalexin 500 mg orally 6hr, for 5 days               | Flucloxacillin 500 mg orally 6hr, for 5 days or if allergic, clindamycin 450 mg                |
-| **Systemic symptoms**: benzylpenicillin 1.2 g (child: 50 mg/kg up to 1.2 g) intravenously, 6-hourly. | **Systemic symptoms:** flucloxacillin 2 g (child: 50 mg/kg up to 2 g) intravenously, 6-hourly. |
+|Phenoxymethylpenicillin 500 mg or if allergic, cefalexin 500 mg orally 6hr, for 5 days| Flucloxacillin 500 mg orally 6hr, for 5 days or if allergic, clindamycin 450 mg                |
+|**Systemic symptoms**: benzylpenicillin 1.2 g (child: 50 mg/kg up to 1.2 g) intravenously, 6-hourly.| **Systemic symptoms:** flucloxacillin 2 g (child: 50 mg/kg up to 2 g) intravenously, 6-hourly. |
 |                                                                                                      | MRSA: vancomycin intravenously                                                                 |                                                                                                     |                                                                                                |
 
 
