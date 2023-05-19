@@ -431,11 +431,6 @@ Overall management involves:
 	2. Can cause unopposed alpha stimulation
 	3. Symptoms may worsen
 
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
 
 ---
 
