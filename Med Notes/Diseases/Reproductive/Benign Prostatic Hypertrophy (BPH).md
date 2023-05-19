@@ -6,21 +6,7 @@
 ---
 
 # Information
-Urinary Incontinence is the **involuntary** loss of urine. Is it common in the elderly, and has **three** major patterns:
-1. [[#Urge incontinence]]
-2. [[#Stress incontinence]]
-3. [[#Overflow incontinence]]
-
-### Urge incontinence
-Urge incontinence (also called [[#Urge incontinence|overactive bladder]]) is the urge to void accompanied by loss of urine
-- Due to detrusor muscle overactivity
-- Involuntary contractions during bladder filling
-- Clinical diagnosis
-
-![[Pasted image 20230520002850.png]]
-### Stress incontinence
-
-### Overflow incontinence
+Benign Prostatic Hypertrophy (BPH) is a... 
 
 > [!Important]+ Summary
 - Important point
@@ -59,16 +45,7 @@ Urge incontinence (also called [[#Urge incontinence|overactive bladder]]) is the
 ---
 
 # Management
-## Urge incontinence
-Management involves:
-1. Kegel exercises
-	1. Sustained pelvic floor contractions
-	2. Done several times per day
-2. Medications
-	1. Anticholinergics: oxybutynin
-3. Neurostimulators
-	1. Implanted devices
-	2. Sacral nerves
+## Treatment
 
 ## Drug overview
 
@@ -89,4 +66,4 @@ Management involves:
 ## Relevant notes:
 1. 
 ## References:
-1. *[Boads and Beyond - STEP 2: Renal > Others > Urinary Incontinence*]((Boads and Beyond - STEP 2: Renal > Others > Urinary Incontinence))
+1. *Boads and Beyond - STEP 2:* Etc...

@@ -14,8 +14,6 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] [[Breast Cancer]]
-- [ ] Urinary Incontinence
 
 
 ## Completed
@@ -23,6 +21,8 @@ kanban-plugin: basic
 **Complete**
 - [x] [[Headaches]]
 - [x] Upper GI bleeding
+- [x] [[Breast Cancer]]
+- [x] Urinary Incontinence
 - [x] Pseudogout
 - [x] GORD
 - [x] Sleep Apnea

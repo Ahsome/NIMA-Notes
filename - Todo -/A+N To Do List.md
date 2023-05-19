@@ -4,11 +4,15 @@
 - [ ] Vertigo
 - [ ] Hyper/hypo-thyroid
 - [ ] Delirium tremens
+- [ ] Pyelonephritis
 - [ ] BPH
 - [x] Sleep apnoea
 - [ ] Multiple sclerosis
+- [ ] Altered Mental Status
+- [ ] Hyper/hypo-nautremia
+- [ ] Acute renal failure
 - [ ] TB
-- [ ] Shock
+- [x] Shock
 - [x] Meningitis
 
 12 short case practices on blackboard - work our way through that - 2 per day?

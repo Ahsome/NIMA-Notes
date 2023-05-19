@@ -315,7 +315,8 @@ STROKE PREVENTION – LONG TERM MANAGEMENT
 -   Diplopia
 -   Cerebellar ataxia
 -   Crossed signs - decreased pain and temperature on the ipsilateral face and the contralateral side of the trunk and limbs
-3. [[Sleep Apnea]]: Central sleep anea due to causing Cheyne-Stokes breathing
+- [[Urinary Incontinence#Overflow incontinence]]
+1. [[Sleep Apnea]]: Central sleep anea due to causing Cheyne-Stokes breathing
 	1. Cyclic breathing due to delayed detection to changes in PaCO2
 
 ---
