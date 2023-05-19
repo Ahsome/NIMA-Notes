@@ -225,7 +225,7 @@ Lastly, **bariatric surgery** can be done for obese patients (BMI >35). This lea
 1. Long-term remission
 2. Reduced risk of diabetes complications
 
-#### Pharmacological:
+##### Pharmacological:
 ![[Pasted image 20230510144542.png]]
 **Monotherapy** is first line, utilising [[Metformin]]. Dual or Multitherapy can be used based on patients profile. Should consider:
 - Cardiovascular disease
@@ -275,6 +275,7 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 	2. **Have cardio/renal protective effect**, use in [[Coronary Artery Disease]]
 	3. Reduce morbidity
 	4. Tell you will pee a lot
+	5. Can cause [[Diabetic Ketoacidosis (DKA)|Euglycemic Diabetic Ketoacidosis]]
 3. [[Sulphanyluria]]
 	1. Examples:
 		1. Glicozine
