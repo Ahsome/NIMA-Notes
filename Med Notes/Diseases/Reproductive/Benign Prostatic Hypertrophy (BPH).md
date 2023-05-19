@@ -1,4 +1,4 @@
-*Created on <% tp.date.now(format = "Do MMM YYYY") %>*
+*Created on 20th May 2023*
 
 ---
 ```toc
@@ -6,11 +6,7 @@
 ---
 
 # Information
-<%* 
-let title = tp.file.title 
-if (title.startsWith("Untitled")) { 
-title = await tp.system.prompt("Title"); 
-} await tp.file.rename(title) -%><% title %> is a... 
+Benign Prostatic Hypertrophy (BPH) is a... 
 
 > [!Important]+ Summary
 - Important point
@@ -70,4 +66,4 @@ title = await tp.system.prompt("Title");
 ## Relevant notes:
 1. 
 ## References:
-1. *Boards and Beyond - STEP 2:* Etc...
+1. *Boads and Beyond - STEP 2:* Etc...

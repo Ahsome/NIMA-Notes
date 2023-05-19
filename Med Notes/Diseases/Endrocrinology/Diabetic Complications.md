@@ -14,7 +14,7 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 |                 | Macrovascular                                             |
 | --------------- | --------------------------------------------------------- |
 | Atherosclerosis | CAD                                                       |
-|                 | Stroke and TIA                                            |
+|                 |Stroke and TIA|
 |                 | PVD                                                       |
 | Investigations  | Screen lipid panel at time of diagnosis and every 5 years |
 | ^^              | Statin therapy                                            |
@@ -26,14 +26,14 @@ Diabetic Complications can be divided into macrovascular and microvascular compl
 | Microvascular                                                                                     | Investigations                                                                          |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Diabetic nephropathy - damage to glomeruli and arterioles causes albuminuria                      | Kimmelstein-Wilson nodules on biopsy                                                    |
-| ^^                                                                                                | Annual allbumin:creatinine ratio (normal <30mg/day)                                     |
+| ^^                                                                                                |Annual allbumin:creatinine ratio (normal <30mg/day)|
 | ^^                                                                                                | ACEi and ARBs slows progression of nephropathy                                          |
 | ^^                                                                                                | HTN goal < 130/80mmHg                                                                   |
 |Peripheral neuropathy - "glove and stocking" sensory loss which is progression distal --> proximal|Large myelinated fibres: numbness, reduced reflex, reduced vibration and proprioception|
 |^^|SHARP TOUCH often preserved|
 | ^^                                                                                                |Small myelinated fibres: pain, electric shocks, loss of hot/cold discrimination |
 | ^^                                                                                                | Diabetic foot ulcers                                                                    |
-| Autonomic neuropathy                                                                              |Bladder dysfunction, ED, gastroparesis, orthostatic hypotension, silent ischaemia|
+| Autonomic neuropathy                                                                              |Bladder dysfunction, [[Urinary Incontinence#Overflow Incontinence]] , ED, gastroparesis, orthostatic hypotension, silent ischaemia|
 | Diabetic retinopathy                                                                              | Cataracts (sorbitol in lens), glaucoma, diabetic macular oedema                         |
 | ^^                                                                                                | Non-proliferative = exudates and cotton-wool spots (nerve infarctions)                  |
 | ^^                                                                                                | Proliferative = neovascularisation (treated with laser or anti-VEGF)                    |

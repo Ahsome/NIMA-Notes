@@ -24,16 +24,24 @@ Pneumonia acquired outside hospital, or within 72 hours of admission into the ho
 | Typical     | Atypical               |
 | ----------- | ---------------------- |
 | S.Pneumonia | Mycoplasma             |
-| H.Influenza | Chlamydia              | 
+|H.Influenza|Chlamydia|
 | S.Aureus    | Legionella (atypicals) |
 
 ^bb83b6
+
+#### Diseases:
+*H. Influenza* variants often produce beta-lactamase, so you need medications that cover it
+*Gram negative*: Not
+
 
 ### *Nosomcomial pneumonia* (including HAP):
 These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*) or *Staph Aureus*
 | Hospital-Acquired               | Ventilator-Acquired           | 
 | ------------------------------- | ----------------------------- |
 | Onset > 72hr of hospitalization | Onset >48hr after ventilation |
+
+#### Diseases:
+*Klebsialla*: In immunocompramised patients
 
 ### *Recurrent pneumonia*:
 This describes when pneumonia recurs quickly after being previously treated. The likely cause can be found on CXR:
@@ -43,12 +51,12 @@ This describes when pneumonia recurs quickly after being previously treated. The
 3. If consolidation recurrently occurs in the right middle/lower lobe, it is likely **aspiration** of stomach acid and microorganisms. See [[Pneumonia#Aspiration Pneumonia]]
 
 ### *Aspiration pneumonia*:
-This is pneumonia due to aspiration of bacteria (commonly [[Med Notes/Diseases/Klebsiella]] or [[Staph. Aureus]]), normally from gastric contents. It has a slow-onset of symptoms over days, which can help differentiate between it and [[Pneumonitis]], which has an acute onset after witness aspiration
+This is pneumonia due to aspiration of bacteria (commonly [[Med Notes/Diseases/Klebsiella]] or [[Staph. Aureus]]), normally from gastric contents. Also include peptostreptococci. It has a slow-onset of symptoms over days, which can help differentiate between it and [[Pneumonitis]], which has an acute onset after witness aspiration
 
 |                     | Pneumonitis                                | Pneumonia                                                      |
 | ------------------- | ------------------------------------------ | -------------------------------------------------------------- |
 | Genera Pathogenesis | Irritation from aspiration of gastric acid | Aspiration of bacteria                                         |
-| Clinical features   | Acute onset dyspnea and hypoxemia          | SLow onset of pneumonia in patient with spiration risk factors |
+| Clinical features   | Acute onset dyspnea and hypoxemia          |Slow onset of pneumonia in patient with spiration risk factors|
 | Diagnosis           | Clinical                                   | X-Ray                                                           |
 | Treatment           | Suctioning, oxygen                         | Antibiotics                                                               |
 
@@ -114,7 +122,18 @@ You can differentiate this with [[Pleural Effusion]], which has similar findings
 ---
 
 # Management
-## Treatments
+### Overall management:
+Overall management:
+- In:
+	- Oxygen to maintain sat > 94%
+	- Provide IV antibiotics
+	- IV fluids
+- Out:
+	- Lactate
+	- Blood cultures
+	- Urine output
+- Regular review, including repeat CXR. See [[#*Follow-up management*]]
+
 ### *Acute management*
 #### *Hospitalisation choice*:
 Most patients can have CAP treated as outpatients. If so, treatment should follow low severity (see [[Pneumonia#*Low-severity treatment*]]) However, there are two main ways they should be hospitalised:
