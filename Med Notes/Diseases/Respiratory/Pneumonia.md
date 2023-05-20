@@ -197,6 +197,11 @@ If the patient has *S. Aureus*, consider treatment of it knwoing the increased p
 
 Stop therapy with vancomycin if testing identifies a patient does not have *S.Aurueus*
 
+In the case where patient has lung comorbidities, such as [[Chronic Pulmonary Disease (COPD)]], they are more likely to get drug-resistant bacterias, such as **Pseudomomas Arigunosa**. For that, the following is recommended:
+1. Cefepime OR Piptaz
+2. Azithromycin
+3. Gentamicin (Only with [[Sepsis (and SIRS)]])
+
 ### *Follow-up management*
 Follow up management should include secondary CXR after **4-6 weeks**. There should also be one 6-12 weeks later for patients >50yo. This is due to the fact that pneumonia in these patients can occur because of a malignancy. This can be hidden by the lobar pneumonia, but can be present after resolution
 
