@@ -71,7 +71,7 @@ Risk factors depends on whether its allergic asthma or non-allergic asthma:
 | Key Tests                 | Result                                                                                                                                                          |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Peak Flow Meter]]           | Reduced peak flow expiratory rate                                                                                                                                               |
-| [[Spirometry]]                | Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]]                                                                              |
+| [[Spirometry]]                |Reduced FEV1<br>Reduced FEV1/FVC ratio<br>FEV1 improvmeent 12% after [[Albuterol]]|
 | [[CXR]]                       | Rule out [[pneumonia]]/infection for acute exarcebation                                                                                                                                                                |
 | [[Methacoline challenge]] | Causes bronchoconstriction<br><=20mcg dose needed for FEV1 reduction by 20%<br>People without asthma can handle high methacoline levels, asthma patients cannot |
 
