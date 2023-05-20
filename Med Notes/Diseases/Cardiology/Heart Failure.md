@@ -78,10 +78,11 @@ More questions
 ## Examination findings
 | Left-sided                             | Right-sided          |
 | -------------------------------------- | -------------------- |
-|Pulmonary oedema - basal ccrackles <br>**NOT** present in right heart failure| Elevated JVP         |
+|Pulmonary oedema - basal ccrackles <br>**NOT** present in right heart failure|Elevated JVP |
 | Pleural effusion - dullness percussion |Peripheral pitting odemea|
 |                                        | Pulm. HTN - RV heave |
-|                                        |Extra heart sounds (S3)|
+|                                        |Extra heart sounds (S3) |
+|  |**Cor Pulmonale"": Isolated right-sided HF, not due to left-sided HF. Caused by pulmonary hypertension due to: <br>- [[Chronic Pulmonary Disease (COPD)]] and other lung issues <br>- Primary [[Pulmonary Hypertension]]|
 
 
 ## Investigations
