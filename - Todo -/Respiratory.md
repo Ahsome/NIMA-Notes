@@ -33,7 +33,7 @@
 ### *Clinical reasoning*:
 The following approaches should be conducted
 - [ ] Approach to a breathless patient
-- [ ] [[Approach to a patient cough]] or chest infection
+- [ ] [[Approach to a patient with SOB and cough]] or chest infection
 - [ ] Approach to a patient with haemoptysis
 - [ ] Approach to a patient with wheeze
 - [ ] Approach to incidental mass on CXR

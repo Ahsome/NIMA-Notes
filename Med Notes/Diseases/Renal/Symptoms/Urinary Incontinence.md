@@ -82,7 +82,7 @@ Management involves:
 	1. Patients asked to control and hold sustained pelvic floor contractions
 	2. Done several times per day, strengthen muscles over time
 2. Medications
-	1. Anticholinergics: oxybutynin, reduce parasympathetic innervation of detrusor muscle
+	1. ==Anticholinergics: oxybutynin==, reduce parasympathetic innervation of detrusor muscle
 		1. Contrast with [[#Overflow Incontinence Management]], which recommends cholinergic drugs
 3. Neurostimulators
 	1. Implanted devices
