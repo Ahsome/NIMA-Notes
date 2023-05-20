@@ -83,7 +83,7 @@ Score <2 = low probabililty
 ## Treatments for DVT
 
 **Acute treatment for proimal DVT and PE**
-Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days
+==Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days==
 
 DVT treatment – anticoagulation is the mainstay of DVT treatment. It is indicated in all PROXIMAL DVT cases and SOME DISTAL DVT cases. The aim of treatment is to prevent extension of the clot, PE, recurrent clots.
 
@@ -108,22 +108,22 @@ Initial ED management:
 -   Oxygen supplementation – aim for >90% SpO2 (saturation)
 -   Haemodynamic support – especially indicated in patients who show signs of hypoperfusion, such as confusion, decreased urine output.  
 	- 500 – 1000mL of saline should be used. However, too much fluids can also be harmful as it would exacerbate RHS heart failure.
-    
-Haemodynamically stable PE treatment:
+  
+## Haemodynamically stable PE treatment:
 -   Empirical anticoagulation – according to the HAS-BLED score, low bleeding risk patients will need anticoagulation to prevent extension of the clot.  
-	- Enoxaparin/clexane (LMWH) used initially. NOACs can also be used.
+	- ==Enoxaparin/clexane (LMWH) used initially.== NOACs can also be used.
 	- NOACs or warfarin is used as a more long-term agent. Warfarin is better in renal failure patients and those with antiphospholipid syndrome
--   IVC filter – is indicated in patients who have anticoagulation contraindicated
+-   ==IVC filter== – is indicated in patients who have anticoagulation contraindicated
 -   No thrombolysis
 
 
-Haemodynamically unstable PE (MASSIVE PE) treatment:
-- Thrombolysis – use alteplase or tenectaplase, which are recombinant tissue plasminogen activators.
+## Haemodynamically unstable PE (MASSIVE PE) treatment:
+- ==Thrombolysis – use alteplase== or tenectaplase, which are recombinant tissue plasminogen activators.
 - ![[Pasted image 20230508131456.png]]
--   Embolectomy – indicated in patients who are contraindicated for thrombolysis or those in which thrombolysis was unsuccessful.
+-   ==Embolectomy== – indicated in patients who are contraindicated for thrombolysis or those in which thrombolysis was unsuccessful.
 	- Catheter directed methods  
 	- Surgical embolectomy – usually only done in large hospitals with experienced staff. High mortality, especially in the elderly.
-- Anticoagulation – if patient is successfully thrombolysed and becomes haemodynamically stable again.
+- ==Anticoagulation== – if patient is successfully thrombolysed and becomes haemodynamically stable again.
 
 
 

@@ -6,7 +6,11 @@
 ---
 
 # Information
-Guillaine-Barre Syndrome (GBS) is a... 
+Guillaine-Barre Syndrome (GBS) is a peripheral nerve disorder 
+- Acute inflammatory demyelinating radiculopathy 
+- Schwann cells destroyed by immune system
+- Motor and sensory deficits
+
 
 > [!Important]+ Summary
 - Important point
@@ -14,35 +18,39 @@ Guillaine-Barre Syndrome (GBS) is a...
 --- 
 # History
 ### Symptoms
+***Ascending muscle weakness*** 
+	- Develops over days → weeks 
+	- Starts in legs 
+	- Spreads to other areas 
+	- Respiratory failure 10-30% 
+	- Facial muscle weakness > 50% 
+- Loss of deep tendon reflexes 
+- Sensory deficits occur (paresthesias) but mild 
+- Symptoms usually resolve over weeks to months
+
+***Autonomic dysfunction >70%*** 
+- Tachycardia 
+- Urinary retention 
+- Hypertension/hypotension 
+- Arrhythmias 
+- Ileus 
+- Loss of sweating 
+
+***Death from:*** 
+	- Severe autonomic dysfunction 
+	- Respiratory failure
+
 
 ### Risk factors:
+Often triggered by infection 
+- Classic agent: campylobacter jejuni 
+	- Bloody diarrhea 
+- Other agents: 
+	- Cytomegalovirus 
+	- Epstein-Barr virus 
+	- Human immunodeficiency virus (HIV) 
+	- Rarely occurs after immunization
 
-### Questions to ask
->*"Do you notice any ???"*
-
----
-
-## Examination findings
-| Key Findings | Result   | Explanation   |
-| ------------ | -------- | ------------- |
-| Finding 1    | Result 1 | Explanation 1 |
-
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
----
-
-## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
-
-| Additional Tests               |  Result   | Explanation                |
-| ------------------------------ | --- | --------------------- |
-| Test 1                            |  Result 1   | Explanation 1 |
-
----
 
 # Management
 ## Treatment
