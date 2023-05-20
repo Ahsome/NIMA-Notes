@@ -72,6 +72,11 @@ More questions
 - IHD, valvular disease, previous cardiac surgery, transplant
 - Alcohol? Smoking?
 - Takotsubo?
+- Drugs to avoid in HF:
+	- Metformin - may cause lactic acidosis 
+	- Thiazolidinediones (glitazones) - cause fluid retention
+	- CCB - negative ionotropes
+	- NSAIDs - cause fluid retention
 
 
 ![[Pasted image 20230507125701.png]]
@@ -87,6 +92,10 @@ More questions
 |                                        |Extra heart sounds (S3) |
 |  |**Cor Pulmonale"": Isolated right-sided HF, not due to left-sided HF. Caused by pulmonary hypertension due to: <br>- [[Chronic Pulmonary Disease (COPD)]] and other lung issues <br>- Primary [[Pulmonary Hypertension]]|
 
+* Note: Elderly: venous stasis oedema - unrelated to the heart, and is caused by inactivity and gravity 
+* Tx: leg elevation, compression stockings
+	* Diuretics rarely work!
+	* May lead to skin ulcers/infections
 
 ## Investigations
 
@@ -123,6 +132,8 @@ Initial management involves diagnosis, which should be done with the following:
 ![[Pasted image 20230520214607.png|200]]
 Then, treatment is needed for acute and chronic heart failure
 ![[Pasted image 20230520221353.png]]
+Lastly, consider withdrawel of specific drugs that can exacerbate issues in [[Heart Failure]]. See [[#Drugs to be aware of:]].
+
 
 ## Treatments
 ### *Management of acute pulmonary oedema*
@@ -130,6 +141,7 @@ Then, treatment is needed for acute and chronic heart failure
 -   Oxygen supplementation if SpO2 < 94%
 	- NIV if good for fluid management
 -   GTN spray if BP > 100mmHg, to increase peripheral pooling of blood, reducing pulmonary congestion
+- Beta blocker is contraindicated for the acute management of heart failure
 - - Daily weight measurements – if there is a large increase in weight, such as 2kg over a few days, this indicates that there is a significant retention.
 - In-patient echo
 - Telemetry / daily ECGs
@@ -168,6 +180,13 @@ Then, treatment is needed for acute and chronic heart failure
 	- Renal excretion – careful dosing in CKD.
 	- **Do not use** in otherwise not end stage as increased mortality
 
+### Drugs to be aware of:
+Drugs to avoid in HF:
+	- Metformin - may cause lactic acidosis 
+	- Thiazolidinediones (glitazones) - cause fluid retention
+	- CCB - negative ionotropes
+	- NSAIDs - cause fluid retention
+
 #### Devices
 - 3 months after (timeframe)
 - ICD or pacemaker – the major cause of sudden death in CCF patients is that of a spontaneous ventricular arrhythmia. Hence ICD will shock them out of this rhythm. This improves prognosis.
@@ -178,6 +197,12 @@ Then, treatment is needed for acute and chronic heart failure
 1. [[Chronic Pulmonary Disease (COPD)]]
 2. [[Sleep Apnea]]: Central sleep anea due to causing Cheyne-Stokes breathing
 	1. Cyclic breathing due to delayed detection to changes in PaCO2
+3. Functional mitral regurgitation
+	1. May resolve with diuresis 
+4. Hyponatremia
+	1. RAAS activation --> ADH release --> water retention --> decreased water excretion
+	2. Poor prognostic indicator
+5. 
 
 
 # Extra
