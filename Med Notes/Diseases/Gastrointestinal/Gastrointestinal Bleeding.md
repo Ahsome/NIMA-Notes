@@ -176,7 +176,7 @@ Main stay management:
 ---
 
 # Complications
-1. Complications of disease
+1. Chronic use of PPIs can cause C.diff colitis --> diarrhoea
 
 ---
 

@@ -6,6 +6,7 @@ GI bleed
 pneumonia
 asthma
 diabetes + medications
+HTN
 
 
 **ALSO ADD**:

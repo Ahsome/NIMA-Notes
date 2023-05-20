@@ -61,6 +61,9 @@ Valvular AF – AF with a mitral valve lesion, especially stenosis. These MUST b
 
 Criteria
 ![[Pasted image 20230508141019.png]]
+score > 2 requires anticoag
+
+![[Pasted image 20230518111647.png]]
 
 # Extra
 ## References:

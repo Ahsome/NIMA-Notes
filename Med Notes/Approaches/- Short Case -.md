@@ -9,4 +9,4 @@
 2. Consult with cardio / neuro / etc.
 3. Always try to do non-pharmacological approach first
 	1. MDT team - dietician, physio, OT, speech path.
-4. Always mention the comorbidities at the end - diabetes, obesity management, COPD 
+4. Always mention the chronic long-term problems at the end - diabetes, obesity management, COPD 

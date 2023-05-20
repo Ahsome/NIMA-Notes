@@ -80,6 +80,7 @@ Classic causes of secretory diarrhea include:
 # History
 ### Symptoms
 - Diarrhea. Number of times in weeks can affect the diagnosis. See [[#Information]]
+- If bloody diarrhea, consider [[Toxic Megacolon]]
 
 | Info        | Osmotic diarrhea                                                           | Secretory diarrhea                                                                                                                       | Fatty diarrhea                            | Inflammatory diarrhea                    |
 | ----------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------- |
@@ -95,7 +96,7 @@ Low
 
 Low in pancreatic insufficiency, causing [Fat malabsorption](app://obsidian.md/Fat%20malabsorption)
 ### Questions to ask
->*"Do you notice any ???"*
+>*"Do you notice that the diarrhoea gets better after fasting???"* - OSMOTIC diarrhoea
 
 ---
 
@@ -209,7 +210,7 @@ Treatment depends on the cause of the secretory diarreha:
 ---
 
 # Complications
-1. Complications of disease
+1. [[Toxic Megacolon]]: identifiable by bloody stools, abdominal distension, and shock. Often a rare complications of [[C. Difficile infection]] or [[Inflammatory Bowel Disease (IBD)#Diagnosis of Ulcerative Colitis:|UC]]
 
 ---
 
