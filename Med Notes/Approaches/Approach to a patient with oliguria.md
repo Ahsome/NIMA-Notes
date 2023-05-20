@@ -46,3 +46,4 @@
 		5. Summary of management:
 			1. Pre and Post: manage cause and dialysis indications. Stop/hold drugs with renal function: Diuretics, ACEi, ARB, NSAID, Metformin (due to risk of lactic acidosis)
 			2. Monitoring: Urea/Cr, daily weight (suggest retention of fluid), fluid chart, BP, electrolytes (as hyperkalemia is indication for dialysis)
+2. [[Chronic Kidney Disease]]
