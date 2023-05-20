@@ -1,5 +1,13 @@
-1. [[Acute Renal Failure]]
-	1. Specifically the Oliguric or Anuric kind of ARF
+*Created on 20th May 2023*
+
+---
+```toc
+```
+---
+
+# Information
+Acute Kidney Injury (AKI) is a... 
+Specifically the Oliguric or Anuric kind of ARF
 	2. Usually asymptomatic, find through blood
 	3. Diagnosis, needs any one of this:
 		1. Increase Cr of 0.3 over 48hr
@@ -46,3 +54,63 @@
 		5. Summary of management:
 			1. Pre and Post: manage cause and dialysis indications. Stop/hold drugs with renal function: Diuretics, ACEi, ARB, NSAID, Metformin (due to risk of lactic acidosis)
 			2. Monitoring: Urea/Cr, daily weight (suggest retention of fluid), fluid chart, BP, electrolytes (as hyperkalemia is indication for dialysis)
+
+> [!Important]+ Summary
+- Important point
+
+--- 
+# History
+### Symptoms
+
+### Risk factors:
+
+### Questions to ask
+>*"Do you notice any ???"*
+
+---
+
+## Examination findings
+| Key Findings | Result   | Explanation   |
+| ------------ | -------- | ------------- |
+| Finding 1    | Result 1 | Explanation 1 |
+
+| Additional Findings | Result   | Explanation   |
+| ------------------- | -------- | ------------- |
+| Finding 1           | Result 1 | Explanation 1 |
+
+---
+
+## Investigations
+| Key Tests                 |Result| Explanation                                                                                                                                                     |
+| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+
+| Additional Tests               |  Result   | Explanation                |
+| ------------------------------ | --- | --------------------- |
+| Test 1                            |  Result 1   | Explanation 1 |
+
+---
+
+# Management
+## Treatment
+
+## Drug overview
+
+## Criteria
+### Example severity/test score:
+![[Asthma#^6df757]]
+
+^6df757
+
+---
+
+# Complications
+1. Complications of disease
+
+---
+
+# Extra
+## Relevant notes:
+1. 
+## References:
+1. *Boards and Beyond - STEP 2:* Etc...
