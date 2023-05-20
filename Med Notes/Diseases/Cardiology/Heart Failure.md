@@ -78,10 +78,10 @@ More questions
 ## Examination findings
 | Left-sided                             | Right-sided          |
 | -------------------------------------- | -------------------- |
-| Pulmonary oedema - basal ccrackles     | Elevated JVP         |
-| Pleural effusion - dullness percussion | Peripheral odemea    |
+|Pulmonary oedema - basal ccrackles <br>**NOT** present in right heart failure| Elevated JVP         |
+| Pleural effusion - dullness percussion |Peripheral pitting odemea|
 |                                        | Pulm. HTN - RV heave |
-|                                        | Extra heart sounds                     |
+|                                        |Extra heart sounds (S3)|
 
 
 ## Investigations
@@ -115,6 +115,9 @@ More questions
 ---
 
 # Management
+Initial management involves diagnosis, which should be done with the following:
+![[Pasted image 20230520214607.png|200]]
+
 ## Treatments
 ### *Management of acute pulmonary oedema*
 -   40mg frusemide IV (double their usual dose if already on frusy)
