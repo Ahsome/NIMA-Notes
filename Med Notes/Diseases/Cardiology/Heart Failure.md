@@ -30,7 +30,10 @@ Most heart failure has an aeitiology behind the acute presentation, and needs to
 ## Aeitiology 
 -   Arrhythmia - [[Atrial Fibrillation]]!
 -   Fluid overload - non-compliance with diuretics, drinking too much,etc.
+	- NSAIDs
+		- Inhibits COX --> decreases prostaglandin, which is important for renal perfusion --> low renal perfusion --> salt/water retention
 -   Infection - fevers? malaise? cough? [[pneumonia]]?
+	- Causes activation of SNS --> Increased salt/water retention
 -   **Ischaemic heart disease (post MI) –** 40%
 -   **Dilated cardiomyopathy (often alcohol related) –** 32%
 -   **Primary valvular heart disease –** 12%
@@ -118,6 +121,8 @@ More questions
 # Management
 Initial management involves diagnosis, which should be done with the following:
 ![[Pasted image 20230520214607.png|200]]
+Then, treatment is needed for acute and chronic heart failure
+![[Pasted image 20230520221353.png]]
 
 ## Treatments
 ### *Management of acute pulmonary oedema*
@@ -143,6 +148,7 @@ Initial management involves diagnosis, which should be done with the following:
 - Multidisciplinary heart failure team, including a pharmacist to go through the medications (esp. if you are up-titrating), cardiologist, dietician (fluid and salt restriction diet)
 
 #### Pharmacological treatment
+![[Pasted image 20230520220928.png]]
 -   ACEi (pril) – vital initial treatment for all HFrEF patients. Start low dose, then up- titrate. THEN, add on b blocker.  
 	- ARB (sartan) – used if ACEi are not tolerated.  
 	- SE – cough, hypotension, hyperkalaemia  
@@ -157,9 +163,10 @@ Initial management involves diagnosis, which should be done with the following:
 	- ISSUES – hyperkalaemia in CKD patients.
 -   Diuretics – used to reduce the symptoms of fluid overload. Good for improving quality of life. There is no evidence that it improves mortality.
 	- Frusemide, thiazides (SPIRO counts too)
--   Digoxin (last line) – positive inotrope and is the last line therapy in end stage heart failure patients. Improves cardiac output.  
+-   Digoxin (last line) – positive inotrope and is the last line therapy in **end stage heart failure patients**. Improves cardiac output.  
 	- Useful as it wont lower your blood pressure - 500mg if renal function is ok
 	- Renal excretion – careful dosing in CKD.
+	- **Do not use** in otherwise not end stage as increased mortality
 
 #### Devices
 - 3 months after (timeframe)
