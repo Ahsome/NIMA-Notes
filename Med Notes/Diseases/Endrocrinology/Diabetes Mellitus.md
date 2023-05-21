@@ -57,7 +57,7 @@ Defined by:
 | -------------------- | ---------------------------------------------- |
 | Polyuria             | Osmotic diuresis from glucose entering urine   |
 | Polydipsia           | Thirst to replace lost fluids                  |
-| Sudden hyperglycemia | Common sign in [[Diabetes Mellitus#Type I DM]] |
+|Sudden hyperglycemia| Common sign in [[Diabetes Mellitus#Type I DM]] |
 | Blurry visuals       | Due to [[Diabetes Mellitus#Diabetic Neuropathy]]                                               |
 
 >[!Important]
