@@ -8,10 +8,11 @@
 1. Admit the patient 
 2. Consult with cardio / neuro / etc.
 3. Try to state they have a specific plan, such as a COPD plan or Asthma plan for the isease
-4. Always try to do non-pharmacological approach first
+4. For respiratory diseases, recommend the annual flu and pneomoccal vaccine
+5. Always try to do non-pharmacological approach first
 	1. MDT team - dietician, physio, OT, speech path.
-5. Always mention the chronic long-term problems at the end - diabetes, obesity management, COPD 
-6. 
+6. Always mention the chronic long-term problems at the end - diabetes, obesity management, COPD 
+7. 
 -   Lifestyle modifications: Encouraging the patient to make necessary changes in diet, exercise, weight management, and smoking cessation (if applicable) to reduce cardiovascular risk factors.
 -   Optimization of medical therapy: Adjusting medications to control hypertension, diabetes, and dyslipidemia, as well as ensuring optimal glycemic control.
 -   Cardiac rehabilitation: Referral to a cardiac rehabilitation program to improve exercise capacity and promote long-term cardiovascular health.
