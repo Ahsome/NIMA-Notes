@@ -12,9 +12,9 @@ Gout/Pseudogout
 Meningitis/Encephalitis
 
 - [x] Stroke
-- [ ] Bronchiectasis
-- [ ] Asthma
-- [ ] COPD
+- [ ] **Bronchiectasis**
+- [ ] **Asthma**
+- [ ] **COPD**
 - [ ] DKA
 - [ ] HSS
 - [ ] Syncope
@@ -22,12 +22,12 @@ Meningitis/Encephalitis
 - [x] Stroke
 - [ ] Delirium/Dementia
 - [ ] IBD
-- [ ] UTI
+- [ ] UTI - Pyelonephritis
 - [ ] Sepsis
 - [ ] Seizures
 - [ ] Hepatitis and CIrrhosis
-- [ ] Nautremia
-- [ ] Thyroid
+- [ ] **Nautremia**
+- [ ] **Thyroid**
 
 After:
 - [ ] BPH
