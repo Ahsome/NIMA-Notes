@@ -25,6 +25,7 @@ Meningitis/Encephalitis
 - [x] Stroke
 - [ ] How to read ECG
 - [ ] Delirium/Dementia
+- [ ] Cardiac tamponade
 - [ ] PUD
 - [ ] IBD
 - [ ] UTI - Pyelonephritis
