@@ -26,7 +26,7 @@ First consider important emergent causes:
 	2. Eliminate other options
 
 **Pulmonary**
-6. [[Pulmonary Embolus]]
+6. [[DVT]]
 	1. Sign:
 		1. Pleuritic chest pain
 		2. Sinus tachycardia
