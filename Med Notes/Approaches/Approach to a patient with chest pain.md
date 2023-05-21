@@ -32,8 +32,9 @@ First consider important emergent causes:
 		2. Sinus tachycardia
 		3. SOB
 		4. New oxygen requirement
-		5. Long term immobility, such as car ride or plane ride
-		6. Wells criteria
+		5. Tachypn
+		6. Long term immobility, such as car ride or plane ride
+		7. Wells criteria
 7. [[Pneumothorax]]
 	1. Sign:
 		1. Recent lung surgery
