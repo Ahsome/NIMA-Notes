@@ -7,7 +7,8 @@
     -   lying, standing BP
     -   BGL
     -   urine dipstick
--   syncope - vasovagal, orthostatic and cardiac (eg aortic stenosis)
+    - kidney function tests - dehydration --> AKI
+-   syncope - vasovagal, orthostatic and cardiac (arrhythmogenic or structural causes eg aortic stenosis)
 -   functional TLOC, narcolepsy
     -   sleep study
 -   infection - meningitis, encephalitis
@@ -20,6 +21,13 @@
     -   ECG
 -   migraines
 -   MRI, carotid duplex US, cervical XR
+- MX:
+	- Fluids, DVT prophylaxis, medication review (e.g. reducing the dosages of B-blockers), managing AKI
+	- Longer-term = see if they have a carer at home
+	- Manage diabetic complications
+	- Manage HTN complications
+	- Manage osteoporosis to prevent fractures if future falls 
+	- Multidisciplinary team
 
 
 

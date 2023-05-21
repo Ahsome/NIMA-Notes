@@ -1,4 +1,4 @@
--   Complications
+-   Complications - ask if they have falledn and received any injuries to the head or face
     -   fracture - NOFE
     -   subdural hematoma
     -   epidural hematoma

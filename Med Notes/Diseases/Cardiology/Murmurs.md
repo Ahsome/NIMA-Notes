@@ -20,6 +20,7 @@ RIght-sided murmurs increase with inspiration
 	- Late-peaking murmur
 	- Soft / quiet S2
 	- Weak and smalll carotid pulses 
+	- Left venticular hypertrophy - voltage criteria (S wave in V1 and R wave in V5 and V6 > 35mm)
 - MR
 	- Holosystolic murmur, pansystolic
 	- Head best at 5th intercostal space, mid-clavicular line
