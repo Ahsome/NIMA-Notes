@@ -43,6 +43,7 @@ Meningitis/Encephalitis
 - [ ] How to read ECG
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
+- [ ] Respiratory Failure
 - [ ] GORD
 - [ ] PUD
 - [ ] IBD
@@ -52,7 +53,7 @@ Meningitis/Encephalitis
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
-- [ ] Anorexia
+- [x] Anorexia
 - [ ] **Thyroid**
 
 After:
@@ -132,7 +133,7 @@ A patient with hypertension
 A patient with acute confusion
 [[Delirium]]
 [[Alcohol Toxicity]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 A patient with acute weakness
 [[Stroke]]
 [[UMN Lesion]]
@@ -145,7 +146,7 @@ A patient with jaundice
 [[Pancreatitis]]
 [[Cholecystitis]]
 A patient with oliguria
-[[Prostate enlargement|BPH]]
+[[Benign Prostate Hypertrophy (BPH)]]
 A patient with obseity and complications
 [[Obesity]]
 [[SLeep Apnea]]
@@ -158,7 +159,7 @@ A patient with joint pain
 A patient with a fall
 [[Falls]]
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 [[Parkinson's]]]
 A patient with fever
@@ -170,7 +171,7 @@ A patient with fever
 [[Sepsis (and SIRS)]]
 A patient with transient LOC
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 A patient with unintential weight loss
 [[Breast Cancer]]
