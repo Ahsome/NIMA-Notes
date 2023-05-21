@@ -35,11 +35,16 @@
 			4. Echo
 4. Stroke
 5. Seizure
-	1. Clues instead of syncope:
-		1. Tonic-clonic
-		2. Tongue bititng
-		3. Incontinence
-		4. Post-ictal state
+	1. Remember status epilepticus
+		1. >5 minutes of continous seizures
+		2. 2 or more, without recovery of consciousness
+	2. Clues instead of syncope:
+		1. Has aura, hich are simple seizures based on location in brain
+		2. Tonic-clonic
+		3. Tongue bititng
+		4. Incontinence
+		5. Post-ictal state
+			1. Key distinction
 6. Exclude mechanical fall, which did not have transient LOC before hitting ground
 7. VERY RARE:
 	1. [[Pulmonary Embolus]]
