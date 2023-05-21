@@ -15,7 +15,7 @@ Meningitis/Encephalitis
 - [ ] **Bronchiectasis**
 - [ ] **Asthma**
 - [ ] **COPD**
-- [ ] Anticoagulati
+- [ ] Anticoagulation medication
 - [ ] Pulmonary Embolism
 - [ ] DKA
 - [ ] HSS
