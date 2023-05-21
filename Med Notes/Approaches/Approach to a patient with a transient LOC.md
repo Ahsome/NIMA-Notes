@@ -62,6 +62,8 @@
 		5. SOmetimes LP (meningitis)
 		6. EEG
 			1. Only after other tests fail
+			2. 3hz spike for childhood absence epilepsy, treat with ethosuximide
+			3. NO post-ical
 6. Exclude mechanical fall, which did not have transient LOC before hitting ground
 7. VERY RARE:
 	1. [[Pulmonary Embolus]]
