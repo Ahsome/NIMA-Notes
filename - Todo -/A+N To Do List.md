@@ -30,8 +30,8 @@ Meningitis/Encephalitis
 	- [ ] Look at ETG
 - [ ] Anticoagulation medication
 - [x] Pulmonary Embolism
-- [ ] DKA
-- [ ] HSS
+- [x] DKA
+- [x] HSS
 - [ ] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
