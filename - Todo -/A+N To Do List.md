@@ -16,7 +16,7 @@ Meningitis/Encephalitis
 - [ ] **Asthma**
 - [ ] **COPD**
 - [ ] Anticoagulation medication
-- [ ] Pulmonary Embolism
+- [x] Pulmonary Embolism
 - [ ] DKA
 - [ ] HSS
 - [ ] Syncope
