@@ -45,6 +45,23 @@
 		4. Incontinence
 		5. Post-ictal state
 			1. Key distinction
+	3. Tests:
+		1. Blood
+			1. Calcium sodium glucose
+				1. electrolyte dysfunction or hypoglucose cause seizure
+			2. FBC
+			3. renal function
+			4. LFT
+			5. Check for systemic disease
+		2. Toxicology screen
+			1. For drugs
+		3. ECG (cardiac syncope)
+		4. Brain imaging
+			1. Tumors
+			2. Bleeding
+		5. SOmetimes LP (meningitis)
+		6. EEG
+			1. Only after other tests fail
 6. Exclude mechanical fall, which did not have transient LOC before hitting ground
 7. VERY RARE:
 	1. [[Pulmonary Embolus]]
