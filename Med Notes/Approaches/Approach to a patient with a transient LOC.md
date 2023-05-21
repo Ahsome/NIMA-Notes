@@ -1,0 +1,23 @@
+![[Pasted image 20230522045120.png]]
+
+-   epidural hematoma (lucid interval)
+    -   non-contrast CT head
+-   seizure - generalized
+    -   EEG
+-   postural hypotension - hypoglycemia, dehydration, bradycardia, drug-induced
+    -   lying, standing BP
+    -   BGL
+    -   urine dipstick
+-   syncope - vasovagal, orthostatic and cardiac (eg aortic stenosis)
+-   functional TLOC, narcolepsy
+    -   sleep study
+-   infection - meningitis, encephalitis
+    -   FBC, LP, CRP
+-   stroke, TIA , vertebrobasilar insufficiency
+-   electrolyte disturbances - hyponatremia
+    -   urea and electrolytes
+-   intoxication
+-   AFIB
+    -   ECG
+-   migraines
+-   MRI, carotid duplex US, cervical XR

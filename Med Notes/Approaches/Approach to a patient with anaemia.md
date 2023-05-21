@@ -1,0 +1,24 @@
+-   Microcytic
+    -   Thalassemia
+    -   Anemia of chronic disease
+    -   Iron deficiency anemia
+    -   lead poisoning
+    -   sideroblastic anemia
+-   Normocytic
+    -   bleeding
+    -   aplastic anemia
+    -   Extrinsic → MaAHA, MiAHA (non-immune), autoimmune hemolytic anemia
+    -   Intrinsic → hereditary spherocytosis, G6PD, Pyruvate kinase def, Sickle cell, HbC disease
+-   Macrocytic
+    -   megaloblastic: B12/folate deficiency
+    -   Myelodysplastic syndromes
+    -   non-megaloblastic: alcohol, liver disease
+- Ix → FBC, VitB9/B12, folate, CRP/ESR, reticulocyte count, EPO, blood smears, iron studies (ferritin, TIBC), haptoglobin, FOBT, urine MCS, coombs (direct antiglobulin) test
+-   Tx
+    -   iron deficiency anemia + Hb > 70; iron transfusion
+    -   aplastic anemia; bone marrow transplant
+    -   sickle cell anemia; hydroxyurea
+    -   megaloblastic anemia; folate and B12 supplementation
+    -   blood loss; blood transfusions
+    -   autoimmune; prednisolone to treat underlying autoimmune pathology
+    -   abnormal uterine bleeding; tranexamic acid, aminocaproic acid

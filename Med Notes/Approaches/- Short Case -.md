@@ -20,7 +20,7 @@
 | 5      | [[Approach to a patient with HTN]]                                  |
 | 6      | [[Approach to a patient presenting with acute confusion]]           |
 | 7      | [[Approach to a patient presenting with acute weakness]]            |
-| 8      | [[Approach to a patient with anaemia]]                              |
+| 8      |[[Approach to a patient with anaemia]]|
 | 9      | [[Approach to a patient with jaundice]]                             |
 | 10     | [[Approach to a patient with oliguria]]                             |
 | 11     | [[Approach to a patient with obesity and complications]]            |

@@ -1,0 +1,14 @@
+-   Infection
+    -   pneumonia - piptaz or augmentin
+    -   bacterial
+    -   UTI, pyelonephritis - cefalexin, trimethoprim
+    -   cellulitis - flucloxacillin (s aureus) + benzylpenicillin (s pyogenes) + ceftriaxone (if gram neg suspected)
+    -   diverticulitis
+    -   EBV
+    -   dental abscess
+    -   Dengue, malaria (chloroquine/artesunate)
+-   Malignancy
+-   Febrile neutropenia secondary to chemotherapy
+-   Transplant rejection
+-   pancreatitis - amylase, lipase
+-   Ascending cholangitis - cholecystectomy + Abx. + fluids

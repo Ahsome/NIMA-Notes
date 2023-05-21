@@ -1,0 +1,19 @@
+-   malignancy - CT, FBC, lymphocytes, paraneoplastic syndrome
+-   depression/anxiety - DSM-V
+-   type 1 diabetes - BGL, fasting BG, urine dipstick, ketones, c-peptide, anti-GAD, anti-IA2
+-   hyperthyroidism - TFTs, TRAb, TPOAb, TgAb, radi-iodine uptake test , FNA
+-   Infection (esp GI infections) - FBC, WCC, leukocyte, CRP
+-   IBD - fecal calprotectin, P-ANCA (UC), Ab to Saccharomyces cerevisiae (crohn’s), ileocolonoscopy (crohn’s), cross-sectional MR enterography, CT enterography, iron studies
+-   Celiac disease - IgA-TTG, HLA testing, IgA EMA, IgG anti-DGP (more specific to account for potential IgA deficiency)
+-   tuberculosis - CT, FBC, AFB sputum culture, tuberculin skin test, NAAT, CXR
+    -   RIP(Pyrizinamide)E → all 4 for the first 2 months, first 2 for the next 4 months
+    -   give B6 (pyridoxine) due to peripheral neuropathy AE of isoniazid
+-   Glucagonoma syndrome - CT, high BGL
+    -   remove or if inoperable give octerotide
+-   anorexia cachexia
+-   phaeochromocytoma - urinary fractionated metanephrines, plasma free metanephrines, CT abdo and pelvis with contrast
+    -   alpha followed by beta blocakde (to prevent HTN crisis) then remove bc surgery triggers release of catecholamines
+    -   beta-blockers musnt be started before adequate alpha-blockade bc in the absence of b2-mediated vasodilation, unapposed alpha-mediated vasoconstriction can lead to hypertensive crisis or pulmonary edema
+-   Addisons disease - ACTH, cortisol, ACTH stimulation test
+    -   replace glucocorticoids, mineralocorticoids, androgens
+    -   prevention of adrenal crisis by increasing steroid dose during periods of stress
