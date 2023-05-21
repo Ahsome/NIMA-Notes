@@ -49,7 +49,7 @@ Meningitis/Encephalitis
 - [ ] UTI - Pyelonephritis
 - [ ] Sepsis
 - [ ] Shock
-- [ ] Seizures
+- [x] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
 - [ ] Anorexia
