@@ -11,7 +11,7 @@ OA/RA
 Gout/Pseudogout
 Meningitis/Encephalitis
 
-- [ ] Stroke
+- [x] Stroke
 - [ ] Bronchiectasis
 - [ ] Asthma
 - [ ] COPD
