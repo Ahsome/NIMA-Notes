@@ -37,6 +37,14 @@ First consider important emergent causes:
 		7. Long term immobility, such as car ride or plane ride
 		8. JVP increase, due to right sided [[Heart Failure]]
 		9. Wells criteria
+		10. ABG (not needed) shows:
+			1. decrease PaO2 - V/Q mismatch
+			2. decrease PaCO2 - Hyperventilatiion
+			3. Resp alkalosis due
+		11. ECG:
+			1. Most common, sinus tachy
+			2. Can see S1Q3T3
+		12. If cannot do CTPA ue to pregnancy or [[Chronic Kidney Disease]], do VQ scn
 7. [[Pneumothorax]]
 	1. Sign:
 		1. Recent lung surgery
