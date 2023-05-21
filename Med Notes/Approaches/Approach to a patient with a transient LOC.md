@@ -27,8 +27,22 @@
 			1. Only if chest pain or ECG
 		2. Arrhytmia
 			1. Sinus brady, ab block, svt, vt, so do ECG & history
+			2. ![[Pasted image 20230522004523.png]]
 		3. Outflow obstructioon
-			1. AS, hypertrophic ca
+			1. AS, hypertrophic cardiomyopathy
+			2. Normally syncope with exertion, since LV cannot reduce CO when blockage to Aorta
+			3. Murmur, since AS and hypertroph has systolic ehection murmur
+			4. Echo
 4. Stroke
 5. Seizure
+	1. Clues instead of syncope:
+		1. Tonic-clonic
+		2. Tongue bititng
+		3. Incontinence
+		4. Post-ictal state
 6. Exclude mechanical fall, which did not have transient LOC before hitting ground
+7. VERY RARE:
+	1. [[Pulmonary Embolus]]
+	2. [[Subarachnoid Hemorrhage]]
+	3. [[Sepsis|Shock]]
+	4. [[Atrial myxoma]]
