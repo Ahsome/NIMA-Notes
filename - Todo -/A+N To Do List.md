@@ -7,7 +7,14 @@ pneumonia
 asthma
 diabetes + medications
 HTN
+OA/RA
+Gout/Pseudogout
+Meningitis/Encephalitis
 
+- [ ] Stroke
+- [ ] Bronchiectasis
+- [ ] Asthma
+- [ ] COPD
 - [ ] DKA
 - [ ] HSS
 - [ ] Syncope
