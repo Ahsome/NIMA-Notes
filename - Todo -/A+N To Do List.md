@@ -13,7 +13,9 @@ Meningitis/Encephalitis
 
 **SCALES TO LEARN:**
 - Score for stepwise treatment of COPD:![[Pasted image 20230521235648.png]] 
-- ==mMRC Dyspnea Scale --  EXTRA, NOT NEEDED==, GOLD for COPD
+- GOLD for COPD, severity, not treatment
+- ![[Pasted image 20230522000557.png]]
+- ==mMRC Dyspnea Scale --  EXTRA, NOT NEEDED==
 - ![[Pasted image 20230521235019.png]]
 - NYH for HF
 - CURB65, smart-cop for pneumonia
@@ -44,6 +46,7 @@ Meningitis/Encephalitis
 - [ ] IBD
 - [ ] UTI - Pyelonephritis
 - [ ] Sepsis
+- [ ] Shock
 - [ ] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
