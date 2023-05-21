@@ -58,6 +58,7 @@ Meningitis/Encephalitis
 After:
 - [ ] BPH
 - [ ] Osteoperosis
+- [ ] Vertigo
 
 **ALSO ADD**:
 - [ ] Vertigo
