@@ -38,7 +38,7 @@
 | 11     | [[Approach to a patient with obesity and complications]]            |
 | 12     | [[Approach to a patient with joint pain]]                           |
 | 13     | [[Approach to a patient presenting after a fall]]                   |
-| 14     | [[Approach to a patient with fever]]                                |
-| 15     | [[Approach to a patient with a transient LOC]]                      |
+| 14     |[[Approach to a patient with fever]]|
+| 15     |[[Approach to a patient with a transient LOC]] |
 | 16     | [[Approach to a patient presenting with unintentional weight loss]] |
 |        |                                                                     |
