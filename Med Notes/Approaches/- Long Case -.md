@@ -54,3 +54,4 @@
 - Second issue = what the patient states as their number 1 goal
 	- Ask them specifically why this is the most importnt e.g. diabetic neuropathy have you had concerns for falls in the past?
 - Nerve conduction studies for neuropathy
+- State that management should include a plan, such as an Asthma plan or COPD plan

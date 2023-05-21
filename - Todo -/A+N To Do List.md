@@ -12,7 +12,8 @@ Gout/Pseudogout
 Meningitis/Encephalitis
 
 **SCALES TO LEARN:**
-- mMRC Dyspnea Scale, GOLD for COPD
+- Score for stepwise treatment of COPD:![[Pasted image 20230521235648.png]] 
+- ==mMRC Dyspnea Scale --  EXTRA, NOT NEEDED==, GOLD for COPD
 - ![[Pasted image 20230521235019.png]]
 - NYH for HF
 - CURB65, smart-cop for pneumonia
