@@ -35,7 +35,8 @@ First consider important emergent causes:
 		5. Tachypnea
 		6. Hemoptysis, if large embolus
 		7. Long term immobility, such as car ride or plane ride
-		8. Wells criteria
+		8. JVP 
+		9. Wells criteria
 7. [[Pneumothorax]]
 	1. Sign:
 		1. Recent lung surgery
