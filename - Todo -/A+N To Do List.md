@@ -11,6 +11,14 @@ OA/RA
 Gout/Pseudogout
 Meningitis/Encephalitis
 
+**SCALES TO LEARN:**
+- mMRC Dyspnea Scale, GOLD for COPD
+- ![[Pasted image 20230521235019.png]]
+- NYH for HF
+- CURB65, smart-cop for pneumonia
+- Wells for DVT/PE
+- 
+
 - [x] Stroke
 - [ ] **Bronchiectasis**
 - [ ] **Asthma**
@@ -22,6 +30,7 @@ Meningitis/Encephalitis
 - [ ] DKA
 - [ ] HSS
 - [ ] A-Fib
+- [ ] Murmurs
 - [ ] Rest of diabetes videos
 - [ ] Syncope
 - [ ] Hypervolemia
