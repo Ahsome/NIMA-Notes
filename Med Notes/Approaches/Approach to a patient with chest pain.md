@@ -35,7 +35,7 @@ First consider important emergent causes:
 		5. Tachypnea
 		6. Hemoptysis, if large embolus
 		7. Long term immobility, such as car ride or plane ride
-		8. JVP 
+		8. JVP increase, due to right sided [[Heart Failure]]
 		9. Wells criteria
 7. [[Pneumothorax]]
 	1. Sign:
