@@ -162,7 +162,7 @@ Usually occurs with generalised tonic-clonic activity
 	1. Cortical laminar necrosis --> permanent neurological disease
 2. Sodium valproate SEs - tremors
 3. Vascular malformations - can cause [[Seizures and Status Epilepticus]] and [[Gastrointestinal Bleeding]]? angyiodyspllasia
-4. Steven-Johnson syndrome: Can come from eth
+4. Steven-Johnson syndrome: Can come from ethosuximide, la
 
 
 
