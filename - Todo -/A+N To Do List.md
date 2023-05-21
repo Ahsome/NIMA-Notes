@@ -18,7 +18,7 @@ Meningitis/Encephalitis
 - [ ] DKA
 - [ ] HSS
 - [ ] Syncope
-- [ ] Stroke
+- [x] Stroke
 - [ ] Delirium/Dementia
 - [ ] IBD
 - [ ] UTI
