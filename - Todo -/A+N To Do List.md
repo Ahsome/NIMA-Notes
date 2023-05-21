@@ -8,6 +8,22 @@ asthma
 diabetes + medications
 HTN
 
+- [ ] DKA
+- [ ] HSS
+- [ ] Syncope
+- [ ] Stroke
+- [ ] Delirium/Dementia
+- [ ] IBD
+- [ ] UTI
+- [ ] Sepsis
+- [ ] Seizures
+- [ ] Hepatitis and CIrrhosis
+- [ ] Nautremia
+- [ ] Thyroid
+
+After:
+- [ ] BPH
+- [ ] Diabetes complications
 
 **ALSO ADD**:
 - [ ] Vertigo
