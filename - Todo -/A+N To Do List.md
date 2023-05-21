@@ -13,8 +13,10 @@ Meningitis/Encephalitis
 
 - [x] Stroke
 - [ ] **Bronchiectasis**
-- [x] **Asthma**
+- [ ] **Asthma**
+	- [ ] Look at ETG
 - [ ] **COPD**
+	- [ ] Look at ETG
 - [ ] Anticoagulation medication
 - [x] Pulmonary Embolism
 - [ ] DKA
