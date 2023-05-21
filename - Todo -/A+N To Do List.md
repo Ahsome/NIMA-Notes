@@ -19,6 +19,7 @@ Meningitis/Encephalitis
 - [x] Pulmonary Embolism
 - [ ] DKA
 - [ ] HSS
+- [ ] A-Fib
 - [ ] Rest of diabetes videos
 - [ ] Syncope
 - [ ] Hypervolemia
