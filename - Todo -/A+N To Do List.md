@@ -37,7 +37,7 @@ Meningitis/Encephalitis
 - [ ] Rest of diabetes videos
 - [ ] Diabetic complications
 - [ ] Starvation videos
-- [ ] Syncope
+- [x] Syncope
 - [ ] Hypervolemia
 - [x] Stroke
 - [ ] How to read ECG

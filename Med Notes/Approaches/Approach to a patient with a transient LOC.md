@@ -46,3 +46,7 @@
 	2. [[Subarachnoid Hemorrhage]]
 	3. [[Sepsis|Shock]]
 	4. [[Atrial myxoma]]
+
+![[Pasted image 20230522004918.png]]
+
+![[Pasted image 20230522004947.png]]
