@@ -222,7 +222,7 @@ Treatment – the aim is to re-perfuse EARLY. The earlier you treat, the higher 
 	 - **Labetalol
 	- **Nicardipine
 	- **Clevidipine**
--   ==**Aspirin + clopidogrel**== – only to be used once hae2341562313morrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
+-   ==**Aspirin + clopidogrel**== – only to be used once haemorrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
 	- Dual antiplatelet therapy for up to 3 months has been shown to prevent recurrent strokes.
 
 **==Clot retrieval==** – interventional treatment **WITHIN 6-8HR** of symptoms

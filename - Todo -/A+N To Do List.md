@@ -7,7 +7,59 @@ pneumonia
 asthma
 diabetes + medications
 HTN
+OA/RA
+Gout/Pseudogout
+Meningitis/Encephalitis
 
+**SCALES TO LEARN:**
+- Score for stepwise treatment of COPD:![[Pasted image 20230521235648.png]] 
+- GOLD for COPD, severity, not treatment
+- ![[Pasted image 20230522000557.png]]
+- ==mMRC Dyspnea Scale --  EXTRA, NOT NEEDED==
+- ![[Pasted image 20230521235019.png]]
+- NYH for HF
+- CURB65, smart-cop for pneumonia
+- Wells for DVT/PE
+- 
+
+- [x] Stroke
+- [ ] **Bronchiectasis**
+- [ ] **Asthma**
+	- [ ] Look at ETG
+- [ ] **COPD**
+	- [ ] Look at ETG
+- [ ] Anticoagulation medication
+- [x] Pulmonary Embolism
+- [x] DKA
+- [x] HSS
+- [ ] A-Fib
+- [ ] Murmurs
+- [ ] Rest of diabetes videos
+- [ ] Diabetic complications
+- [ ] Starvation videos
+- [x] Syncope
+- [ ] Hypervolemia
+- [x] Stroke
+- [ ] How to read ECG
+- [ ] Delirium/Dementia
+- [ ] Cardiac tamponade
+- [ ] Respiratory Failure
+- [ ] GORD
+- [ ] PUD
+- [ ] IBD
+- [ ] UTI - Pyelonephritis
+- [ ] Sepsis
+- [ ] Shock
+- [x] Seizures
+- [ ] Hepatitis and CIrrhosis
+- [ ] **Nautremia**
+- [x] Anorexia
+- [ ] **Thyroid**
+
+After:
+- [ ] BPH
+- [ ] Osteoperosis
+- [ ] Vertigo
 
 **ALSO ADD**:
 - [ ] Vertigo
@@ -81,7 +133,7 @@ A patient with hypertension
 A patient with acute confusion
 [[Delirium]]
 [[Alcohol Toxicity]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 A patient with acute weakness
 [[Stroke]]
 [[UMN Lesion]]
@@ -94,7 +146,7 @@ A patient with jaundice
 [[Pancreatitis]]
 [[Cholecystitis]]
 A patient with oliguria
-[[Prostate enlargement|BPH]]
+[[Benign Prostate Hypertrophy (BPH)]]
 A patient with obseity and complications
 [[Obesity]]
 [[SLeep Apnea]]
@@ -107,7 +159,7 @@ A patient with joint pain
 A patient with a fall
 [[Falls]]
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 [[Parkinson's]]]
 A patient with fever
@@ -119,7 +171,7 @@ A patient with fever
 [[Sepsis (and SIRS)]]
 A patient with transient LOC
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 A patient with unintential weight loss
 [[Breast Cancer]]

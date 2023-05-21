@@ -148,7 +148,8 @@ Long term management centers around combination of education, follow-up, and pre
 1. Calculate the **Asthma Severity**: ![[Asthma#^6df757]]
 2. Check the relevant chronic therapy result:![[Pasted image 20230507144241.png]]
 3. Follow up in 2-6 weeks. If there is a good response in >3 consecutive months, consider **stepping down**
-4. If inadequare response, check for:
+4. Asthma action plan: A personalized plan that helps individuals manage their asthma and recognize worsening symptoms.
+5. If inadequare response, check for:
 	1. Treatment adherence and technique
 	2. Manage cormobidities
 	3. Consider advancing to next step

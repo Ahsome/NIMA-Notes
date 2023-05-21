@@ -47,7 +47,7 @@ The ***hallmark*** is ***elevated post-void residual***
 The patient is unable to void fully, and has *persistent* small volume urine loss
 
 Caused include:
-- Detrusor underactivity
+- Detrusor underactivity (Neurogenic bladder)
 - Obstruction (men with [[Benign Prostatic Hypertrophy (BPH)]])
 - Medications (antihistamines, antimuscarinics)
 - Neuropathy ([[Stroke]], [[Diabetes Mellitus]])
