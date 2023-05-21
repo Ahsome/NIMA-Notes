@@ -35,6 +35,8 @@ Meningitis/Encephalitis
 - [ ] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
+- [ ] Diabetic complications
+- [ ] Starvation videos
 - [ ] Syncope
 - [ ] Hypervolemia
 - [x] Stroke
@@ -55,7 +57,7 @@ Meningitis/Encephalitis
 
 After:
 - [ ] BPH
-- [ ] Diabetes complications
+- [ ] Osteoperosis
 
 **ALSO ADD**:
 - [ ] Vertigo
