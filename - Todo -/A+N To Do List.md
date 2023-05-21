@@ -15,18 +15,22 @@ Meningitis/Encephalitis
 - [ ] **Bronchiectasis**
 - [ ] **Asthma**
 - [ ] **COPD**
+- [ ] Pulmonary Embolism
 - [ ] DKA
 - [ ] HSS
 - [ ] Syncope
 - [ ] Hypervolemia
 - [x] Stroke
+- [ ] How to read ECG
 - [ ] Delirium/Dementia
+- [ ] PUD
 - [ ] IBD
 - [ ] UTI - Pyelonephritis
 - [ ] Sepsis
 - [ ] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
+- [ ] Anorexia
 - [ ] **Thyroid**
 
 After:
