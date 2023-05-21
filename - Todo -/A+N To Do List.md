@@ -13,7 +13,7 @@ Meningitis/Encephalitis
 
 - [x] Stroke
 - [ ] **Bronchiectasis**
-- [ ] **Asthma**
+- [x] **Asthma**
 - [ ] **COPD**
 - [ ] Anticoagulation medication
 - [x] Pulmonary Embolism
@@ -26,6 +26,7 @@ Meningitis/Encephalitis
 - [ ] How to read ECG
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
+- [ ] GORD
 - [ ] PUD
 - [ ] IBD
 - [ ] UTI - Pyelonephritis
