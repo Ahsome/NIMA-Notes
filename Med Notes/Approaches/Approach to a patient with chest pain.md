@@ -77,6 +77,15 @@ GI:
 Cardiac:
 - Heart failure
 - Aortic stenosis
+- Pericarditis
+	- Fever
+	- Sharp, pleuritic chest pain
+	- Worse lying down, better sitting up
+	- Exam:
+		- Pericardia friction rub, scratchy in systole and distole, only someties
+	- Has diffuse ST-elevations, and PR depression:
+	- ![[Pasted image 20230523014222.png]]
+	- Increased WBC
 
 Pulmonary:
 - Pneumonia
