@@ -22,6 +22,8 @@ First consider important emergent causes:
 		1. PRessure from outside prevents ventricles filling in diastole
 	3. Test:
 		1. Electric alternans
+			1. QRS alternates from tall to short, due to swining of heart in pericardial sac
+			2. ![[Pasted image 20230523015632.png]]
 		2. Distant, muffled heart sounds due to fluid in heart
 		3. Dyspnea despite absence of pulmonary edema (no bilateral crackles)
 		4. Elevated JVP since pressure prevents proper dilatation
@@ -34,8 +36,19 @@ First consider important emergent causes:
 				1. Inspiration decreases left sided flow of blood
 				2. Exaggerated in lung disease
 		7. Stat echo
-		8. Water bottle sign: Note this means pericardial effusion, not specifically tamponade
-		9. ![[Pasted image 20230523015013.png]]
+		8. Equal of pressure in RA, RV, PCWP, and LVEDP:
+			1. Due to cardiac chambers not being able to relax
+			2. ![[Pasted image 20230523015907.png]]
+		10. Water bottle sign: Note this means pericardial effusion, not specifically tamponade
+		11. ![[Pasted image 20230523015013.png]]
+		12. Diagnosis:
+			1. Requires clinical signs (e..g pulsus paradoxus)
+			2. Requires transthoracic echocardiography, shows effusion
+		13. Treatment:
+			1. **IV fluids (NOT diuretics)**
+				1. They need fluid, otherwise blood does not have enough pressure to inflate ventricles against pressure of tamponade
+			2. Pericardiocentesis
+			3. Surgical pericardial window
 6. [[Takotsubo cardiomyopathy]]
 	1. ST elevations in anterior precordial leads, mimicking LAD stemi
 	2. Eliminate other options
