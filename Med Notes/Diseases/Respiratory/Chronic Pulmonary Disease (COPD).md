@@ -102,7 +102,7 @@ Acute management of acute decompensated COPD
 - Vaccination against respiratory infections (influenza, pneumococcus)
 
 #### Pharmacological treatment:
-![[Pasted image 20230507161541.png]]
+![[Pasted image 20230522190758.png]]
 - Short acting bronchodilators (SABA and SAMA) – important for symptomatic relief and improving function and QOL. They are used as rescue medications. Salbutamol and ipratropium have similar efficacy. If neither have sufficient effect on the patient, then a combination of salbutamol and ipratropium can be used.
 	- Salbutamol (SABA) 
 	- Terbutaline (SABA) 
