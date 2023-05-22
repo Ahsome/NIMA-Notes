@@ -12,3 +12,10 @@
 -   Transplant rejection
 -   pancreatitis - amylase, lipase
 -   Ascending cholangitis - cholecystectomy + Abx. + fluids
+- UTI:
+	- Cystitis
+		- NO fever, systemic issues
+		- Dysuria, increased frequency, increased urge, suprapubic pain
+	- Pyelonephritis
+		- FEVER, systemic issues, increased WBC, WBC casts
+		- Flank pain, hematuria, CVA is tender
