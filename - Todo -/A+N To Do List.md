@@ -69,7 +69,7 @@ After:
 - [ ] Vertigo
 - [ ] Hyper/hypo-thyroid
 - [ ] Delirium tremens
-- [ ] Pyelonephritis
+- [x] Pyelonephritis
 - [ ] BPH
 - [x] Sleep apnoea
 - [ ] Multiple sclerosis
