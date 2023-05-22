@@ -54,6 +54,7 @@ Meningitis/Encephalitis
 - [ ] IBD
 - [ ] VT/SVT management
 - [x] UTI - Pyelonephritis
+- [ ] STI
 - [x] Sepsis
 - [ ] Shock
 - [x] Seizures
