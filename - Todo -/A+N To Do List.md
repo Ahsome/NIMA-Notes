@@ -50,7 +50,7 @@ Meningitis/Encephalitis
 - [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
-- [ ] PUD
+- [x] PUD
 - [ ] IBD
 - [ ] VT/SVT management
 - [x] UTI - Pyelonephritis
