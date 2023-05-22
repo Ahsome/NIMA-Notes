@@ -57,7 +57,7 @@ Meningitis/Encephalitis
 - [x] UTI - Pyelonephritis
 - [ ] STI
 - [x] Sepsis
-- [ ] Shock
+- [x] Shock
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
