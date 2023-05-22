@@ -49,7 +49,7 @@ Meningitis/Encephalitis
 - [ ] Anemia
 - [ ] PUD
 - [ ] IBD
-- [ ] UTI - Pyelonephritis
+- [x] UTI - Pyelonephritis
 - [ ] Sepsis
 - [ ] Shock
 - [x] Seizures
