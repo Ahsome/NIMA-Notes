@@ -37,7 +37,7 @@ Meningitis/Encephalitis
 - [ ] Rest of diabetes videos
 - [ ] Lower back pain
 - [ ] Read all joint paints
-- [ ] ![[Pasted image 20230523090742.png]]
+- [ ] **FALLS!!**
 - [ ] Starvation videos
 - [x] Syncope
 - [ ] Hypervolemia
