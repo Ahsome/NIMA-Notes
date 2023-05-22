@@ -37,6 +37,7 @@ Meningitis/Encephalitis
 - [ ] Rest of diabetes videos
 - [ ] Diabetic complications
 - [ ] Lower back pain
+- [ ] Read all joint paints
 - [ ] Starvation videos
 - [x] Syncope
 - [ ] Hypervolemia

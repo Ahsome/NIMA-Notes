@@ -15,12 +15,17 @@ First consider important emergent causes:
 	2. Tearing pain, radiating to the back
 	3. CXR for widened mediastinum, need CT A to confirm diagnosis
 5. [[Cardiac Tamponade]]
-	1. Symptom:
-	2. Test:
+	1. Caued by pericardia effusions
+		1. Only small amounts of fluid needed if in acute setting to cause tmaponade, such as bleeding
+		2. If chronic, such as cancer, need large amount since heart adapts
+	2. Symptom:
+		1. PRessure from outside prevents ventricles filling in diastole
+	3. Test:
 		1. Electric alternans
 		2. Low voltage ECG
 		3. Pulsus paradoxes
 		4. Stat echo
+		5. Water bottle
 6. [[Takotsubo cardiomyopathy]]
 	1. ST elevations in anterior precordial leads, mimicking LAD stemi
 	2. Eliminate other options
@@ -86,6 +91,14 @@ Cardiac:
 	- Has diffuse ST-elevations, and PR depression:
 	- ![[Pasted image 20230523014222.png]]
 	- Increased WBC
+	- Always do echo to find effusion, which can cause tamponade
+	- Normally after infection, normally through viral
+	- Also due to uremia from renal failure, treatment is hemodialysis (NOT DRUGS)
+	- Treatment:
+		- NSAIDS
+		- Glucocorticoids, second line
+		- Colchicine (inhibits WBCs via complex mechanism)
+		- Normay NSAID plus colchicine
 
 Pulmonary:
 - Pneumonia
