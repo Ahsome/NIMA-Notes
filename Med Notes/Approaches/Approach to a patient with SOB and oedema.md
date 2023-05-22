@@ -11,14 +11,10 @@
 3. [[Pulmonary Hypertension]]
 	1. In advanced disease
 	2.  No crackles, contrast with [[Heart Failure]]
-5. [[Chronic Liver Disease]]
+5. [[Liver Failure and Cirrhosis]]
 	1. Ascites
 	2. Reduced liver span
 	3. Peripheral Oedema
 	4. Spider nevi/Gynecomastia
 	5. Increased INR
-6. [[Liver Failure and Cirrhosis]]
-	1. Ascites
-	2. Reduced liver span
-	3. Peripheral oedema
 - 

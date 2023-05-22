@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "seizure",
+  "search": "chronic liver disease",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27138669184955666,
+  "scale": 0.6024013357398909,
   "close": false
 }

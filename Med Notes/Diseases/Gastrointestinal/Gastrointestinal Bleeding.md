@@ -28,7 +28,7 @@ Common causes include (Italic is most):
 - [[Esophageal varices]] or [[Gastric varices]]
 	- Normally due to [[Cirrhosis]]
 - [[Portal hypertensive gastropathy]]
-	- Normally due to [[Portal Hypertension]] from [[Chronic Liver Disease]]
+	- Normally due to [[Portal Hypertension]] from [[Liver Failure and Cirrhosis]]
 - [[Mallory-Weiss tear]]
 
 ### Lower GI bleeding
