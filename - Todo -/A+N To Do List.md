@@ -45,7 +45,7 @@ Meningitis/Encephalitis
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
 - [ ] Respiratory Failure
-- [ ] Pneumoth
+- [ ] Pneumothorax
 - [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
