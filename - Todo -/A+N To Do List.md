@@ -35,7 +35,6 @@ Meningitis/Encephalitis
 - [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
-- [ ] Diabetic complications
 - [ ] Lower back pain
 - [ ] Read all joint paints
 - [ ] Starvation videos
