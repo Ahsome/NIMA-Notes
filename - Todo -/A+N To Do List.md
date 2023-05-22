@@ -47,6 +47,7 @@ Meningitis/Encephalitis
 - [x] Respiratory Failure
 - [ ] Pneumothorax
 - [ ] Parkinson
+- [ ] Glomerulo
 - [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
