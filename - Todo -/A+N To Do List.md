@@ -24,10 +24,10 @@ Meningitis/Encephalitis
 
 - [x] Stroke
 - [ ] **Bronchiectasis**
-- [ ] **Asthma**
+- [x] **Asthma**
 	- [ ] Look at ETG
-- [ ] **COPD**
-	- [ ] Look at ETG
+- [x] **COPD**
+	- [x] Look at ETG
 - [ ] Anticoagulation medication
 - [x] Pulmonary Embolism
 - [x] DKA
@@ -44,6 +44,7 @@ Meningitis/Encephalitis
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
 - [ ] Respiratory Failure
+- [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
 - [ ] PUD
