@@ -18,9 +18,13 @@ First consider important emergent causes:
 	1. Caued by pericardia effusions
 		1. Only small amounts of fluid needed if in acute setting to cause tmaponade, such as bleeding
 		2. If chronic, such as cancer, need large amount since heart adapts
-	2. Symptom:
+	2. Main causes:
+		1. Pericarditis, eventually causing tamponade
+		2. Cancer met to pericardium
+		3. Trauma
+	3. Symptom:
 		1. PRessure from outside prevents ventricles filling in diastole
-	3. Test:
+	4. Test:
 		1. Electric alternans
 			1. QRS alternates from tall to short, due to swining of heart in pericardial sac
 			2. ![[Pasted image 20230523015632.png]]

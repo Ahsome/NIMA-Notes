@@ -4,11 +4,15 @@
 	3. Elevated JVP
 	4. Peripheral oedema
 	5. Bibasa course crackles, constrast with [[Pulmonary Hypertension]]
-2. [[Chronic Kidney Disease]]
+2. [[Cardiac tamponade]]
+	1. Elevated JVP
+	2. Electric alternans
+	3. Muffled heart sounds
+3. [[Chronic Kidney Disease]]
 	1. Oliguria
 	2. Increase urinary frequency
 	3. Peripheral Oedema
-3. [[Pulmonary Hypertension]]
+4. [[Pulmonary Hypertension]]
 	1. In advanced disease
 	2.  No crackles, contrast with [[Heart Failure]]
 5. [[Liver Failure and Cirrhosis]]
