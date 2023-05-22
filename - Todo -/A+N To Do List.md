@@ -44,7 +44,7 @@ Meningitis/Encephalitis
 - [ ] How to read ECG
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
-- [ ] Respiratory Failure
+- [x] Respiratory Failure
 - [ ] Pneumothorax
 - [ ] Parkinson
 - [ ] Encaphalopathy
