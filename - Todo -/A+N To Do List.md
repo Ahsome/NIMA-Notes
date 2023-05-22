@@ -52,7 +52,7 @@ Meningitis/Encephalitis
 - [ ] IBD
 - [ ] VT/SVT management
 - [x] UTI - Pyelonephritis
-- [ ] Sepsis
+- [x] Sepsis
 - [ ] Shock
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
