@@ -121,7 +121,7 @@ Cardiac:
 	- Always do echo to find effusion, which can cause tamponade
 	- Normally after infection, normally through viral
 	- Also due to uremia from renal failure, treatment is hemodialysis (NOT DRUGS)
-	- C
+	- Also due to post-MI or autoimmune, such as RA and Lupus
 	- Treatment:
 		- NSAIDS
 		- Glucocorticoids, second line

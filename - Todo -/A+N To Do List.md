@@ -44,7 +44,7 @@ Meningitis/Encephalitis
 - [x] Stroke
 - [x] How to read ECG
 - [ ] Delirium/Dementia
-- [ ] Cardiac tamponade
+- [x] Cardiac tamponade
 - [x] Respiratory Failure
 - [ ] Pneumothorax
 - [ ] Parkinson
@@ -56,7 +56,6 @@ Meningitis/Encephalitis
 - [ ] VT/SVT management
 - [x] UTI - Pyelonephritis
 - [ ] STI
-- [ ] 
 - [x] Sepsis
 - [ ] Shock
 - [x] Seizures
@@ -69,6 +68,7 @@ After:
 - [ ] BPH
 - [ ] Osteoperosis
 - [ ] Vertigo
+- [ ] Hyperlipidemia
 
 **ALSO ADD**:
 - [ ] Vertigo
