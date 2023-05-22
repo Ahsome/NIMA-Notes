@@ -22,3 +22,13 @@
 	- Tests:
 
 Overall tests:
+History:
+- Cloudy urine: [[Urinary Tract Infection (UTI)]]
+- Flank pain and CVA tenderness (pyelo)
+- Suprapubic pain (cystitis)
+- Urine dipstick:
+	- Nitrates [[Urinary Tract Infection (UTI)]]
+	- Heme: Possibly [[Urinary Tract Infection (UTI)]]
+	- Leukocyte 
+- Urinalysis:
+	- WBC casts: [[Urinary Incontinence]]
