@@ -44,7 +44,7 @@ Meningitis/Encephalitis
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
 - [ ] Respiratory Failure
-- [ ] Encap
+- [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
 - [ ] PUD
