@@ -1,4 +1,5 @@
 -   RA - prednisoloe, methotrexate, hydroxychloroquine, leflunomide, physio
+	- Felty syndrome - splenomegaly and neutropenia (high risk of infection) 
 -   OA - NSAIDs, HCLA injections, panadol, modified exercises, opioids (tramadol short term if refractory pain), arthrodesis, arthroplasty
 -   Trauma - surgery, nsaids, panadol, physio
 -   Gout - allopurinol, colchicine, pred, NSAIDs
