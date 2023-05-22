@@ -49,6 +49,7 @@ Meningitis/Encephalitis
 - [ ] Anemia
 - [ ] PUD
 - [ ] IBD
+- [ ] VT/SVT management
 - [x] UTI - Pyelonephritis
 - [ ] Sepsis
 - [ ] Shock
