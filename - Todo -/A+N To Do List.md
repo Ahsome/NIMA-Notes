@@ -41,7 +41,7 @@ Meningitis/Encephalitis
 - [x] Syncope
 - [ ] Hypervolemia
 - [x] Stroke
-- [ ] How to read ECG
+- [x] How to read ECG
 - [ ] Delirium/Dementia
 - [ ] Cardiac tamponade
 - [x] Respiratory Failure
