@@ -45,6 +45,7 @@ Meningitis/Encephalitis
 - [ ] Cardiac tamponade
 - [ ] Respiratory Failure
 - [ ] GORD
+- [ ] Anemia
 - [ ] PUD
 - [ ] IBD
 - [ ] UTI - Pyelonephritis
