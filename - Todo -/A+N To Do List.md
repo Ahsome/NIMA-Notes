@@ -32,7 +32,7 @@ Meningitis/Encephalitis
 - [x] Pulmonary Embolism
 - [x] DKA
 - [x] HSS
-- [ ] A-Fib
+- [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
 - [ ] Diabetic complications
