@@ -22,10 +22,20 @@ First consider important emergent causes:
 		1. PRessure from outside prevents ventricles filling in diastole
 	3. Test:
 		1. Electric alternans
-		2. Low voltage ECG
-		3. Pulsus paradoxes
-		4. Stat echo
-		5. Water bottle
+		2. Distant, muffled heart sounds due to fluid in heart
+		3. Dyspnea despite absence of pulmonary edema (no bilateral crackles)
+		4. Elevated JVP since pressure prevents proper dilatation
+		5. Low voltage ECG
+		6. Pulsus paradoxes
+			1. Normal patient, BP falls slightly on inspiration
+			2. If exaggerated fall (>10 mmHg) = pulsus paradoxus
+			3. Severe fall, pulse dissapears
+			4. Also seen in asthma and COPD
+				1. Inspiration decreases left sided flow of blood
+				2. Exaggerated in lung disease
+		7. Stat echo
+		8. Water bottle sign: Note this means pericardial effusion, not specifically tamponade
+		9. ![[Pasted image 20230523015013.png]]
 6. [[Takotsubo cardiomyopathy]]
 	1. ST elevations in anterior precordial leads, mimicking LAD stemi
 	2. Eliminate other options
