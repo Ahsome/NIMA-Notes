@@ -36,6 +36,7 @@ Meningitis/Encephalitis
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
 - [ ] Diabetic complications
+- [ ] Lowe
 - [ ] Starvation videos
 - [x] Syncope
 - [ ] Hypervolemia
