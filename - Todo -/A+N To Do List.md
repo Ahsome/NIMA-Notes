@@ -76,10 +76,11 @@ After:
 - [x] Pyelonephritis
 - [ ] BPH
 - [x] Sleep apnoea
-- [ ] Multiple sclerosis
+- [x] Multiple sclerosis
 - [ ] Altered Mental Status
 - [ ] Hyper/hypo-nautremia
-- [ ] Acute renal failure
+- [ ] Movement Disorders
+- [x] Acute renal failure
 - [ ] TB
 - [x] Shock
 - [x] Meningitis
