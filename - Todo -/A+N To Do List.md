@@ -46,6 +46,7 @@ Meningitis/Encephalitis
 - [ ] Cardiac tamponade
 - [ ] Respiratory Failure
 - [ ] Pneumothorax
+- [ ] Parkinson
 - [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
