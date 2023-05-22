@@ -83,7 +83,8 @@ Score <2 = low probabililty
 ## Treatments for DVT
 
 **Acute treatment for proimal DVT and PE**
-==Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days==
+ Heparin (initial)
+ ==Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days==
 
 DVT treatment – anticoagulation is the mainstay of DVT treatment. It is indicated in all PROXIMAL DVT cases and SOME DISTAL DVT cases. The aim of treatment is to prevent extension of the clot, PE, recurrent clots.
 
