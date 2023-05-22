@@ -2,7 +2,7 @@
 1. [[Asthma]]: 
 2. [[Chronic Pulmonary Disease (COPD)]]
 	1. Remember for ECGL Multifocal Atrial Tachycardia
-		1. 
+		1. Sinus rhythym, tachycardia, but the p-wave looks diff
 3. [[Pneumonia]]
 4. [[Pulmonary Embolus]]
 5. [[Interstial Lung Disease]]
