@@ -6,8 +6,13 @@
 	5. Bibasa course crackles, constrast with [[Pulmonary Hypertension]]
 2. [[Cardiac tamponade]]
 	1. Elevated JVP
-	2. Electric alternans
+	2. Pulsus paradoxes
 	3. Muffled heart sounds
+	4. Dyspnea despite absence of pulmonary edema (no bilateral crackles)
+	5. Electric alternans and low voltage vaues
+	6. Water bottle sign on x-ray
+	7. Echo has pericardial effusion
+	8. Treat with IV fluids (NOT DIURETICS), pericardiocentesis or surgical window
 3. [[Chronic Kidney Disease]]
 	1. Oliguria
 	2. Increase urinary frequency

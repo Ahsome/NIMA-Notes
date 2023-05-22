@@ -121,6 +121,7 @@ Cardiac:
 	- Always do echo to find effusion, which can cause tamponade
 	- Normally after infection, normally through viral
 	- Also due to uremia from renal failure, treatment is hemodialysis (NOT DRUGS)
+	- C
 	- Treatment:
 		- NSAIDS
 		- Glucocorticoids, second line
