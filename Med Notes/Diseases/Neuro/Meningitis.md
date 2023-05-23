@@ -236,13 +236,6 @@ Aseptic meningitis management involes:
 >[!Important]
 >![[Meningitis#^rzqcos]]
 
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
 
 ---
 
