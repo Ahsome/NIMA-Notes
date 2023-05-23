@@ -54,7 +54,7 @@ Well Score PE
 - [x] Cardiac tamponade
 - [x] Respiratory Failure
 - [x] == Pneumothorax==
-- [ ] ==Parkinson
+- [x] ==Parkinson
 - [ ] Glome==rulonephritis==
 - [ ] ==Nephrotic syndrome==
 - [ ] ==Encaphalopathy==
