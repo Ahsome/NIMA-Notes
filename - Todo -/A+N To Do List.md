@@ -62,7 +62,7 @@ Well Score PE
 - [ ] Anemia
 - [x] PUD
 - [ ] IBD
-- [ ] ==VT/SVT management==
+- [x] ==VT/SVT management==
 - [x] UTI - Pyelonephritis
 - [ ] STI
 - [x] Sepsis
