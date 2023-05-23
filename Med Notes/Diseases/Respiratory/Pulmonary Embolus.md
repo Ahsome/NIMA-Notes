@@ -134,6 +134,12 @@ Initial ED management:
 2. Pullmonary HTN in small multiple PEs 
 3. Stroke in patients with patent foramen ovale 
 
+
+![[Pasted image 20230522163247.png]]
+
+<2 = DVT unlikely, 2-6 = likely, >6 = very likely
+<4 PE unlikely, >4 PE likely
+
 ---
 
 # Extra

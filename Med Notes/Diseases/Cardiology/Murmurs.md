@@ -35,7 +35,7 @@ RIght-sided murmurs increase with inspiration
 - Between S2-S1
 - Always pathologic
 - AR - decrendo, "blowing"
-- MS - diastolic, "rumbling", opening "snap" loud S1
+- MS - diastolic, "rumbling", opening "snap" loud S2
 - PR
 - TS
 

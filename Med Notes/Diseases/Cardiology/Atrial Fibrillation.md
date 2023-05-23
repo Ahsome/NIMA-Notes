@@ -30,7 +30,7 @@
 -   Inpatient telemetry/Holter monitor – can be more useful in pAF. But if it doesn’t catch an event, then it is again useless.
 -   TOE – assesses LVEF and RVEF and potential structural causes for the AF, such as chamber dilatation that can be secondary to valvular regurgitation.  
 	- ==TOE is best for observing thrombi in the LAA==. This is important to discern before cardioversion. If there is a thrombus, cardioversion can’t be performed due to the risk of embolization. Instead, thrombolysis should be tried before.
--   ==TFT== – hyperthyroidism can be a secondary cause of AF. Important to consider.
+-   ==TFT== (TSH) – hyperthyroidism can be a secondary cause of AF. Important to consider.
 
 
 **TREATMENT**
