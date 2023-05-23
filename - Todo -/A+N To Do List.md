@@ -60,7 +60,7 @@ Well Score PE
 - [ ] ==Nephrotic syndrome==
 - [ ] ==Encaphalopathy==
 - [x] ==GORD==
-- [ ] ==Anemia==
+- [x] ==Anemia==
 - [x] PUD
 - [ ] IBD
 - [x] ==VT/SVT management==
