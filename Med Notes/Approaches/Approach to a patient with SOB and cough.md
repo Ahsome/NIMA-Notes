@@ -1,6 +1,6 @@
 # Differentials:
 1. [[Asthma]]: 
-2. []
+2. [[Gastro-oesophagus Reflux Disease (GORD)]]: Especially if has asthma sympto
 3. [[Chronic Pulmonary Disease (COPD)]]
 	1. Remember for ECGL Multifocal Atrial Tachycardia
 		1. Sinus rhythym, **irregular rhythm**,  tachycardia, but the p-wave looks different every time
