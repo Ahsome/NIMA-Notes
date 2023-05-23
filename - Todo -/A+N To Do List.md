@@ -58,7 +58,7 @@ Well Score PE
 - [ ] Glome==rulonephritis==
 - [ ] ==Nephrotic syndrome==
 - [ ] ==Encaphalopathy==
-- [ ] ==GORD==
+- [x] ==GORD==
 - [ ] ==Anemia==
 - [x] PUD
 - [ ] IBD
