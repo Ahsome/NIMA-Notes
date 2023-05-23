@@ -172,7 +172,7 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-|CT scan|Mass/ICP|Used to exclude mass or increased ICP, due to risk herniation. Not routinely performed, except with indications: <br>- Immunocompromised state (e.g. [[HIV]]) <br>- History of mass lesion <br>- New onset [[Seizure]] <br>- Papilledema <br>- Abnormal LOC <br>- Focal neurologic deficits|
+|CT scan |Mass/ICP|Used to exclude mass or increased ICP, due to risk herniation. Not routinely performed, except with indications: <br>- Immunocompromised state (e.g. [[HIV]]) <br>- History of mass lesion <br>- New onset [[Seizure]] <br>- Papilledema <br>- Abnormal LOC <br>- Focal neurologic deficits |
 
 ---
 
