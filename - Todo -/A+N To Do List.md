@@ -69,6 +69,7 @@ Well Score PE
 - [x] Shock
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
+- [ ] Osteoarthri
 - [ ] **Nautremia**
 - [x] Anorexia
 - [ ] **Thyroid**
