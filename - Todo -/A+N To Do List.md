@@ -42,7 +42,7 @@ Well Score PE
 - [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
-- [ ] Diarrh
+- [ ] Diarrhea
 - [x] ==Lower back pain==
 - [ ] Read all joint paints
 - [ ] **FALLS!!**
