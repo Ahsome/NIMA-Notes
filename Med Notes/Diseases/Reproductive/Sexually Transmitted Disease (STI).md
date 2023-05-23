@@ -8,6 +8,7 @@
 # Information
 Sexually Transmitted Disease is infections spread by specific diseases. These include:
 1. Chlamydia
+2. Lymphogranuloma Venereum
 
 ### Chlamydia:
 1. Special cell walls, lack peptidoglycan
@@ -24,6 +25,7 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 	3. C psittaci
 		1. Parrot fever, infection from birds
 
+#### Lymphogranuloma Venereum:
 1. Sexually transmitted chlamydia infection, spreads through lymphacs
 2. Serotype L1, L2, L3
 3. Initially painless genital ulcer, becomes tender inguinal or femoral lymph nodes
