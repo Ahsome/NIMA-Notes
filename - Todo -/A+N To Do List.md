@@ -55,7 +55,7 @@ Well Score PE
 - [x] Respiratory Failure
 - [x] == Pneumothorax==
 - [ ] ==Parkinson
-==- [ ] Glome==rulonephritis==
+- [ ] Glome==rulonephritis==
 - [ ] ==Nephrotic syndrome==
 - [ ] Encaphalopathy==
 - [ ] ==GORD==
