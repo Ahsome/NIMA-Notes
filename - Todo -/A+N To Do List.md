@@ -58,11 +58,11 @@ Well Score PE
 - [ ] Glomerulonephritis
 - [ ] Nephrotic syndrome
 - [ ] Encaphalopathy
-- [ ] GORD==
+- [ ] ==GORD==
 - [ ] Anemia
 - [x] PUD
 - [ ] IBD
-==- [ ] VT/SVT management==
+- [ ] VT/SVT management==
 - [x] UTI - Pyelonephritis
 - [ ] STI
 - [x] Sepsis
