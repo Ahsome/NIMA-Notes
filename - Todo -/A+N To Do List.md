@@ -57,7 +57,7 @@ Well Score PE
 - [ ] ==Parkinson
 - [ ] Glome==rulonephritis==
 - [ ] ==Nephrotic syndrome==
-- [ ] Encaphalopathy==
+- [ ] ==Encaphalopathy==
 - [ ] ==GORD==
 - [ ] Anemia
 - [x] PUD
