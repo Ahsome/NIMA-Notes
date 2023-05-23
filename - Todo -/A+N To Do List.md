@@ -53,7 +53,7 @@ Well Score PE
 - [ ] Delirium/Dementia
 - [x] Cardiac tamponade
 - [x] Respiratory Failure
-- [ ] == Pneumothorax==
+- [x] == Pneumothorax==
 - [ ] ==Parkinson
 ==- [ ] Glome==rulonephritis==
 - [ ] ==Nephrotic syndrome==
