@@ -4,7 +4,8 @@
 -   hyperthyroidism - TFTs, TRAb, TPOAb, TgAb, radi-iodine uptake test , FNA
 -   Infection (esp GI infections) - FBC, WCC, leukocyte, CRP
 -   IBD - fecal calprotectin, P-ANCA (UC), Ab to Saccharomyces cerevisiae (crohn’s), ileocolonoscopy (crohn’s), cross-sectional MR enterography, CT enterography, iron studies
-	- Specifically crohn's disease due to poor 
+	- Specifically crohn's disease due to poor absorption of nutrients/B12
+	- ![[Pasted image 20230524021404.png]]
 -   Celiac disease - IgA-TTG, HLA testing, IgA EMA, IgG anti-DGP (more specific to account for potential IgA deficiency)
 -   tuberculosis - CT, FBC, AFB sputum culture, tuberculin skin test, NAAT, CXR
     -   RIP(Pyrizinamide)E → all 4 for the first 2 months, first 2 for the next 4 months
