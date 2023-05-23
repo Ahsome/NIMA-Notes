@@ -92,7 +92,7 @@ DVT treatment – anticoagulation is the mainstay of DVT treatment. It is indica
 -   Distal DVT – usually in the posterior tibial and peroneal veins.
    
 Drugs – there is usually an initial anticoagulant that is used acutely, which is then usually transitioned to another anticoagulant that is to be used in the long term.
--   **Heparin (initial) and warfarin (long term)** – since warfarin usually takes 1 week to come on, the initial LMWH covers this initial period (clexane)
+-   ==**Heparin (initial) and warfarin (long term)** – since warfarin usually takes 1 week to come on, the initial LMWH covers this initial period (clexane)
 -   Heparin (initial) and NOAC (long term)
 -   Monotherapy with NOAC
 
