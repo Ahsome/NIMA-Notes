@@ -30,7 +30,7 @@
 | 3      | [[Approach to a patient with SOB and cough]]                        |
 | 4      | [[Approach to a patient with DM and complications]]                 |
 | 5      | [[Approach to a patient with HTN]]                                  |
-| 6      | [[Approach to a patient presenting with acute confusion]]           |
+| 6      |[[Approach to a patient presenting with acute confusion]]|
 | 7      | [[Approach to a patient presenting with acute weakness]]            |
 | 8      |[[Approach to a patient with anaemia]]|
 | 9      | [[Approach to a patient with jaundice]]                             |
