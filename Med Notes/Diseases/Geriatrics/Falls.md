@@ -71,6 +71,8 @@ A 90 year old female presented after an episode of a falll at home and was found
 		- Dose – 60mg SC, once every 6 months
 	1. ==HRT== 
 
+![[Pasted image 20230523210124.png]]
+
 ### *Long-term management*
 1. Fall prevention strategies
 	- Falls bracelet
