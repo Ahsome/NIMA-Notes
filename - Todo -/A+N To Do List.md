@@ -62,7 +62,7 @@ Well Score PE
 - [x] ==GORD==
 - [x] ==Anemia==
 - [x] PUD
-- [ ] IBD
+- [x] IBD
 - [x] ==VT/SVT management==
 - [x] UTI - Pyelonephritis
 - [ ] STI
