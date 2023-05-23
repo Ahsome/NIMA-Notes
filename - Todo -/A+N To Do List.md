@@ -32,26 +32,34 @@ Meningitis/Encephalitis
 - [x] Pulmonary Embolism
 - [x] DKA
 - [x] HSS
-- [ ] A-Fib
+- [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
-- [ ] Diabetic complications
+- [ ] Lower back pain
+- [ ] Read all joint paints
+- [ ] **FALLS!!**
 - [ ] Starvation videos
 - [x] Syncope
 - [ ] Hypervolemia
 - [x] Stroke
-- [ ] How to read ECG
+- [x] How to read ECG
 - [ ] Delirium/Dementia
-- [ ] Cardiac tamponade
-- [ ] Respiratory Failure
+- [x] Cardiac tamponade
+- [x] Respiratory Failure
+- [ ] Pneumothorax
+- [ ] Parkinson
+- [ ] Glomerulonephritis
+- [ ] Nephrotic syndrome
 - [ ] Encaphalopathy
 - [ ] GORD
 - [ ] Anemia
-- [ ] PUD
+- [x] PUD
 - [ ] IBD
-- [ ] UTI - Pyelonephritis
-- [ ] Sepsis
-- [ ] Shock
+- [ ] VT/SVT management
+- [x] UTI - Pyelonephritis
+- [ ] STI
+- [x] Sepsis
+- [x] Shock
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
 - [ ] **Nautremia**
@@ -62,18 +70,21 @@ After:
 - [ ] BPH
 - [ ] Osteoperosis
 - [ ] Vertigo
+- [ ] Bundle branch block
+- [ ] Hyperlipidemia
 
 **ALSO ADD**:
 - [ ] Vertigo
 - [ ] Hyper/hypo-thyroid
 - [ ] Delirium tremens
-- [ ] Pyelonephritis
+- [x] Pyelonephritis
 - [ ] BPH
 - [x] Sleep apnoea
-- [ ] Multiple sclerosis
+- [x] Multiple sclerosis
 - [ ] Altered Mental Status
 - [ ] Hyper/hypo-nautremia
-- [ ] Acute renal failure
+- [ ] Movement Disorders
+- [x] Acute renal failure
 - [ ] TB
 - [x] Shock
 - [x] Meningitis

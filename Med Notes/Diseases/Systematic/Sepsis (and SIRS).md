@@ -46,6 +46,10 @@ The systemic inflammatory response syndrome in the presence of suspected or prov
 > [!Important]
 - Important point
 
+# Shock
+==Add more info for shock==
+![[Pasted image 20230522233758.png]]
+
 ## Investigations
 - FBC - WCC
 - Electrolyes

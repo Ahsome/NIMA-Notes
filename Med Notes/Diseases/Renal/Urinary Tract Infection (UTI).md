@@ -74,7 +74,7 @@ Diagnosis: clinical findings + urinalysis
 | Urine culture not routinely done unless treatment fails                          |                                                                                                                                               | Tx: nephrectomy for xanthomatous, drainage plus antibiotics if abscess                                                                                                                                                                                   |
 |                                                                                  |                                                                                                                                               |                                                                                                                                                                                                                                                          |
 
->[!Warning] 
+>[!Danger] Pregnant Women 
 >DO NOT GIVE TRIMETHOPRIM TO PREGNANT WOMEN
 
 For patients with UTI and septis shock:
