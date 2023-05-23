@@ -58,7 +58,7 @@ Well Score PE
 - [ ] Glomerulonephritis
 - [ ] Nephrotic syndrome
 - [ ] Encaphalopathy
-- [ ] GORD
+==- [ ] GORD==
 - [ ] Anemia
 - [x] PUD
 - [ ] IBD
