@@ -21,6 +21,12 @@ Meningitis/Encephalitis
 - CURB65, smart-cop for pneumonia
 - Wells for DVT/PE
   HAS-BLAD score
+  Well score DVT
+  - ![](http://127.0.0.1:60064/paste-c43a31dd44d3425210a6eb8a1bbc7f7728234edd.jpg)  
+![](http://127.0.0.1:60064/paste-187de0e98215f1e31209e2fb7b752029fb858959.jpg)
+Well Score PE
+![](http://127.0.0.1:60064/paste-602ef72dae4d17a1b049d61a62dc41fb8d7e942e.jpg)  
+![](http://127.0.0.1:60064/paste-02431774fab06eaae0d6ab1655064b8da1c61a56.jpg)
 - 
 
 - [x] Stroke
