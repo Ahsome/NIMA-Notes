@@ -42,7 +42,7 @@ Well Score PE
 - [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
-- [ ] Lower back pain
+- [ ] ==Lower back pain==
 - [ ] Read all joint paints
 - [ ] **FALLS!!**
 - [ ] Starvation videos
@@ -53,11 +53,11 @@ Well Score PE
 - [ ] Delirium/Dementia
 - [x] Cardiac tamponade
 - [x] Respiratory Failure
-- [ ] Pneumothorax
-- [ ] Parkinson
-- [ ] Glomerulonephritis
-- [ ] Nephrotic syndrome
-- [ ] Encaphalopathy
+- [ ] == Pneumothorax==
+- [ ] ==Parkinson
+==- [ ] Glome==rulonephritis==
+- [ ] ==Nephrotic syndrome==
+- [ ] Encaphalopathy==
 - [ ] ==GORD==
 - [ ] Anemia
 - [x] PUD
