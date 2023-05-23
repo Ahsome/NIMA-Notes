@@ -20,7 +20,7 @@ Meningitis/Encephalitis
 - NYH for HF
 - CURB65, smart-cop for pneumonia
 - Wells for DVT/PE
-  HAS-BLE
+  HAS-BLAD score
 - 
 
 - [x] Stroke
