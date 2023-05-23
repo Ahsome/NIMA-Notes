@@ -35,7 +35,7 @@ Well Score PE
 	- [ ] Look at ETG
 - [x] **COPD**
 	- [x] Look at ETG
-- [ ] Anticoagulation medication
+- [x] Anticoagulation medication
 - [x] Pulmonary Embolism
 - [x] DKA
 - [x] HSS
