@@ -150,10 +150,6 @@ Treatment is **ceftazidime** or **cefepime**. See [[#Management of Bacterial Men
 >- Inconsolable crying
 
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
 ---
 
 ## Investigations
