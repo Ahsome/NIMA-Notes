@@ -8,7 +8,7 @@
 1. Admit the patient 
 2. Consult with cardio / neuro / etc.
 3. Try to state they have a specific plan, such as a COPD plan or Asthma plan for the disease
-4. Prevent complica:
+4. Prevent complications:
 	1. DVT prophylaxis, both mechanical and/or chemical
 	2. Mobilisation, deep breathing exercises or incentive spirometry to prevent HAP
 	3. Movicol and/or ondansetron for N/V or constipation iif they are sick or dry

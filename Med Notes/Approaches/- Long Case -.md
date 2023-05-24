@@ -18,7 +18,7 @@
 - If chronic issue, why presenting now than before?
 - Use headings with each section
 - "On presentation to the hospital, the patient describes he has a CXR, ECG, etc.... performed "
-	- He has been worked up by the cardiologist where there implication was decompensated heart failure
+	- He has been worked up by the cardiologist where the implication was decompensated heart failure
 - "He is currently being managed with __ while in hospital for his fluid overload"
 - "On a systems review......"
 

@@ -297,8 +297,9 @@ There is **no commonly accepted** method for screening for [[Diabetes Mellitus#T
 	1. Examples:
 		1. Semaglatide
 			1. Ozempic - Brand name
-		2. Liraglatide
-		3. Massive reduction of HbA1c
+		2. Liraglutide
+		3. Dulaglutide
+		4. Massive reduction of HbA1c
 	2. **==Helps with weight loss and appetite==**
 	3. Requires eGFR >45
 8. Insulin
