@@ -227,7 +227,6 @@ For **STEMI:**
 ---
 
 # Management
----
 
 ## STEMI Management:
 "Time is muscle"
