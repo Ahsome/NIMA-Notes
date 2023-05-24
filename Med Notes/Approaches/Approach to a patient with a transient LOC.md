@@ -28,6 +28,7 @@
 	- Manage HTN complications
 	- Manage osteoporosis to prevent fractures if future falls 
 	- Multidisciplinary team
+- Subarachno
 
 
 
