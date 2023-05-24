@@ -52,6 +52,8 @@ Causes (which should be the focus of investigations)
 ---
 
 # Management
+## Prophylaxis/Prevention:
+![[Pasted image 20230524202751.png]]
 ## Treatment
 1. IV fluids and replace electrolyes
 2. Treat infection is there is one 
