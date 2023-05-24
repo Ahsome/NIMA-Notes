@@ -105,7 +105,7 @@ Geeky Medics:
 ==- Patient with blood in their urine==
 ==- Lady with headache==
 - Lady with jaundice
-- Lady with haematemesis
+==- Lady with haematemesis==
 - Collapse on the beach
 - "He's just not himself"
 - Lady with LOC
