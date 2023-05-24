@@ -17,7 +17,8 @@
 7. Always try to do non-pharmacological approach first
 	1. MDT team - dietician, physio, OT, speech path.
 8. Always mention the chronic long-term problems at the end - diabetes, obesity management, COPD 
-9. 
+9
+
 -   Lifestyle modifications: Encouraging the patient to make necessary changes in diet, exercise, weight management, and smoking cessation (if applicable) to reduce cardiovascular risk factors.
 -   Optimization of medical therapy: Adjusting medications to control hypertension, diabetes, and dyslipidemia, as well as ensuring optimal glycemic control.
 -   Cardiac rehabilitation: Referral to a cardiac rehabilitation program to improve exercise capacity and promote long-term cardiovascular health.
