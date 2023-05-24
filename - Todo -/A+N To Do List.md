@@ -111,7 +111,7 @@ Geeky Medics:
 - Lady with LOC
 - Man with headache
 - Lady with SOB
-- Lady with drooping face
+==- Lady with drooping face==
 - Man with chest pain
 - Man with back pain
 
