@@ -26,3 +26,4 @@
 -   toxicity - carbon monoxide poisoning, lithium toxicity, valproate toxicity
     -   ABG, serum lithium level, serum valproate level
     -   down titrate/ cease drug
+- Levodopa for parkinson toxicity

@@ -8,6 +8,10 @@
 # Information
 Sexually Transmitted Disease is infections spread by specific diseases. These include:
 1. Chlamydia
+2. Lymphogranuloma Venereum
+3. N. Gonorrhoea
+4. Syphillis
+5. Genital herpes
 
 ### Chlamydia:
 1. Special cell walls, lack peptidoglycan

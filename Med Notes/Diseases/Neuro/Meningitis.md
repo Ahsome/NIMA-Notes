@@ -24,7 +24,7 @@ This is suspected based on CSF results (See [[#Investigations]] for more detail)
 4. Negative Gram stain
 
 ### Herpes Simplex Meningitis
-Due to a **primary** [[Sexually Transmitted Disease#Genital herpes:|HSV]] infection, which can lead to aseptic meningitis due to HSV
+Due to a **primary** [[Sexually Transmitted Disease (STI)#Genital herpes:|HSV]] infection, which can lead to aseptic meningitis due to HSV
 This is usually HSV-2, as HSV-1 often causes [[Encephalitis]]
 This causes **genital lesions** on most patients:
 ![[Pasted image 20230516010536.png]]
@@ -150,10 +150,6 @@ Treatment is **ceftazidime** or **cefepime**. See [[#Management of Bacterial Men
 >- Inconsolable crying
 
 
-| Additional Findings | Result   | Explanation   |
-| ------------------- | -------- | ------------- |
-| Finding 1           | Result 1 | Explanation 1 |
-
 ---
 
 ## Investigations
@@ -176,7 +172,7 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
-|CT scan|Mass/ICP|Used to exclude mass or increased ICP, due to risk herniation. Not routinely performed, except with indications: <br>- Immunocompromised state (e.g. [[HIV]]) <br>- History of mass lesion <br>- New onset [[Seizure]] <br>- Papilledema <br>- Abnormal LOC <br>- Focal neurologic deficits|
+|CT scan |Mass/ICP|Used to exclude mass or increased ICP, due to risk herniation. Not routinely performed, except with indications: <br>- Immunocompromised state (e.g. [[HIV]]) <br>- History of mass lesion <br>- New onset [[Seizure]] <br>- Papilledema <br>- Abnormal LOC <br>- Focal neurologic deficits |
 
 ---
 
@@ -184,7 +180,7 @@ A **lumbar puncture** is needed for a diagnosis of [[Meningitis]], with the CSF 
 ## Overall management:
 1. Identify whether the cause of meningitis is due to bacterial, viral, fungal/TB, or other cause via LP. See [[#Investigations]]
 	1. If suspected bacterial after LP, treat with antibiotics empirically, shift after culture. Early [[Dexamethasone]] is recommended to reduce risk of mortality (Step pneumo) and hearing loss (H Influenza) *before* antibiotics. See [[#Management of Bacterial Meningitis]]
-	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease#Genital herpes:|HSV]]
+	2. If suspected viral after LP, provide antibiotics until cultures are negative. Support, or acyclovir if [[Sexually Transmitted Disease (STI)#Genital herpes:|HSV]]
 
 If bacteria, and culture has come:
 1. If [[Neisseria Meningitidis]], **droplet precautions** for 23 hours
@@ -240,13 +236,6 @@ Aseptic meningitis management involes:
 >[!Important]
 >![[Meningitis#^rzqcos]]
 
-## Drug overview
-
-## Criteria
-### Example severity/test score:
-![[Asthma#^6df757]]
-
-^6df757
 
 ---
 

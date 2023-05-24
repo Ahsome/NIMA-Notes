@@ -20,6 +20,13 @@ Meningitis/Encephalitis
 - NYH for HF
 - CURB65, smart-cop for pneumonia
 - Wells for DVT/PE
+  HAS-BLAD score
+  Well score DVT
+  - ![](http://127.0.0.1:60064/paste-c43a31dd44d3425210a6eb8a1bbc7f7728234edd.jpg)  
+![](http://127.0.0.1:60064/paste-187de0e98215f1e31209e2fb7b752029fb858959.jpg)
+Well Score PE
+![](http://127.0.0.1:60064/paste-602ef72dae4d17a1b049d61a62dc41fb8d7e942e.jpg)  
+![](http://127.0.0.1:60064/paste-02431774fab06eaae0d6ab1655064b8da1c61a56.jpg)
 - 
 
 - [x] Stroke
@@ -28,14 +35,15 @@ Meningitis/Encephalitis
 	- [ ] Look at ETG
 - [x] **COPD**
 	- [x] Look at ETG
-- [ ] Anticoagulation medication
+- [x] Anticoagulation medication
 - [x] Pulmonary Embolism
 - [x] DKA
 - [x] HSS
 - [x] A-Fib
 - [ ] Murmurs
 - [ ] Rest of diabetes videos
-- [ ] Lower back pain
+- [ ] Diarrhea
+- [x] ==Lower back pain==
 - [ ] Read all joint paints
 - [ ] **FALLS!!**
 - [ ] Starvation videos
@@ -46,22 +54,23 @@ Meningitis/Encephalitis
 - [ ] Delirium/Dementia
 - [x] Cardiac tamponade
 - [x] Respiratory Failure
-- [ ] Pneumothorax
-- [ ] Parkinson
-- [ ] Glomerulonephritis
-- [ ] Nephrotic syndrome
-- [ ] Encaphalopathy
-- [ ] GORD
-- [ ] Anemia
+- [x] == Pneumothorax==
+- [x] ==Parkinson
+- [ ] Glome==rulonephritis==
+- [ ] ==Nephrotic syndrome==
+- [ ] ==Encaphalopathy==
+- [x] ==GORD==
+- [x] ==Anemia==
 - [x] PUD
-- [ ] IBD
-- [ ] VT/SVT management
+- [x] IBD
+- [x] ==VT/SVT management==
 - [x] UTI - Pyelonephritis
 - [ ] STI
 - [x] Sepsis
 - [x] Shock
 - [x] Seizures
 - [ ] Hepatitis and CIrrhosis
+- [ ] Osteoarthritis
 - [ ] **Nautremia**
 - [x] Anorexia
 - [ ] **Thyroid**
@@ -93,16 +102,16 @@ After:
 
 ![[Pasted image 20230509140924.png]]
 Geeky Medics:
-- Patient with blood in their urine
-- Lady with headache
-- Lady with jaundice
-- Lady with haematemesis
-- Collapse on the beach
-- "He's just not himself"
+==- Patient with blood in their urine==
+==- Lady with headache==
+==- Lady with jaundice==
+==- Lady with haematemesis==
+==- Collapse on the beach==
+==- "He's just not himself"==
 - Lady with LOC
 - Man with headache
 - Lady with SOB
-- Lady with drooping face
+==- Lady with drooping face==
 - Man with chest pain
 - Man with back pain
 
@@ -111,17 +120,17 @@ A patient with chest pain
 A patient with SOB and/or cough
 A patient with diabetes mellitus and complications
 A patient with hypertension
-A patient with acute confusion
-A patient with acute weakness
-A patient with anemia
+==A patient with acute confusion==
+==A patient with acute weakness==
+===A patient with anemia===
 A patient with jaundice
 A patient with oliguria
-A patient with obseity and complications
-A patient with joint pain
-A patient with a fall
-A patient with fever
-A patient with transient LOC
-A patient with unintential weight loss
+==A patient with obseity and complications==
+==A patient with joint pain==
+==A patient with a fall==
+==A patient with fever==
+==A patient with transient LOC==
+==A patient with unintential weight loss==
 
 A patient with shortness of breath and/or oedema:
 [[Heart Failure]]

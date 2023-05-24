@@ -52,6 +52,8 @@ Causes (which should be the focus of investigations)
 ---
 
 # Management
+## Prophylaxis/Prevention:
+![[Pasted image 20230524202751.png]]
 ## Treatment
 1. IV fluids and replace electrolyes
 2. Treat infection is there is one 
@@ -61,6 +63,7 @@ Causes (which should be the focus of investigations)
 4. For patients who are delirious and are considered a threat to themselves or others (last resort):
 	- haloperidol 0.5 mg orally, as a single dose OR
 	- risperidone 0.5 mg orally, as a single dose
+
 
 
 ---
