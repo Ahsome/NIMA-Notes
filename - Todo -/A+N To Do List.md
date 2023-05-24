@@ -51,7 +51,7 @@ Well Score PE
 - [ ] Hypervolemia
 - [x] Stroke
 - [x] How to read ECG
-- [ ] Delirium/Dementia
+- [x] Delirium/Dementia
 - [x] Cardiac tamponade
 - [x] Respiratory Failure
 - [x] == Pneumothorax==
@@ -74,6 +74,7 @@ Well Score PE
 - [ ] **Nautremia**
 - [x] Anorexia
 - [ ] **Thyroid**
+- [ ] Osteoperosis
 
 After:
 - [ ] BPH
