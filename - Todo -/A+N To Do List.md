@@ -107,7 +107,7 @@ Geeky Medics:
 - Lady with jaundice
 ==- Lady with haematemesis==
 ==- Collapse on the beach==
-- "He's just not himself"
+==- "He's just not himself"==
 - Lady with LOC
 - Man with headache
 - Lady with SOB
