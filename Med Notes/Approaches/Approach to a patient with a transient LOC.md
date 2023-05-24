@@ -28,6 +28,15 @@
 	- Manage HTN complications
 	- Manage osteoporosis to prevent fractures if future falls 
 	- Multidisciplinary team
+- Subarachnoid Hemorrhage:
+	- Treatment:
+	- ![[Pasted image 20230524223925.png]]
+- Subdural hematoma:
+	- ![[Pasted image 20230524224041.png]]
+	- ![[Pasted image 20230524224132.png]]
+- Epidural hematoma:
+	- ![[Pasted image 20230524224202.png]]
+	- ![[Pasted image 20230524224213.png]]
 
 
 
