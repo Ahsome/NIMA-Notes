@@ -28,7 +28,9 @@
 	- Manage HTN complications
 	- Manage osteoporosis to prevent fractures if future falls 
 	- Multidisciplinary team
-- Subarachno
+- Subarachnoid Hemorrhage:
+	- Treatment:
+	- ![[Pasted image 20230524223925.png]]
 
 
 
