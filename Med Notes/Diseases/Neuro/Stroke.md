@@ -32,7 +32,7 @@ Stroke syndromes
 -   Contralateral hemiparesis – facial, upper limb and of lower limb (often)
 	- Leg weakness can cause ‘ataxia’
 -   Contralateral hemisensory loss – of the same regions. Often ‘pins and needles’
--   Homonymous hemianopia – complete loss of one half of the visual field. This can happen due to infarction of some of the optic tracts
+-   ***Homonymous hemianopia*** – complete loss of one half of the visual field. This can happen due to infarction of some of the optic tracts
 -   Aphasia – expressive and/or receptive aphasias. This will occur if the left MCA is infarcted, since language is left dominant.
 -   Neglect – if RHS or non-dominant hemisphere is affected.
 
@@ -121,7 +121,7 @@ The history taking should try and discern whether the patient’s symptoms is in
 If you’re suspecting a cortical stroke > LACS then must test aphasia (LHS) and neglect (RHS)
 | Left dominant                                                         | Right non-dominant                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------- |
-| Speech – expressive vs receptive aphasia                              | Spatial neglect                                    |
+|**Speech – expressive vs receptive aphasia**|**Spatial neglect**|
 | Constructional apraxia – inability to build, assemble or draw objects | Anosognosia – unaware something is wrong with them |
 | A – acalculia (unable to calculate)                                   | Dressing apraxia – can’t dress independantly       | 
 | A – alexia (word blindness)                                           |                                                    |
@@ -222,7 +222,7 @@ Treatment – the aim is to re-perfuse EARLY. The earlier you treat, the higher 
 	 - **Labetalol
 	- **Nicardipine
 	- **Clevidipine**
--   ==**Aspirin + clopidogrel**== – only to be used once hae2341562313morrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
+-   ==**Aspirin + clopidogrel**== – only to be used once haemorrhagic stroke has been excluded. Should be started within 48hours of stroke presentation for beneficial effects.
 	- Dual antiplatelet therapy for up to 3 months has been shown to prevent recurrent strokes.
 
 **==Clot retrieval==** – interventional treatment **WITHIN 6-8HR** of symptoms

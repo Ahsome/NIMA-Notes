@@ -7,19 +7,93 @@ pneumonia
 asthma
 diabetes + medications
 HTN
+OA/RA
+Gout/Pseudogout
+Meningitis/Encephalitis
 
+**SCALES TO LEARN:**
+- Score for stepwise treatment of COPD:![[Pasted image 20230521235648.png]] 
+- GOLD for COPD, severity, not treatment
+- ![[Pasted image 20230522000557.png]]
+- ==mMRC Dyspnea Scale --  EXTRA, NOT NEEDED==
+- ![[Pasted image 20230521235019.png]]
+- NYH for HF
+- CURB65, smart-cop for pneumonia
+- Wells for DVT/PE
+  HAS-BLAD score
+  Well score DVT
+  - ![](http://127.0.0.1:60064/paste-c43a31dd44d3425210a6eb8a1bbc7f7728234edd.jpg)  
+![](http://127.0.0.1:60064/paste-187de0e98215f1e31209e2fb7b752029fb858959.jpg)
+Well Score PE
+![](http://127.0.0.1:60064/paste-602ef72dae4d17a1b049d61a62dc41fb8d7e942e.jpg)  
+![](http://127.0.0.1:60064/paste-02431774fab06eaae0d6ab1655064b8da1c61a56.jpg)
+- 
+
+- [x] Stroke
+- [ ] **Bronchiectasis**
+- [x] **Asthma**
+	- [ ] Look at ETG
+- [x] **COPD**
+	- [x] Look at ETG
+- [x] Anticoagulation medication
+- [x] Pulmonary Embolism
+- [x] DKA
+- [x] HSS
+- [x] A-Fib
+- [ ] Murmurs
+- [ ] Rest of diabetes videos
+- [ ] Diarrhea
+- [x] ==Lower back pain==
+- [ ] Read all joint paints
+- [ ] **FALLS!!**
+- [ ] Starvation videos
+- [x] Syncope
+- [ ] Hypervolemia
+- [x] Stroke
+- [x] How to read ECG
+- [ ] Delirium/Dementia
+- [x] Cardiac tamponade
+- [x] Respiratory Failure
+- [x] == Pneumothorax==
+- [x] ==Parkinson
+- [ ] Glome==rulonephritis==
+- [ ] ==Nephrotic syndrome==
+- [ ] ==Encaphalopathy==
+- [x] ==GORD==
+- [x] ==Anemia==
+- [x] PUD
+- [x] IBD
+- [x] ==VT/SVT management==
+- [x] UTI - Pyelonephritis
+- [ ] STI
+- [x] Sepsis
+- [x] Shock
+- [x] Seizures
+- [ ] Hepatitis and CIrrhosis
+- [ ] Osteoarthritis
+- [ ] **Nautremia**
+- [x] Anorexia
+- [ ] **Thyroid**
+
+After:
+- [ ] BPH
+- [ ] Osteoperosis
+- [ ] Vertigo
+- [ ] Bundle branch block
+- [ ] Hyperlipidemia
 
 **ALSO ADD**:
 - [ ] Vertigo
 - [ ] Hyper/hypo-thyroid
 - [ ] Delirium tremens
-- [ ] Pyelonephritis
+- [x] Pyelonephritis
 - [ ] BPH
 - [x] Sleep apnoea
-- [ ] Multiple sclerosis
+- [x] Multiple sclerosis
 - [ ] Altered Mental Status
 - [ ] Hyper/hypo-nautremia
-- [ ] Acute renal failure
+- [ ] Movement Disorders
+- [x] Acute renal failure
 - [ ] TB
 - [x] Shock
 - [x] Meningitis
@@ -81,7 +155,7 @@ A patient with hypertension
 A patient with acute confusion
 [[Delirium]]
 [[Alcohol Toxicity]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 A patient with acute weakness
 [[Stroke]]
 [[UMN Lesion]]
@@ -94,7 +168,7 @@ A patient with jaundice
 [[Pancreatitis]]
 [[Cholecystitis]]
 A patient with oliguria
-[[Prostate enlargement|BPH]]
+[[Benign Prostate Hypertrophy (BPH)]]
 A patient with obseity and complications
 [[Obesity]]
 [[SLeep Apnea]]
@@ -107,7 +181,7 @@ A patient with joint pain
 A patient with a fall
 [[Falls]]
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 [[Parkinson's]]]
 A patient with fever
@@ -119,7 +193,7 @@ A patient with fever
 [[Sepsis (and SIRS)]]
 A patient with transient LOC
 [[Syncope (LOC)]]
-[[Seizure]]
+[[Seizures and Status Epilepticus]]
 [[Hypolgycemia]]
 A patient with unintential weight loss
 [[Breast Cancer]]

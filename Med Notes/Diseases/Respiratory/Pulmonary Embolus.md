@@ -83,7 +83,8 @@ Score <2 = low probabililty
 ## Treatments for DVT
 
 **Acute treatment for proimal DVT and PE**
-==Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days==
+ **Heparin (initial)**
+ ==Apixaban 10 mg orally, or rivaroxaban 15mg orally twice daily for 7 days==
 
 DVT treatment – anticoagulation is the mainstay of DVT treatment. It is indicated in all PROXIMAL DVT cases and SOME DISTAL DVT cases. The aim of treatment is to prevent extension of the clot, PE, recurrent clots.
 
@@ -91,8 +92,8 @@ DVT treatment – anticoagulation is the mainstay of DVT treatment. It is indica
 -   Distal DVT – usually in the posterior tibial and peroneal veins.
    
 Drugs – there is usually an initial anticoagulant that is used acutely, which is then usually transitioned to another anticoagulant that is to be used in the long term.
--   Heparin (initial) and warfarin (long term) – since warfarin usually takes 1 week to come on, the initial LMWH covers this initial period (clexane)
--   Heparin (initial) and NOAC (long term)
+-   ==**Heparin (initial)== and warfarin (long term)** – since warfarin usually takes 1 week to come on, the initial LMWH covers this initial period (clexane)
+-   ==Heparin (initial)== and NOAC (long term)
 -   Monotherapy with NOAC
 
 For patients with CKD (low GFR) - give apixaban or warfarin or unfractionated heparin
@@ -133,6 +134,12 @@ Initial ED management:
 1. Death in large PE
 2. Pullmonary HTN in small multiple PEs 
 3. Stroke in patients with patent foramen ovale 
+
+
+![[Pasted image 20230522163247.png]]
+
+<2 = DVT unlikely, 2-6 = likely, >6 = very likely
+<4 PE unlikely, >4 PE likely
 
 ---
 

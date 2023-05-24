@@ -17,7 +17,7 @@ max_depth: 2
 
 
 # DDx:
-- [[Seizure]]
+- [[Seizures and Status Epilepticus]]
 	- Tonic-clonic activity
 	- Tongue biting
 	- Incontinence

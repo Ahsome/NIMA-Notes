@@ -1,0 +1,22 @@
+-   Complications - ask if they have falledn and received any injuries to the head or face
+    -   fracture - NOFE
+    -   subdural hematoma
+    -   epidural hematoma
+    -   delirium
+-   Precipitants
+    -   hypoglycemia
+    -   syncope - orthostatic, vasovagal, cardiac
+    -   seizure
+    -   drug-induced
+        -   diuretics (hypovolemia)
+        -   antihypertensives and alpha blockers used for urinary symptoms (bradycardia and/or hypotension)
+        -   cholinesterase inhibitors (bradycardia)
+        -   antidepressants (postural hypotension)
+        -   sedatives (excessive sedation)
+        -   antipsychotics (sedation, muscle rigidity, postural hypotension)
+        -   hypoglycemics (acute hypoglycemia)
+        -   [alcohol](https://accessmedicine-mhmedical-com.ezproxy.library.uq.edu.au/drugs.aspx?GbosID=422595) (intoxication)
+    -   peripheral neuropathy
+    -   urinary incontinence
+    -   musculoskeletal weaknesses (eg MG, polymyositis)
+    -   hydrocephalus

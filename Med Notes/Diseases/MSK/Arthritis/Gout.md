@@ -99,7 +99,7 @@ Symptoms come with **recurrent attacks**, are **acute** and usually **monoarthri
 ## Investigations
 | Key Findings                                  | Result                                            | Explanation                                        |
 | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
-| **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals<br><br>If rhomboid-shaped, *positively birefringent crystals*, see [[Pseudogout]] | ![[Pasted image 20230511001724.png\|100]]<br>Ye*ll*ow colour when para*ll*el to axis of polarization<br>B*l*ue when perpendicu*l*ar to axis of the polarization |
+| **Bipolorised Light-cell Microscopy (Major)** | Needle-shaped, *negatively birefringent* crystals<br><br>If rhomboid-shaped, *positively birefringent crystals*, see [[Pseudogout]] |![[Pasted image 20230511001724.png\|100]]<br>Ye*ll*ow colour when para*ll*el to axis of polarization<br>B*l*ue when perpendicu*l*ar to axis of the polarization|
 | Arthrocentesis                                | WBC: 20k-50k                                      |                                                    |
 | ^^                                            | Crystals: Positive                                | Monosodium urate crystals in joints                |
 | X-rays                                        | Joint destruction                                 | Particularly in advanced, chronic disease          |

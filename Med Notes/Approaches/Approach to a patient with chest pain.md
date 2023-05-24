@@ -15,12 +15,44 @@ First consider important emergent causes:
 	2. Tearing pain, radiating to the back
 	3. CXR for widened mediastinum, need CT A to confirm diagnosis
 5. [[Cardiac Tamponade]]
-	1. Symptom:
-	2. Test:
+	1. Caued by pericardia effusions
+		1. Only small amounts of fluid needed if in acute setting to cause tmaponade, such as bleeding
+		2. If chronic, such as cancer, need large amount since heart adapts
+	2. Main causes:
+		1. Pericarditis, eventually causing tamponade
+		2. Cancer met to pericardium
+		3. Trauma
+	3. Symptom:
+		1. PRessure from outside prevents ventricles filling in diastole
+	4. Test:
 		1. Electric alternans
-		2. Low voltage ECG
-		3. Pulsus paradoxes
-		4. Stat echo
+			1. QRS alternates from tall to short, due to swining of heart in pericardial sac
+			2. ![[Pasted image 20230523015632.png]]
+		2. Distant, muffled heart sounds due to fluid in heart
+		3. Dyspnea despite absence of pulmonary edema (no bilateral crackles)
+		4. Elevated JVP since pressure prevents proper dilatation
+		5. Low voltage ECG
+		6. Pulsus paradoxes
+			1. Normal patient, BP falls slightly on inspiration
+			2. If exaggerated fall (>10 mmHg) = pulsus paradoxus
+			3. Severe fall, pulse dissapears
+			4. Also seen in asthma and COPD
+				1. Inspiration decreases left sided flow of blood
+				2. Exaggerated in lung disease
+		7. Stat echo
+		8. Equal of pressure in RA, RV, PCWP, and LVEDP:
+			1. Due to cardiac chambers not being able to relax
+			2. ![[Pasted image 20230523015907.png]]
+		10. Water bottle sign: Note this means pericardial effusion, not specifically tamponade
+		11. ![[Pasted image 20230523015013.png]]
+		12. Diagnosis:
+			1. Requires clinical signs (e..g pulsus paradoxus)
+			2. Requires transthoracic echocardiography, shows effusion
+		13. Treatment:
+			1. **IV fluids (NOT diuretics)**
+				1. They need fluid, otherwise blood does not have enough pressure to inflate ventricles against pressure of tamponade
+			2. Pericardiocentesis
+			3. Surgical pericardial window
 6. [[Takotsubo cardiomyopathy]]
 	1. ST elevations in anterior precordial leads, mimicking LAD stemi
 	2. Eliminate other options
@@ -32,8 +64,19 @@ First consider important emergent causes:
 		2. Sinus tachycardia
 		3. SOB
 		4. New oxygen requirement
-		5. Long term immobility, such as car ride or plane ride
-		6. Wells criteria
+		5. Tachypnea
+		6. Hemoptysis, if large embolus
+		7. Long term immobility, such as car ride or plane ride
+		8. JVP increase, due to right sided [[Heart Failure]]
+		9. Wells criteria
+		10. ABG (not needed) shows:
+			1. decrease PaO2 - V/Q mismatch
+			2. decrease PaCO2 - Hyperventilatiion
+			3. Resp alkalosis due
+		11. ECG:
+			1. Most common, sinus tachy
+			2. Can see S1Q3T3
+		12. If cannot do CTPA ue to pregnancy or [[Chronic Kidney Disease]], do VQ scn
 7. [[Pneumothorax]]
 	1. Sign:
 		1. Recent lung surgery
@@ -66,6 +109,24 @@ GI:
 Cardiac:
 - Heart failure
 - Aortic stenosis
+- Pericarditis
+	- Fever
+	- Sharp, pleuritic chest pain
+	- Worse lying down, better sitting up
+	- Exam:
+		- Pericardia friction rub, scratchy in systole and distole, only someties
+	- Has diffuse ST-elevations, and PR depression:
+	- ![[Pasted image 20230523014222.png]]
+	- Increased WBC
+	- Always do echo to find effusion, which can cause tamponade
+	- Normally after infection, normally through viral
+	- Also due to uremia from renal failure, treatment is hemodialysis (NOT DRUGS)
+	- Also due to post-MI or autoimmune, such as RA and Lupus
+	- Treatment:
+		- NSAIDS
+		- Glucocorticoids, second line
+		- Colchicine (inhibits WBCs via complex mechanism)
+		- Normay NSAID plus colchicine
 
 Pulmonary:
 - Pneumonia

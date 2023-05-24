@@ -51,8 +51,7 @@ Most commonly diabetic nephropathy, glomerulonephritis, or HTN
 -   Reflux nephropathy
 -   Other
 
-![[Pasted image 20230509061944.png]]
-![[Pasted image 20230509062002.png]]
+![[Pasted image 20230522063918.png]]
 
 --- 
 # History

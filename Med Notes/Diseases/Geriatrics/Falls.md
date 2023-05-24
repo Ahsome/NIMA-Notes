@@ -7,7 +7,7 @@
 
 # Scenario
 A 90 year old female presented after an episode of a falll at home and was found by a neighbour. She tells you that she tripped and then fell, hitting her wrist and her head on a cupboard. She thinks she was on the floor for one hour.
-
+[[Geriatrics-and-Falls]]
 --- 
 # History
 ***Risk factors in the elderly include:***
@@ -70,6 +70,8 @@ A 90 year old female presented after an episode of a falll at home and was found
 	2. ==Denosumab== - Inhibits RANKL which stops development of osteoclasts 
 		- Dose – 60mg SC, once every 6 months
 	1. ==HRT== 
+
+![[Pasted image 20230523210124.png]]
 
 ### *Long-term management*
 1. Fall prevention strategies
