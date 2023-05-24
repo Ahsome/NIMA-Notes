@@ -6,9 +6,6 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Ulcers
-- [ ] [[UMN Lesion]]
-- [ ] [[LMN Lesion]]
 - [ ] Bronchiectasis
 
 
@@ -20,6 +17,9 @@ kanban-plugin: basic
 
 **Complete**
 - [x] [[Headaches]]
+- [x] [[LMN Lesion]]
+- [x] [[UMN Lesion]]
+- [x] Ulcers
 - [x] Upper GI bleeding
 - [x] [[Breast Cancer]]
 - [x] Urinary Incontinence
