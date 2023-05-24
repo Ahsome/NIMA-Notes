@@ -122,15 +122,15 @@ A patient with diabetes mellitus and complications
 A patient with hypertension
 ==A patient with acute confusion==
 ==A patient with acute weakness==
-A patient with anemia
+===A patient with anemia===
 A patient with jaundice
 A patient with oliguria
-A patient with obseity and complications
-A patient with joint pain
-A patient with a fall
-A patient with fever
-A patient with transient LOC
-A patient with unintential weight loss
+==A patient with obseity and complications==
+==A patient with joint pain==
+==A patient with a fall==
+==A patient with fever==
+==A patient with transient LOC==
+==A patient with unintential weight loss==
 
 A patient with shortness of breath and/or oedema:
 [[Heart Failure]]
