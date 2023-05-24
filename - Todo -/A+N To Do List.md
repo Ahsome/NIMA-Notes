@@ -121,7 +121,7 @@ A patient with SOB and/or cough
 A patient with diabetes mellitus and complications
 A patient with hypertension
 ==A patient with acute confusion==
-A patient with acute weakness
+==A patient with acute weakness==
 A patient with anemia
 A patient with jaundice
 A patient with oliguria
