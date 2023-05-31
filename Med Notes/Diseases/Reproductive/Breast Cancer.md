@@ -356,14 +356,14 @@ For patients that are **tripple negative**: ^9bfefd
 - Monoclonal antiboy against [[Breast Cancer#^rjoeas|HER-2]]
 	- HER-2 is a surface receptor
 	- When activated, cause cell growth and proliferation
-	- Overexpressed by cancer cells
+	- Overexpressed by cancer cells--
 - Improves survival in [[Breast Cancer#^rjoeas|HER-2+]] breast cancer
 - Adverse effects
 	- **Cardiomyopathy**
 	- Leads to asymptomatic ⬇️ in LVEF
 	- Rarely causes heart failure
 	- Monitoring: Serial echocardiography
-	- Different from cardiotoxicity due to **antracycline**, another possible chemo agent for breast ancer
+	- Different from cardiotoxicity due to **antracycline**, another possible chemo agent for breast cancer
 		- Trastuzumab is **not dose dependent**, Antrhacycline is
 		- Trastuzumab is **often reversible**, Antracycline is not
 		- Re-challenge often tolerated after LVEF recovery for Trastuzumab
