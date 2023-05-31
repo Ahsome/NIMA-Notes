@@ -1,3 +1,10 @@
+# Surg review (Ahkam)
+### Extra videos (post cards):
+- [ ] Coag cascade
+- [ ] Breast masses and cancer
+
+# Med review
+
 ![[Pasted image 20230517234014.png]]
 urinary incontinence
 diarrhoea
