@@ -3,7 +3,7 @@
 - [ ] Completed adding notes
 
 **Extra To-Do:**
-- [ ] 
+- [ ] Add notes from Tutorial document into the notes
 ---
 ```toc
 ```
