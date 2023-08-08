@@ -9,7 +9,7 @@
 ```
 ---
 # Overall Notes:
-- Onset is **key** for diagnosis, do not skip or make it slow
+- Onset is **key** for diagnosis of mental health conditions, do not skip or make it slow
 - 
 # Schizophrenia:
 - The most important risk factor is genetics
