@@ -8,6 +8,9 @@
 ```toc
 ```
 ---
+# Overall Notes:
+- Onset is **key** for diagnosis, do not skip or make it slow
+- 
 # Schizophrenia:
 - The most important risk factor is genetics
 - Other risk factors:
@@ -41,7 +44,7 @@
 - Common issue that is not differentiated out early is Delerium
 	- Once identified as a possibility, many steps to diagnose
 	- CXR, imaging
-- 
+
 
 Hallucinations:
 - Perception without stimulus
