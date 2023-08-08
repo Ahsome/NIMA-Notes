@@ -10,6 +10,7 @@
 ---
 # Overall Notes:
 - Onset is **key** for diagnosis of mental health conditions, do not skip or make it slow
+- For medications, trial at least 2 different medications for at least 6 weeks, and if failed use [[Clozapine]]
 - 
 # Schizophrenia:
 - The most important risk factor is genetics
@@ -55,4 +56,9 @@ Hallucinations:
 ---
 
 # Resources:
+## Key resources:
 1. [Scizophrenia - CCRD Document + Some Answers - OneDrive](https://1drv.ms/w/s!Avqt1VHL6LRcvLI3oUb7R0Ol9dYEEw)
+
+## Other resources:
+1. [Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for the management of schizophrenia and related disorders](https://www.ranzcp.org/getmedia/da6dfec5-e31f-4d26-951b-dae8b1cdf777/schizophrenia-cpg.pdf)
+	1. [[Schizophrenia-CPG.pdf]]
