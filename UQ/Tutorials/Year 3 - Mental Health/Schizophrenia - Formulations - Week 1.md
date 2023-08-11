@@ -36,11 +36,19 @@
 		- Ongoing drug use, part of triad
 		- Medications non-adherence, part of triad
 		- Lack of education, financial stress
+- Delusional vs Schizophrenia
+	- Delusional disorders: Main features are delusions, no negative symptoms, and normally not functionally impaired. Delusions are also not bizarre (e.g. not about testicles with chips).
 
-| Factor        | Bio | Psycho | Social |
-| ------------- | --- | ------ | ------ |
-| Presenting    |     |        |        |
-| Precipitating |     |        |        |
-| Perpetuating  |     |        |        |
-| Predisposing  |     |        |        |
-| Protective              |     |        |        |
+Example table, with possible options:
+
+![[Pasted image 20230811141913.png]]
+
+
+---
+
+# Resources:
+## Key resources:
+1. [Scizophrenia - Formulation + Some Answers - OneDrive](https://1drv.ms/w/s!Avqt1VHL6LRcvLJEcr7Cf9FKDYp35A)
+
+## Other resources:
+1. 

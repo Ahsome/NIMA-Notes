@@ -5,6 +5,6 @@
     "dashboard-readline"
   ],
   "theme": "moonstone",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "cssTheme": ""
 }
