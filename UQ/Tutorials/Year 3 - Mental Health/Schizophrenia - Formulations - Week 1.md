@@ -10,6 +10,7 @@
 ---
 # Overall Notes:
 - Make sure you learn all of the mental health act rwquirements
+- If person has bipolar disorder with depressant properties, do not only treat with antidepressant, make sure you have mood stabiliser. Otherwise, if you do not, they can have an induced manic episode, which can ruin their reputation/finances
 
 # Schizophrenia
 - Diagnosing criteria for Schizophrenia:
@@ -56,6 +57,7 @@
 		- Can do blood panel for psychosis
 			- FBC, CHEM20, thyroid, lipid profile (antipsychotics increase lipid profile), fasting glucose+ HbA1c (due to psychotic meds risk), prolactin (due to psychotic meds risk)
 		- ECG baseline (psychotropic meds can increase QT interval)
+		- CK level
 		- Hepatitise serology (IVDU)
 		- STI (Syphillus)
 		- Potential fancy antibody test
