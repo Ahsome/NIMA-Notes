@@ -46,6 +46,8 @@
 	- Once identified as a possibility, many steps to diagnose
 	- CXR, imaging
 
+Metabolic syndrome:
+- Increased weight circumference, increase in BP, decrease in HDL, associated with antipsychotic use
 
 Hallucinations:
 - Perception without stimulus
