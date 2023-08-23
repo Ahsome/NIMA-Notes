@@ -55,6 +55,7 @@
 - Manic natural course:
 	- If only manic, disappears after 4-6 months
 - Mania:
+	- Subreddit for junior docs, this is perspective of psychiatrist
 	- 
 
 ---
