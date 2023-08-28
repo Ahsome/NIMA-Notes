@@ -11,6 +11,7 @@
 ---
 # Overall Notes:
 1. DSM-V states symptoms need to appear for 1 month for diagnosis of [[Post-Traumatic Stress Disorder|PTSD]], DSM-IV needed 6 months
+2. Aprazolam: Rapid effect, short half life, and available in high dose. This is different from other bentos such as Diazepam
 
 # Anxiety:
 1. Core features of panic attack:
