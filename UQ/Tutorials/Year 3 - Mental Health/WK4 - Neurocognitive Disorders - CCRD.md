@@ -12,6 +12,10 @@
 # General Notes:
 - Leading cause of death in women, 2nd in men besides CAD
 - Common word-finding issues is are names, or ideas(“you know what I mean?”)
+- Dressing Dyspraxia is a parietal lobe issue
+- Depression Diagnosis:
+	- Memory loss
+	- One of three: Apraxia, Agnosia, or Aphasia
 
 ---
 
