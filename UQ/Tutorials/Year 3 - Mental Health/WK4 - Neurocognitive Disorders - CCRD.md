@@ -16,6 +16,10 @@
 - Depression Diagnosis:
 	- Memory loss
 	- One of three: Apraxia, Agnosia, or Aphasia
+- Cognitive tests include:
+	- MoCa (Montreal)
+	- MSSE
+	- Adam Brook Cognitive Assessment
 
 ---
 
