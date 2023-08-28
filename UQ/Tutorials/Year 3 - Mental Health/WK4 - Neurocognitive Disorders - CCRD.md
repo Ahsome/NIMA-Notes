@@ -11,6 +11,7 @@
 
 # General Notes:
 - Leading cause of death in women, 2nd in men besides CAD
+- Common word-finding issues is are names, or ideas(“you know what I mean?”)
 
 ---
 
