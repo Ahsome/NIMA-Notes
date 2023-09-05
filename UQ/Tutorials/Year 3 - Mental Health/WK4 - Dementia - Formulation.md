@@ -9,6 +9,15 @@
 ```
 ---
 
+Jill is an 83F presenting with recent increased irritability, perceptual disturbances, reduction in attention and in appetite.
+
+She presented with two days of increased irritability, and not willing to eat. This was further worsened with no contact with her GP, who is currently away. She is not oriented to time and place, and is unable to successfully complete the standardised MMSE, not able to spell “world” backwards and cannot register 3 objects.
+
+Her predisposing factors include increasing perceptual disturbances regarding her neighbours, who she believes have been moving things at night and stealing from her purse. This has resulted in confrontations, where the neighbours have denied any wrongdoing which she has not accepted. Her hearing aids could be further worsening her conversations with her neighbours.
+
+Perpetuating factors include old age at 83, potential social isolation in a coastal town, and her continuous involvement with her neighbours.
+
+Protecting factors include a stable partner since she was 22yo, who is currently retired. She has two children, with her daughter living nearby and potentially providing support. Her living situation is stable, as she owns a home in a small coastal town in Queensland, and until recently was able to cook, clean, and enjoy long walks independently.
 
 ---
 
