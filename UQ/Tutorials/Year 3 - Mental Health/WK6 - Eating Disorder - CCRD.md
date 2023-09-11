@@ -8,7 +8,15 @@
 ```toc
 ```
 ---
-# Overall Fin
+# Overall Findings
+- CBT therapy often considered important for Eating Disorder
+
+# Eating Disorder:
+- Death causes include:
+	- Dehydration
+	- Electrolyte imbalance
+	- Hypothermia
+- 
 
 ---
 
