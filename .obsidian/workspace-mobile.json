@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce005dfffdbd8df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b084ed7c3b833ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md",
+            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md",
+            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +142,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md"
+            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md"
           }
         }
       }
@@ -138,12 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46acc8f654665b39",
+  "active": "ce005dfffdbd8df6",
   "lastOpenFiles": [
-    "UQ/Tutorials/Year 3 - Mental Health/WK5 - Personality Disorders - CCRD.md",
-    "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md",
-    "UQ/Tutorials/Year 3 - Mental Health/WK3 - Anxiety and OCD - CCRD.md",
     "home.md",
+    "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
+    "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md",
+    "UQ/Tutorials/Year 3 - Mental Health/WK5 - Personality Disorders - CCRD.md",
+    "UQ/Tutorials/Year 3 - Mental Health/WK3 - Anxiety and OCD - CCRD.md",
     "UQ/Tutorials/Year 3 - Mental Health/WK4 - Neurocognitive Disorders - CCRD.md",
     "Med Notes/Diseases/Respiratory/Asthma.md",
     "Med Notes/Diseases/Psych/Anxiety & OCD DIsorders/Generalised Anxiety Disorder.md",

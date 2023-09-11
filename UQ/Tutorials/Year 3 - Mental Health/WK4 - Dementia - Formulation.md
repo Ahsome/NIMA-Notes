@@ -8,7 +8,11 @@
 ```toc
 ```
 ---
+# Overall Notes
+- Avoid benzos for patients with delirium if they are elderly, fall risk
+- If patient is aggressive with delirium, IM haloperidol or olanzapine if sublingual is not an option
 
+# Formulation:
 Jill is an 83F presenting with recent increased irritability, perceptual disturbances, reduction in attention and in appetite.
 
 She presented with two days of increased irritability, and not willing to eat. This was further worsened with no contact with her GP, who is currently away. She is not oriented to time and place, and is unable to successfully complete the standardised MMSE, not able to spell “world” backwards and cannot register 3 objects.
