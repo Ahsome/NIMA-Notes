@@ -10,13 +10,21 @@
 ---
 # Overall Findings
 - CBT therapy often considered important for Eating Disorder
+- CBT techniques used for ED include
+	- Socratic Questioning (Elephant Model)
+		- Downward arrow
+	- Psychoeducation (Duck Model)
+		- Guiding
 
 # Eating Disorder:
 - Death causes include:
 	- Dehydration
 	- Electrolyte imbalance
 	- Hypothermia
-- 
+- Three pillars on Symptoms Practice of CBT-e
+	- Regular eating
+	- Weekly Weighing
+	- Self monitoring
 
 ---
 

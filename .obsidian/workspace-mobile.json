@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "7dcb6c435edeac03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sepsis.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b084ed7c3b833ded",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
+            "file": "Sepsis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
+            "file": "Sepsis.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md"
+            "file": "Sepsis.md"
           }
         }
       }
@@ -165,9 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce005dfffdbd8df6",
+  "active": "7dcb6c435edeac03",
   "lastOpenFiles": [
     "home.md",
+    "Sepsis.md",
     "UQ/Tutorials/Year 3 - Mental Health/WK6 - Eating Disorder - CCRD.md",
     "UQ/Tutorials/Year 3 - Mental Health/WK4 - Dementia - Formulation.md",
     "UQ/Tutorials/Year 3 - Mental Health/WK5 - Personality Disorders - CCRD.md",
