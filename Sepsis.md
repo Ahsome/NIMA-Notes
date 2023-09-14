@@ -34,9 +34,11 @@ Sepsis is a...
 ---
 
 ## Investigations
-| Key Tests                 |Result| Explanation                                                                                                                                                     |
-| ------------------------- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Test 1                    |Result 1| Explanation 1                                                                                                                                                        |
+| Key Tests      | Result                 | Explanation                                                     |
+| -------------- | ---------------------- | --------------------------------------------------------------- |
+| Blood Cultures | Positive for infection | Checks for infection, pos/neg, and which one to guide treatment |
+| Vitals         | O2 sat                 | Want >94%                                                       |
+| VBG            | Serum Lactate Levels   | Check as measurement of severity of Sepsis                                                                |
 
 | Additional Tests               |  Result   | Explanation                |
 | ------------------------------ | --- | --------------------- |
