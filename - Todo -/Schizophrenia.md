@@ -1,0 +1,15 @@
+- Psychosis is a symptom and has four pillars:
+	- delusions - fixed false beliefs that are impermeable to change
+	- hallucinations - sensory perception in the absence of stimulus
+	- catatonic - motor component e.g. psychological pillow, not willing to cooperate, incontinence 
+	- disorganisation of thinking (speech) or behaviour 
+- Risk factors
+	- drug-use e.g. stimulants
+	- 60% cause is genetic - chromosomal defect in the neuronal pruning process 
+- Schizophrenia is diagnosed by:
+	- >6 months of
+	- Positive symptoms e.g. delusions, hallucinations or both
+	- Negative symptoms e.g. poverty of thought, amotivation
+	- Cognitive symptoms
+	- rule out other causes e.g. medications or drugs or delirium or autism 
+- Dopamine hypothesis - all antipsychotics are dopamine antagonists and they best target the positive symptoms 

@@ -1,0 +1,7 @@
+- Typically occurs on sun-exposed parts, but can occur in eyes too
+- Precursor lesions
+	- Benign melanocytic nevus (normal mole)
+	- Atypical or dysplastic naevus (funny-looking mole)
+	- Atypical lentiginous junctional naevus (flat naevus in heavily sun damaged skin) or atypical solar lentigo
+	- Large or giant-sized congenital melanocytic naevus (brown birthmark)
+	- 
