@@ -3,13 +3,18 @@
 - [ ] Completed adding notes
 
 **Extra To-Do:**
+PC
+Precipitating factors for PC
+Predisposing factors 
+Perpetuating factors 
+Protective factors 
 
 ---
 ```toc
 ```
 ---
 # Overall Notes:
-- Make sure you learn all of the mental health act rwquirements
+- Make sure you learn all of the mental health act requirements
 - If person has bipolar disorder with depressant properties, do not only treat with antidepressant, make sure you have mood stabiliser. Otherwise, if you do not, they can have an induced manic episode, which can ruin their reputation/finances
 
 # Schizophrenia
@@ -26,6 +31,8 @@
 		- A-motivation
 	- Cognitive:
 	- Effective symtoms:
+	- ![[Pasted image 20230929075141.png]]
+	- ![[Pasted image 20230929075153.png]]
 - Precipitating factors:
 	- Hint: Always start with "This presentation is in the context of..."
 	- Triggers
@@ -33,6 +40,9 @@
 		- Stress/conflict/trauma
 		- Not on medications
 		- Transitions
+	- ![[Pasted image 20230929075352.png]]
+- Predisposing factors
+	- ![[Pasted image 20230929075600.png]]
 - Perpetuating factors:
 	- Factors that keep the illness, and not helping
 	- Include
@@ -40,9 +50,15 @@
 		- Ongoing drug use, part of triad
 		- Medications non-adherence, part of triad
 		- Lack of education, financial stress
+	- ![[Pasted image 20230929075803.png]]
 - Risk:
 	- Risk to self? Suicidal ideation?
 	- Risk to others? Make sure to obtain collateral
+	- ![[Pasted image 20230929075828.png]]
+- Protective factors
+	- ![[Pasted image 20230929080020.png]]
+- Prognosis
+	- ![[Pasted image 20230929080137.png]]
 - Management
 	- Immediate:
 		- within 24 hours
@@ -105,6 +121,23 @@
 Example table, with possible options:
 
 ![[Pasted image 20230811141913.png]]
+
+
+
+RFs for psychosis :
+- family history, development disorders, childhood trauma, immigrant, pregnancy (virus, low birth weight, toxoplasmosis), urban
+
+Perpetuating - lack of insight, non-compliance 
+
+Protective - housing, family support, 
+
+**Formulations**
+Gaps in history
+Do a risk assessment
+Short-term, medium-term and ong-term management
+
+
+
 
 
 ---
