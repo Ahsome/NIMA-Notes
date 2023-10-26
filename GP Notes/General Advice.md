@@ -1,0 +1,5 @@
+- Know management pathways e.g. after you find a positive PR exam, what is the next step? colonoscopy
+- Memorise Red Book
+- Know child developmental pathways
+- Watch VOPPs
+- Do practice questions 

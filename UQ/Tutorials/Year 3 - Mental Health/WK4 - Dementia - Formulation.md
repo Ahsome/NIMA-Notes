@@ -25,7 +25,7 @@ Protecting factors include a stable partner since she was 22yo, who is currently
 
 Example, Sarah:
 
-Jill is an 83F who presented with a two day history of increased irritability, persecutors delusions and concotaminant anorexia. This is a sudden deterioration of her previous functioning, where she was high functioning, looking after grandchildren, good self care and was able to independently cook and clean. I have a provisional diagnosis of delirium, but cannot exclude an organic cause such as a stroke or TBI.
+Jill is an 83F who presented with a two day history of increased irritability, persecutors delusions and concotaminant anorexia. This is a sudden deterioration of her previous functioning, where she was high functioning, looking after grandchildren, good self care and was able to independently cook and clean. It is reasonable to speculate a  provisional diagnosis of delirium, but cannot exclude an organic cause such as a stroke or TBI.
 
 # Good phrases
 - “It is reasonable to speculate…”
