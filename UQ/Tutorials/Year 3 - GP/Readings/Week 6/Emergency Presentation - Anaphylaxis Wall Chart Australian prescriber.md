@@ -67,7 +67,7 @@ Remember key clinical features:
 		1. Refer patients with anaphylaxis for review
 
 **NOTES:**
-Antihistamines Antihistamines have no role in treating respiratory or cardiovascular symptoms of anaphylaxis. Oral non-sedating antihistamines treat itch and urticaria. Injectable promethazine should NOT be used in anaphylactic shock as it can worsen hypotension.
+Antihistamines have no role in treating respiratory or cardiovascular symptoms of anaphylaxis. Oral non-sedating antihistamines treat itch and urticaria. Injectable promethazine should NOT be used in anaphylactic shock as it can worsen hypotension.
 
 
 ---
