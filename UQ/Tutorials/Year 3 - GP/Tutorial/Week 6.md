@@ -9,9 +9,14 @@
 ```
 ---
 
+# Key Notes
+## To learn
+- All the vaccine steps and timing for children, the schedule
+- Know how much alcohol a person can have
+- Learn motivational interviewing
 # Cases
 ## Diagnostic Case
-Created by: Sannah
+Created by: Hannah
 Doctor: Eric
 
 Symptoms:
@@ -64,6 +69,57 @@ Feedback:
 	- Space-occupying lesions
 
 ## Management cases
+Created by: Rhett Allan
+Conducted by: Jordan
+
+10 Step Management Plan:
+- [ ] Establish a shared agenda
+- [ ] Understand the patient's diea, concerns and expectations
+- [x] Provide information and education as appropriate
+- [x] Negotiate a shared management plan
+- [x] Address other preventive opportunities relevant to the patient
+- [x] If you have time, explore other chronic problems or prevent opportunities
+- [x] Summarise the plan (or ask patient to) and answer any remaining questions
+- [x] Provide take away information
+- [ ] Safety net
+- [x] Arrange follow up
+
+Initial diagnosis:
+- Potentially Hep C
+
+Management:
+- Discuss Hep C and other STI testing, esp with no previous testing
+- Discussed management if Hep C is positive, with antiviral medications, if not completed another antiviral may be needed to add
+- Discussed alcohol, goes through 2 bottles of jack daniels a week.
+	- Asked if patient has any issues with drinking alcohol, they have no issues with it.
+	- Asked about if there are days with no alcohol
+	- Discuss no more than 10 standards a week
+	- Patient asked if 10 standards a reasonable ask, or if only for "pastors". Reassured that it is to limit acute cases and long-term liver damage
+- Patient requested sleeping tablets, confirmed with patient to try ceasing alcohol first
+- Discussed blood pressure being slightly high coming in
+- Patient asked if they have Hep C, they need to inform previous patients for last 12 months, and future partners as needed
+- Recommend safe-sex methods, such as barriers to prevent STI.
+	- Doctor unsure if it is safe to have sex, noted to discuss if possible
+- Standard blood tests as been previous time since check. Cholesterol, Sugar levels and HbA1c
+- Follow up in 2 weeks
+
+Communication:
+- Good, clear, empathetic communication. Explained whatever issue the patient had well, made them feel calm especially regarding the Hep C management
+
+Structure:
+- Good structure when going through management. Did initially rush through the shared agenda for the consultation and patient's ideas, concerns and expectations
+
+Ethics:
+- Discussed the ethics issue well as needed
+
+Questions:
+- Australian STI guidelines is a useful resource
+- What is your approach if patient has withdrawal symptoms:
+	- Discuss red flags to come to ED
+
+Feedback:
+- Jordan: Reduce hesistancy regarding some information, such as unsure about safe sex. Instead of saying not know, say that we can look at that information together
+- Very gentle, mmet patient in the middle
 
 ---
 
