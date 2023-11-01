@@ -72,7 +72,7 @@ Immediate actions:
 ### Adrenaline administration and dosages (children + adults)
 >[!Important] Adrenaline is the first line treatment for anaphylaxis
 >Reduce airway mucosal, induce bronchodilation, vasoconstriction, increase cardiac contraction
-- Give IM Adrenaline (1:1000) into outer mid-thigh (0.01mg, up to 0.5mg dose) without delay
+- Give IM Adrenaline (1:1000) into outer mid-thigh (0.1mg, up to 0.5mg dose) without delay
 - Dosage charted:
 - ![[Pasted image 20231101010510.png]]
 - If multiple doses are required to treat anaphylaxis (2-3 doses at 5 min intervals), consider adrenaline infusion
