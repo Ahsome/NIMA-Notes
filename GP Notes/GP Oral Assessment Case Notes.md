@@ -48,13 +48,12 @@ Is the pain affecting your day-to-day activities
 ## Preventative health:
 - Last cervical screening test?
 - Up to date with childhood vaccinations?
-- Skin check
 - Diabetic screen/HbA1C (mum has hx)?
 - General blood
   
 
 ## O/E:
-- General inspection including BMI and well/unwell
+- General inspection including BMI 
 - Vitals including O2 saturations
 - Abdominal exam 
 	- Looking for any scars, bruising, masses, organomegaly, tenderness (incl Murphy’s sign), assessing width of AA
@@ -166,18 +165,6 @@ If IBD
 - ?H pylori eradication
 - ?optimise BP
 
-## Preventative
-- Cervical screening test
-- Skin cancer screening
-- Diabetic screening - HbA1C (given family history)
-- Mental health and DV screen
-- SNAP review regularly - FODMAP diet
-- BP monitoring every second year
-- Fourth COVID dose
-- Childhood vaccinations check and catch-up as necessary
-- ADT booster if indicated
-- Ongoing contraception review
-- Safety netting for red flags and indications for upper endoscopy
 
   
 ![](https://lh4.googleusercontent.com/9Y5wAWu79d1xADBiBBcXNrm-uk8aitKPutczyZkVi7IhiHK4D7izpBya9I8QO77a1hslXoV3ITZmE_7wmeVdIpSyW1R16vTtjBllCt4UYobagplctuGoPiMuAit5eJ92OmUlrRCkh2J3x6gKNIPQ63E)
@@ -488,11 +475,10 @@ Important to ask about social Hx as well - work, hobbies, finances, situation at
 
 ## Preventative health:
 - CST?
-- Skin check?
 - Mammograms - can start screening from 40 without a prompt from the government
 
 ## O/E:
-- General inspection including BMI and well/unwell
+- General inspection including BMI and well
 	- Signs of dehydration - skin turgor, mucous membranes, JVP
 - Vitals including O2 saturations
 - Cranial nerves
@@ -553,7 +539,7 @@ Important to ask about social Hx as well - work, hobbies, finances, situation at
 
 
 ## Problem list:
-- Headache workup and management
+- Headache management
 - Lifestyle
 	- ?SNAP?
 	- ?Weight?
@@ -563,7 +549,6 @@ Important to ask about social Hx as well - work, hobbies, finances, situation at
 - Preventative:
 	- ?Vaccinations?
 	- ?CST?
-	- ?Skin check?
 	- ?BP measurement every 2 years?
 - Regular GP review / care
 - Optimisation and review of meds
@@ -651,7 +636,6 @@ Murtaugh’s 10 step management plan:
 5. Preventative opportunities
 - Immunisations - flu and COVID?
 - CST?
-- Skin check?
 - Chlamydia urine test - RACGP life-cycle charts up to 29 years old opportunistically → have you had one before?
 - BP every two years
 

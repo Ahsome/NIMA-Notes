@@ -1,6 +1,6 @@
 **Tasks before the tutorial** 
 
-1.         Write a formulation, gaps, diagnosis, 3 differential diagnoses with reasoning and management plan. Ensure your management plan contains immediate, short term and longer-term management, as well as details of any pharmacotherapy or psychological therapy you would recommend. 
+1. Write a formulation, gaps, diagnosis, 3 differential diagnoses with reasoning and management plan. Ensure your management plan contains immediate, short term and longer-term management, as well as details of any pharmacotherapy or psychological therapy you would recommend. 
 
 |   |   |   |   |   |
 |---|---|---|---|---|
