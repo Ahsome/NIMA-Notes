@@ -7,6 +7,11 @@ Things to learn:
 - Remember Red Book diagram for preventive activities (e..g Speech is difficult at age)
 - Learn algorithm for contraception
 
+CVD risk:
+- CVD (Moderate)
+	- Lipid and cholesterol
+		- Any age, 2y
+
 
 1.        E
 
