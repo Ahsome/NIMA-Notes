@@ -1,6 +1,6 @@
 # Answers:
 Things to learn:
-- Imunisaions, include pregnancy
+- Imunisaions, include pregnancy, and pmneumococcal ESP for COPD
 - What is Centor score
 - Memorise acne algorithm
 - Watch the Sketchy video on the 4 kid diseases in the video (e.g. Parainfluenza for Croup)
