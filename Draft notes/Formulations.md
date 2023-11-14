@@ -66,5 +66,6 @@
 		- How many sessions, how long are sessions, who does the sessions, the course
 		- Indication of SEs 
 		- e.g. Cognitive behavioural therapy, 60mins each week with a psychologist, over a course of 8-10 sessions. It is a type of "here and now" therapy which looks at cognitive distortions and how they interact with behaviours and emotions, and how to address and mitigate them in everyday life. It involves work in the course and homework. SEs include some anxiety at the start, cost, and access if rural 
-		- 
-		
+
+
+Practice Management for Schizophrenia:
