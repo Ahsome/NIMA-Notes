@@ -21,7 +21,7 @@ CVD risk:
 
 **4.**        **A/C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)**
+**a.**        ![[Pasted image 20231114150909.png]]**
 
 5.        A
 
@@ -29,21 +29,15 @@ CVD risk:
 
 7.        A/**D**
 
-a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
+a.        ![[Pasted image 20231114150919.png]]
 
 8.        D/**B**
 
-a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
-
-9.        B
-
-10.  E/**A**
-
-a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+a.       ![[Pasted image 20231114150929.png]]
 
 **11.**  **B its C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)**
+**a.**        **![[Pasted image 20231114150944.png]]**
 
 12.  D
 
@@ -51,11 +45,11 @@ a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T34
 
 14.  E/**C**
 
-a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+a.        ![[Pasted image 20231114150952.png]]
 
 **15.**  **E/D it’s a**
 
-**a.**         **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)**
+**a.**         ![[Pasted image 20231114151000.png]]**
 
 16.  C
 
@@ -67,17 +61,17 @@ a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T34
 
 **20.**  D/E its D
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)**
+**a.**        **![[Pasted image 20231114151011.png]]**
 
 **21.**  **A/B its C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)**
+**a.**        **![[Pasted image 20231114151019.png]]**
 
 22.  C
 
 23.  B/**D**
 
-a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)
+a.       ![[Pasted image 20231114151025.png]]
 
 24.  D
 
@@ -123,13 +117,13 @@ a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T34
 
 **45.**  **A/D its C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)**
+**a.**      ![[Pasted image 20231114151033.png]]**
 
 46.  A
 
 **47.**  **B its C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)**
+**a.**        ![[Pasted image 20231114151042.png]]**
 
 48.  D
 
@@ -137,4 +131,4 @@ a.        ![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T34
 
 **50.**  **D its C**
 
-**a.**        **![](file:////Users/ahkamtest/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)**
+**a.**        ![[Pasted image 20231114151053.png]]**
