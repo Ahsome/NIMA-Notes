@@ -2,14 +2,10 @@
 TO DO
 
 - [ ] HOW TO CHART MEDS (incl. how to chart meds and numbers, such as paracetamol)
-
 - [ ] How to chart fluids
-
 - [ ] Print all the examination sheets inc. consent sheets to practice
-
 - [ ] How to chart clexane (fractionated LMWH)and other medications (cannot monitor with PTT)
 	- [ ] Protamine is given for unfractionated heparin overdose (need to give unique dose to each patient)
-
 - [ ] Added to notes
 - [ ] TIPS - "ask senior before stopping or changing drugs", if you don't know something, ask senior or check the guidelines or check eTG 
 - [ ] Learn different oxygen therapies e.g. nasal prongs, Hudson mask
