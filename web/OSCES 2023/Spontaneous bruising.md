@@ -38,7 +38,6 @@
         - Are you elderly? Skin becomes more fragile with age, making bruising more common.
 
 ### Additional General Questions:
-
 - **Timing of Bruising:**
     - When did you first notice the bruising?
     - Has the bruising been getting worse, staying the same, or improving?
