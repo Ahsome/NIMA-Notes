@@ -1,5 +1,7 @@
 - Vaginal discharge 
 
+- Bacterial vaginosis, thin and off-white with unpleasant “fishy smell”. Due to changes in biome of vagina, loss of lactobacilli and increase in Garderella vaginalis, most often corelated with sexual activity (very rare to get with no sex). Associated with douching and smoking. Test is high pH (lack of bacilli), clue cells on histo saline wet mount of discharge, and Whiff test (smell wet mount slide after applying potassium hyroxide KOH, makes bad smell). Treat with Metronidazole gel. Does NOT need to treat partner as not STI
+
 **Station Title: Communicating a Positive Chlamydia Diagnosis**
 
 **Scenario:** You are a healthcare professional (you can choose your role, e.g., doctor, nurse, sexual health counselor) in a sexual health clinic. A 25-year-old woman, Sarah, has come in reporting symptoms of greenish odourous discharge. Your task is to conduct an empathetic and informative session to take a history deliver the diagnosis, discuss implications, and recommend appropriate management.
