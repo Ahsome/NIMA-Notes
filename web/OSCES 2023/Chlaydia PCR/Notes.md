@@ -1,3 +1,54 @@
+# Approach:
+The steps involved will be:
+1. Vaginal Discharge Hx
+2. Looking at PCR result, positive for Chlamydia
+3. BBN for Chlamydia, explain management
+
+### Vaginal Discharge Hx.
+Questions to ask:
+1. Any present discharge?
+2. Colour and consistency of discharge?
+3. Itchiness in the area?
+4. Abnormal bleeding?
+	1. Between periods?
+	2. After sex?
+5. Recent sexual Hx
+	1. Any recent sex?
+	2. Previous history, number of partners in last 6 months?
+	3. Pain on intercourse?
+	4. If so, deep pain or superficial pain?
+	5. Types of sexual activity?
+6. STI testing?
+7. Pain on urination?
+8. Fever, tachycardia?
+9. Abdominal pain?
+10. Anal changes? **Key as it changes management**
+	1. Anal pain
+	2. Anal discharge
+	3. Changes in bowel habit
+	4. Tenesmus
+
+### Chlamydia Management
+1. Explain what it is, STI, bacteria, likely from another source
+2. Explain 85-90% have no symptoms, but there are key complications
+	1. PID
+	2. Affects pregnancies
+	3. Can cause infertility
+3. Explain how test works
+	1. Nucleic acid amplification test amplifies Chlamydia genetic material
+4. Ongoing management
+	1. **Uncomplicated:** 100mg Doxy BD 7/7, or Azithrymycin 1g PO stat
+	2. **Pregnant:** Azitrhomyic 1g PO
+	3. **Anorectal infection:** 100mg Doxy BD 7/7 if asymptomatic, 21 if asymptomatic
+	4. No sexual contact for **7 days** after treatment has commenced, **OR** until symptoms resolve
+	5. No sex with partners from last 6 months as potentially infective
+	6. Contact tracing, state either patient does, you can anonymously, or work with contract tracing team
+	7. Consider testing other STI
+	8. Fact sheet
+	9. **Notify the state, tell you will do this**
+	10. Follow up: Check up on adherence to treatment **AND** confirm contract tracing. There is **no** need for re-testing to see if cured
+	11. Safety net
+
 # Vaginal discharge
 ## Chlamydia Trachomatis
 Causes **Pelvic Inflammatory Disease** alongside N. Gonorrhea
