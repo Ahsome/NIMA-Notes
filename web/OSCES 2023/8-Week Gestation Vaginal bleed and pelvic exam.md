@@ -1,3 +1,12 @@
 - Lady with 8 weeks gestation with spotting 
 - Interpret investigations
-- 
+- Ectopic pregnancy
+- Threated miscarriage
+	- If progressed, can be Inevitable, Incomplete or Missed
+	- ![[Pasted image 20231118031135.png]]
+- Rarely:
+	- Pelvic Inflammatory Disease, causing cervical spotting or bleeding
+- When considering ectopic pregnancy or otherwise, check B-hCG
+	- ![[Pasted image 20231118030718.png]]
+	- TVS will show a complex adnexal mass/free fluid in the adnexal area, with a "ring of fire sign" on Doppler USS.
+	- **Note:** Also can be seen in corpus luteal cyst, however this does **NOT** have elevated B-hCG
