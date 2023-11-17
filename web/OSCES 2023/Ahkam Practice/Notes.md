@@ -16,3 +16,11 @@ Case 2:
 	4. Explain what happens if cough/fever
 	5. Wash it
 	6. Always safety net
+
+Case 3:
+1. Chlamydia
+	1. Type of sex
+	2. Any chance you can be pregnant
+
+Case: 4
+1. 
