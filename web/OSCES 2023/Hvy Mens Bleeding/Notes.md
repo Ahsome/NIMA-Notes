@@ -1,3 +1,19 @@
+# Differentials:
+
+| Diagnosis                                  | Signs                                      | Testing                                                      |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
+| Polyps                                     | Age (Old, over 40 OR post-menopausal)      | Hysteroscopy, ALWAYS if post-menopausal                      |
+|Adenomyosis| Dysmenorrhea                               | Pelvic USS                                                   |
+| Leiomyoma (fibroids)                       | Dysmenorrhea                               | Pelvic USS                                                   |
+| Maligancy                                  | Weight loss</br>Night sweats               |                                                              |
+| Coagulopathy                               |Onset of menses, so always heavy bleeding|                                                              |
+| Ovulatory Dysfunction - PCOS               | Hirtuim (hair pattern, humpback)           |                                                              |
+| Ovulatory Dysfunction - Thyroid            | Weight loss, tremor, sweats                | TSH                                                          |
+| Ovulatory Dysfuctuion - Hyperprolactinemia | Galactorrhea                               | Prolactin Levels                                             |
+| Iatrogenic (e.g. IUD/hormones/medications) |                                            |                                                              |
+| Ectopic Pregnancy                          | Bleeding within 1st trem/half of pregnancy | Elevated but slow B hCG</br>Adnexal mass on TVUS             |
+| Terminal Pregnancy                         | Bleeding within 1st trem/half of pregnancy | Elevated but slow B hCG</br>Potential mass in uterus on TVUS |
+| Infection                                  | Abnormal, smelly discharge<br>Vaginal Pruritis                                           |                                                              |
 # Overall approach:
 0. Someone does a very good explanation here: [[#Reddit explanation]]
 1. Identify issue is heavy bleeding
@@ -14,8 +30,16 @@
 4. Identify if patient is post-menopausal, symptoms of menopause
 5. Check if the patient has anovulatory cycles (irregular/no cycles)
 7. Go through the [[#^8915ef|PALMCOEIN]] mnemonic for causes of uterine bleeding
-	1. Ask for signs of menopause, could be caused by decreased progesterone
-	2. Post-coital bleed: Could be due to sex causing vaginal laceration
+	1. For individuals in the reproductive-aged group, the most commonly identified causes of AUB include ovulatory dysfunction and leiomyomas. Those with AUB due to malignancy tend to be older relative to others in the reproductive-aged group.[[9]](https://www.ncbi.nlm.nih.gov/books/NBK470230/#)[[10]](https://www.ncbi.nlm.nih.gov/books/NBK470230/#)
+	2. Rates of malignancy are overall highest in the postmenopausal-aged group; therefore, cancer must always be ruled out when patients present with vaginal bleeding in this age group.
+	3. Ask for signs of menopause, could be caused by decreased progesterone
+	4. Post-coital bleed: Could be due to sex causing vaginal laceration
+	5. Pelvic pressure, dyspareunia, constipation, or urinary frequency (may suggest a mass)
+	6. Dysmenorrhea (suggests leiomyoma or adenomyosis)
+	7. Unintentional weight loss (may suggest malignancy or hyperthyroidism)
+	8. Galactorrhea (which may indicate hyperprolactinemia) or hirsutism (which may indicate hyperandrogenism, PCOS, or congenital adrenal hyperplasia)Heavy bleeding since menarche, a history of surgical, dental, or obstetric bleeding, frequent bruising, epistaxis, or a family history of bleeding symptoms (may suggest a coagulopathy)[[3]](https://www.ncbi.nlm.nih.gov/books/NBK470230/#)
+	9. 
+	10. Pelvic pain, abnormal or foul-smelling vaginal discharge, or vaginal pruritus (suggests infection)
 8. Consider non-uterine causes:
 	1. GI, vaginal/cervical lesion, STI, bleeding disorders
 9. Before testing:
@@ -26,6 +50,7 @@
 10. Examniation:
 	1. Bimanual: Identify fibroids, polyps
 	2. Also rule out vaginal laceration, potentially due to sex
+	3. Cervical screening
 11. Testing:
 	1. History and Exam is critical to find diagnosis
 	2. Standard testing:
@@ -90,10 +115,11 @@ Different subtypes:
 3. L: Leiomyoma (fibroids) Can be identified via Pelvic USS
 4. M: Malignancy/Endometrial Hyperplasia
 5. C: Coagulopathy
-6. O: Ovulatory dysfunction
+6. O: Ovulatory dysfunction (typically due to endocrine irregularities or being at the extremes of reproductive age)
+	1. polycystic ovary syndrome (PCOS), thyroid dysfunction, hyperprolactinemia, within 1 to 3 years of menarche or the menopausal transition
 7. E: Endometrial/Endocrinopathy causes (if bleeding but not other causes, it is a diagnosis of exclusion)
 	1. Check for TSH and Prolactin to rule out as cause
-8. I: Iatrogenic (IUD, drugs)
+8. I: Iatrogenic (IUD, hormonal contraceptives, hormone therapy, adverse effects from medication (eg, anticoagulants))
 9. N: NOS
 
 **Ovulatory dysfunction:**
