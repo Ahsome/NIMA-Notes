@@ -7,3 +7,6 @@ Case 1:
 	1. Slows down heart
 	2. Rate control
 	3. Other option is rhythm control, more side effects, around same efficacy
+
+Case 2:
+1. 
