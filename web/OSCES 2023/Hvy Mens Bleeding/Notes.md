@@ -3,10 +3,10 @@
 | Diagnosis                                  | Signs                                      | Testing                                                      |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ |
 | Polyps                                     | Age (Old, over 40 OR post-menopausal)      | Hysteroscopy, ALWAYS if post-menopausal                      |
-| Adenomyosis                                | Dysmenorrhea                               | Pelvic USS                                                   |
+|Adenomyosis| Dysmenorrhea                               | Pelvic USS                                                   |
 | Leiomyoma (fibroids)                       | Dysmenorrhea                               | Pelvic USS                                                   |
 | Maligancy                                  | Weight loss</br>Night sweats               |                                                              |
-| Coagulopathy                               |                                            |                                                              |
+| Coagulopathy                               |Onset of menses, so always heavy bleeding|                                                              |
 | Ovulatory Dysfunction - PCOS               | Hirtuim (hair pattern, humpback)           |                                                              |
 | Ovulatory Dysfunction - Thyroid            | Weight loss, tremor, sweats                | TSH                                                          |
 | Ovulatory Dysfuctuion - Hyperprolactinemia | Galactorrhea                               | Prolactin Levels                                             |
@@ -50,6 +50,7 @@
 10. Examniation:
 	1. Bimanual: Identify fibroids, polyps
 	2. Also rule out vaginal laceration, potentially due to sex
+	3. Cervical screening
 11. Testing:
 	1. History and Exam is critical to find diagnosis
 	2. Standard testing:
