@@ -1,0 +1,3 @@
+- Lady with 8 weeks gestation with spotting 
+- Interpret investigations
+- 
