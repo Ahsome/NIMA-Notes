@@ -37,7 +37,7 @@ Sexually Transmitted Disease is infections spread by specific diseases. These in
 ### N. Gonorrhoea:
 1. Stain: Gram neg diplococci
 2. Second most common STI
-3. Causes urethritis and cervicitis
+3. Causes urethritis and cervicitis/[[Pelvic Inflammatory Disease]]
 4. Causes proctitis and **pharyngitis**
 5. Can disseminate, cause **arthritis**
 	1. Non STI form: N. Meningitidis, causes [[Meningitis]]
