@@ -5,7 +5,7 @@
 ```
 ---
  Lifestyle disease
- - associated with obesity, COPD, etc. 
+ - associated with obesity, [[Chronic Pulmonary Disease (COPD)]], etc. 
  - Rivaroxaban, apixaban, dabigatran
  
 **CLASSIFICATION OF AF**
