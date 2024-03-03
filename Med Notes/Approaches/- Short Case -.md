@@ -64,7 +64,7 @@ At the bedside i would do vitals, urinary catheter, 12-lead ECG
 | 10     | [[Approach to a patient with oliguria]]                             |
 | 11     | [[Approach to a patient with obesity and complications]]            |
 | 12     | [[Approach to a patient with joint pain]]                           |
-| 13     | [[Approach to a patient presenting after a fall]]                   |
+| 13     | [[Approach -  Fall]]                   |
 | 14     |[[Approach to a patient with fever]]|
 | 15     |[[Approach to a patient with a transient LOC]] |
 | 16     | [[Approach to a patient presenting with unintentional weight loss]] |
