@@ -32,6 +32,7 @@ Symptoms include:
 
 ### *Risk factors*:
 Risk factors include:
+
 | Acquired risk                                    | Inherited risk            |
 | ------------------------------------------------ | ------------------------- |
 | Recent surgery                                   | Factor V Leiden           |

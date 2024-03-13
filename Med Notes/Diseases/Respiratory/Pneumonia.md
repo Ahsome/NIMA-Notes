@@ -21,6 +21,7 @@
 ### *Community acquired pneumonia* (CAP):
 ^3f21f8
 Pneumonia acquired outside hospital, or within 72 hours of admission into the hospital. It is also called *Lobar Pneumonia*, as it normally only affects the lobes. The following are the common bacterial causes:
+
 | Typical     | Atypical               |
 | ----------- | ---------------------- |
 | S.Pneumonia | Mycoplasma             |
@@ -35,6 +36,7 @@ Pneumonia acquired outside hospital, or within 72 hours of admission into the ho
 
 
 ### *Nosomcomial pneumonia* (including HAP):
+
 These are often caused by **Gram negatives** (*pseudomonas, Klebsiella, E. Coli*) or *Staph Aureus*
 | Hospital-Acquired               | Ventilator-Acquired           | 
 | ------------------------------- | ----------------------------- |
@@ -150,11 +152,13 @@ It's possible to use the SMART-COP score to identify if the patient needs ICU ca
 Treatment should occur over 5-7 days. If not improving, consider escalating to combination therapy (See [[Pneumonia#Combination therapy]]) and admission to hospital
 
 For typical community acquired pneumonia
+
 | Drug           | Dose          | Reasoning                                                |
 | -------------- | ------------- | -------------------------------------------------------- |
 | Amoxicillin    | 1g PO q8h     | Low severity, covers rise of *S.pneumo*                  |
 
 For patients with suspected atypical community acquired pneumonia **OR** allergic to penicillin (choose one):
+
 | Drug           | Dose          | Reasoning                                |     |     |
 | -------------- | ------------- | -------------------------------------------------------- | --- | --- |
 | Doxycyline     | 100mg PO q12h | Covers atypical pathogens                                |     |     |
@@ -162,23 +166,27 @@ For patients with suspected atypical community acquired pneumonia **OR** allergi
 
 ##### Combination therapy
 For typical community acquired pneumonia
+
 | Drug        | Dose       | Reasoning                               |
 | ----------- | ---------- | --------------------------------------- |
 | Amoxicillin | 1g PO q8h  | Low severity, covers rise of *S.pneumo* |
 | Doxycycline | 100mg q12h | Covers atypical                                        |
 
 If midly-moderately allergic to penicillin:
+
 | Drug       | Dose          | Reasoning                      |     |     |
 | ---------- | ------------- | ------------------------------ | --- | --- |
 | Doxycyline | 100mg PO q12h | Covers atypical pathogens      |     |     |
 | Cefuroxime | 500mg PO q12h | Use if allergic to doxycycline |     |     |
 
 If severe allergy to penicillin:
+
 | Drug         | Dose        | Reasoning                               |
 | ------------ | ----------- | --------------------------------------- |
 | Moxifloxacin | 400mg PO OD |  |
 
 If midly allergic to Doxycycline
+
 | Drug           | Dose          | Reasoning                      |     |     |
 | -------------- | ------------- | ------------------------------ | --- | --- |
 | Clarithromycin | 500mg PO w12h |                                |     |     |
