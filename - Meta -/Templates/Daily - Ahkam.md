@@ -3,5 +3,6 @@
 ```
 # Med notes
 - [ ] Added to notes
+- [ ] Added to excel
 ---
 
