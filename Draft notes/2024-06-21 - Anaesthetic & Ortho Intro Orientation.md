@@ -58,3 +58,17 @@
 		- Snorer (OSA) (collapsed soft tissue, so need to push it out of way)
 		- Edentulous (no teeth, so nothing to press against, so we keep dentures in until we ventilate)
 	- \\
+
+# Orthopaedics
+Referral question:
+- Get story straight
+- Which bone affected
+- Describe which part is injured
+	- Epipjysis (intr-articular)
+	- Metaphysis
+	- Diaphysis (shaft)
+- Describe the displacement (displaced vs undisplaced)
+- Proximal or Dista
+- Open vs Closed
+- Pertinent PMHx
+- What is your plan?
