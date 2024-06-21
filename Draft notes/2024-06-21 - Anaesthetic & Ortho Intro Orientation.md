@@ -70,5 +70,15 @@ Referral question:
 - Describe the displacement (displaced vs undisplaced)
 - Proximal or Dista
 - Open vs Closed
+- Hemodynamically stable or unstable
+- State if isolated injury, or if with other injuries or bones
 - Pertinent PMHx
-- What is your plan?
+- What is your plan? Include what you've already done
+	- X-Ray?
+	- Back-slab
+- Red flag back pain
+	- Bladder retention, bowel incontinence
+	- Loss of sensation
+	- Pathological fracture, or history of cancer
+	
+	
